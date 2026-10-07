@@ -14,6 +14,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    # 兜底：任何步骤挂死也不会白烧 6 小时
+    timeout-minutes: 140
+
     steps:
 
       - name: Checkout main repository
@@ -34,9 +37,11 @@ jobs:
         run: npx playwright install chromium
 
       - name: Scrape Sale Dublin3
+        timeout-minutes: 50
         run: node scripts/scrape-daft.js dublin3
 
       - name: Scrape Sale Galway
+        timeout-minutes: 75
         run: node scripts/scrape-daft.js galway
 
       - name: Commit updated properties
@@ -46,9 +51,18 @@ jobs:
           git config user.email "github-actions@github.com"
           
           git add data/daft/sale
+
+          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这里是第二道防线）
+          for f in $(git diff --cached --name-only -- 'data/daft/sale/*.json'); do
+            n=$(node -e "const a=require('./$f');console.log(Array.isArray(a)?a.length:1)" 2>/dev/null || echo 1)
+            if [ "$n" = "0" ]; then
+              echo "::error::$f 是空数组，放弃提交"
+              exit 1
+            fi
+          done
           
           git diff --cached --quiet || git commit -m "Update Daft Sale Dublin3 & Galway"
           
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           
           git push origin main

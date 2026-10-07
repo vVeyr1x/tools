@@ -14,6 +14,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    # 兜底：任何步骤挂死也不会白烧 6 小时
+    timeout-minutes: 120
+
     steps:
 
       - name: Checkout main repository
@@ -34,9 +37,11 @@ jobs:
         run: npx playwright install chromium
 
       - name: Scrape Rent Dublin
+        timeout-minutes: 75
         run: node scripts/scrape-daft-rent.js dublin
 
       - name: Scrape Rent Ireland
+        timeout-minutes: 30
         run: node scripts/scrape-daft-rent.js ireland
 
       - name: Commit updated properties
@@ -46,6 +51,15 @@ jobs:
           git config user.email "github-actions@github.com"
 
           git add data/daft/rent
+
+          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这里是第二道防线）
+          for f in $(git diff --cached --name-only -- 'data/daft/rent/*.json'); do
+            n=$(node -e "const a=require('./$f');console.log(Array.isArray(a)?a.length:1)" 2>/dev/null || echo 1)
+            if [ "$n" = "0" ]; then
+              echo "::error::$f 是空数组，放弃提交"
+              exit 1
+            fi
+          done
 
           git diff --cached --quiet || git commit -m "Update Daft Rent"
 
