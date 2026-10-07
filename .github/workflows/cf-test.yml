@@ -1,4 +1,4 @@
-name: CF 验证（临时，可删）—— WARP 出口 + 真实抓取
+name: CF 验证（临时，可删）—— WARP 出口 + Dublin 组真实抓取
 on:
   workflow_dispatch:
 
@@ -13,7 +13,7 @@ jobs:
   verify:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 75
+    timeout-minutes: 110
 
     steps:
       - name: Checkout main repository
@@ -38,9 +38,9 @@ jobs:
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
           bash scripts/ci-setup-warp.sh 2>&1 | tee out-warp.txt
 
-      - name: 端到端 - 真实脚本抓 rent ireland 组（25 个区域 / 约 80 页）
-        run: node scripts/scrape-daft-rent.js ireland 2>&1 | tee out-crawl.txt
-        timeout-minutes: 45
+      - name: 端到端 - 真实脚本抓 rent dublin 组（186 个区域 / 约 230 页）
+        run: node scripts/scrape-daft-rent.js dublin 2>&1 | tee out-crawl.txt
+        timeout-minutes: 80
 
       - name: 提交数据（与生产同一套命令）
         run: |
