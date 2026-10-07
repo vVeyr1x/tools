@@ -34,9 +34,11 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: 建立 WARP 出口
+        timeout-minutes: 10
+        continue-on-error: true
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
-          bash scripts/ci-setup-warp.sh 2>&1 | tee out-warp.txt
+          timeout 420 bash -x scripts/ci-setup-warp.sh 2>&1 | tee out-warp.txt
 
       - name: 端到端 - 真实脚本抓 rent dublin 组（186 个区域 / 约 230 页）
         run: node scripts/scrape-daft-rent.js dublin 2>&1 | tee out-crawl.txt
@@ -50,6 +52,22 @@ jobs:
           git diff --cached --quiet || git commit -m "Update Daft Rent (WARP verify)"
           git pull --rebase --autostash origin main
           git push
+
+      - name: 把日志推到公开仓库的 logs 分支（方便读取）
+        if: always()
+        continue-on-error: true
+        run: |
+          rm -rf /tmp/logpush && mkdir -p /tmp/logpush && cd /tmp/logpush
+          git init -q
+          git config user.name ci && git config user.email ci@local
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vVeyr1x/tools.git"
+          git fetch -q --depth=1 origin logs || true
+          (git checkout -q -B logs FETCH_HEAD) 2>/dev/null || git checkout -q -B logs
+          cp "$GITHUB_WORKSPACE"/out-*.txt . 2>/dev/null || true
+          cp "$GITHUB_WORKSPACE"/data/daft/rent/crawl-summary.json . 2>/dev/null || true
+          git add -A
+          git commit -q -m "logs $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push -q -f origin logs || echo "push logs failed"
 
       - name: 汇总（写成注解，便于外部读取）
         if: always()

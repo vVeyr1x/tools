@@ -47,8 +47,8 @@ jobs:
       - name: 建立 WARP 出口（绕过 daft 对云端 ASN 的 Cloudflare 拦截）
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
-          bash scripts/ci-setup-warp.sh
-        timeout-minutes: 8
+          timeout 420 bash scripts/ci-setup-warp.sh
+        timeout-minutes: 10
 
       - name: Commit updated properties
         run: |
