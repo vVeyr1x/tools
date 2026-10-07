@@ -32,10 +32,12 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        run: npm install
+        timeout-minutes: 6
+        run: timeout -k 10 300 npm install --no-audit --no-fund
 
       - name: Install Playwright (chromium + 系统依赖)
-        run: npx playwright install --with-deps chromium
+        timeout-minutes: 10
+        run: timeout -k 10 480 npx playwright install --with-deps chromium
 
       - name: 建立 WARP 出口（绕过 daft 对云端 ASN 的 Cloudflare 拦截）
         timeout-minutes: 10
