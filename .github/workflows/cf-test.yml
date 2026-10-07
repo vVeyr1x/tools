@@ -1,0 +1,63 @@
+name: CF 测试（临时，可删）
+# 实验：GitHub runner 上三种浏览器模式能否过 daft.ie 的 Cloudflare Managed Challenge
+#   shell       = chrome-headless-shell（现有脚本用法）
+#   newheadless = 完整 Chromium 的 --headless=new
+#   headed      = 有头 Chromium（xvfb 虚拟显示）
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - '.github/workflows/cf-test.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  cftest:
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout main repository
+        uses: actions/checkout@v4
+        with:
+          repository: edwardw223/Ireland-Property-Map
+          token: ${{ secrets.MAIN_REPO_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright (chromium + 系统依赖)
+        run: npx playwright install --with-deps chromium
+
+      - name: Install xvfb
+        run: sudo apt-get install -y xvfb
+
+      - name: 写入测试脚本
+        run: echo "Ci8vIERhZnQvQ2xvdWRmbGFyZSDmjJHmiJjlrp7pqozvvJrkuInnp43mtY/op4jlmajmqKHlvI/lnKggR2l0SHViIHJ1bm5lciDkuIrlkITor5XkuIDmrKEKY29uc3QgeyBjaHJvbWl1bSB9ID0gcmVxdWlyZSgicGxheXdyaWdodCIpOwoKY29uc3QgTU9ERSA9IHByb2Nlc3MuYXJndlsyXSB8fCAic2hlbGwiOwpjb25zdCBVUkxTID0gWwogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTEiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXNhbGUvYmFsbHljb3J1cy1kdWJsaW4iCl07CgpmdW5jdGlvbiBsYXVuY2hPcHRpb25zKCkgewogICAgaWYgKE1PREUgPT09ICJzaGVsbCIpICAgICAgIHJldHVybiB7IGhlYWRsZXNzOiB0cnVlIH07CiAgICBpZiAoTU9ERSA9PT0gIm5ld2hlYWRsZXNzIikgcmV0dXJuIHsgaGVhZGxlc3M6IHRydWUsIGNoYW5uZWw6ICJjaHJvbWl1bSIgfTsKICAgIHJldHVybiB7IGhlYWRsZXNzOiBmYWxzZSB9Owp9CgooYXN5bmMgKCkgPT4gewogICAgY29uc3QgYnJvd3NlciA9IGF3YWl0IGNocm9taXVtLmxhdW5jaChPYmplY3QuYXNzaWduKGxhdW5jaE9wdGlvbnMoKSwgewogICAgICAgIGFyZ3M6IFsiLS1uby1zYW5kYm94IiwgIi0tZGlzYWJsZS1zZXR1aWQtc2FuZGJveCIsICItLWRpc2FibGUtZGV2LXNobS11c2FnZSIsICItLWRpc2FibGUtYmxpbmstZmVhdHVyZXM9QXV0b21hdGlvbkNvbnRyb2xsZWQiXQogICAgfSkpOwoKICAgIGNvbnN0IGN0eCA9IGF3YWl0IGJyb3dzZXIubmV3Q29udGV4dCh7CiAgICAgICAgdXNlckFnZW50OiAiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwKICAgICAgICB2aWV3cG9ydDogeyB3aWR0aDogMTYwMCwgaGVpZ2h0OiA5MDAgfSwKICAgICAgICBsb2NhbGU6ICJlbi1JRSIsCiAgICAgICAgdGltZXpvbmVJZDogIkV1cm9wZS9EdWJsaW4iCiAgICB9KTsKICAgIGF3YWl0IGN0eC5zZXRFeHRyYUhUVFBIZWFkZXJzKHsgIkFjY2VwdC1MYW5ndWFnZSI6ICJlbi1JRSxlbjtxPTAuOSIgfSk7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgY3R4Lm5ld1BhZ2UoKTsKCiAgICBmb3IgKGNvbnN0IHVybCBvZiBVUkxTKSB7CiAgICAgICAgY29uc3QgdDAgPSBEYXRlLm5vdygpOwogICAgICAgIGxldCByZXNwID0gbnVsbCwgZXJyID0gbnVsbDsKICAgICAgICB0cnkgeyByZXNwID0gYXdhaXQgcGFnZS5nb3RvKHVybCwgeyB3YWl0VW50aWw6ICJkb21jb250ZW50bG9hZGVkIiwgdGltZW91dDogNjAwMDAgfSk7IH0KICAgICAgICBjYXRjaCAoZSkgeyBlcnIgPSBlLm1lc3NhZ2Uuc2xpY2UoMCwgODApOyB9CgogICAgICAgIGF3YWl0IHBhZ2Uud2FpdEZvclRpbWVvdXQoMTIwMDApOwoKICAgICAgICBsZXQgdGl0bGUgPSAiIiwgbmV4dCA9IDAsIHRvdGFsUGFnZXMgPSBudWxsLCBtaXRpZ2F0ZWQgPSBudWxsLCBzdGF0dXMgPSBudWxsOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHN0YXR1cyA9IHJlc3AgPyByZXNwLnN0YXR1cygpIDogbnVsbDsKICAgICAgICAgICAgaWYgKHJlc3ApIG1pdGlnYXRlZCA9IHJlc3AuaGVhZGVycygpWyJjZi1taXRpZ2F0ZWQiXSB8fCBudWxsOwogICAgICAgICAgICB0aXRsZSA9IChhd2FpdCBwYWdlLnRpdGxlKCkpLnNsaWNlKDAsIDQwKTsKICAgICAgICAgICAgbmV4dCA9IGF3YWl0IHBhZ2UubG9jYXRvcigiI19fTkVYVF9EQVRBX18iKS5jb3VudCgpOwogICAgICAgICAgICBpZiAobmV4dCA+IDApIHsKICAgICAgICAgICAgICAgIGNvbnN0IGogPSBhd2FpdCBwYWdlLiRldmFsKCIjX19ORVhUX0RBVEFfXyIsIGVsID0+IEpTT04ucGFyc2UoZWwudGV4dENvbnRlbnQpKTsKICAgICAgICAgICAgICAgIHRvdGFsUGFnZXMgPSBqLnByb3BzICYmIGoucHJvcHMucGFnZVByb3BzICYmIGoucHJvcHMucGFnZVByb3BzLnBhZ2luZyA/IGoucHJvcHMucGFnZVByb3BzLnBhZ2luZy50b3RhbFBhZ2VzIDogbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGUpIHsgfQoKICAgICAgICBjb25zb2xlLmxvZygiUkVTVUxUICIgKyBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIG1vZGU6IE1PREUsIHVybDogdXJsLnJlcGxhY2UoImh0dHBzOi8vd3d3LmRhZnQuaWUiLCAiIiksIHN0YXR1cywgY2ZfbWl0aWdhdGVkOiBtaXRpZ2F0ZWQsCiAgICAgICAgICAgIHRpdGxlLCBuZXh0X2RhdGE6IG5leHQsIHRvdGFsX3BhZ2VzOiB0b3RhbFBhZ2VzLCBtczogRGF0ZS5ub3coKSAtIHQwLCBlcnIKICAgICAgICB9KSk7CiAgICB9CgogICAgdHJ5IHsKICAgICAgICBhd2FpdCBwYWdlLmdvdG8oImh0dHBzOi8vaXBpbmZvLmlvL2pzb24iLCB7IHdhaXRVbnRpbDogImRvbWNvbnRlbnRsb2FkZWQiLCB0aW1lb3V0OiAzMDAwMCB9KTsKICAgICAgICBjb25zdCB0eHQgPSBhd2FpdCBwYWdlLmV2YWx1YXRlKCgpID0+IGRvY3VtZW50LmJvZHkuaW5uZXJUZXh0KTsKICAgICAgICBjb25zb2xlLmxvZygiRUdSRVNTICIgKyB0eHQucmVwbGFjZSgvXHMrL2csICIgIikuc2xpY2UoMCwgMzAwKSk7CiAgICB9IGNhdGNoIChlKSB7IGNvbnNvbGUubG9nKCJFR1JFU1MgZXJyICIgKyBlLm1lc3NhZ2Uuc2xpY2UoMCwgNjApKTsgfQoKICAgIGF3YWl0IGJyb3dzZXIuY2xvc2UoKTsKfSkoKS5jYXRjaChlID0+IHsgY29uc29sZS5lcnJvcigiRkFUQUwgIiArIGUubWVzc2FnZSk7IHByb2Nlc3MuZXhpdCgxKTsgfSk7Cg==" | base64 -d > cf-test.js
+
+      - name: 测试 1 - chrome-headless-shell
+        run: node cf-test.js shell 2>&1 | tee out-shell.txt
+        continue-on-error: true
+
+      - name: 测试 2 - 完整 Chromium headless=new
+        run: node cf-test.js newheadless 2>&1 | tee out-newheadless.txt
+        continue-on-error: true
+
+      - name: 测试 3 - 有头 + xvfb
+        run: xvfb-run -a node cf-test.js headed 2>&1 | tee out-headed.txt
+        continue-on-error: true
+
+      - name: 汇总（写成注解，便于外部读取）
+        if: always()
+        run: |
+          for m in shell newheadless headed; do
+            echo "::error::CFTEST_$m $(grep -h -E '^(RESULT|EGRESS|FATAL)' out-$m.txt 2>/dev/null | tr '\n' ' ' | cut -c1-1200)"
+          done
