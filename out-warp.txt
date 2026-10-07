@@ -8,7 +8,7 @@
 ==== setup WARP ====
 + '[' '!' -c /dev/net/tun ']'
 + ls -l /dev/net/tun
-crw-rw-rw- 1 root root 10, 200 Oct  7 12:53 /dev/net/tun
+crw-rw-rw- 1 root root 10, 200 Oct  7 12:49 /dev/net/tun
 + '[' -s /home/runner/work/tools/tools/scripts/bin/wgcf-profile.conf ']'
 + echo '使用仓库自带的 WARP 配置'
 使用仓库自带的 WARP 配置
@@ -29,7 +29,7 @@ Endpoint = engage.cloudflareclient.com:2408
 + timeout 180 sudo apt-get update -qq
 + timeout 180 sudo apt-get install -y -qq wireguard-tools
 Selecting previously unselected package wireguard-tools.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203458 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 202563 files and directories currently installed.)
 Preparing to unpack .../wireguard-tools_1.0.20210914-1ubuntu4_amd64.deb ...
 Unpacking wireguard-tools (1.0.20210914-1ubuntu4) ...
 Setting up wireguard-tools (1.0.20210914-1ubuntu4) ...
@@ -69,9 +69,9 @@ Warning: `/tmp/wgcf-profile.conf' is world accessible
 + for i in $(seq 1 18)
 ++ curl -s --connect-timeout 5 --max-time 10 https://ipinfo.io/json
 ++ tr -d '\n'
-+ info='{  "ip": "104.28.210.135",  "city": "Durham",  "region": "North Carolina",  "country": "US",  "loc": "35.9940,-78.8986",  "org": "AS13335 Cloudflare, Inc.",  "postal": "27701",  "timezone": "America/New_York",  "readme": "https://ipinfo.io/missingauth"}'
-+ echo 'egress try 1: {  "ip": "104.28.210.135",  "city": "Durham",  "region": "North Carolina",  "country": "US",  "loc": "35.9940,-78.8986",  "org": "AS13335 Cloudflare, Inc.",  "postal": "27701",  "timezone": "America/New_York",  "readme": "https://ipinfo.io/missingauth"}'
-egress try 1: {  "ip": "104.28.210.135",  "city": "Durham",  "region": "North Carolina",  "country": "US",  "loc": "35.9940,-78.8986",  "org": "AS13335 Cloudflare, Inc.",  "postal": "27701",  "timezone": "America/New_York",  "readme": "https://ipinfo.io/missingauth"}
++ info='{  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}'
++ echo 'egress try 1: {  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}'
+egress try 1: {  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}
 + case "$info" in
 + OK=1
 + echo '出口已是 Cloudflare (AS13335)'
@@ -80,9 +80,9 @@ egress try 1: {  "ip": "104.28.210.135",  "city": "Durham",  "region": "North Ca
 + for i in 1 2 3
 ++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
 ++ echo timeout
-+ code=200timeout
-+ echo 'warmup 1 -> 200timeout'
-warmup 1 -> 200timeout
++ code=000timeout
++ echo 'warmup 1 -> 000timeout'
+warmup 1 -> 000timeout
 + sleep 2
 + for i in 1 2 3
 ++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
@@ -93,9 +93,10 @@ warmup 2 -> 000timeout
 + sleep 2
 + for i in 1 2 3
 ++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
-+ code=200
-+ echo 'warmup 3 -> 200'
-warmup 3 -> 200
+++ echo timeout
++ code=000timeout
++ echo 'warmup 3 -> 000timeout'
+warmup 3 -> 000timeout
 + sleep 2
 + '[' 1 '!=' 1 ']'
 + echo '==== WARP 就绪 ===='
