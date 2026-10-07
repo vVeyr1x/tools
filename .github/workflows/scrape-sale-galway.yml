@@ -47,16 +47,38 @@ jobs:
         timeout-minutes: 75
         run: node scripts/scrape-daft.js galway
 
+      - name: 保存断点（失败也要提交，便于重跑续抓）
+        if: always()
+        timeout-minutes: 10
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add -f data/daft/sale/_progress-*.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "没有断点需要提交"
+            exit 0
+          fi
+
+          git commit -m "Progress checkpoint Sale - Galway"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then echo "断点已提交"; exit 0; fi
+            echo "断点推送第 ${i} 次失败，5 秒后重试"; sleep 5
+          done
+          echo "::warning::断点提交失败（不影响本次抓取结果）"
+
       - name: 提交数据
         timeout-minutes: 10
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/daft/sale
+          git add -A data/daft/sale
 
           # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这是第二道防线）
           for f in $(git diff --cached --name-only -- 'data/daft/sale/*.json'); do
+            case "$f" in *_progress-*) continue ;; esac
             n=$(node -e "const a=require('./$f');console.log(Array.isArray(a)?a.length:1)" 2>/dev/null || echo 1)
             if [ "$n" = "0" ]; then
               echo "::error::$f 是空数组，放弃提交"
