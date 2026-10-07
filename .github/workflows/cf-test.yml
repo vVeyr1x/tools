@@ -1,4 +1,4 @@
-name: CF 验证（临时，可删）—— WARP 配置随仓库带 + Dublin 组真实抓取 + 日志快照
+name: CF 验证（临时，可删）—— WARP 可达性闸门 + Dublin 组真实抓取
 on:
   workflow_dispatch:
 
