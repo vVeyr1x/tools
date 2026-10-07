@@ -45,7 +45,10 @@ jobs:
 
       - name: 抓取 Rent - Ireland
         timeout-minutes: 30
-        run: node scripts/scrape-daft-rent.js ireland
+        shell: bash
+        run: |
+          set -o pipefail
+          node scripts/scrape-daft-rent.js ireland 2>&1 | tee out-crawl.txt
 
       - name: 保存断点（失败也要提交，便于重跑续抓）
         if: always()
@@ -94,3 +97,19 @@ jobs:
             echo "推送第 ${i} 次失败，5 秒后重试"; sleep 5
           done
           [ "$ok" = "1" ] || { echo "::error::推送失败"; exit 1; }
+
+      - name: 收尾（日志推到 logs 分支，便于排查）
+        if: always()
+        continue-on-error: true
+        run: |
+          rm -rf /tmp/lp && mkdir -p /tmp/lp && cd /tmp/lp
+          git init -q
+          git config user.name ci && git config user.email ci@local
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vVeyr1x/tools.git"
+          git fetch -q --depth=1 origin logs || true
+          (git checkout -q -B logs FETCH_HEAD) 2>/dev/null || git checkout -q -B logs
+          cp "$GITHUB_WORKSPACE"/out-*.txt . 2>/dev/null || true
+          cp "$GITHUB_WORKSPACE"/data/daft/*/_progress-*.json . 2>/dev/null || true
+          git add -A
+          git commit -q -m "Rent - Ireland $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push -q -f origin logs || echo "push logs failed"
