@@ -1,4 +1,4 @@
-name: CF 验证（临时，可删）—— WARP 配置随仓库带 + Dublin 组真实抓取
+name: CF 验证（临时，可删）—— WARP 配置随仓库带 + Dublin 组真实抓取 + 日志快照
 on:
   workflow_dispatch:
 
@@ -39,6 +39,21 @@ jobs:
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
           timeout 420 bash -x scripts/ci-setup-warp.sh 2>&1 | tee out-warp.txt
+
+      - name: 日志快照（WARP 步骤后立刻推一次，防止后面卡住看不到日志）
+        if: always()
+        continue-on-error: true
+        run: |
+          rm -rf /tmp/logpush2 && mkdir -p /tmp/logpush2 && cd /tmp/logpush2
+          git init -q
+          git config user.name ci && git config user.email ci@local
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/vVeyr1x/tools.git"
+          git fetch -q --depth=1 origin logs || true
+          (git checkout -q -B logs FETCH_HEAD) 2>/dev/null || git checkout -q -B logs
+          cp "$GITHUB_WORKSPACE"/out-warp.txt . 2>/dev/null || true
+          git add -A
+          git commit -q -m "warp snapshot $(date -u +%FT%TZ)" || echo "nothing to commit"
+          git push -q -f origin logs || echo "push logs failed"
 
       - name: 端到端 - 真实脚本抓 rent dublin 组（186 个区域 / 约 230 页）
         run: node scripts/scrape-daft-rent.js dublin 2>&1 | tee out-crawl.txt
