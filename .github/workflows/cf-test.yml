@@ -33,81 +33,82 @@ jobs:
       - name: Install Playwright (chromium + 系统依赖)
         run: npx playwright install --with-deps chromium
 
-      - name: Install xvfb
-        run: sudo apt-get install -y xvfb
-
       - name: 写入测试脚本
         run: echo "Ci8vIERhZnQvQ2xvdWRmbGFyZSDlh7rlj6Plrp7pqozvvJrmtY/op4jlmajmqKHlvI8gLyDns7vnu5/ku6PnkIYgLyDml6AgVUEg6KaG55uWCmNvbnN0IHsgY2hyb21pdW0gfSA9IHJlcXVpcmUoInBsYXl3cmlnaHQiKTsKCmNvbnN0IE1PREUgID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICJzaGVsbCI7CmNvbnN0IExBQkVMID0gcHJvY2Vzcy5lbnYuTEFCRUwgfHwgTU9ERTsKY29uc3QgUFJPWFkgPSBwcm9jZXNzLmVudi5QUk9YWSB8fCAiIjsKY29uc3QgVVJMUyAgPSBbCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3ItcmVudC9kdWJsaW4tMSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9iYWxseWNvcnVzLWR1YmxpbiIKXTsKCmZ1bmN0aW9uIGxhdW5jaE9wdGlvbnMoKSB7CiAgICBpZiAoTU9ERSA9PT0gInNoZWxsIikgICAgICAgcmV0dXJuIHsgaGVhZGxlc3M6IHRydWUgfTsKICAgIGlmIChNT0RFID09PSAibmV3aGVhZGxlc3MiKSByZXR1cm4geyBoZWFkbGVzczogdHJ1ZSwgY2hhbm5lbDogImNocm9taXVtIiB9OwogICAgaWYgKE1PREUgPT09ICJuYXRpdmUiKSAgICAgIHJldHVybiB7IGhlYWRsZXNzOiBmYWxzZSwgYXJnczogWyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSB9OwogICAgcmV0dXJuIHsgaGVhZGxlc3M6IGZhbHNlIH07ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGhlYWRlZCA9IOacieWktCArIOaIkeS7rOeahCBVQS/lj4LmlbAKfQoKKGFzeW5jICgpID0+IHsKICAgIGNvbnN0IG9wdHMgPSBsYXVuY2hPcHRpb25zKCk7CiAgICBpZiAoIW9wdHMuYXJncykgb3B0cy5hcmdzID0gWyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLXNldHVpZC1zYW5kYm94IiwgIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIiwgIi0tZGlzYWJsZS1ibGluay1mZWF0dXJlcz1BdXRvbWF0aW9uQ29udHJvbGxlZCJdOwoKICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBjaHJvbWl1bS5sYXVuY2gob3B0cyk7CgogICAgY29uc3QgY3R4T3B0cyA9IHsgdmlld3BvcnQ6IHsgd2lkdGg6IDE2MDAsIGhlaWdodDogOTAwIH0sIGxvY2FsZTogImVuLUlFIiwgdGltZXpvbmVJZDogIkV1cm9wZS9EdWJsaW4iIH07CiAgICBpZiAoTU9ERSAhPT0gIm5hdGl2ZSIpIGN0eE9wdHMudXNlckFnZW50ID0gIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzcuMC4wLjAgU2FmYXJpLzUzNy4zNiI7CiAgICBpZiAoUFJPWFkpIGN0eE9wdHMucHJveHkgPSB7IHNlcnZlcjogUFJPWFkgfTsKCiAgICBjb25zdCBjdHggPSBhd2FpdCBicm93c2VyLm5ld0NvbnRleHQoY3R4T3B0cyk7CiAgICBpZiAoTU9ERSAhPT0gIm5hdGl2ZSIpIGF3YWl0IGN0eC5zZXRFeHRyYUhUVFBIZWFkZXJzKHsgIkFjY2VwdC1MYW5ndWFnZSI6ICJlbi1JRSxlbjtxPTAuOSIgfSk7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgY3R4Lm5ld1BhZ2UoKTsKCiAgICB0cnkgewogICAgICAgIGF3YWl0IHBhZ2UuZ290bygiaHR0cHM6Ly9pcGluZm8uaW8vanNvbiIsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDMwMDAwIH0pOwogICAgICAgIGNvbnN0IHR4dCA9IGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gZG9jdW1lbnQuYm9keS5pbm5lclRleHQpOwogICAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKHR4dCk7CiAgICAgICAgY29uc29sZS5sb2coIkVHUkVTUyAiICsgSlNPTi5zdHJpbmdpZnkoeyBsYWJlbDogTEFCRUwsIG1vZGU6IE1PREUsIHByb3h5OiBQUk9YWSB8fCBudWxsLCBpcDogai5pcCwgb3JnOiBqLm9yZywgY2l0eTogai5jaXR5LCBjb3VudHJ5OiBqLmNvdW50cnkgfSkpOwogICAgfSBjYXRjaCAoZSkgeyBjb25zb2xlLmxvZygiRUdSRVNTIGVyciAiICsgZS5tZXNzYWdlLnNsaWNlKDAsIDgwKSk7IH0KCiAgICBjb25zb2xlLmxvZygiVUEgIiArIEpTT04uc3RyaW5naWZ5KHsgbGFiZWw6IExBQkVMLCB1YTogKGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gbmF2aWdhdG9yLnVzZXJBZ2VudCkpLnNsaWNlKDAsIDkwKSB9KSk7CgogICAgZm9yIChjb25zdCB1cmwgb2YgVVJMUykgewogICAgICAgIGNvbnN0IHQwID0gRGF0ZS5ub3coKTsKICAgICAgICBsZXQgcmVzcCA9IG51bGwsIGVyciA9IG51bGw7CiAgICAgICAgdHJ5IHsgcmVzcCA9IGF3YWl0IHBhZ2UuZ290byh1cmwsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDYwMDAwIH0pOyB9CiAgICAgICAgY2F0Y2ggKGUpIHsgZXJyID0gZS5tZXNzYWdlLnNsaWNlKDAsIDgwKTsgfQoKICAgICAgICBhd2FpdCBwYWdlLndhaXRGb3JUaW1lb3V0KDE1MDAwKTsKCiAgICAgICAgbGV0IHRpdGxlID0gIiIsIG5leHQgPSAwLCB0b3RhbFBhZ2VzID0gbnVsbCwgbWl0aWdhdGVkID0gbnVsbCwgc3RhdHVzID0gbnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBzdGF0dXMgPSByZXNwID8gcmVzcC5zdGF0dXMoKSA6IG51bGw7CiAgICAgICAgICAgIGlmIChyZXNwKSBtaXRpZ2F0ZWQgPSByZXNwLmhlYWRlcnMoKVsiY2YtbWl0aWdhdGVkIl0gfHwgbnVsbDsKICAgICAgICAgICAgdGl0bGUgPSAoYXdhaXQgcGFnZS50aXRsZSgpKS5zbGljZSgwLCA0MCk7CiAgICAgICAgICAgIG5leHQgPSBhd2FpdCBwYWdlLmxvY2F0b3IoIiNfX05FWFRfREFUQV9fIikuY291bnQoKTsKICAgICAgICAgICAgaWYgKG5leHQgPiAwKSB7CiAgICAgICAgICAgICAgICBjb25zdCBqID0gYXdhaXQgcGFnZS4kZXZhbCgiI19fTkVYVF9EQVRBX18iLCBlbCA9PiBKU09OLnBhcnNlKGVsLnRleHRDb250ZW50KSk7CiAgICAgICAgICAgICAgICB0b3RhbFBhZ2VzID0gai5wcm9wcyAmJiBqLnByb3BzLnBhZ2VQcm9wcyAmJiBqLnByb3BzLnBhZ2VQcm9wcy5wYWdpbmcgPyBqLnByb3BzLnBhZ2VQcm9wcy5wYWdpbmcudG90YWxQYWdlcyA6IG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChlKSB7IH0KCiAgICAgICAgY29uc29sZS5sb2coIlJFU1VMVCAiICsgSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgICBsYWJlbDogTEFCRUwsIG1vZGU6IE1PREUsIHVybDogdXJsLnJlcGxhY2UoImh0dHBzOi8vd3d3LmRhZnQuaWUiLCAiIiksIHN0YXR1cywgY2ZfbWl0aWdhdGVkOiBtaXRpZ2F0ZWQsCiAgICAgICAgICAgIHRpdGxlLCBuZXh0X2RhdGE6IG5leHQsIHRvdGFsX3BhZ2VzOiB0b3RhbFBhZ2VzLCBtczogRGF0ZS5ub3coKSAtIHQwLCBlcnIKICAgICAgICB9KSk7CiAgICB9CgogICAgYXdhaXQgYnJvd3Nlci5jbG9zZSgpOwp9KSgpLmNhdGNoKGUgPT4geyBjb25zb2xlLmVycm9yKCJGQVRBTCAiICsgZS5tZXNzYWdlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK" | base64 -d > cf-test.js
 
-      - name: 测试 direct - 直连（Azure IP，基线）
+      - name: 基线 - 直连（Azure IP）
         run: LABEL=direct node cf-test.js shell 2>&1 | tee out-direct.txt
         continue-on-error: true
 
-      - name: 测试 native - 有头 xvfb + 不加任何 UA/自动化参数
-        run: LABEL=native xvfb-run -a node cf-test.js native 2>&1 | tee out-native.txt
-        continue-on-error: true
-
-      - name: 装 WARP（wgcf+WireGuard），缺 tun 就手动建
+      - name: 装 WARP 并连接（含完整诊断）
         run: |
-          {
-            set -x
-            ls -l /dev/net/tun || echo "NO_TUN_DEVICE"
-            sudo mkdir -p /dev/net || true
-            sudo mknod /dev/net/tun c 10 200 2>/dev/null || echo "mknod tun skipped"
-            sudo chmod 666 /dev/net/tun 2>/dev/null || echo "chmod tun skipped"
-            ls -l /dev/net/tun || echo "STILL_NO_TUN"
-            sudo apt-get update -qq
-            sudo apt-get install -y -qq wireguard-tools || echo "wireguard-tools install failed"
-            curl -fsSL -o /tmp/wgcf https://github.com/ViRb3/wgcf/releases/download/v2.3.0/wgcf_2.3.0_linux_amd64 || echo "wgcf download failed"
-            chmod +x /tmp/wgcf
-            cd /tmp
-            /tmp/wgcf register --accept-tos 2>&1 | tail -5 || echo "wgcf register failed"
-            /tmp/wgcf generate 2>&1 | tail -5 || echo "wgcf generate failed"
-            sed -i '/^DNS/d' /tmp/wgcf-profile.conf 2>/dev/null || true
-            sudo modprobe wireguard 2>&1 || echo "modprobe wireguard failed"
-            sudo wg-quick up /tmp/wgcf-profile.conf 2>&1 || echo "wg-quick up failed"
-            sleep 6
-            sudo wg show 2>&1 || echo "wg show failed"
-            echo "--- egress after warp ---"
-            curl -s --max-time 25 https://ipinfo.io/json || echo "curl ipinfo failed"
-          } 2>&1 | tee out-warpinstall.txt
+          exec 2>&1 | tee out-warpinstall.txt
+          ls -l /dev/net/tun || (sudo mkdir -p /dev/net && sudo mknod /dev/net/tun c 10 200 && sudo chmod 666 /dev/net/tun)
+          ls -l /dev/net/tun || echo "STILL_NO_TUN"
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq wireguard-tools || echo "wg-tools install failed"
+          curl -fsSL -o /tmp/wgcf https://github.com/ViRb3/wgcf/releases/download/v2.3.0/wgcf_2.3.0_linux_amd64 || echo "wgcf download failed"
+          chmod +x /tmp/wgcf
+          cd /tmp
+          /tmp/wgcf register --accept-tos || echo "wgcf register failed"
+          /tmp/wgcf generate || echo "wgcf generate failed"
+          sed -i '/^DNS/d' /tmp/wgcf-profile.conf 2>/dev/null || true
+          echo "=== profile ==="; grep -v PrivateKey /tmp/wgcf-profile.conf
+          sudo modprobe wireguard || echo "modprobe failed"
+          sudo wg-quick up /tmp/wgcf-profile.conf || echo "wg-quick up failed"
+          sleep 8
+          echo "=== wg show ==="; sudo wg show || echo "wg show failed"
+          echo "=== egress after warp ==="; curl -s --max-time 20 https://ipinfo.io/json || echo "curl ipinfo failed"
         continue-on-error: true
 
-      - name: 测试 warp - WARP 出口 + shell 模式
+      - name: 测试 WARP 出口
         run: LABEL=warp node cf-test.js shell 2>&1 | tee out-warp.txt
         continue-on-error: true
 
-      - name: 装 usque（MASQUE，纯用户态，本地 http 代理 8080）
+      - name: 关闭 WARP（否则后面没网）
         run: |
-          {
-            set -x
-            mkdir -p /tmp/usque && cd /tmp/usque
-            curl -fsSL -o usque.zip https://github.com/Diniboy1123/usque/releases/download/v4.2.1/usque_4.2.1_linux_amd64.zip || echo "usque download failed"
-            unzip -o usque.zip >/dev/null 2>&1 || echo "unzip failed"
-            chmod +x /tmp/usque/usque || true
-            /tmp/usque/usque --help 2>&1 | head -30
-            /tmp/usque/usque connect --help 2>&1 | head -40
-            /tmp/usque/usque register 2>&1 | tail -5 || echo "usque register failed"
-            nohup /tmp/usque/usque connect --http-proxy-port 8080 > /tmp/usque.log 2>&1 &
-            sleep 15
-            echo "--- usque log ---"; tail -20 /tmp/usque.log
-            echo "--- via http proxy ---"; curl -s --max-time 20 -x http://127.0.0.1:8080 https://ipinfo.io/json || echo "proxy curl failed"
-          } 2>&1 | tee out-usque.txt
+          sudo wg-quick down /tmp/wgcf-profile.conf 2>&1 || echo "wg-quick down failed"
+          sleep 3
+          curl -s --max-time 20 https://ipinfo.io/json || echo "curl after down failed"
         continue-on-error: true
 
-      - name: 测试 usque - 走本地代理
-        run: LABEL=usque PROXY=http://127.0.0.1:8080 node cf-test.js shell 2>&1 | tee out-usquerun.txt
+      - name: 装 usque（MASQUE 用户态）并起本地代理
+        run: |
+          exec 2>&1 | tee out-usque.txt
+          ASSET=$(curl -s https://api.github.com/repos/Diniboy1123/usque/releases/latest | grep -o 'https://[^"]*linux_amd64\.zip' | head -1)
+          echo "asset: $ASSET"
+          mkdir -p /tmp/usque && cd /tmp/usque
+          curl -fsSL -o usque.zip "$ASSET" || echo "usque download failed"
+          unzip -o usque.zip >/dev/null 2>&1 || echo "unzip failed"
+          chmod +x /tmp/usque/usque || true
+          echo "=== connect --help ==="; /tmp/usque/usque connect --help 2>&1 | head -50
+          /tmp/usque/usque register 2>&1 | tail -3 || echo "usque register failed"
+          HELP=$(/tmp/usque/usque connect --help 2>&1)
+          if echo "$HELP" | grep -q -- "--http-proxy-port"; then FLAG="--http-proxy-port 8080"; EXPORT="http://127.0.0.1:8080";
+          elif echo "$HELP" | grep -q -- "--socks5-port"; then FLAG="--socks5-port 1080"; EXPORT="socks5://127.0.0.1:1080";
+          else FLAG="--http-proxy-port 8080"; EXPORT=""; fi
+          echo "$EXPORT" > /tmp/usque_proxy.txt
+          echo "chosen flag: $FLAG  export: $EXPORT"
+          nohup /tmp/usque/usque connect $FLAG > /tmp/usque.log 2>&1 &
+          sleep 15
+          echo "=== usque log ==="; tail -25 /tmp/usque.log
+          echo "=== via proxy ==="; curl -s --max-time 20 -x "$EXPORT" https://ipinfo.io/json || echo "proxy curl failed"
+        continue-on-error: true
+
+      - name: 测试 usque 代理出口
+        run: |
+          echo "export: $(cat /tmp/usque_proxy.txt)"
+          LABEL=usque PROXY="$(cat /tmp/usque_proxy.txt)" node cf-test.js shell 2>&1 | tee out-usquerun.txt
         continue-on-error: true
 
       - name: 汇总（写成注解，便于外部读取）
         if: always()
         run: |
           emit() {
-            echo "::error::$1 $(grep -h -E '^(RESULT|EGRESS|UA|FATAL|NO_TUN|STILL_NO_TUN|tun|wg-quick|wg show|register|usque|http-proxy|listen|Error|error)' "$2" 2>/dev/null | tr '\n' '|' | cut -c1-1500)"
+            echo "::error::$1 $(tail -c 1500 "$2" 2>/dev/null | tr '\n' '|')"
           }
           emit CFTEST_direct    out-direct.txt
-          emit CFTEST_native    out-native.txt
-          emit CFTEST_warp      out-warp.txt
           emit CFTEST_warpinst  out-warpinstall.txt
+          emit CFTEST_warp      out-warp.txt
           emit CFTEST_usque     out-usque.txt
           emit CFTEST_usquerun  out-usquerun.txt
