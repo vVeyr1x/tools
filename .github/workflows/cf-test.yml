@@ -1,4 +1,4 @@
-name: CF 测试（临时，可删）
+name: CF 验证（临时，可删）—— WARP 出口 + 真实抓取
 on:
   workflow_dispatch:
 
@@ -7,13 +7,13 @@ on:
       - '.github/workflows/cf-test.yml'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  cftest:
+  verify:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 45
+    timeout-minutes: 75
 
     steps:
       - name: Checkout main repository
@@ -33,40 +33,27 @@ jobs:
       - name: Install Playwright (chromium + 系统依赖)
         run: npx playwright install --with-deps chromium
 
-      - name: 写入测试脚本
-        run: echo "Ci8vIOaJuemHj+mqjOivge+8mldBUlAg5Ye65Y+j5LiL6L+e57ut5oqTIDEyIOmhte+8jOe7n+iuoeaIkOWKn+eOh+S4jumAn+W6pgpjb25zdCB7IGNocm9taXVtIH0gPSByZXF1aXJlKCJwbGF5d3JpZ2h0Iik7Cgpjb25zdCBVUkxTID0gWwogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTEiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTIiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTMiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTQiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTUiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTYiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTciLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTgiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXNhbGUvY29yay1jaXR5LWNlbnRyZSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9iYWxseWNvcnVzLWR1YmxpbiIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9kdWJsaW4tMSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3ItcmVudC9pcmVsYW5kIgpdOwoKKGFzeW5jICgpID0+IHsKICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBjaHJvbWl1bS5sYXVuY2goewogICAgICAgIGhlYWRsZXNzOiB0cnVlLAogICAgICAgIGFyZ3M6IFsiLS1uby1zYW5kYm94IiwgIi0tZGlzYWJsZS1zZXR1aWQtc2FuZGJveCIsICItLWRpc2FibGUtZGV2LXNobS11c2FnZSIsICItLWRpc2FibGUtYmxpbmstZmVhdHVyZXM9QXV0b21hdGlvbkNvbnRyb2xsZWQiXQogICAgfSk7CiAgICBjb25zdCBjdHggPSBhd2FpdCBicm93c2VyLm5ld0NvbnRleHQoewogICAgICAgIHVzZXJBZ2VudDogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsCiAgICAgICAgdmlld3BvcnQ6IHsgd2lkdGg6IDE2MDAsIGhlaWdodDogOTAwIH0sIGxvY2FsZTogImVuLUlFIiwgdGltZXpvbmVJZDogIkV1cm9wZS9EdWJsaW4iCiAgICB9KTsKICAgIGF3YWl0IGN0eC5zZXRFeHRyYUhUVFBIZWFkZXJzKHsgIkFjY2VwdC1MYW5ndWFnZSI6ICJlbi1JRSxlbjtxPTAuOSIgfSk7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgY3R4Lm5ld1BhZ2UoKTsKCiAgICB0cnkgewogICAgICAgIGF3YWl0IHBhZ2UuZ290bygiaHR0cHM6Ly9pcGluZm8uaW8vanNvbiIsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDMwMDAwIH0pOwogICAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gZG9jdW1lbnQuYm9keS5pbm5lclRleHQpKTsKICAgICAgICBjb25zb2xlLmxvZygiRUdSRVNTICIgKyBKU09OLnN0cmluZ2lmeSh7IGlwOiBqLmlwLCBvcmc6IGoub3JnIH0pKTsKICAgIH0gY2F0Y2ggKGUpIHsgY29uc29sZS5sb2coIkVHUkVTUyBlcnIgIiArIGUubWVzc2FnZS5zbGljZSgwLCA3MCkpOyB9CgogICAgbGV0IG9rID0gMCwgY2hhbGxlbmdlID0gMCwgdG90YWxNcyA9IDA7CiAgICBjb25zdCB0MCA9IERhdGUubm93KCk7CgogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBVUkxTLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgdSA9IFVSTFNbaV0sIHMgPSBEYXRlLm5vdygpOwogICAgICAgIGxldCBzdGF0dXMgPSBudWxsLCBuZXh0ID0gMCwgdHAgPSBudWxsLCBlcnIgPSBudWxsLCB0aXRsZSA9ICIiOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHIgPSBhd2FpdCBwYWdlLmdvdG8odSwgeyB3YWl0VW50aWw6ICJkb21jb250ZW50bG9hZGVkIiwgdGltZW91dDogNDUwMDAgfSk7CiAgICAgICAgICAgIHN0YXR1cyA9IHIuc3RhdHVzKCk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2Uud2FpdEZvclRpbWVvdXQoMjAwMCk7CiAgICAgICAgICAgIHRpdGxlID0gKGF3YWl0IHBhZ2UudGl0bGUoKSkuc2xpY2UoMCwgMzApOwogICAgICAgICAgICBuZXh0ID0gYXdhaXQgcGFnZS5sb2NhdG9yKCIjX19ORVhUX0RBVEFfXyIpLmNvdW50KCk7CiAgICAgICAgICAgIGlmIChuZXh0ID4gMCkgewogICAgICAgICAgICAgICAgY29uc3QgaiA9IGF3YWl0IHBhZ2UuJGV2YWwoIiNfX05FWFRfREFUQV9fIiwgZWwgPT4gSlNPTi5wYXJzZShlbC50ZXh0Q29udGVudCkpOwogICAgICAgICAgICAgICAgdHAgPSBqLnByb3BzICYmIGoucHJvcHMucGFnZVByb3BzICYmIGoucHJvcHMucGFnZVByb3BzLnBhZ2luZyA/IGoucHJvcHMucGFnZVByb3BzLnBhZ2luZy50b3RhbFBhZ2VzIDogbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGUpIHsgZXJyID0gZS5tZXNzYWdlLnNsaWNlKDAsIDYwKTsgfQoKICAgICAgICBjb25zdCBtcyA9IERhdGUubm93KCkgLSBzOwogICAgICAgIHRvdGFsTXMgKz0gbXM7CiAgICAgICAgaWYgKG5leHQgPiAwKSBvaysrOwogICAgICAgIGVsc2UgaWYgKHN0YXR1cyA9PT0gNDAzKSBjaGFsbGVuZ2UrKzsKICAgICAgICBjb25zb2xlLmxvZygiUEFHRSAiICsgSlNPTi5zdHJpbmdpZnkoeyBpLCB1cmw6IHUucmVwbGFjZSgiaHR0cHM6Ly93d3cuZGFmdC5pZSIsICIiKSwgc3RhdHVzLCBuZXh0X2RhdGE6IG5leHQsIHBhZ2VzOiB0cCwgbXMsIHRpdGxlLCBlcnIgfSkpOwogICAgfQoKICAgIGNvbnNvbGUubG9nKCJTVU1NQVJZICIgKyBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgcGFnZXM6IFVSTFMubGVuZ3RoLCBvaywgY2hhbGxlbmdlLCBva19yYXRlOiArKG9rIC8gVVJMUy5sZW5ndGgpLnRvRml4ZWQoMiksCiAgICAgICAgYXZnX21zOiBNYXRoLnJvdW5kKHRvdGFsTXMgLyBVUkxTLmxlbmd0aCksIHRvdGFsX3M6IE1hdGgucm91bmQoKERhdGUubm93KCkgLSB0MCkgLyAxMDAwKQogICAgfSkpOwogICAgYXdhaXQgYnJvd3Nlci5jbG9zZSgpOwp9KSgpLmNhdGNoKGUgPT4geyBjb25zb2xlLmVycm9yKCJGQVRBTCAiICsgZS5tZXNzYWdlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK" | base64 -d > bulk-test.js
-
-      - name: 装 WARP 并连接
+      - name: 建立 WARP 出口
         run: |
-          exec 2>&1 | tee out-warpinstall.txt
-          ls -l /dev/net/tun || (sudo mkdir -p /dev/net && sudo mknod /dev/net/tun c 10 200 && sudo chmod 666 /dev/net/tun)
-          ls -l /dev/net/tun || echo "STILL_NO_TUN"
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq wireguard-tools || echo "wg-tools install failed"
-          curl -fsSL -o /tmp/wgcf https://github.com/ViRb3/wgcf/releases/download/v2.3.0/wgcf_2.3.0_linux_amd64
-          chmod +x /tmp/wgcf && cd /tmp
-          /tmp/wgcf register --accept-tos || echo "wgcf register failed"
-          /tmp/wgcf generate || echo "wgcf generate failed"
-          sed -i '/^DNS/d' /tmp/wgcf-profile.conf || true
-          sudo modprobe wireguard || echo "modprobe failed"
-          sudo wg-quick up /tmp/wgcf-profile.conf || echo "wg-quick up failed"
-          sleep 10
-          echo "=== wg show ==="; sudo wg show || echo "wg show failed"
-          echo "=== egress ==="; curl -s --max-time 20 https://ipinfo.io/json || echo "curl failed"
-        continue-on-error: true
+          sed -i 's/\r$//' scripts/ci-setup-warp.sh
+          bash scripts/ci-setup-warp.sh 2>&1 | tee out-warp.txt
 
-      - name: 批量抓取 12 页（WARP 出口）
-        run: node bulk-test.js 2>&1 | tee out-bulk.txt
-        continue-on-error: true
+      - name: 端到端 - 真实脚本抓 rent ireland 组（25 个区域 / 约 80 页）
+        run: node scripts/scrape-daft-rent.js ireland 2>&1 | tee out-crawl.txt
+        timeout-minutes: 45
 
-      - name: WARP 状态复查
+      - name: 提交数据（与生产同一套命令）
         run: |
-          sudo wg show 2>&1 || echo "wg show failed"
-          curl -s --max-time 20 -o /dev/null -w "http_code=%{http_code} time=%{time_total}s\n" https://www.daft.ie/robots.txt || echo "curl failed"
-        continue-on-error: true
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/daft/rent
+          git diff --cached --quiet || git commit -m "Update Daft Rent (WARP verify)"
+          git pull --rebase --autostash origin main
+          git push
 
       - name: 汇总（写成注解，便于外部读取）
         if: always()
         run: |
-          echo "::error::CFBULK $(grep -h -E '^(PAGE|SUMMARY|EGRESS|FATAL)' out-bulk.txt 2>/dev/null | tr '\n' '|' | cut -c1-2400)"
-          echo "::error::CFWARPSTAT $(tail -c 500 out-warpinstall.txt 2>/dev/null | tr '\n' '|')"
+          echo "::error::CFWARP $(tail -c 1000 out-warp.txt 2>/dev/null | tr '\n' '|')"
+          echo "::error::CFCRAWL $(grep -h -aE '^(Areas|Group|Pages crawled|Empty areas|Total listings|Duplicates removed|Unique properties|Elapsed|✔|📄|❌|ABORT|Cloudflare|Skip|Area Statistics)' out-crawl.txt 2>/dev/null | tr '\n' '|' | cut -c1-2000)"
+          echo "::error::CFSUMMARY $(tail -c 700 data/daft/rent/crawl-summary.json 2>/dev/null | tr '\n' '|')"
