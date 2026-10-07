@@ -1902,5 +1902,19 @@
     "duplicatesRemoved": 1188,
     "uniqueProperties": 1275,
     "output": "daft-rent-dublin.json"
+  },
+  {
+    "group": "dublin",
+    "success": true,
+    "date": "2026-10-07 13:48:16",
+    "elapsed": 2411,
+    "elapsedText": "40m 11s",
+    "areas": 186,
+    "pages": 227,
+    "emptyAreas": 21,
+    "totalListings": 2461,
+    "duplicatesRemoved": 1176,
+    "uniqueProperties": 1285,
+    "output": "daft-rent-dublin.json"
   }
 ]
