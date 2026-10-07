@@ -13,7 +13,7 @@ jobs:
   cftest:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 35
+    timeout-minutes: 45
 
     steps:
       - name: Checkout main repository
@@ -34,81 +34,39 @@ jobs:
         run: npx playwright install --with-deps chromium
 
       - name: 写入测试脚本
-        run: echo "Ci8vIERhZnQvQ2xvdWRmbGFyZSDlh7rlj6Plrp7pqozvvJrmtY/op4jlmajmqKHlvI8gLyDns7vnu5/ku6PnkIYgLyDml6AgVUEg6KaG55uWCmNvbnN0IHsgY2hyb21pdW0gfSA9IHJlcXVpcmUoInBsYXl3cmlnaHQiKTsKCmNvbnN0IE1PREUgID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICJzaGVsbCI7CmNvbnN0IExBQkVMID0gcHJvY2Vzcy5lbnYuTEFCRUwgfHwgTU9ERTsKY29uc3QgUFJPWFkgPSBwcm9jZXNzLmVudi5QUk9YWSB8fCAiIjsKY29uc3QgVVJMUyAgPSBbCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3ItcmVudC9kdWJsaW4tMSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9iYWxseWNvcnVzLWR1YmxpbiIKXTsKCmZ1bmN0aW9uIGxhdW5jaE9wdGlvbnMoKSB7CiAgICBpZiAoTU9ERSA9PT0gInNoZWxsIikgICAgICAgcmV0dXJuIHsgaGVhZGxlc3M6IHRydWUgfTsKICAgIGlmIChNT0RFID09PSAibmV3aGVhZGxlc3MiKSByZXR1cm4geyBoZWFkbGVzczogdHJ1ZSwgY2hhbm5lbDogImNocm9taXVtIiB9OwogICAgaWYgKE1PREUgPT09ICJuYXRpdmUiKSAgICAgIHJldHVybiB7IGhlYWRsZXNzOiBmYWxzZSwgYXJnczogWyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UiXSB9OwogICAgcmV0dXJuIHsgaGVhZGxlc3M6IGZhbHNlIH07ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGhlYWRlZCA9IOacieWktCArIOaIkeS7rOeahCBVQS/lj4LmlbAKfQoKKGFzeW5jICgpID0+IHsKICAgIGNvbnN0IG9wdHMgPSBsYXVuY2hPcHRpb25zKCk7CiAgICBpZiAoIW9wdHMuYXJncykgb3B0cy5hcmdzID0gWyItLW5vLXNhbmRib3giLCAiLS1kaXNhYmxlLXNldHVpZC1zYW5kYm94IiwgIi0tZGlzYWJsZS1kZXYtc2htLXVzYWdlIiwgIi0tZGlzYWJsZS1ibGluay1mZWF0dXJlcz1BdXRvbWF0aW9uQ29udHJvbGxlZCJdOwoKICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBjaHJvbWl1bS5sYXVuY2gob3B0cyk7CgogICAgY29uc3QgY3R4T3B0cyA9IHsgdmlld3BvcnQ6IHsgd2lkdGg6IDE2MDAsIGhlaWdodDogOTAwIH0sIGxvY2FsZTogImVuLUlFIiwgdGltZXpvbmVJZDogIkV1cm9wZS9EdWJsaW4iIH07CiAgICBpZiAoTU9ERSAhPT0gIm5hdGl2ZSIpIGN0eE9wdHMudXNlckFnZW50ID0gIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzcuMC4wLjAgU2FmYXJpLzUzNy4zNiI7CiAgICBpZiAoUFJPWFkpIGN0eE9wdHMucHJveHkgPSB7IHNlcnZlcjogUFJPWFkgfTsKCiAgICBjb25zdCBjdHggPSBhd2FpdCBicm93c2VyLm5ld0NvbnRleHQoY3R4T3B0cyk7CiAgICBpZiAoTU9ERSAhPT0gIm5hdGl2ZSIpIGF3YWl0IGN0eC5zZXRFeHRyYUhUVFBIZWFkZXJzKHsgIkFjY2VwdC1MYW5ndWFnZSI6ICJlbi1JRSxlbjtxPTAuOSIgfSk7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgY3R4Lm5ld1BhZ2UoKTsKCiAgICB0cnkgewogICAgICAgIGF3YWl0IHBhZ2UuZ290bygiaHR0cHM6Ly9pcGluZm8uaW8vanNvbiIsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDMwMDAwIH0pOwogICAgICAgIGNvbnN0IHR4dCA9IGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gZG9jdW1lbnQuYm9keS5pbm5lclRleHQpOwogICAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKHR4dCk7CiAgICAgICAgY29uc29sZS5sb2coIkVHUkVTUyAiICsgSlNPTi5zdHJpbmdpZnkoeyBsYWJlbDogTEFCRUwsIG1vZGU6IE1PREUsIHByb3h5OiBQUk9YWSB8fCBudWxsLCBpcDogai5pcCwgb3JnOiBqLm9yZywgY2l0eTogai5jaXR5LCBjb3VudHJ5OiBqLmNvdW50cnkgfSkpOwogICAgfSBjYXRjaCAoZSkgeyBjb25zb2xlLmxvZygiRUdSRVNTIGVyciAiICsgZS5tZXNzYWdlLnNsaWNlKDAsIDgwKSk7IH0KCiAgICBjb25zb2xlLmxvZygiVUEgIiArIEpTT04uc3RyaW5naWZ5KHsgbGFiZWw6IExBQkVMLCB1YTogKGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gbmF2aWdhdG9yLnVzZXJBZ2VudCkpLnNsaWNlKDAsIDkwKSB9KSk7CgogICAgZm9yIChjb25zdCB1cmwgb2YgVVJMUykgewogICAgICAgIGNvbnN0IHQwID0gRGF0ZS5ub3coKTsKICAgICAgICBsZXQgcmVzcCA9IG51bGwsIGVyciA9IG51bGw7CiAgICAgICAgdHJ5IHsgcmVzcCA9IGF3YWl0IHBhZ2UuZ290byh1cmwsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDYwMDAwIH0pOyB9CiAgICAgICAgY2F0Y2ggKGUpIHsgZXJyID0gZS5tZXNzYWdlLnNsaWNlKDAsIDgwKTsgfQoKICAgICAgICBhd2FpdCBwYWdlLndhaXRGb3JUaW1lb3V0KDE1MDAwKTsKCiAgICAgICAgbGV0IHRpdGxlID0gIiIsIG5leHQgPSAwLCB0b3RhbFBhZ2VzID0gbnVsbCwgbWl0aWdhdGVkID0gbnVsbCwgc3RhdHVzID0gbnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICBzdGF0dXMgPSByZXNwID8gcmVzcC5zdGF0dXMoKSA6IG51bGw7CiAgICAgICAgICAgIGlmIChyZXNwKSBtaXRpZ2F0ZWQgPSByZXNwLmhlYWRlcnMoKVsiY2YtbWl0aWdhdGVkIl0gfHwgbnVsbDsKICAgICAgICAgICAgdGl0bGUgPSAoYXdhaXQgcGFnZS50aXRsZSgpKS5zbGljZSgwLCA0MCk7CiAgICAgICAgICAgIG5leHQgPSBhd2FpdCBwYWdlLmxvY2F0b3IoIiNfX05FWFRfREFUQV9fIikuY291bnQoKTsKICAgICAgICAgICAgaWYgKG5leHQgPiAwKSB7CiAgICAgICAgICAgICAgICBjb25zdCBqID0gYXdhaXQgcGFnZS4kZXZhbCgiI19fTkVYVF9EQVRBX18iLCBlbCA9PiBKU09OLnBhcnNlKGVsLnRleHRDb250ZW50KSk7CiAgICAgICAgICAgICAgICB0b3RhbFBhZ2VzID0gai5wcm9wcyAmJiBqLnByb3BzLnBhZ2VQcm9wcyAmJiBqLnByb3BzLnBhZ2VQcm9wcy5wYWdpbmcgPyBqLnByb3BzLnBhZ2VQcm9wcy5wYWdpbmcudG90YWxQYWdlcyA6IG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChlKSB7IH0KCiAgICAgICAgY29uc29sZS5sb2coIlJFU1VMVCAiICsgSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgICBsYWJlbDogTEFCRUwsIG1vZGU6IE1PREUsIHVybDogdXJsLnJlcGxhY2UoImh0dHBzOi8vd3d3LmRhZnQuaWUiLCAiIiksIHN0YXR1cywgY2ZfbWl0aWdhdGVkOiBtaXRpZ2F0ZWQsCiAgICAgICAgICAgIHRpdGxlLCBuZXh0X2RhdGE6IG5leHQsIHRvdGFsX3BhZ2VzOiB0b3RhbFBhZ2VzLCBtczogRGF0ZS5ub3coKSAtIHQwLCBlcnIKICAgICAgICB9KSk7CiAgICB9CgogICAgYXdhaXQgYnJvd3Nlci5jbG9zZSgpOwp9KSgpLmNhdGNoKGUgPT4geyBjb25zb2xlLmVycm9yKCJGQVRBTCAiICsgZS5tZXNzYWdlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK" | base64 -d > cf-test.js
+        run: echo "Ci8vIOaJuemHj+mqjOivge+8mldBUlAg5Ye65Y+j5LiL6L+e57ut5oqTIDEyIOmhte+8jOe7n+iuoeaIkOWKn+eOh+S4jumAn+W6pgpjb25zdCB7IGNocm9taXVtIH0gPSByZXF1aXJlKCJwbGF5d3JpZ2h0Iik7Cgpjb25zdCBVUkxTID0gWwogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTEiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTIiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTMiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTQiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTUiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTYiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTciLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXJlbnQvZHVibGluLTgiLAogICAgImh0dHBzOi8vd3d3LmRhZnQuaWUvcHJvcGVydHktZm9yLXNhbGUvY29yay1jaXR5LWNlbnRyZSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9iYWxseWNvcnVzLWR1YmxpbiIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3Itc2FsZS9kdWJsaW4tMSIsCiAgICAiaHR0cHM6Ly93d3cuZGFmdC5pZS9wcm9wZXJ0eS1mb3ItcmVudC9pcmVsYW5kIgpdOwoKKGFzeW5jICgpID0+IHsKICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBjaHJvbWl1bS5sYXVuY2goewogICAgICAgIGhlYWRsZXNzOiB0cnVlLAogICAgICAgIGFyZ3M6IFsiLS1uby1zYW5kYm94IiwgIi0tZGlzYWJsZS1zZXR1aWQtc2FuZGJveCIsICItLWRpc2FibGUtZGV2LXNobS11c2FnZSIsICItLWRpc2FibGUtYmxpbmstZmVhdHVyZXM9QXV0b21hdGlvbkNvbnRyb2xsZWQiXQogICAgfSk7CiAgICBjb25zdCBjdHggPSBhd2FpdCBicm93c2VyLm5ld0NvbnRleHQoewogICAgICAgIHVzZXJBZ2VudDogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsCiAgICAgICAgdmlld3BvcnQ6IHsgd2lkdGg6IDE2MDAsIGhlaWdodDogOTAwIH0sIGxvY2FsZTogImVuLUlFIiwgdGltZXpvbmVJZDogIkV1cm9wZS9EdWJsaW4iCiAgICB9KTsKICAgIGF3YWl0IGN0eC5zZXRFeHRyYUhUVFBIZWFkZXJzKHsgIkFjY2VwdC1MYW5ndWFnZSI6ICJlbi1JRSxlbjtxPTAuOSIgfSk7CiAgICBjb25zdCBwYWdlID0gYXdhaXQgY3R4Lm5ld1BhZ2UoKTsKCiAgICB0cnkgewogICAgICAgIGF3YWl0IHBhZ2UuZ290bygiaHR0cHM6Ly9pcGluZm8uaW8vanNvbiIsIHsgd2FpdFVudGlsOiAiZG9tY29udGVudGxvYWRlZCIsIHRpbWVvdXQ6IDMwMDAwIH0pOwogICAgICAgIGNvbnN0IGogPSBKU09OLnBhcnNlKGF3YWl0IHBhZ2UuZXZhbHVhdGUoKCkgPT4gZG9jdW1lbnQuYm9keS5pbm5lclRleHQpKTsKICAgICAgICBjb25zb2xlLmxvZygiRUdSRVNTICIgKyBKU09OLnN0cmluZ2lmeSh7IGlwOiBqLmlwLCBvcmc6IGoub3JnIH0pKTsKICAgIH0gY2F0Y2ggKGUpIHsgY29uc29sZS5sb2coIkVHUkVTUyBlcnIgIiArIGUubWVzc2FnZS5zbGljZSgwLCA3MCkpOyB9CgogICAgbGV0IG9rID0gMCwgY2hhbGxlbmdlID0gMCwgdG90YWxNcyA9IDA7CiAgICBjb25zdCB0MCA9IERhdGUubm93KCk7CgogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBVUkxTLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgdSA9IFVSTFNbaV0sIHMgPSBEYXRlLm5vdygpOwogICAgICAgIGxldCBzdGF0dXMgPSBudWxsLCBuZXh0ID0gMCwgdHAgPSBudWxsLCBlcnIgPSBudWxsLCB0aXRsZSA9ICIiOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGNvbnN0IHIgPSBhd2FpdCBwYWdlLmdvdG8odSwgeyB3YWl0VW50aWw6ICJkb21jb250ZW50bG9hZGVkIiwgdGltZW91dDogNDUwMDAgfSk7CiAgICAgICAgICAgIHN0YXR1cyA9IHIuc3RhdHVzKCk7CiAgICAgICAgICAgIGF3YWl0IHBhZ2Uud2FpdEZvclRpbWVvdXQoMjAwMCk7CiAgICAgICAgICAgIHRpdGxlID0gKGF3YWl0IHBhZ2UudGl0bGUoKSkuc2xpY2UoMCwgMzApOwogICAgICAgICAgICBuZXh0ID0gYXdhaXQgcGFnZS5sb2NhdG9yKCIjX19ORVhUX0RBVEFfXyIpLmNvdW50KCk7CiAgICAgICAgICAgIGlmIChuZXh0ID4gMCkgewogICAgICAgICAgICAgICAgY29uc3QgaiA9IGF3YWl0IHBhZ2UuJGV2YWwoIiNfX05FWFRfREFUQV9fIiwgZWwgPT4gSlNPTi5wYXJzZShlbC50ZXh0Q29udGVudCkpOwogICAgICAgICAgICAgICAgdHAgPSBqLnByb3BzICYmIGoucHJvcHMucGFnZVByb3BzICYmIGoucHJvcHMucGFnZVByb3BzLnBhZ2luZyA/IGoucHJvcHMucGFnZVByb3BzLnBhZ2luZy50b3RhbFBhZ2VzIDogbnVsbDsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKGUpIHsgZXJyID0gZS5tZXNzYWdlLnNsaWNlKDAsIDYwKTsgfQoKICAgICAgICBjb25zdCBtcyA9IERhdGUubm93KCkgLSBzOwogICAgICAgIHRvdGFsTXMgKz0gbXM7CiAgICAgICAgaWYgKG5leHQgPiAwKSBvaysrOwogICAgICAgIGVsc2UgaWYgKHN0YXR1cyA9PT0gNDAzKSBjaGFsbGVuZ2UrKzsKICAgICAgICBjb25zb2xlLmxvZygiUEFHRSAiICsgSlNPTi5zdHJpbmdpZnkoeyBpLCB1cmw6IHUucmVwbGFjZSgiaHR0cHM6Ly93d3cuZGFmdC5pZSIsICIiKSwgc3RhdHVzLCBuZXh0X2RhdGE6IG5leHQsIHBhZ2VzOiB0cCwgbXMsIHRpdGxlLCBlcnIgfSkpOwogICAgfQoKICAgIGNvbnNvbGUubG9nKCJTVU1NQVJZICIgKyBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgcGFnZXM6IFVSTFMubGVuZ3RoLCBvaywgY2hhbGxlbmdlLCBva19yYXRlOiArKG9rIC8gVVJMUy5sZW5ndGgpLnRvRml4ZWQoMiksCiAgICAgICAgYXZnX21zOiBNYXRoLnJvdW5kKHRvdGFsTXMgLyBVUkxTLmxlbmd0aCksIHRvdGFsX3M6IE1hdGgucm91bmQoKERhdGUubm93KCkgLSB0MCkgLyAxMDAwKQogICAgfSkpOwogICAgYXdhaXQgYnJvd3Nlci5jbG9zZSgpOwp9KSgpLmNhdGNoKGUgPT4geyBjb25zb2xlLmVycm9yKCJGQVRBTCAiICsgZS5tZXNzYWdlKTsgcHJvY2Vzcy5leGl0KDEpOyB9KTsK" | base64 -d > bulk-test.js
 
-      - name: 基线 - 直连（Azure IP）
-        run: LABEL=direct node cf-test.js shell 2>&1 | tee out-direct.txt
-        continue-on-error: true
-
-      - name: 装 WARP 并连接（含完整诊断）
+      - name: 装 WARP 并连接
         run: |
           exec 2>&1 | tee out-warpinstall.txt
           ls -l /dev/net/tun || (sudo mkdir -p /dev/net && sudo mknod /dev/net/tun c 10 200 && sudo chmod 666 /dev/net/tun)
           ls -l /dev/net/tun || echo "STILL_NO_TUN"
           sudo apt-get update -qq
           sudo apt-get install -y -qq wireguard-tools || echo "wg-tools install failed"
-          curl -fsSL -o /tmp/wgcf https://github.com/ViRb3/wgcf/releases/download/v2.3.0/wgcf_2.3.0_linux_amd64 || echo "wgcf download failed"
-          chmod +x /tmp/wgcf
-          cd /tmp
+          curl -fsSL -o /tmp/wgcf https://github.com/ViRb3/wgcf/releases/download/v2.3.0/wgcf_2.3.0_linux_amd64
+          chmod +x /tmp/wgcf && cd /tmp
           /tmp/wgcf register --accept-tos || echo "wgcf register failed"
           /tmp/wgcf generate || echo "wgcf generate failed"
-          sed -i '/^DNS/d' /tmp/wgcf-profile.conf 2>/dev/null || true
-          echo "=== profile ==="; grep -v PrivateKey /tmp/wgcf-profile.conf
+          sed -i '/^DNS/d' /tmp/wgcf-profile.conf || true
           sudo modprobe wireguard || echo "modprobe failed"
           sudo wg-quick up /tmp/wgcf-profile.conf || echo "wg-quick up failed"
-          sleep 8
+          sleep 10
           echo "=== wg show ==="; sudo wg show || echo "wg show failed"
-          echo "=== egress after warp ==="; curl -s --max-time 20 https://ipinfo.io/json || echo "curl ipinfo failed"
+          echo "=== egress ==="; curl -s --max-time 20 https://ipinfo.io/json || echo "curl failed"
         continue-on-error: true
 
-      - name: 测试 WARP 出口
-        run: LABEL=warp node cf-test.js shell 2>&1 | tee out-warp.txt
+      - name: 批量抓取 12 页（WARP 出口）
+        run: node bulk-test.js 2>&1 | tee out-bulk.txt
         continue-on-error: true
 
-      - name: 关闭 WARP（否则后面没网）
+      - name: WARP 状态复查
         run: |
-          sudo wg-quick down /tmp/wgcf-profile.conf 2>&1 || echo "wg-quick down failed"
-          sleep 3
-          curl -s --max-time 20 https://ipinfo.io/json || echo "curl after down failed"
-        continue-on-error: true
-
-      - name: 装 usque（MASQUE 用户态）并起本地代理
-        run: |
-          exec 2>&1 | tee out-usque.txt
-          ASSET=$(curl -s https://api.github.com/repos/Diniboy1123/usque/releases/latest | grep -o 'https://[^"]*linux_amd64\.zip' | head -1)
-          echo "asset: $ASSET"
-          mkdir -p /tmp/usque && cd /tmp/usque
-          curl -fsSL -o usque.zip "$ASSET" || echo "usque download failed"
-          unzip -o usque.zip >/dev/null 2>&1 || echo "unzip failed"
-          chmod +x /tmp/usque/usque || true
-          echo "=== connect --help ==="; /tmp/usque/usque connect --help 2>&1 | head -50
-          /tmp/usque/usque register 2>&1 | tail -3 || echo "usque register failed"
-          HELP=$(/tmp/usque/usque connect --help 2>&1)
-          if echo "$HELP" | grep -q -- "--http-proxy-port"; then FLAG="--http-proxy-port 8080"; EXPORT="http://127.0.0.1:8080";
-          elif echo "$HELP" | grep -q -- "--socks5-port"; then FLAG="--socks5-port 1080"; EXPORT="socks5://127.0.0.1:1080";
-          else FLAG="--http-proxy-port 8080"; EXPORT=""; fi
-          echo "$EXPORT" > /tmp/usque_proxy.txt
-          echo "chosen flag: $FLAG  export: $EXPORT"
-          nohup /tmp/usque/usque connect $FLAG > /tmp/usque.log 2>&1 &
-          sleep 15
-          echo "=== usque log ==="; tail -25 /tmp/usque.log
-          echo "=== via proxy ==="; curl -s --max-time 20 -x "$EXPORT" https://ipinfo.io/json || echo "proxy curl failed"
-        continue-on-error: true
-
-      - name: 测试 usque 代理出口
-        run: |
-          echo "export: $(cat /tmp/usque_proxy.txt)"
-          LABEL=usque PROXY="$(cat /tmp/usque_proxy.txt)" node cf-test.js shell 2>&1 | tee out-usquerun.txt
+          sudo wg show 2>&1 || echo "wg show failed"
+          curl -s --max-time 20 -o /dev/null -w "http_code=%{http_code} time=%{time_total}s\n" https://www.daft.ie/robots.txt || echo "curl failed"
         continue-on-error: true
 
       - name: 汇总（写成注解，便于外部读取）
         if: always()
         run: |
-          emit() {
-            echo "::error::$1 $(tail -c 1500 "$2" 2>/dev/null | tr '\n' '|')"
-          }
-          emit CFTEST_direct    out-direct.txt
-          emit CFTEST_warpinst  out-warpinstall.txt
-          emit CFTEST_warp      out-warp.txt
-          emit CFTEST_usque     out-usque.txt
-          emit CFTEST_usquerun  out-usquerun.txt
+          echo "::error::CFBULK $(grep -h -E '^(PAGE|SUMMARY|EGRESS|FATAL)' out-bulk.txt 2>/dev/null | tr '\n' '|' | cut -c1-2400)"
+          echo "::error::CFWARPSTAT $(tail -c 500 out-warpinstall.txt 2>/dev/null | tr '\n' '|')"
