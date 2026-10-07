@@ -1,0 +1,103 @@
++ set -euo pipefail
++ UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36'
++++ dirname scripts/ci-setup-warp.sh
+++ cd scripts
+++ pwd
++ BIN_DIR=/home/runner/work/tools/tools/scripts/bin
++ echo '==== setup WARP ===='
+==== setup WARP ====
++ '[' '!' -c /dev/net/tun ']'
++ ls -l /dev/net/tun
+crw-rw-rw- 1 root root 10, 200 Oct  7 12:49 /dev/net/tun
++ '[' -s /home/runner/work/tools/tools/scripts/bin/wgcf-profile.conf ']'
++ echo '使用仓库自带的 WARP 配置'
+使用仓库自带的 WARP 配置
++ cp /home/runner/work/tools/tools/scripts/bin/wgcf-profile.conf /tmp/wgcf-profile.conf
++ '[' '!' -s /tmp/wgcf-profile.conf ']'
++ sed -i 's/\r$//' /tmp/wgcf-profile.conf
++ sed -i '/^DNS/d' /tmp/wgcf-profile.conf
++ grep -q '^MTU' /tmp/wgcf-profile.conf
++ sed -i 's/^MTU.*/MTU = 1280/' /tmp/wgcf-profile.conf
++ grep -v PrivateKey /tmp/wgcf-profile.conf
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:82d8:6458:aa21:6d33:64cf/128
+MTU = 1280
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = engage.cloudflareclient.com:2408
++ timeout 180 sudo apt-get update -qq
++ timeout 180 sudo apt-get install -y -qq wireguard-tools
+Selecting previously unselected package wireguard-tools.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 202563 files and directories currently installed.)
+Preparing to unpack .../wireguard-tools_1.0.20210914-1ubuntu4_amd64.deb ...
+Unpacking wireguard-tools (1.0.20210914-1ubuntu4) ...
+Setting up wireguard-tools (1.0.20210914-1ubuntu4) ...
+wg-quick.target is a disabled or a static unit, not starting it.
+Processing triggers for man-db (2.12.0-4build2) ...
+Not building database; man-db/auto-update is not 'true'.
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
++ timeout 60 sudo modprobe wireguard
++ timeout 90 sudo wg-quick up /tmp/wgcf-profile.conf
+Warning: `/tmp/wgcf-profile.conf' is world accessible
+[#] ip link add wgcf-profile type wireguard
+[#] wg setconf wgcf-profile /dev/fd/63
+[#] ip -4 address add 172.16.0.2/32 dev wgcf-profile
+[#] ip -6 address add 2606:4700:110:82d8:6458:aa21:6d33:64cf/128 dev wgcf-profile
+[#] ip link set mtu 1280 up dev wgcf-profile
+[#] wg set wgcf-profile fwmark 51820
+[#] ip -6 rule add not fwmark 51820 table 51820
+[#] ip -6 rule add table main suppress_prefixlength 0
+[#] ip -6 route add ::/0 dev wgcf-profile table 51820
+[#] nft -f /dev/fd/63
+[#] ip -4 rule add not fwmark 51820 table 51820
+[#] ip -4 rule add table main suppress_prefixlength 0
+[#] ip -4 route add 0.0.0.0/0 dev wgcf-profile table 51820
+[#] sysctl -q net.ipv4.conf.all.src_valid_mark=1
+[#] nft -f /dev/fd/63
++ OK=0
+++ seq 1 18
++ for i in $(seq 1 18)
+++ curl -s --connect-timeout 5 --max-time 10 https://ipinfo.io/json
+++ tr -d '\n'
++ info='{  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}'
++ echo 'egress try 1: {  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}'
+egress try 1: {  "ip": "104.28.205.112",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}
++ case "$info" in
++ OK=1
++ echo '出口已是 Cloudflare (AS13335)'
+出口已是 Cloudflare (AS13335)
++ break
++ for i in 1 2 3
+++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
+++ echo timeout
++ code=000timeout
++ echo 'warmup 1 -> 000timeout'
+warmup 1 -> 000timeout
++ sleep 2
++ for i in 1 2 3
+++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
+++ echo timeout
++ code=000timeout
++ echo 'warmup 2 -> 000timeout'
+warmup 2 -> 000timeout
++ sleep 2
++ for i in 1 2 3
+++ curl -s -o /dev/null -w '%{http_code}' --connect-timeout 5 --max-time 25 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36' https://www.daft.ie/
+++ echo timeout
++ code=000timeout
++ echo 'warmup 3 -> 000timeout'
+warmup 3 -> 000timeout
++ sleep 2
++ '[' 1 '!=' 1 ']'
++ echo '==== WARP 就绪 ===='
+==== WARP 就绪 ====
