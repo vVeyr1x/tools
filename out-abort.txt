@@ -1,0 +1,75 @@
+Playwright started
+Launching browser (Headless)...
+Loading areas.json...
+Loaded 877 areas.
+Sale crawl areas: 877
+Group: dublin1 (11/877 areas)
+========== Dublin 1, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-1-dublin
+Property for Sale in Dublin 1, Dublin | Daft.ie
+Dublin 1, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-1-dublin
+Dublin 1, Dublin: __NEXT_DATA__ = 1
+Dublin 1, Dublin: Total pages: 6
+Dublin 1, Dublin Page 1: Found 20 listings
+Page 2/6
+Dublin 1, Dublin Page 2: Found 20 listings
+Page 3/6
+Dublin 1, Dublin Page 3: Found 20 listings
+Page 4/6
+Dublin 1, Dublin Page 4: Found 20 listings
+Page 5/6
+Dublin 1, Dublin Page 5: Found 20 listings
+Dublin 1, Dublin: Cooling down 10 seconds...
+Page 6/6
+Dublin 1, Dublin Page 6: Found 18 listings
+========== Dublin 10, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-10-dublin
+Property for Sale in Dublin 10, Dublin | Daft.ie
+Dublin 10, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-10-dublin
+Dublin 10, Dublin: __NEXT_DATA__ = 1
+Dublin 10, Dublin: Total pages: 2
+Dublin 10, Dublin Page 1: Found 20 listings
+Page 2/2
+Dublin 10, Dublin Page 2: Found 15 listings
+========== Dublin 2, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-2-dublin
+Property for Sale in Dublin 2, Dublin | Daft.ie
+Dublin 2, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-2-dublin
+Dublin 2, Dublin: __NEXT_DATA__ = 1
+Dublin 2, Dublin: Total pages: 4
+Dublin 2, Dublin Page 1: Found 20 listings
+Page 2/4
+Dublin 2, Dublin Page 2: Found 20 listings
+Page 3/4
+Dublin 2, Dublin Page 3: Found 20 listings
+Page 4/4
+Dublin 2, Dublin Page 4: Found 10 listings
+========== Dublin 3, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-3-dublin
+Property for Sale in Dublin 3, Dublin | Daft.ie
+Dublin 3, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-3-dublin
+Dublin 3, Dublin: __NEXT_DATA__ = 1
+Dublin 3, Dublin: Total pages: 9
+Dublin 3, Dublin Page 1: Found 20 listings
+Page 2/9
+Dublin 3, Dublin Page 2: Found 20 listings
+Page 3/9
+Dublin 3, Dublin Page 3: Found 20 listings
+Page 4/9
+Dublin 3, Dublin Page 4: Found 20 listings
+Page 5/9
+Dublin 3, Dublin Page 5: Found 20 listings
+Dublin 3, Dublin: Cooling down 10 seconds...
+Page 6/9
+Dublin 3, Dublin Page 6: Found 20 listings
+Page 7/9
+Dublin 3, Dublin Page 7: Found 20 listings
+Page 8/9
+Dublin 3, Dublin Page 8: Found 20 listings
+Page 9/9
+Dublin 3, Dublin Page 9: Found 10 listings
+TEST_ABORT_AFTER=4 触发：保存断点后退出（仅测试用）

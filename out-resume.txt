@@ -1,0 +1,229 @@
+Playwright started
+Launching browser (Headless)...
+Loading areas.json...
+Loaded 877 areas.
+Sale crawl areas: 877
+Group: dublin1 (11/877 areas)
+⟳ 断点续跑：已完成 4 个区域、已抓到 382 条，剩余 7 个区域
+↷ 跳过已完成：Dublin 1, Dublin
+↷ 跳过已完成：Dublin 10, Dublin
+↷ 跳过已完成：Dublin 2, Dublin
+↷ 跳过已完成：Dublin 3, Dublin
+========== Dublin 4, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-4-dublin
+Property for Sale in Dublin 4, Dublin | Daft.ie
+Dublin 4, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-4-dublin
+Dublin 4, Dublin: __NEXT_DATA__ = 1
+Dublin 4, Dublin: Total pages: 13
+Dublin 4, Dublin Page 1: Found 20 listings
+Page 2/13
+Dublin 4, Dublin Page 2: Found 20 listings
+Page 3/13
+Dublin 4, Dublin Page 3: Found 20 listings
+Page 4/13
+Dublin 4, Dublin Page 4: Found 20 listings
+Page 5/13
+Dublin 4, Dublin Page 5: Found 20 listings
+Dublin 4, Dublin: Cooling down 10 seconds...
+Page 6/13
+Dublin 4, Dublin Page 6: Found 20 listings
+Page 7/13
+Dublin 4, Dublin Page 7: Found 20 listings
+Page 8/13
+Dublin 4, Dublin Page 8: Found 20 listings
+Page 9/13
+Dublin 4, Dublin Page 9: Found 20 listings
+Page 10/13
+Dublin 4, Dublin Page 10: Found 20 listings
+Dublin 4, Dublin: Cooling down 10 seconds...
+Page 11/13
+Dublin 4, Dublin Page 11: Found 20 listings
+Page 12/13
+Dublin 4, Dublin Page 12: Found 20 listings
+Page 13/13
+Dublin 4, Dublin Page 13: Found 5 listings
+========== Dublin 5, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-5-dublin
+Property for Sale in Dublin 5, Dublin | Daft.ie
+Dublin 5, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-5-dublin
+Dublin 5, Dublin: __NEXT_DATA__ = 1
+Dublin 5, Dublin: Total pages: 6
+Dublin 5, Dublin Page 1: Found 20 listings
+Page 2/6
+Dublin 5, Dublin Page 2: Found 20 listings
+Page 3/6
+Dublin 5, Dublin Page 3: Found 20 listings
+Page 4/6
+Dublin 5, Dublin Page 4: Found 20 listings
+Page 5/6
+Dublin 5, Dublin Page 5: Found 20 listings
+Dublin 5, Dublin: Cooling down 10 seconds...
+Page 6/6
+Dublin 5, Dublin Page 6: Found 15 listings
+========== Dublin 6, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-6-dublin
+Property for Sale in Dublin 6, Dublin | Daft.ie
+Dublin 6, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-6-dublin
+Dublin 6, Dublin: __NEXT_DATA__ = 1
+Dublin 6, Dublin: Total pages: 10
+Dublin 6, Dublin Page 1: Found 20 listings
+Page 2/10
+Dublin 6, Dublin Page 2: Found 20 listings
+Page 3/10
+Dublin 6, Dublin Page 3: Found 20 listings
+Page 4/10
+Dublin 6, Dublin Page 4: Found 20 listings
+Page 5/10
+Dublin 6, Dublin Page 5: Found 20 listings
+Dublin 6, Dublin: Cooling down 10 seconds...
+Page 6/10
+Dublin 6, Dublin Page 6: Found 20 listings
+Page 7/10
+Dublin 6, Dublin Page 7: Found 20 listings
+Page 8/10
+Dublin 6, Dublin Page 8: Found 20 listings
+Page 9/10
+Dublin 6, Dublin Page 9: Found 20 listings
+Page 10/10
+Dublin 6, Dublin Page 10: Found 1 listings
+========== Dublin 6W, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-6w-dublin
+Property for Sale in Dublin 6W, Dublin | Daft.ie
+Dublin 6W, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-6w-dublin
+Dublin 6W, Dublin: __NEXT_DATA__ = 1
+Dublin 6W, Dublin: Total pages: 5
+Dublin 6W, Dublin Page 1: Found 20 listings
+Page 2/5
+Dublin 6W, Dublin Page 2: Found 20 listings
+Page 3/5
+Dublin 6W, Dublin Page 3: Found 20 listings
+Page 4/5
+Page 4 retry 1/3
+Dublin 6W, Dublin Page 4: Found 20 listings
+Page 5/5
+Dublin 6W, Dublin Page 5: Found 11 listings
+========== Dublin 7, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-7-dublin
+Property for Sale in Dublin 7, Dublin | Daft.ie
+Dublin 7, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-7-dublin
+Dublin 7, Dublin: __NEXT_DATA__ = 1
+Dublin 7, Dublin: Total pages: 11
+Dublin 7, Dublin Page 1: Found 20 listings
+Page 2/11
+Dublin 7, Dublin Page 2: Found 20 listings
+Page 3/11
+Dublin 7, Dublin Page 3: Found 20 listings
+Page 4/11
+Dublin 7, Dublin Page 4: Found 20 listings
+Page 5/11
+Dublin 7, Dublin Page 5: Found 20 listings
+Dublin 7, Dublin: Cooling down 10 seconds...
+Page 6/11
+Dublin 7, Dublin Page 6: Found 20 listings
+Page 7/11
+Dublin 7, Dublin Page 7: Found 20 listings
+Page 8/11
+Dublin 7, Dublin Page 8: Found 20 listings
+Page 9/11
+Dublin 7, Dublin Page 9: Found 20 listings
+Page 10/11
+Dublin 7, Dublin Page 10: Found 20 listings
+Dublin 7, Dublin: Cooling down 10 seconds...
+Page 11/11
+Page 11 retry 1/3
+Dublin 7, Dublin Page 11: Found 2 listings
+💾 断点已保存（9/11 个区域，1161 条）
+========== Dublin 8, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-8-dublin
+Property for Sale in Dublin 8, Dublin | Daft.ie
+Dublin 8, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-8-dublin
+Dublin 8, Dublin: __NEXT_DATA__ = 1
+Dublin 8, Dublin: Total pages: 12
+Dublin 8, Dublin Page 1: Found 20 listings
+Page 2/12
+Dublin 8, Dublin Page 2: Found 20 listings
+Page 3/12
+Dublin 8, Dublin Page 3: Found 20 listings
+Page 4/12
+Dublin 8, Dublin Page 4: Found 20 listings
+Page 5/12
+Dublin 8, Dublin Page 5: Found 20 listings
+Dublin 8, Dublin: Cooling down 10 seconds...
+Page 6/12
+Dublin 8, Dublin Page 6: Found 20 listings
+Page 7/12
+Dublin 8, Dublin Page 7: Found 20 listings
+Page 8/12
+Dublin 8, Dublin Page 8: Found 20 listings
+Page 9/12
+Dublin 8, Dublin Page 9: Found 20 listings
+Page 10/12
+Dublin 8, Dublin Page 10: Found 20 listings
+Dublin 8, Dublin: Cooling down 10 seconds...
+Page 11/12
+Dublin 8, Dublin Page 11: Found 20 listings
+Page 12/12
+Dublin 8, Dublin Page 12: Found 4 listings
+========== Dublin 9, Dublin ==========
+https://www.daft.ie/property-for-sale/dublin-9-dublin
+Property for Sale in Dublin 9, Dublin | Daft.ie
+Dublin 9, Dublin loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-9-dublin
+Dublin 9, Dublin: __NEXT_DATA__ = 1
+Dublin 9, Dublin: Total pages: 10
+Dublin 9, Dublin Page 1: Found 20 listings
+Page 2/10
+Dublin 9, Dublin Page 2: Found 20 listings
+Page 3/10
+Dublin 9, Dublin Page 3: Found 20 listings
+Page 4/10
+Dublin 9, Dublin Page 4: Found 20 listings
+Page 5/10
+Dublin 9, Dublin Page 5: Found 20 listings
+Dublin 9, Dublin: Cooling down 10 seconds...
+Page 6/10
+Dublin 9, Dublin Page 6: Found 20 listings
+Page 7/10
+Dublin 9, Dublin Page 7: Found 20 listings
+Page 8/10
+Dublin 9, Dublin Page 8: Found 20 listings
+Page 9/10
+Dublin 9, Dublin Page 9: Found 20 listings
+Page 10/10
+Dublin 9, Dublin Page 10: Found 6 listings
+✔ 结果检查通过：有数据区域 11/11，房源 1513 条
+Area Statistics:
+Dublin 1, Dublin: 118
+Dublin 10, Dublin: 35
+Dublin 2, Dublin: 70
+Dublin 3, Dublin: 170
+Dublin 4, Dublin: 245
+Dublin 5, Dublin: 115
+Dublin 6, Dublin: 181
+Dublin 6W, Dublin: 91
+Dublin 7, Dublin: 202
+Dublin 8, Dublin: 224
+Dublin 9, Dublin: 186
+========== Summary ==========
+
+Elapsed: 8m 53s
+Average: 6.06 sec/page
+
+Areas: 11
+Pages crawled: 88
+Empty areas: 0
+Total listings: 1637
+Duplicates removed: 124
+Unique properties: 1513
+✔ Saved 1513 properties
+📄 data/daft/sale/daft-sale-dublin1.json
+📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-dublin1.json
+✔ crawl-summary-sale-dublin1.json updated
+✔ 断点已清除
+All pages completed successfully.
