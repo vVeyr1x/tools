@@ -41,7 +41,10 @@ jobs:
         timeout-minutes: 10
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
-          timeout 420 bash scripts/ci-setup-warp.sh
+          setsid timeout -k 10 400 bash scripts/ci-setup-warp.sh > /tmp/warp.log 2>&1 < /dev/null
+          rc=$?
+          tail -n 120 /tmp/warp.log
+          exit $rc
 
       - name: 抓取 Sale - West
         timeout-minutes: 40
