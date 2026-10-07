@@ -1,24 +1,25 @@
-name: 更新Daft Sale房源（dublin1 和 dublin2 区域）
+name: Daft 抓取（Sale - Cork）
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 22 * * 2-6"
+    - cron: "0 18 * * 2-6"
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: daft-cork
+  cancel-in-progress: false
 
 jobs:
   scrape:
-
     runs-on: ubuntu-latest
 
-    # 兜底：任何步骤挂死也不会白烧 6 小时
-    timeout-minutes: 70
+    timeout-minutes: 105
 
     steps:
-
       - name: Checkout main repository
         uses: actions/checkout@v4
         with:
@@ -33,32 +34,28 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Playwright
-        run: npx playwright install chromium
-
-      - name: Scrape Sale Dublin1
-        timeout-minutes: 25
-        run: node scripts/scrape-daft.js dublin1
-
-      - name: Scrape Sale Dublin2
-        timeout-minutes: 25
-        run: node scripts/scrape-daft.js dublin2
+      - name: Install Playwright (chromium + 系统依赖)
+        run: npx playwright install --with-deps chromium
 
       - name: 建立 WARP 出口（绕过 daft 对云端 ASN 的 Cloudflare 拦截）
+        timeout-minutes: 10
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
           timeout 420 bash scripts/ci-setup-warp.sh
+
+      - name: 抓取 Sale - Cork
+        timeout-minutes: 90
+        run: node scripts/scrape-daft.js cork
+
+      - name: 提交数据
         timeout-minutes: 10
-
-      - name: Commit updated properties
         run: |
-
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
           git add data/daft/sale
 
-          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这里是第二道防线）
+          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这是第二道防线）
           for f in $(git diff --cached --name-only -- 'data/daft/sale/*.json'); do
             n=$(node -e "const a=require('./$f');console.log(Array.isArray(a)?a.length:1)" 2>/dev/null || echo 1)
             if [ "$n" = "0" ]; then
@@ -67,7 +64,11 @@ jobs:
             fi
           done
 
-          git diff --cached --quiet || git commit -m "Update Daft Sale"
+          git diff --cached --quiet || git commit -m "Update Daft sale Sale - Cork"
 
-          git pull --rebase --autostash origin main
-          git push
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
+            echo "推送第 ${i} 次失败，5 秒后重试"; sleep 5
+          done
+          [ "$ok" = "1" ] || { echo "::error::推送失败"; exit 1; }

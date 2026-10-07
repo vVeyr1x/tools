@@ -1,24 +1,25 @@
-name: 更新Daft Sale房源（east、southeast、west、other 区域）
+name: Daft 抓取（Sale - Southeast）
 
 on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * 3-6"
+    - cron: "50 6 * * 2-6"
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: daft-southeast
+  cancel-in-progress: false
 
 jobs:
   scrape:
-
     runs-on: ubuntu-latest
 
-    # 兜底：任何步骤挂死也不会白烧 6 小时
-    timeout-minutes: 140
+    timeout-minutes: 45
 
     steps:
-
       - name: Checkout main repository
         uses: actions/checkout@v4
         with:
@@ -33,41 +34,28 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Install Playwright
-        run: npx playwright install chromium
-        
-
-      - name: Scrape Sale East
-        timeout-minutes: 25
-        run: node scripts/scrape-daft.js east
-      
-      - name: Scrape Sale Southeast
-        timeout-minutes: 30
-        run: node scripts/scrape-daft.js southeast
-      
-      - name: Scrape Sale West
-        timeout-minutes: 40
-        run: node scripts/scrape-daft.js west
-      
-      - name: Scrape Sale Other
-        timeout-minutes: 35
-        run: node scripts/scrape-daft.js other
+      - name: Install Playwright (chromium + 系统依赖)
+        run: npx playwright install --with-deps chromium
 
       - name: 建立 WARP 出口（绕过 daft 对云端 ASN 的 Cloudflare 拦截）
+        timeout-minutes: 10
         run: |
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
           timeout 420 bash scripts/ci-setup-warp.sh
+
+      - name: 抓取 Sale - Southeast
+        timeout-minutes: 30
+        run: node scripts/scrape-daft.js southeast
+
+      - name: 提交数据
         timeout-minutes: 10
-
-      - name: Commit updated properties
         run: |
-
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          
+
           git add data/daft/sale
 
-          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这里是第二道防线）
+          # 空数据保护：任何分组 JSON 被清空就放弃提交（脚本已先做零结果保护，这是第二道防线）
           for f in $(git diff --cached --name-only -- 'data/daft/sale/*.json'); do
             n=$(node -e "const a=require('./$f');console.log(Array.isArray(a)?a.length:1)" 2>/dev/null || echo 1)
             if [ "$n" = "0" ]; then
@@ -75,10 +63,12 @@ jobs:
               exit 1
             fi
           done
-          
-          git diff --cached --quiet || git commit -m "Update Daft Sale Regions"
-          
-          git pull --rebase origin main
 
-          git push origin main
+          git diff --cached --quiet || git commit -m "Update Daft sale Sale - Southeast"
 
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
+            echo "推送第 ${i} 次失败，5 秒后重试"; sleep 5
+          done
+          [ "$ok" = "1" ] || { echo "::error::推送失败"; exit 1; }
