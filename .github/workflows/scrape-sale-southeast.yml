@@ -17,7 +17,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 136
+    timeout-minutes: 148
 
     steps:
       - name: Checkout main repository
@@ -59,7 +59,7 @@ jobs:
           node scripts/scrape-daft.js southeast 2>&1 | tee -a out-crawl.txt
       - name: 抓取 Sale - Southeast（第 2 轮）
         if: always()
-        timeout-minutes: 30
+        timeout-minutes: 38
         continue-on-error: true
         shell: bash
         run: |
@@ -79,7 +79,7 @@ jobs:
           node scripts/scrape-daft.js southeast 2>&1 | tee -a out-crawl.txt
       - name: 抓取 Sale - Southeast（第 3 轮）
         if: always()
-        timeout-minutes: 30
+        timeout-minutes: 38
         continue-on-error: true
         shell: bash
         run: |
