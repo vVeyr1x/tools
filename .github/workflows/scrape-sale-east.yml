@@ -63,8 +63,8 @@ jobs:
         shell: bash
         run: |
           set -o pipefail
-          if [ ! -f data/daft/sale/_progress-east.json ]; then
-            echo "上一轮已经跑完（断点已清除），跳过第 2 轮"
+          if [ -f "${RUNNER_TEMP}/crawl-done-east" ]; then
+            echo "整组已完成，跳过第 2 轮"
             exit 0
           fi
           if ! ip link show warpcfg >/dev/null 2>&1; then
@@ -81,8 +81,8 @@ jobs:
         shell: bash
         run: |
           set -o pipefail
-          if [ ! -f data/daft/sale/_progress-east.json ]; then
-            echo "上一轮已经跑完（断点已清除），跳过第 3 轮"
+          if [ -f "${RUNNER_TEMP}/crawl-done-east" ]; then
+            echo "整组已完成，跳过第 3 轮"
             exit 0
           fi
           if ! ip link show warpcfg >/dev/null 2>&1; then
@@ -115,6 +115,7 @@ jobs:
           echo "::warning::断点提交失败（不影响本次抓取结果）"
 
       - name: 提交数据
+        if: always()
         timeout-minutes: 10
         run: |
           git config user.name "github-actions"
