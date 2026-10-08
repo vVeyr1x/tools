@@ -1,12 +1,12 @@
-==== setup WARP ====
-crw-rw-rw- 1 root root 10, 200 Oct  7 14:37 /dev/net/tun
-使用仓库自带的 WARP 配置
+==== setup WARP（只路由 Cloudflare 网段）====
+Cloudflare 段：173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
+原默认路由: gw=10.1.0.1 dev=eth0 | 端点: engage.cloudflareclient.com
 [Interface]
 Address = 172.16.0.2/32, 2606:4700:110:82d8:6458:aa21:6d33:64cf/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 0.0.0.0/0, ::/0
+AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
 Endpoint = engage.cloudflareclient.com:2408
 Selecting previously unselected package wireguard-tools.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 202563 files and directories currently installed.)
@@ -26,45 +26,34 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
------ 尝试 1: endpoint=engage.cloudflareclient.com:2408 round=1 -----
-Warning: `/tmp/wgcf-profile.conf' is world accessible
-[#] ip link add wgcf-profile type wireguard
-[#] wg setconf wgcf-profile /dev/fd/63
-[#] ip -4 address add 172.16.0.2/32 dev wgcf-profile
-[#] ip -6 address add 2606:4700:110:82d8:6458:aa21:6d33:64cf/128 dev wgcf-profile
-[#] ip link set mtu 1280 up dev wgcf-profile
-[#] wg set wgcf-profile fwmark 51820
-[#] ip -6 rule add not fwmark 51820 table 51820
-[#] ip -6 rule add table main suppress_prefixlength 0
-[#] ip -6 route add ::/0 dev wgcf-profile table 51820
-[#] nft -f /dev/fd/63
-[#] ip -4 rule add not fwmark 51820 table 51820
-[#] ip -4 rule add table main suppress_prefixlength 0
-[#] ip -4 route add 0.0.0.0/0 dev wgcf-profile table 51820
-[#] sysctl -q net.ipv4.conf.all.src_valid_mark=1
-[#] nft -f /dev/fd/63
-egress: 
-出口不是 Cloudflare，换下一个
------ 尝试 2: endpoint=engage.cloudflareclient.com:2408 round=2 -----
-Warning: `/tmp/wgcf-profile.conf' is world accessible
-[#] ip link add wgcf-profile type wireguard
-[#] wg setconf wgcf-profile /dev/fd/63
-[#] ip -4 address add 172.16.0.2/32 dev wgcf-profile
-[#] ip -6 address add 2606:4700:110:82d8:6458:aa21:6d33:64cf/128 dev wgcf-profile
-[#] ip link set mtu 1280 up dev wgcf-profile
-[#] wg set wgcf-profile fwmark 51820
-[#] ip -6 rule add not fwmark 51820 table 51820
-[#] ip -6 rule add table main suppress_prefixlength 0
-[#] ip -6 route add ::/0 dev wgcf-profile table 51820
-[#] nft -f /dev/fd/63
-[#] ip -4 rule add not fwmark 51820 table 51820
-[#] ip -4 rule add table main suppress_prefixlength 0
-[#] ip -4 route add 0.0.0.0/0 dev wgcf-profile table 51820
-[#] sysctl -q net.ipv4.conf.all.src_valid_mark=1
-[#] nft -f /dev/fd/63
-egress: {  "ip": "104.28.205.111",  "city": "Phoenix",  "region": "Arizona",  "country": "US",  "loc": "33.4484,-112.0740",  "org": "AS13335 Cloudflare, Inc.",  "postal": "85003",  "timezone": "America/Phoenix",  "readme": "https://ipinfo.io/missingauth"}
-出口是 Cloudflare ✓
-daft 可达性: 200
-warmup 1 -> 000timeout
-warmup 2 -> 000timeout
-==== WARP 就绪（第 2 次尝试生效）====
+----- 尝试 1（round 1，已用 5s）-----
+Warning: `/tmp/warpcfg.conf' is world accessible
+[#] ip link add warpcfg type wireguard
+[#] wg setconf warpcfg /dev/fd/63
+[#] ip -4 address add 172.16.0.2/32 dev warpcfg
+[#] ip -6 address add 2606:4700:110:82d8:6458:aa21:6d33:64cf/128 dev warpcfg
+[#] ip link set mtu 1280 up dev warpcfg
+[#] ip -4 route add 197.234.240.0/22 dev warpcfg
+[#] ip -4 route add 131.0.72.0/22 dev warpcfg
+[#] ip -4 route add 103.31.4.0/22 dev warpcfg
+[#] ip -4 route add 103.22.200.0/22 dev warpcfg
+[#] ip -4 route add 103.21.244.0/22 dev warpcfg
+[#] ip -4 route add 190.93.240.0/20 dev warpcfg
+[#] ip -4 route add 188.114.96.0/20 dev warpcfg
+[#] ip -4 route add 173.245.48.0/20 dev warpcfg
+[#] ip -4 route add 141.101.64.0/18 dev warpcfg
+[#] ip -4 route add 108.162.192.0/18 dev warpcfg
+[#] ip -4 route add 198.41.128.0/17 dev warpcfg
+[#] ip -4 route add 162.158.0.0/15 dev warpcfg
+[#] ip -4 route add 104.24.0.0/14 dev warpcfg
+[#] ip -4 route add 172.64.0.0/13 dev warpcfg
+[#] ip -4 route add 104.16.0.0/13 dev warpcfg
+wg-quick up 成功
+端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
+  route get 162.159.192.1: 162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.161 uid 1001 
+trace: warp=on ip=104.28.201.162
+daft 探测: 200
+runner 自身连通性：200
+warmup 1 -> 200
+warmup 2 -> 200
+==== WARP 就绪（第 1 次尝试生效，已用 16s；仅 Cloudflare 段走隧道）====
