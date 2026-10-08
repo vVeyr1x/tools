@@ -26,7 +26,7 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
------ 尝试 1（round 1，已用 5s）-----
+----- 尝试 1（round 1，已用 4s）-----
 Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip link add warpcfg type wireguard
 [#] wg setconf warpcfg /dev/fd/63
@@ -50,10 +50,10 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip -4 route add 104.16.0.0/13 dev warpcfg
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-  route get 162.159.192.1: 162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.161 uid 1001 
-trace: warp=on ip=104.28.201.162
+  route get 162.159.192.1: 162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.167 uid 1001 
+trace: warp=on ip=104.28.227.110
 daft 探测: 200
 runner 自身连通性：200
 warmup 1 -> 200
 warmup 2 -> 200
-==== WARP 就绪（第 1 次尝试生效，已用 16s；仅 Cloudflare 段走隧道）====
+==== WARP 就绪（第 1 次尝试生效，已用 14s；仅 Cloudflare 段走隧道）====
