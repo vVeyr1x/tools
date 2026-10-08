@@ -45,7 +45,8 @@ jobs:
           sed -i 's/\r$//' scripts/ci-setup-warp.sh
           setsid timeout -k 10 400 bash scripts/ci-setup-warp.sh > /tmp/warp.log 2>&1 < /dev/null
           rc=$?
-          tail -n 120 /tmp/warp.log
+          tail -n 150 /tmp/warp.log
+          cp /tmp/warp.log out-warp.txt 2>/dev/null || true
           exit $rc
 
       - name: 抓取 Sale - Dublin 1（第 1 轮）
