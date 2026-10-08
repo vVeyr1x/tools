@@ -3,1471 +3,449 @@ Launching browser (Headless)...
 Loading areas.json...
 Loaded 877 areas.
 Sale crawl areas: 877
-Group: dublin3 (119/877 areas)
-========== Adamstown, Dublin ==========
-https://www.daft.ie/property-for-sale/adamstown-dublin
-Property for Sale in Adamstown, Dublin | Daft.ie
-Adamstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/adamstown-dublin
-Adamstown, Dublin: __NEXT_DATA__ = 1
-Adamstown, Dublin: Total pages: 3
-Adamstown, Dublin Page 1: Found 20 listings
-Page 2/3
-Adamstown, Dublin Page 2: Found 20 listings
-Page 3/3
-Adamstown, Dublin Page 3: Found 1 listings
-💾 断点已保存（1/119 个区域，41 条）
-========== Ard Na Greine, Dublin ==========
-https://www.daft.ie/property-for-sale/ard-na-greine-dublin
-Property for Sale in Ard Na Greine, Dublin | Daft.ie
-Ard Na Greine, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ard-na-greine-dublin
-Ard Na Greine, Dublin: __NEXT_DATA__ = 1
-Ard Na Greine, Dublin: Total pages: 1
-Ard Na Greine, Dublin Page 1: Found 2 listings
-💾 断点已保存（2/119 个区域，43 条）
-========== Ashington, Dublin ==========
-https://www.daft.ie/property-for-sale/ashington-dublin
-Property for Sale in Ashington, Dublin | Daft.ie
-Ashington, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ashington-dublin
-Ashington, Dublin: __NEXT_DATA__ = 1
-Ashington, Dublin: Total pages: 1
-Ashington, Dublin Page 1: Found 5 listings
-💾 断点已保存（3/119 个区域，48 条）
-========== Ayrfield, Dublin ==========
-https://www.daft.ie/property-for-sale/ayrfield-dublin
-Property for Sale in Ayrfield, Dublin | Daft.ie
-Ayrfield, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ayrfield-dublin
-Ayrfield, Dublin: __NEXT_DATA__ = 1
-Ayrfield, Dublin: Total pages: 1
-Ayrfield, Dublin Page 1: Found 8 listings
-💾 断点已保存（4/119 个区域，54 条）
-========== Balbriggan, Dublin ==========
-https://www.daft.ie/property-for-sale/balbriggan-dublin
-Property for Sale in Balbriggan, Dublin | Daft.ie
-Balbriggan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/balbriggan-dublin
-Balbriggan, Dublin: __NEXT_DATA__ = 1
-Balbriggan, Dublin: Total pages: 5
-Balbriggan, Dublin Page 1: Found 20 listings
-Page 2/5
-Balbriggan, Dublin Page 2: Found 20 listings
-Page 3/5
-Balbriggan, Dublin Page 3: Found 20 listings
-Page 4/5
-Balbriggan, Dublin Page 4: Found 20 listings
-Page 5/5
-Balbriggan, Dublin Page 5: Found 6 listings
-💾 断点已保存（5/119 个区域，140 条）
-========== Ballinascorney, Dublin ==========
-https://www.daft.ie/property-for-sale/ballinascorney-dublin
-Property for Sale in Ballinascorney, Dublin | Daft.ie
-Ballinascorney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballinascorney-dublin
-Ballinascorney, Dublin: __NEXT_DATA__ = 1
-Ballinascorney, Dublin: Total pages: 1
-Ballinascorney, Dublin Page 1: Found 7 listings
-💾 断点已保存（6/119 个区域，147 条）
-========== Ballyboden, Dublin ==========
-https://www.daft.ie/property-for-sale/ballyboden-dublin?__cf_chl_rt_tk=qtUNOBxF.Qyu11TQRcGAQZiM0c9PcTzKq9OGkVFIubQ-1791440639-1.0.1.1-GySt9rCumKvTR8Dk9JL6t73c1108UopmYJXp3NBpAN4
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property for Sale in Ballyboden, Dublin | Daft.ie
-Ballyboden, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballyboden-dublin
-Ballyboden, Dublin: __NEXT_DATA__ = 1
-Ballyboden, Dublin: Total pages: 1
-Ballyboden, Dublin Page 1: Found 18 listings
-💾 断点已保存（7/119 个区域，165 条）
-========== Ballyboughal, Dublin ==========
-https://www.daft.ie/property-for-sale/ballyboughal-dublin
-Property for Sale in Ballyboughal, Dublin | Daft.ie
-Ballyboughal, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballyboughal-dublin
-Ballyboughal, Dublin: __NEXT_DATA__ = 1
-Ballyboughal, Dublin: Total pages: 1
-Ballyboughal, Dublin Page 1: Found 19 listings
-💾 断点已保存（8/119 个区域，184 条）
-========== Ballybrack, Dublin ==========
-https://www.daft.ie/property-for-sale/ballybrack-dublin
-Property for Sale in Ballybrack, Dublin | Daft.ie
-Ballybrack, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballybrack-dublin
-Ballybrack, Dublin: __NEXT_DATA__ = 1
-Ballybrack, Dublin: Total pages: 2
-Ballybrack, Dublin Page 1: Found 20 listings
-Page 2/2
-Ballybrack, Dublin Page 2: Found 7 listings
-💾 断点已保存（9/119 个区域，211 条）
-========== Ballycorus, Dublin ==========
-https://www.daft.ie/property-for-sale/ballycorus-dublin
-Property for Sale in Ballycorus, Dublin | Daft.ie
-Ballycorus, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballycorus-dublin
-Ballycorus, Dublin: __NEXT_DATA__ = 1
-Ballycorus, Dublin: Total pages: 1
-Ballycorus, Dublin Page 1: Found 3 listings
-💾 断点已保存（10/119 个区域，214 条）
-========== Ballymount, Dublin ==========
-https://www.daft.ie/property-for-sale/ballymount-dublin
-Property for Sale in Ballymount, Dublin | Daft.ie
-Ballymount, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ballymount-dublin
-Ballymount, Dublin: __NEXT_DATA__ = 1
-Ballymount, Dublin: Total pages: 1
-Ballymount, Dublin Page 1: Found 5 listings
-💾 断点已保存（11/119 个区域，219 条）
-========== Balrothery, Dublin ==========
-https://www.daft.ie/property-for-sale/balrothery-dublin
-Property for Sale in Balrothery, Dublin | Daft.ie
-Balrothery, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/balrothery-dublin
-Balrothery, Dublin: __NEXT_DATA__ = 1
-Balrothery, Dublin: Total pages: 2
-Balrothery, Dublin Page 1: Found 20 listings
-Page 2/2
-Balrothery, Dublin Page 2: Found 6 listings
-💾 断点已保存（12/119 个区域，222 条）
-========== Balscaddan, Dublin ==========
-https://www.daft.ie/property-for-sale/balscaddan-dublin
-Property for Sale in Balscaddan, Dublin | Daft.ie
-Balscaddan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/balscaddan-dublin
-Balscaddan, Dublin: __NEXT_DATA__ = 1
-Balscaddan, Dublin: Total pages: 1
-Balscaddan, Dublin Page 1: Found 1 listings
-💾 断点已保存（13/119 个区域，223 条）
-========== Bayside, Dublin ==========
-https://www.daft.ie/property-for-sale/bayside-dublin
-Property for Sale in Bayside, Dublin | Daft.ie
-Bayside, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/bayside-dublin
-Bayside, Dublin: __NEXT_DATA__ = 1
-Bayside, Dublin: Total pages: 1
-Bayside, Dublin Page 1: Found 20 listings
-💾 断点已保存（14/119 个区域，243 条）
-========== Belfield, Dublin ==========
-https://www.daft.ie/property-for-sale/belfield-dublin
-Property for Sale in Belfield, Dublin | Daft.ie
-Belfield, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/belfield-dublin
-Belfield, Dublin: __NEXT_DATA__ = 1
-Belfield, Dublin: Total pages: 1
-Belfield, Dublin Page 1: Found 11 listings
-💾 断点已保存（15/119 个区域，254 条）
-========== Blackrock, Dublin ==========
-https://www.daft.ie/property-for-sale/blackrock-dublin
-Property for Sale in Blackrock, Dublin | Daft.ie
-Blackrock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/blackrock-dublin
-Blackrock, Dublin: __NEXT_DATA__ = 1
-Blackrock, Dublin: Total pages: 8
-Blackrock, Dublin Page 1: Found 20 listings
-Page 2/8
-Blackrock, Dublin Page 2: Found 20 listings
-Page 3/8
-Blackrock, Dublin Page 3: Found 20 listings
-Page 4/8
-Blackrock, Dublin Page 4: Found 20 listings
-Page 5/8
+Group: west (6/877 areas)
+========== Clare (County) ==========
+https://www.daft.ie/property-for-sale/clare
+Property for Sale in Clare (County) | Daft.ie
+Clare (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/clare
+Clare (County): __NEXT_DATA__ = 1
+Clare (County): Total pages: 21
+Clare (County) Page 1: Found 20 listings
+Page 2/21
+Clare (County) Page 2: Found 20 listings
+Page 3/21
+Clare (County) Page 3: Found 20 listings
+Page 4/21
+Clare (County) Page 4: Found 20 listings
+Page 5/21
+Clare (County) Page 5: Found 20 listings
+Clare (County): Cooling down 10 seconds...
+Page 6/21
+Clare (County) Page 6: Found 20 listings
+Page 7/21
+Clare (County) Page 7: Found 20 listings
+Page 8/21
+Clare (County) Page 8: Found 20 listings
+Page 9/21
+Clare (County) Page 9: Found 20 listings
+Page 10/21
+Page 10 retry 1/3
+Clare (County) Page 10: Found 20 listings
+Clare (County): Cooling down 10 seconds...
+Page 11/21
+Clare (County) Page 11: Found 20 listings
+Page 12/21
+Clare (County) Page 12: Found 20 listings
+Page 13/21
+Clare (County) Page 13: Found 20 listings
+Page 14/21
+Clare (County) Page 14: Found 20 listings
+Page 15/21
+Clare (County) Page 15: Found 20 listings
+Clare (County): Cooling down 10 seconds...
+Page 16/21
+Clare (County) Page 16: Found 20 listings
+Page 17/21
+Clare (County) Page 17: Found 20 listings
+Page 18/21
+Clare (County) Page 18: Found 20 listings
+Page 19/21
+Clare (County) Page 19: Found 20 listings
+Page 20/21
+Clare (County) Page 20: Found 20 listings
+Clare (County): Cooling down 10 seconds...
+Page 21/21
+Clare (County) Page 21: Found 9 listings
+💾 断点已保存（1/6 个区域，409 条）
+========== Kerry (County) ==========
+https://www.daft.ie/property-for-sale/kerry
+Property for Sale in Kerry (County) | Daft.ie
+Kerry (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/kerry
+Kerry (County): __NEXT_DATA__ = 1
+Kerry (County): Total pages: 33
+Kerry (County) Page 1: Found 20 listings
+Page 2/33
+Kerry (County) Page 2: Found 20 listings
+Page 3/33
+Page 3 retry 1/3
+Kerry (County) Page 3: Found 20 listings
+Page 4/33
+Kerry (County) Page 4: Found 20 listings
+Page 5/33
+Kerry (County) Page 5: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 6/33
+Kerry (County) Page 6: Found 20 listings
+Page 7/33
+Kerry (County) Page 7: Found 20 listings
+Page 8/33
+Kerry (County) Page 8: Found 20 listings
+Page 9/33
+Kerry (County) Page 9: Found 20 listings
+Page 10/33
+Kerry (County) Page 10: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 11/33
+Kerry (County) Page 11: Found 20 listings
+Page 12/33
+Kerry (County) Page 12: Found 20 listings
+Page 13/33
+Kerry (County) Page 13: Found 20 listings
+Page 14/33
+Kerry (County) Page 14: Found 20 listings
+Page 15/33
+Kerry (County) Page 15: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 16/33
+Kerry (County) Page 16: Found 20 listings
+Page 17/33
+Kerry (County) Page 17: Found 20 listings
+Page 18/33
+Kerry (County) Page 18: Found 20 listings
+Page 19/33
+Kerry (County) Page 19: Found 20 listings
+Page 20/33
+Kerry (County) Page 20: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 21/33
+Kerry (County) Page 21: Found 20 listings
+Page 22/33
+Kerry (County) Page 22: Found 20 listings
+Page 23/33
+Kerry (County) Page 23: Found 20 listings
+Page 24/33
+Kerry (County) Page 24: Found 20 listings
+Page 25/33
+Page 25 retry 1/3
+Kerry (County) Page 25: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 26/33
+Kerry (County) Page 26: Found 20 listings
+Page 27/33
+Kerry (County) Page 27: Found 20 listings
+Page 28/33
+Kerry (County) Page 28: Found 20 listings
+Page 29/33
+Kerry (County) Page 29: Found 20 listings
+Page 30/33
+Kerry (County) Page 30: Found 20 listings
+Kerry (County): Cooling down 10 seconds...
+Page 31/33
+Kerry (County) Page 31: Found 20 listings
+Page 32/33
+Kerry (County) Page 32: Found 20 listings
+Page 33/33
+Kerry (County) Page 33: Found 1 listings
+💾 断点已保存（2/6 个区域，1050 条）
+========== Limerick (County) ==========
+https://www.daft.ie/property-for-sale/limerick
+Property for Sale in Limerick (County) | Daft.ie
+Limerick (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/limerick
+Limerick (County): __NEXT_DATA__ = 1
+Limerick (County): Total pages: 29
+Limerick (County) Page 1: Found 20 listings
+Page 2/29
+Limerick (County) Page 2: Found 20 listings
+Page 3/29
+Limerick (County) Page 3: Found 20 listings
+Page 4/29
+Limerick (County) Page 4: Found 20 listings
+Page 5/29
 Page 5 retry 1/3
-Blackrock, Dublin Page 5: Found 20 listings
-Blackrock, Dublin: Cooling down 10 seconds...
-Page 6/8
-Blackrock, Dublin Page 6: Found 20 listings
-Page 7/8
-Blackrock, Dublin Page 7: Found 20 listings
-Page 8/8
-Blackrock, Dublin Page 8: Found 11 listings
-💾 断点已保存（16/119 个区域，405 条）
-========== Booterstown, Dublin ==========
-https://www.daft.ie/property-for-sale/booterstown-dublin
-Property for Sale in Booterstown, Dublin | Daft.ie
-Booterstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/booterstown-dublin
-Booterstown, Dublin: __NEXT_DATA__ = 1
-Booterstown, Dublin: Total pages: 2
-Booterstown, Dublin Page 1: Found 20 listings
-Page 2/2
-Booterstown, Dublin Page 2: Found 10 listings
-💾 断点已保存（17/119 个区域，407 条）
-========== Bray, Dublin ==========
-https://www.daft.ie/property-for-sale/bray-dublin
-Property for Sale in Bray, Dublin | Daft.ie
-Bray, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/bray-dublin
-Bray, Dublin: __NEXT_DATA__ = 1
-Bray, Dublin: Total pages: 1
-Bray, Dublin Page 1: Found 12 listings
-💾 断点已保存（18/119 个区域，419 条）
-========== Brennanstown, Dublin ==========
-https://www.daft.ie/property-for-sale/brennanstown-dublin
-Property for Sale in Brennanstown, Dublin | Daft.ie
-Brennanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/brennanstown-dublin
-Brennanstown, Dublin: __NEXT_DATA__ = 1
-Brennanstown, Dublin: Total pages: 1
-Brennanstown, Dublin Page 1: Found 7 listings
-💾 断点已保存（19/119 个区域，426 条）
-========== Brittas, Dublin ==========
-https://www.daft.ie/property-for-sale/brittas-dublin
-Property for Sale in Brittas, Dublin | Daft.ie
-Brittas, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/brittas-dublin
-Brittas, Dublin: __NEXT_DATA__ = 1
-Brittas, Dublin: Total pages: 1
-Brittas, Dublin Page 1: Found 8 listings
-💾 断点已保存（20/119 个区域，434 条）
-========== Chapelizod, Dublin ==========
-https://www.daft.ie/property-for-sale/chapelizod-dublin
-Property for Sale in Chapelizod, Dublin | Daft.ie
-Chapelizod, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/chapelizod-dublin
-Chapelizod, Dublin: __NEXT_DATA__ = 1
-Chapelizod, Dublin: Total pages: 1
-Chapelizod, Dublin Page 1: Found 15 listings
-💾 断点已保存（21/119 个区域，449 条）
-========== Cherrywood, Dublin ==========
-https://www.daft.ie/property-for-sale/cherrywood-dublin
-Property for Sale in Cherrywood, Dublin | Daft.ie
-Cherrywood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/cherrywood-dublin
-Cherrywood, Dublin: __NEXT_DATA__ = 1
-Cherrywood, Dublin: Total pages: 2
-Cherrywood, Dublin Page 1: Found 20 listings
-Page 2/2
-Cherrywood, Dublin Page 2: Found 16 listings
-💾 断点已保存（22/119 个区域，484 条）
-========== Citywest, Dublin ==========
-https://www.daft.ie/property-for-sale/citywest-dublin
-Property for Sale in Citywest, Dublin | Daft.ie
-Citywest, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/citywest-dublin
-Citywest, Dublin: __NEXT_DATA__ = 1
-Citywest, Dublin: Total pages: 3
-Citywest, Dublin Page 1: Found 20 listings
-Page 2/3
-Page 2 retry 1/3
-Citywest, Dublin Page 2: Found 20 listings
-Page 3/3
-Citywest, Dublin Page 3: Found 9 listings
-💾 断点已保存（23/119 个区域，528 条）
-========== Clonburris, Dublin ==========
-https://www.daft.ie/property-for-sale/clonburris-dublin
-Property for Sale in Clonburris, Dublin | Daft.ie
-Clonburris, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/clonburris-dublin
-Clonburris, Dublin: __NEXT_DATA__ = 1
-Clonburris, Dublin: Total pages: 1
-Clonburris, Dublin Page 1: Found 5 listings
-💾 断点已保存（24/119 个区域，533 条）
-========== Clonee, Dublin ==========
-https://www.daft.ie/property-for-sale/clonee-dublin
-Property for Sale in Clonee, Dublin | Daft.ie
-Clonee, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/clonee-dublin
-Clonee, Dublin: __NEXT_DATA__ = 1
-Clonee, Dublin: Total pages: 4
-Clonee, Dublin Page 1: Found 20 listings
-Page 2/4
-Clonee, Dublin Page 2: Found 20 listings
-Page 3/4
-Clonee, Dublin Page 3: Found 20 listings
-Page 4/4
-Clonee, Dublin Page 4: Found 19 listings
-💾 断点已保存（25/119 个区域，612 条）
-========== Clonshaugh, Dublin ==========
-https://www.daft.ie/property-for-sale/clonshaugh-dublin
-Property for Sale in Clonshaugh, Dublin | Daft.ie
-Clonshaugh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/clonshaugh-dublin
-Clonshaugh, Dublin: __NEXT_DATA__ = 1
-Clonshaugh, Dublin: Total pages: 2
-Clonshaugh, Dublin Page 1: Found 20 listings
-Page 2/2
-Clonshaugh, Dublin Page 2: Found 15 listings
-💾 断点已保存（26/119 个区域，647 条）
-========== Clonsilla, Dublin ==========
-https://www.daft.ie/property-for-sale/clonsilla-dublin
-Property for Sale in Clonsilla, Dublin | Daft.ie
-Clonsilla, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/clonsilla-dublin
-Clonsilla, Dublin: __NEXT_DATA__ = 1
-Clonsilla, Dublin: Total pages: 8
-Clonsilla, Dublin Page 1: Found 20 listings
-Page 2/8
-Clonsilla, Dublin Page 2: Found 20 listings
-Page 3/8
-Clonsilla, Dublin Page 3: Found 20 listings
-Page 4/8
-Clonsilla, Dublin Page 4: Found 20 listings
-Page 5/8
-Page 5 retry 1/3
-Clonsilla, Dublin Page 5: Found 20 listings
-Clonsilla, Dublin: Cooling down 10 seconds...
-Page 6/8
-Clonsilla, Dublin Page 6: Found 20 listings
-Page 7/8
-Clonsilla, Dublin Page 7: Found 20 listings
-Page 8/8
-Clonsilla, Dublin Page 8: Found 2 listings
-💾 断点已保存（27/119 个区域，729 条）
-========== Clonskeagh, Dublin ==========
-⚠️ Clonskeagh, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://www.daft.ie/property-for-sale/clonskeagh-dublin", waiting until "domcontentloaded"
-），稍后重试
-Clonskeagh, Dublin: 重试后打开成功
-https://www.daft.ie/property-for-sale/clonskeagh-dublin
-Property for Sale in Clonskeagh, Dublin | Daft.ie
-Clonskeagh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/clonskeagh-dublin
-Clonskeagh, Dublin: __NEXT_DATA__ = 1
-Clonskeagh, Dublin: Total pages: 2
-Clonskeagh, Dublin Page 1: Found 20 listings
-Page 2/2
-Clonskeagh, Dublin Page 2: Found 19 listings
-💾 断点已保存（28/119 个区域，760 条）
-========== Collinswood, Dublin ==========
-https://www.daft.ie/property-for-sale/collinswood-dublin
-Property for Sale in Collinswood, Dublin | Daft.ie
-Collinswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/collinswood-dublin
-Collinswood, Dublin: __NEXT_DATA__ = 1
-Collinswood, Dublin: Total pages: 1
-Collinswood, Dublin Page 1: Found 1 listings
-💾 断点已保存（29/119 个区域，761 条）
-========== Coolmine, Dublin ==========
-https://www.daft.ie/property-for-sale/coolmine-dublin
-Property for Sale in Coolmine, Dublin | Daft.ie
-Coolmine, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/coolmine-dublin
-Coolmine, Dublin: __NEXT_DATA__ = 1
-Coolmine, Dublin: Total pages: 1
-Coolmine, Dublin Page 1: Found 13 listings
-💾 断点已保存（30/119 个区域，768 条）
-========== Corduff, Dublin ==========
-https://www.daft.ie/property-for-sale/corduff-dublin
-Property for Sale in Corduff, Dublin | Daft.ie
-Corduff, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/corduff-dublin
-Corduff, Dublin: __NEXT_DATA__ = 1
-Corduff, Dublin: Total pages: 1
-Corduff, Dublin Page 1: Found 13 listings
-💾 断点已保存（31/119 个区域，778 条）
-========== Cornelscourt, Dublin ==========
-https://www.daft.ie/property-for-sale/cornelscourt-dublin
-Property for Sale in Cornelscourt, Dublin | Daft.ie
-Cornelscourt, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/cornelscourt-dublin
-Cornelscourt, Dublin: __NEXT_DATA__ = 1
-Cornelscourt, Dublin: Total pages: 1
-Cornelscourt, Dublin Page 1: Found 6 listings
-💾 断点已保存（32/119 个区域，784 条）
-========== Dalkey, Dublin ==========
-https://www.daft.ie/property-for-sale/dalkey-dublin
-Property for Sale in Dalkey, Dublin | Daft.ie
-Dalkey, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dalkey-dublin
-Dalkey, Dublin: __NEXT_DATA__ = 1
-Dalkey, Dublin: Total pages: 3
-Dalkey, Dublin Page 1: Found 20 listings
-Page 2/3
-Dalkey, Dublin Page 2: Found 20 listings
-Page 3/3
-Dalkey, Dublin Page 3: Found 2 listings
-💾 断点已保存（33/119 个区域，826 条）
-========== Damastown, Dublin ==========
-https://www.daft.ie/property-for-sale/damastown-dublin
-Property for Sale in Damastown, Dublin | Daft.ie
-Damastown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/damastown-dublin
-Damastown, Dublin: __NEXT_DATA__ = 1
-Damastown, Dublin: Total pages: 0
-💾 断点已保存（34/119 个区域，826 条）
-========== Darndale, Dublin ==========
-https://www.daft.ie/property-for-sale/darndale-dublin
-Property for Sale in Darndale, Dublin | Daft.ie
-Darndale, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/darndale-dublin
-Darndale, Dublin: __NEXT_DATA__ = 1
-Darndale, Dublin: Total pages: 1
-Darndale, Dublin Page 1: Found 7 listings
-💾 断点已保存（35/119 个区域，829 条）
-========== Dartry, Dublin ==========
-https://www.daft.ie/property-for-sale/dartry-dublin
-Property for Sale in Dartry, Dublin | Daft.ie
-Dartry, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dartry-dublin
-Dartry, Dublin: __NEXT_DATA__ = 1
-Dartry, Dublin: Total pages: 1
-Dartry, Dublin Page 1: Found 18 listings
-💾 断点已保存（36/119 个区域，847 条）
-========== Deansgrange, Dublin ==========
-https://www.daft.ie/property-for-sale/deansgrange-dublin
-Property for Sale in Deansgrange, Dublin | Daft.ie
-Deansgrange, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/deansgrange-dublin
-Deansgrange, Dublin: __NEXT_DATA__ = 1
-Deansgrange, Dublin: Total pages: 2
-Deansgrange, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Deansgrange, Dublin Page 2: Found 4 listings
-💾 断点已保存（37/119 个区域，853 条）
-========== Dollymount, Dublin ==========
-https://www.daft.ie/property-for-sale/dollymount-dublin
-Property for Sale in Dollymount, Dublin | Daft.ie
-Dollymount, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dollymount-dublin
-Dollymount, Dublin: __NEXT_DATA__ = 1
-Dollymount, Dublin: Total pages: 1
-Dollymount, Dublin Page 1: Found 11 listings
-💾 断点已保存（38/119 个区域，864 条）
-========== Donabate, Dublin ==========
-https://www.daft.ie/property-for-sale/donabate-dublin
-Property for Sale in Donabate, Dublin | Daft.ie
-Donabate, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/donabate-dublin
-Donabate, Dublin: __NEXT_DATA__ = 1
-Donabate, Dublin: Total pages: 2
-Donabate, Dublin Page 1: Found 20 listings
-Page 2/2
-Donabate, Dublin Page 2: Found 8 listings
-💾 断点已保存（39/119 个区域，892 条）
-========== Donaghmede, Dublin ==========
-https://www.daft.ie/property-for-sale/donaghmede-dublin
-Property for Sale in Donaghmede, Dublin | Daft.ie
-Donaghmede, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/donaghmede-dublin
-Donaghmede, Dublin: __NEXT_DATA__ = 1
-Donaghmede, Dublin: Total pages: 3
-Donaghmede, Dublin Page 1: Found 20 listings
-Page 2/3
-Donaghmede, Dublin Page 2: Found 20 listings
-Page 3/3
-Donaghmede, Dublin Page 3: Found 14 listings
-💾 断点已保存（40/119 个区域，933 条）
-========== Donnycarney, Dublin ==========
-https://www.daft.ie/property-for-sale/donnycarney-dublin
-Property for Sale in Donnycarney, Dublin | Daft.ie
-Donnycarney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/donnycarney-dublin
-Donnycarney, Dublin: __NEXT_DATA__ = 1
-Donnycarney, Dublin: Total pages: 1
-Donnycarney, Dublin Page 1: Found 9 listings
-💾 断点已保存（41/119 个区域，942 条）
-========== Dun Laoghaire, Dublin ==========
-https://www.daft.ie/property-for-sale/dun-laoghaire-dublin
-Property for Sale in Dun Laoghaire, Dublin | Daft.ie
-Dun Laoghaire, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dun-laoghaire-dublin
-Dun Laoghaire, Dublin: __NEXT_DATA__ = 1
-Dun Laoghaire, Dublin: Total pages: 5
-Dun Laoghaire, Dublin Page 1: Found 20 listings
-Page 2/5
-Dun Laoghaire, Dublin Page 2: Found 20 listings
-Page 3/5
-Dun Laoghaire, Dublin Page 3: Found 20 listings
-Page 4/5
-Dun Laoghaire, Dublin Page 4: Found 20 listings
-Page 5/5
-Dun Laoghaire, Dublin Page 5: Found 14 listings
-💾 断点已保存（42/119 个区域，1032 条）
-========== Edenmore, Dublin ==========
-https://www.daft.ie/property-for-sale/edenmore-dublin
-Property for Sale in Edenmore, Dublin | Daft.ie
-Edenmore, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/edenmore-dublin
-Edenmore, Dublin: __NEXT_DATA__ = 1
-Edenmore, Dublin: Total pages: 1
-Edenmore, Dublin Page 1: Found 6 listings
-💾 断点已保存（43/119 个区域，1038 条）
-========== Edmondstown, Dublin ==========
-https://www.daft.ie/property-for-sale/edmondstown-dublin
-Property for Sale in Edmondstown, Dublin | Daft.ie
-Edmondstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/edmondstown-dublin
-Edmondstown, Dublin: __NEXT_DATA__ = 1
-Edmondstown, Dublin: Total pages: 1
-Edmondstown, Dublin Page 1: Found 11 listings
-💾 断点已保存（44/119 个区域，1041 条）
-========== Firhouse, Dublin ==========
-https://www.daft.ie/property-for-sale/firhouse-dublin
-Property for Sale in Firhouse, Dublin | Daft.ie
-Firhouse, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/firhouse-dublin
-Firhouse, Dublin: __NEXT_DATA__ = 1
-Firhouse, Dublin: Total pages: 3
-Firhouse, Dublin Page 1: Found 20 listings
-Page 2/3
-Firhouse, Dublin Page 2: Found 20 listings
-Page 3/3
-Page 3 retry 1/3
-Firhouse, Dublin Page 3: Found 2 listings
-💾 断点已保存（45/119 个区域，1083 条）
-========== Foxrock, Dublin ==========
-https://www.daft.ie/property-for-sale/foxrock-dublin
-Property for Sale in Foxrock, Dublin | Daft.ie
-Foxrock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/foxrock-dublin
-Foxrock, Dublin: __NEXT_DATA__ = 1
-Foxrock, Dublin: Total pages: 3
-Foxrock, Dublin Page 1: Found 20 listings
-Page 2/3
-Foxrock, Dublin Page 2: Found 20 listings
-Page 3/3
-Foxrock, Dublin Page 3: Found 16 listings
-💾 断点已保存（46/119 个区域，1115 条）
-========== Galloping Green, Dublin ==========
-https://www.daft.ie/property-for-sale/galloping-green-dublin
-Property for Sale in Galloping Green, Dublin | Daft.ie
-Galloping Green, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/galloping-green-dublin
-Galloping Green, Dublin: __NEXT_DATA__ = 1
-Galloping Green, Dublin: Total pages: 1
-Galloping Green, Dublin Page 1: Found 1 listings
-💾 断点已保存（47/119 个区域，1115 条）
-========== Garristown, Dublin ==========
-https://www.daft.ie/property-for-sale/garristown-dublin
-Property for Sale in Garristown, Dublin | Daft.ie
-Garristown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/garristown-dublin
-Garristown, Dublin: __NEXT_DATA__ = 1
-Garristown, Dublin: Total pages: 1
-Garristown, Dublin Page 1: Found 6 listings
-💾 断点已保存（48/119 个区域，1121 条）
-========== Glasthule, Dublin ==========
-https://www.daft.ie/property-for-sale/glasthule-dublin
-Property for Sale in Glasthule, Dublin | Daft.ie
-Glasthule, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/glasthule-dublin
-Glasthule, Dublin: __NEXT_DATA__ = 1
-Glasthule, Dublin: Total pages: 1
-Glasthule, Dublin Page 1: Found 10 listings
-💾 断点已保存（49/119 个区域，1122 条）
-========== Glenageary, Dublin ==========
-https://www.daft.ie/property-for-sale/glenageary-dublin
-Property for Sale in Glenageary, Dublin | Daft.ie
-Glenageary, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/glenageary-dublin
-Glenageary, Dublin: __NEXT_DATA__ = 1
-Glenageary, Dublin: Total pages: 3
-Glenageary, Dublin Page 1: Found 20 listings
-Page 2/3
-Glenageary, Dublin Page 2: Found 20 listings
-Page 3/3
-Glenageary, Dublin Page 3: Found 12 listings
-💾 断点已保存（50/119 个区域，1124 条）
-========== Glenasmole, Dublin ==========
-https://www.daft.ie/property-for-sale/glenasmole-dublin
-Property for Sale in Glenasmole, Dublin | Daft.ie
-Glenasmole, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/glenasmole-dublin
-Glenasmole, Dublin: __NEXT_DATA__ = 1
-Glenasmole, Dublin: Total pages: 1
-Glenasmole, Dublin Page 1: Found 1 listings
-💾 断点已保存（51/119 个区域，1125 条）
-========== Glencullen, Dublin ==========
-https://www.daft.ie/property-for-sale/glencullen-dublin
-Property for Sale in Glencullen, Dublin | Daft.ie
-Glencullen, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/glencullen-dublin
-Glencullen, Dublin: __NEXT_DATA__ = 1
-Glencullen, Dublin: Total pages: 1
-Glencullen, Dublin Page 1: Found 6 listings
-💾 断点已保存（52/119 个区域，1131 条）
-========== Grange Castle, Dublin ==========
-https://www.daft.ie/property-for-sale/grange-castle-dublin
-Property for Sale in Grange Castle, Dublin | Daft.ie
-Grange Castle, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/grange-castle-dublin
-Grange Castle, Dublin: __NEXT_DATA__ = 1
-Grange Castle, Dublin: Total pages: 2
-Grange Castle, Dublin Page 1: Found 20 listings
-Page 2/2
-Grange Castle, Dublin Page 2: Found 6 listings
-💾 断点已保存（53/119 个区域，1157 条）
-========== Hartstown, Dublin ==========
-https://www.daft.ie/property-for-sale/hartstown-dublin
-Property for Sale in Hartstown, Dublin | Daft.ie
-Hartstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/hartstown-dublin
-Hartstown, Dublin: __NEXT_DATA__ = 1
-Hartstown, Dublin: Total pages: 1
-Hartstown, Dublin Page 1: Found 17 listings
-💾 断点已保存（54/119 个区域，1157 条）
-========== Hollystown, Dublin ==========
-https://www.daft.ie/property-for-sale/hollystown-dublin
-Property for Sale in Hollystown, Dublin | Daft.ie
-Hollystown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/hollystown-dublin
-Hollystown, Dublin: __NEXT_DATA__ = 1
-Hollystown, Dublin: Total pages: 3
-Hollystown, Dublin Page 1: Found 20 listings
-Page 2/3
-Page 2 retry 1/3
-Hollystown, Dublin Page 2: Found 20 listings
-Page 3/3
-Hollystown, Dublin Page 3: Found 4 listings
-💾 断点已保存（55/119 个区域，1201 条）
-========== Howth, Dublin ==========
-https://www.daft.ie/property-for-sale/howth-dublin
-Property for Sale in Howth, Dublin | Daft.ie
-Howth, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/howth-dublin
-Howth, Dublin: __NEXT_DATA__ = 1
-Howth, Dublin: Total pages: 3
-Howth, Dublin Page 1: Found 20 listings
-Page 2/3
-Howth, Dublin Page 2: Found 20 listings
-Page 3/3
-Howth, Dublin Page 3: Found 3 listings
-💾 断点已保存（56/119 个区域，1244 条）
-========== Huntstown, Dublin ==========
-https://www.daft.ie/property-for-sale/huntstown-dublin
-Property for Sale in Huntstown, Dublin | Daft.ie
-Huntstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/huntstown-dublin
-Huntstown, Dublin: __NEXT_DATA__ = 1
-Huntstown, Dublin: Total pages: 2
-Huntstown, Dublin Page 1: Found 20 listings
-Page 2/2
-Huntstown, Dublin Page 2: Found 4 listings
-💾 断点已保存（57/119 个区域，1244 条）
-========== Islandbridge, Dublin ==========
-https://www.daft.ie/property-for-sale/islandbridge-dublin
-Property for Sale in Islandbridge, Dublin | Daft.ie
-Islandbridge, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/islandbridge-dublin
-Islandbridge, Dublin: __NEXT_DATA__ = 1
-Islandbridge, Dublin: Total pages: 2
-Islandbridge, Dublin Page 1: Found 20 listings
-Page 2/2
-Islandbridge, Dublin Page 2: Found 15 listings
-💾 断点已保存（58/119 个区域，1279 条）
-========== Jobstown, Dublin ==========
-https://www.daft.ie/property-for-sale/jobstown-dublin?__cf_chl_rt_tk=OB6498Amom_sAkdI_VelcIDDHjSKQTWgyTJWN8hZuhA-1791441600-1.0.1.1-ymlNNKRolj0vNzRKYMO6qEOqvMhdCtMIjwFnQ2ddzho
+Limerick (County) Page 5: Found 20 listings
+Limerick (County): Cooling down 10 seconds...
+Page 6/29
+Limerick (County) Page 6: Found 20 listings
+Page 7/29
+Limerick (County) Page 7: Found 20 listings
+Page 8/29
+Limerick (County) Page 8: Found 20 listings
+Page 9/29
+Limerick (County) Page 9: Found 20 listings
+Page 10/29
+Limerick (County) Page 10: Found 20 listings
+Limerick (County): Cooling down 10 seconds...
+Page 11/29
+Limerick (County) Page 11: Found 20 listings
+Page 12/29
+Limerick (County) Page 12: Found 20 listings
+Page 13/29
+Limerick (County) Page 13: Found 20 listings
+Page 14/29
+Limerick (County) Page 14: Found 20 listings
+Page 15/29
+Limerick (County) Page 15: Found 20 listings
+Limerick (County): Cooling down 10 seconds...
+Page 16/29
+Limerick (County) Page 16: Found 20 listings
+Page 17/29
+Limerick (County) Page 17: Found 20 listings
+Page 18/29
+Limerick (County) Page 18: Found 20 listings
+Page 19/29
+Limerick (County) Page 19: Found 20 listings
+Page 20/29
+Limerick (County) Page 20: Found 20 listings
+Limerick (County): Cooling down 10 seconds...
+Page 21/29
+Limerick (County) Page 21: Found 20 listings
+Page 22/29
+Limerick (County) Page 22: Found 20 listings
+Page 23/29
+Limerick (County) Page 23: Found 20 listings
+Page 24/29
+Limerick (County) Page 24: Found 20 listings
+Page 25/29
+Limerick (County) Page 25: Found 20 listings
+Limerick (County): Cooling down 10 seconds...
+Page 26/29
+Limerick (County) Page 26: Found 20 listings
+Page 27/29
+Limerick (County) Page 27: Found 20 listings
+Page 28/29
+Limerick (County) Page 28: Found 20 listings
+Page 29/29
+Limerick (County) Page 29: Found 17 listings
+💾 断点已保存（3/6 个区域，1627 条）
+========== Mayo (County) ==========
+https://www.daft.ie/property-for-sale/mayo?__cf_chl_rt_tk=dtOuDQTWc9LNyzD_5dd26eLlm7bmUApz8.Ysm.VhxB4-1791447040-1.0.1.1-35BoxvhA0ngRrPA7A15FCfUm5TuZrFdYrVeQvHEMFpU
 Security Check | Daft
 Cloudflare challenge...
-After reload: Property for Sale in Jobstown, Dublin | Daft.ie
-Jobstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/jobstown-dublin
-Jobstown, Dublin: __NEXT_DATA__ = 1
-Jobstown, Dublin: Total pages: 1
-Jobstown, Dublin Page 1: Found 9 listings
-💾 断点已保存（59/119 个区域，1282 条）
-========== Kilbarrack, Dublin ==========
-https://www.daft.ie/property-for-sale/kilbarrack-dublin
-Property for Sale in Kilbarrack, Dublin | Daft.ie
-Kilbarrack, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilbarrack-dublin
-Kilbarrack, Dublin: __NEXT_DATA__ = 1
-Kilbarrack, Dublin: Total pages: 1
-Kilbarrack, Dublin Page 1: Found 10 listings
-💾 断点已保存（60/119 个区域，1289 条）
-========== Kilcarbery, Dublin ==========
-https://www.daft.ie/property-for-sale/kilcarbery-dublin
-Property for Sale in Kilcarbery, Dublin | Daft.ie
-Kilcarbery, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilcarbery-dublin
-Kilcarbery, Dublin: __NEXT_DATA__ = 1
-Kilcarbery, Dublin: Total pages: 1
-Kilcarbery, Dublin Page 1: Found 4 listings
-💾 断点已保存（61/119 个区域，1289 条）
-========== Kill O' The Grange, Dublin ==========
-https://www.daft.ie/property-for-sale/kill-o-the-grange-dublin
-Property for Sale in Kill O' The Grange, Dublin | Daft.ie
-Kill O' The Grange, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kill-o-the-grange-dublin
-Kill O' The Grange, Dublin: __NEXT_DATA__ = 1
-Kill O' The Grange, Dublin: Total pages: 1
-Kill O' The Grange, Dublin Page 1: Found 13 listings
-💾 断点已保存（62/119 个区域，1289 条）
-========== Killakee, Dublin ==========
-https://www.daft.ie/property-for-sale/killakee-dublin
-Property for Sale in Killakee, Dublin | Daft.ie
-Killakee, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/killakee-dublin
-Killakee, Dublin: __NEXT_DATA__ = 1
-Killakee, Dublin: Total pages: 1
-Killakee, Dublin Page 1: Found 1 listings
-💾 断点已保存（63/119 个区域，1290 条）
-========== Killester, Dublin ==========
-https://www.daft.ie/property-for-sale/killester-dublin
-Property for Sale in Killester, Dublin | Daft.ie
-Killester, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/killester-dublin
-Killester, Dublin: __NEXT_DATA__ = 1
-Killester, Dublin: Total pages: 1
-Killester, Dublin Page 1: Found 15 listings
-💾 断点已保存（64/119 个区域，1301 条）
-========== Killiney, Dublin ==========
-https://www.daft.ie/property-for-sale/killiney-dublin
-Property for Sale in Killiney, Dublin | Daft.ie
-Killiney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/killiney-dublin
-Killiney, Dublin: __NEXT_DATA__ = 1
-Killiney, Dublin: Total pages: 4
-Killiney, Dublin Page 1: Found 20 listings
-Page 2/4
-Killiney, Dublin Page 2: Found 20 listings
-Page 3/4
-Killiney, Dublin Page 3: Found 20 listings
-Page 4/4
-Killiney, Dublin Page 4: Found 13 listings
-💾 断点已保存（65/119 个区域，1326 条）
-========== Kilmacud, Dublin ==========
-https://www.daft.ie/property-for-sale/kilmacud-dublin
-Property for Sale in Kilmacud, Dublin | Daft.ie
-Kilmacud, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilmacud-dublin
-Kilmacud, Dublin: __NEXT_DATA__ = 1
-Kilmacud, Dublin: Total pages: 2
-Kilmacud, Dublin Page 1: Found 20 listings
-Page 2/2
-Kilmacud, Dublin Page 2: Found 12 listings
-💾 断点已保存（66/119 个区域，1358 条）
-========== Kilmore, Dublin ==========
-https://www.daft.ie/property-for-sale/kilmore-dublin
-Property for Sale in Kilmore, Dublin | Daft.ie
-Kilmore, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilmore-dublin
-Kilmore, Dublin: __NEXT_DATA__ = 1
-Kilmore, Dublin: Total pages: 2
-Kilmore, Dublin Page 1: Found 20 listings
-Page 2/2
-Kilmore, Dublin Page 2: Found 14 listings
-💾 断点已保存（67/119 个区域，1389 条）
-========== Kilnamanagh, Dublin ==========
-https://www.daft.ie/property-for-sale/kilnamanagh-dublin
-Property for Sale in Kilnamanagh, Dublin | Daft.ie
-Kilnamanagh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilnamanagh-dublin
-Kilnamanagh, Dublin: __NEXT_DATA__ = 1
-Kilnamanagh, Dublin: Total pages: 1
-Kilnamanagh, Dublin Page 1: Found 19 listings
-💾 断点已保存（68/119 个区域，1408 条）
-========== Kilsallaghan, Dublin ==========
-https://www.daft.ie/property-for-sale/kilsallaghan-dublin
-Property for Sale in Kilsallaghan, Dublin | Daft.ie
-Kilsallaghan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kilsallaghan-dublin
-Kilsallaghan, Dublin: __NEXT_DATA__ = 1
-Kilsallaghan, Dublin: Total pages: 1
-Kilsallaghan, Dublin Page 1: Found 8 listings
-💾 断点已保存（69/119 个区域，1415 条）
-========== Kiltipper, Dublin ==========
-https://www.daft.ie/property-for-sale/kiltipper-dublin?__cf_chl_rt_tk=5B1dkqQAswSvVAsMVh6_wbtUg_.yDntswFReEy0wK9s-1791441718-1.0.1.1-NNmd6d5a6dPXcsb18JrBmVU9C3WYzq1.DnrKahfBUC0
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property for Sale in Kiltipper, Dublin | Daft.ie
-Kiltipper, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kiltipper-dublin
-Kiltipper, Dublin: __NEXT_DATA__ = 1
-Kiltipper, Dublin: Total pages: 2
-Kiltipper, Dublin Page 1: Found 20 listings
-Page 2/2
-Kiltipper, Dublin Page 2: Found 3 listings
-💾 断点已保存（70/119 个区域，1437 条）
-========== Kingswood, Dublin ==========
-https://www.daft.ie/property-for-sale/kingswood-dublin
-Property for Sale in Kingswood, Dublin | Daft.ie
-Kingswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kingswood-dublin
-Kingswood, Dublin: __NEXT_DATA__ = 1
-Kingswood, Dublin: Total pages: 1
-Kingswood, Dublin Page 1: Found 12 listings
-💾 断点已保存（71/119 个区域，1438 条）
-========== Kinsealy, Dublin ==========
-https://www.daft.ie/property-for-sale/kinsealy-dublin
-Property for Sale in Kinsealy, Dublin | Daft.ie
-Kinsealy, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/kinsealy-dublin
-Kinsealy, Dublin: __NEXT_DATA__ = 1
-Kinsealy, Dublin: Total pages: 4
-Kinsealy, Dublin Page 1: Found 20 listings
-Page 2/4
-Kinsealy, Dublin Page 2: Found 20 listings
-Page 3/4
-Kinsealy, Dublin Page 3: Found 20 listings
-Page 4/4
-Kinsealy, Dublin Page 4: Found 3 listings
-💾 断点已保存（72/119 个区域，1501 条）
-========== Knocklyon, Dublin ==========
-https://www.daft.ie/property-for-sale/knocklyon-dublin
-Property for Sale in Knocklyon, Dublin | Daft.ie
-Knocklyon, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/knocklyon-dublin
-Knocklyon, Dublin: __NEXT_DATA__ = 1
-Knocklyon, Dublin: Total pages: 3
-Knocklyon, Dublin Page 1: Found 20 listings
-Page 2/3
-Knocklyon, Dublin Page 2: Found 20 listings
-Page 3/3
-Knocklyon, Dublin Page 3: Found 17 listings
-💾 断点已保存（73/119 个区域，1536 条）
-========== Laughanstown, Dublin ==========
-https://www.daft.ie/property-for-sale/laughanstown-dublin
-Property for Sale in Laughanstown, Dublin | Daft.ie
-Laughanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/laughanstown-dublin
-Laughanstown, Dublin: __NEXT_DATA__ = 1
-Laughanstown, Dublin: Total pages: 1
-Laughanstown, Dublin Page 1: Found 3 listings
-💾 断点已保存（74/119 个区域，1537 条）
-========== Loughlinstown, Dublin ==========
-https://www.daft.ie/property-for-sale/loughlinstown-dublin
-Property for Sale in Loughlinstown, Dublin | Daft.ie
-Loughlinstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/loughlinstown-dublin
-Loughlinstown, Dublin: __NEXT_DATA__ = 1
-Loughlinstown, Dublin: Total pages: 3
-Loughlinstown, Dublin Page 1: Found 20 listings
-Page 2/3
-Loughlinstown, Dublin Page 2: Found 20 listings
-Page 3/3
-Loughlinstown, Dublin Page 3: Found 1 listings
-💾 断点已保存（75/119 个区域，1552 条）
-========== Loughshinny, Dublin ==========
-https://www.daft.ie/property-for-sale/loughshinny-dublin
-Property for Sale in Loughshinny, Dublin | Daft.ie
-Loughshinny, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/loughshinny-dublin
-Loughshinny, Dublin: __NEXT_DATA__ = 1
-Loughshinny, Dublin: Total pages: 1
-Loughshinny, Dublin Page 1: Found 2 listings
-💾 断点已保存（76/119 个区域，1554 条）
-========== Lucan, Dublin ==========
-https://www.daft.ie/property-for-sale/lucan-dublin?__cf_chl_rt_tk=6Wr69AZFx9Yfv0TtDmyprl1hQKoLmtsNi9tGvM9CIBg-1791441829-1.0.1.1-hhiStymJz6s9woTsCJbW1FjTlIz0yBokkOuKi8y7g6A
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property for Sale in Lucan, Dublin | Daft.ie
-Lucan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/lucan-dublin
-Lucan, Dublin: __NEXT_DATA__ = 1
-Lucan, Dublin: Total pages: 6
-Lucan, Dublin Page 1: Found 20 listings
-Page 2/6
-Lucan, Dublin Page 2: Found 20 listings
-Page 3/6
-Lucan, Dublin Page 3: Found 20 listings
-Page 4/6
-Lucan, Dublin Page 4: Found 20 listings
-Page 5/6
-Lucan, Dublin Page 5: Found 20 listings
-Lucan, Dublin: Cooling down 10 seconds...
-Page 6/6
-Lucan, Dublin Page 6: Found 13 listings
-💾 断点已保存（77/119 个区域，1625 条）
-========== Lusk, Dublin ==========
-https://www.daft.ie/property-for-sale/lusk-dublin
-Property for Sale in Lusk, Dublin | Daft.ie
-Lusk, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/lusk-dublin
-Lusk, Dublin: __NEXT_DATA__ = 1
-Lusk, Dublin: Total pages: 2
-Lusk, Dublin Page 1: Found 20 listings
-Page 2/2
-Lusk, Dublin Page 2: Found 6 listings
-💾 断点已保存（78/119 个区域，1638 条）
-========== Malahide, Dublin ==========
-https://www.daft.ie/property-for-sale/malahide-dublin
-Property for Sale in Malahide, Dublin | Daft.ie
-Malahide, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/malahide-dublin
-Malahide, Dublin: __NEXT_DATA__ = 1
-Malahide, Dublin: Total pages: 5
-Malahide, Dublin Page 1: Found 20 listings
-Page 2/5
-Malahide, Dublin Page 2: Found 20 listings
-Page 3/5
-Malahide, Dublin Page 3: Found 20 listings
-Page 4/5
-Malahide, Dublin Page 4: Found 20 listings
-Page 5/5
-Malahide, Dublin Page 5: Found 19 listings
-💾 断点已保存（79/119 个区域，1710 条）
-========== Marino, Dublin ==========
-https://www.daft.ie/property-for-sale/marino-dublin
-Property for Sale in Marino, Dublin | Daft.ie
-Marino, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/marino-dublin
-Marino, Dublin: __NEXT_DATA__ = 1
-Marino, Dublin: Total pages: 1
-Marino, Dublin Page 1: Found 16 listings
-💾 断点已保存（80/119 个区域，1726 条）
-========== Merrion, Dublin ==========
-https://www.daft.ie/property-for-sale/merrion-dublin
-Property for Sale in Merrion, Dublin | Daft.ie
-Merrion, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/merrion-dublin
-Merrion, Dublin: __NEXT_DATA__ = 1
-Merrion, Dublin: Total pages: 1
-Merrion, Dublin Page 1: Found 10 listings
-💾 断点已保存（81/119 个区域，1734 条）
-========== Milltown, Dublin ==========
-https://www.daft.ie/property-for-sale/milltown-dublin?__cf_chl_rt_tk=HSbmyW0O7dVclhbPDOiXOwi__VOGhOeYI0wCBJpmkt8-1791441944-1.0.1.1-o5DgBKBuXrjReOQAYXAAZyga_x2ihVQTJE9RoP2b6mg
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property for Sale in Milltown, Dublin | Daft.ie
-Milltown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/milltown-dublin
-Milltown, Dublin: __NEXT_DATA__ = 1
-Milltown, Dublin: Total pages: 2
-Milltown, Dublin Page 1: Found 20 listings
-Page 2/2
-Milltown, Dublin Page 2: Found 17 listings
-💾 断点已保存（82/119 个区域，1766 条）
-========== Monkstown, Dublin ==========
-https://www.daft.ie/property-for-sale/monkstown-dublin
-Property for Sale in Monkstown, Dublin | Daft.ie
-Monkstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/monkstown-dublin
-Monkstown, Dublin: __NEXT_DATA__ = 1
-Monkstown, Dublin: Total pages: 3
-Monkstown, Dublin Page 1: Found 20 listings
-Page 2/3
-Monkstown, Dublin Page 2: Found 20 listings
-Page 3/3
-Monkstown, Dublin Page 3: Found 14 listings
-💾 断点已保存（83/119 个区域，1767 条）
-========== Mulhuddart, Dublin ==========
-https://www.daft.ie/property-for-sale/mulhuddart-dublin
-Property for Sale in Mulhuddart, Dublin | Daft.ie
-Mulhuddart, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/mulhuddart-dublin
-Mulhuddart, Dublin: __NEXT_DATA__ = 1
-Mulhuddart, Dublin: Total pages: 2
-Mulhuddart, Dublin Page 1: Found 20 listings
-Page 2/2
-Mulhuddart, Dublin Page 2: Found 18 listings
-💾 断点已保存（84/119 个区域，1776 条）
-========== Naul, Dublin ==========
-https://www.daft.ie/property-for-sale/naul-dublin
-Property for Sale in Naul, Dublin | Daft.ie
-Naul, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/naul-dublin
-Naul, Dublin: __NEXT_DATA__ = 1
-Naul, Dublin: Total pages: 1
-Naul, Dublin Page 1: Found 10 listings
-💾 断点已保存（85/119 个区域，1783 条）
-========== Newcastle, Dublin ==========
-https://www.daft.ie/property-for-sale/newcastle-dublin
-Property for Sale in Newcastle, Dublin | Daft.ie
-Newcastle, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/newcastle-dublin
-Newcastle, Dublin: __NEXT_DATA__ = 1
-Newcastle, Dublin: Total pages: 2
-Newcastle, Dublin Page 1: Found 20 listings
-Page 2/2
-Newcastle, Dublin Page 2: Found 5 listings
-💾 断点已保存（86/119 个区域，1806 条）
-========== Old Connaught, Dublin ==========
-https://www.daft.ie/property-for-sale/old-connaught-dublin
-Property for Sale in Old Connaught, Dublin | Daft.ie
-Old Connaught, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/old-connaught-dublin
-Old Connaught, Dublin: __NEXT_DATA__ = 1
-Old Connaught, Dublin: Total pages: 1
-Old Connaught, Dublin Page 1: Found 4 listings
-💾 断点已保存（87/119 个区域，1808 条）
-========== Oldbawn, Dublin ==========
-https://www.daft.ie/property-for-sale/oldbawn-dublin
-Property for Sale in Oldbawn, Dublin | Daft.ie
-Oldbawn, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/oldbawn-dublin
-Oldbawn, Dublin: __NEXT_DATA__ = 1
-Oldbawn, Dublin: Total pages: 1
-Oldbawn, Dublin Page 1: Found 19 listings
-💾 断点已保存（88/119 个区域，1827 条）
-========== Oldtown, Dublin ==========
-https://www.daft.ie/property-for-sale/oldtown-dublin
-Property for Sale in Oldtown, Dublin | Daft.ie
-Oldtown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/oldtown-dublin
-Oldtown, Dublin: __NEXT_DATA__ = 1
-Oldtown, Dublin: Total pages: 1
-Oldtown, Dublin Page 1: Found 7 listings
-💾 断点已保存（89/119 个区域，1828 条）
-========== Ongar, Dublin ==========
-https://www.daft.ie/property-for-sale/ongar-dublin
-Property for Sale in Ongar, Dublin | Daft.ie
-Ongar, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ongar-dublin
-Ongar, Dublin: __NEXT_DATA__ = 1
-Ongar, Dublin: Total pages: 2
-Ongar, Dublin Page 1: Found 20 listings
-Page 2/2
-Ongar, Dublin Page 2: Found 5 listings
-💾 断点已保存（90/119 个区域，1828 条）
-========== Palmerstown, Dublin ==========
-https://www.daft.ie/property-for-sale/palmerstown-dublin
-Property for Sale in Palmerstown, Dublin | Daft.ie
-Palmerstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/palmerstown-dublin
-Palmerstown, Dublin: __NEXT_DATA__ = 1
-Palmerstown, Dublin: Total pages: 2
-Palmerstown, Dublin Page 1: Found 20 listings
-Page 2/2
-Palmerstown, Dublin Page 2: Found 2 listings
-💾 断点已保存（91/119 个区域，1850 条）
-========== Poppintree, Dublin ==========
-https://www.daft.ie/property-for-sale/poppintree-dublin
-Property for Sale in Poppintree, Dublin | Daft.ie
-Poppintree, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/poppintree-dublin
-Poppintree, Dublin: __NEXT_DATA__ = 1
-Poppintree, Dublin: Total pages: 2
-Poppintree, Dublin Page 1: Found 20 listings
-Page 2/2
-Poppintree, Dublin Page 2: Found 12 listings
-💾 断点已保存（92/119 个区域，1882 条）
-========== Portmarnock, Dublin ==========
-https://www.daft.ie/property-for-sale/portmarnock-dublin
-Property for Sale in Portmarnock, Dublin | Daft.ie
-Portmarnock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/portmarnock-dublin
-Portmarnock, Dublin: __NEXT_DATA__ = 1
-Portmarnock, Dublin: Total pages: 3
-Portmarnock, Dublin Page 1: Found 20 listings
-Page 2/3
-Portmarnock, Dublin Page 2: Found 20 listings
-Page 3/3
-Page 3 retry 1/3
-Portmarnock, Dublin Page 3: Found 8 listings
-💾 断点已保存（93/119 个区域，1910 条）
-========== Portrane, Dublin ==========
-https://www.daft.ie/property-for-sale/portrane-dublin
-Property for Sale in Portrane, Dublin | Daft.ie
-Portrane, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/portrane-dublin
-Portrane, Dublin: __NEXT_DATA__ = 1
-Portrane, Dublin: Total pages: 1
-Portrane, Dublin Page 1: Found 4 listings
-💾 断点已保存（94/119 个区域，1910 条）
-========== Priorswood, Dublin ==========
-https://www.daft.ie/property-for-sale/priorswood-dublin
-Property for Sale in Priorswood, Dublin | Daft.ie
-Priorswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/priorswood-dublin
-Priorswood, Dublin: __NEXT_DATA__ = 1
-Priorswood, Dublin: Total pages: 1
-Priorswood, Dublin Page 1: Found 1 listings
-💾 断点已保存（95/119 个区域，1910 条）
-========== Rathcoole, Dublin ==========
-https://www.daft.ie/property-for-sale/rathcoole-dublin
-Property for Sale in Rathcoole, Dublin | Daft.ie
-Rathcoole, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rathcoole-dublin
-Rathcoole, Dublin: __NEXT_DATA__ = 1
-Rathcoole, Dublin: Total pages: 1
-Rathcoole, Dublin Page 1: Found 18 listings
-💾 断点已保存（96/119 个区域，1922 条）
-========== Rathfarnham, Dublin ==========
-https://www.daft.ie/property-for-sale/rathfarnham-dublin
-Property for Sale in Rathfarnham, Dublin | Daft.ie
-Rathfarnham, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rathfarnham-dublin
-Rathfarnham, Dublin: __NEXT_DATA__ = 1
-Rathfarnham, Dublin: Total pages: 7
-Rathfarnham, Dublin Page 1: Found 20 listings
-Page 2/7
-Rathfarnham, Dublin Page 2: Found 20 listings
-Page 3/7
-Rathfarnham, Dublin Page 3: Found 20 listings
-Page 4/7
-Rathfarnham, Dublin Page 4: Found 20 listings
-Page 5/7
-Rathfarnham, Dublin Page 5: Found 20 listings
-Rathfarnham, Dublin: Cooling down 10 seconds...
-Page 6/7
-Page 6 retry 1/3
-Rathfarnham, Dublin Page 6: Found 20 listings
-Page 7/7
-Rathfarnham, Dublin Page 7: Found 10 listings
-💾 断点已保存（97/119 个区域，2002 条）
-========== Rathmichael, Dublin ==========
-https://www.daft.ie/property-for-sale/rathmichael-dublin
-Property for Sale in Rathmichael, Dublin | Daft.ie
-Rathmichael, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rathmichael-dublin
-Rathmichael, Dublin: __NEXT_DATA__ = 1
-Rathmichael, Dublin: Total pages: 2
-Rathmichael, Dublin Page 1: Found 20 listings
-Page 2/2
-Rathmichael, Dublin Page 2: Found 5 listings
-💾 断点已保存（98/119 个区域，2012 条）
-========== Rockbrook, Dublin ==========
-https://www.daft.ie/property-for-sale/rockbrook-dublin
-Property for Sale in Rockbrook, Dublin | Daft.ie
-Rockbrook, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rockbrook-dublin
-Rockbrook, Dublin: __NEXT_DATA__ = 1
-Rockbrook, Dublin: Total pages: 0
-💾 断点已保存（99/119 个区域，2012 条）
-========== Rolestown, Dublin ==========
-https://www.daft.ie/property-for-sale/rolestown-dublin
-Property for Sale in Rolestown, Dublin | Daft.ie
-Rolestown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rolestown-dublin
-Rolestown, Dublin: __NEXT_DATA__ = 1
-Rolestown, Dublin: Total pages: 1
-Rolestown, Dublin Page 1: Found 5 listings
-💾 断点已保存（100/119 个区域，2012 条）
-========== Ronanstown, Dublin ==========
-https://www.daft.ie/property-for-sale/ronanstown-dublin
-Property for Sale in Ronanstown, Dublin | Daft.ie
-Ronanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ronanstown-dublin
-Ronanstown, Dublin: __NEXT_DATA__ = 1
-Ronanstown, Dublin: Total pages: 1
-Ronanstown, Dublin Page 1: Found 7 listings
-💾 断点已保存（101/119 个区域，2019 条）
-========== Royal Canal Park, Dublin ==========
-https://www.daft.ie/property-for-sale/royal-canal-park-dublin
-Property for Sale in Royal Canal Park, Dublin | Daft.ie
-Royal Canal Park, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/royal-canal-park-dublin
-Royal Canal Park, Dublin: __NEXT_DATA__ = 1
-Royal Canal Park, Dublin: Total pages: 1
-Royal Canal Park, Dublin Page 1: Found 20 listings
-💾 断点已保存（102/119 个区域，2039 条）
-========== Rush, Dublin ==========
-https://www.daft.ie/property-for-sale/rush-dublin
-Property for Sale in Rush, Dublin | Daft.ie
-Rush, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/rush-dublin
-Rush, Dublin: __NEXT_DATA__ = 1
-Rush, Dublin: Total pages: 3
-Rush, Dublin Page 1: Found 20 listings
-Page 2/3
-Rush, Dublin Page 2: Found 20 listings
-Page 3/3
-Rush, Dublin Page 3: Found 13 listings
-💾 断点已保存（103/119 个区域，2090 条）
-========== Saggart, Dublin ==========
-https://www.daft.ie/property-for-sale/saggart-dublin
-Property for Sale in Saggart, Dublin | Daft.ie
-Saggart, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/saggart-dublin
-Saggart, Dublin: __NEXT_DATA__ = 1
-Saggart, Dublin: Total pages: 3
-Saggart, Dublin Page 1: Found 20 listings
-Page 2/3
-Saggart, Dublin Page 2: Found 20 listings
-Page 3/3
-Page 3 retry 1/3
-Saggart, Dublin Page 3: Found 18 listings
-💾 断点已保存（104/119 个区域，2104 条）
-========== Sallynoggin, Dublin ==========
-https://www.daft.ie/property-for-sale/sallynoggin-dublin
-Property for Sale in Sallynoggin, Dublin | Daft.ie
-Sallynoggin, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/sallynoggin-dublin
-Sallynoggin, Dublin: __NEXT_DATA__ = 1
-Sallynoggin, Dublin: Total pages: 1
-Sallynoggin, Dublin Page 1: Found 17 listings
-💾 断点已保存（105/119 个区域，2104 条）
-========== Sandycove, Dublin ==========
-https://www.daft.ie/property-for-sale/sandycove-dublin
-Property for Sale in Sandycove, Dublin | Daft.ie
-Sandycove, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/sandycove-dublin
-Sandycove, Dublin: __NEXT_DATA__ = 1
-Sandycove, Dublin: Total pages: 1
-Sandycove, Dublin Page 1: Found 19 listings
-💾 断点已保存（106/119 个区域，2105 条）
-========== Sandyhill, Dublin ==========
-https://www.daft.ie/property-for-sale/sandyhill-dublin
-Property for Sale in Sandyhill, Dublin | Daft.ie
-Sandyhill, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/sandyhill-dublin
-Sandyhill, Dublin: __NEXT_DATA__ = 1
-Sandyhill, Dublin: Total pages: 2
-Sandyhill, Dublin Page 1: Found 20 listings
-Page 2/2
-Sandyhill, Dublin Page 2: Found 5 listings
-💾 断点已保存（107/119 个区域，2120 条）
-========== Seven Mills, Dublin ==========
-https://www.daft.ie/property-for-sale/seven-mills-dublin
-Property for Sale in Seven Mills, Dublin | Daft.ie
-Seven Mills, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/seven-mills-dublin
-Seven Mills, Dublin: __NEXT_DATA__ = 1
-Seven Mills, Dublin: Total pages: 1
-Seven Mills, Dublin Page 1: Found 4 listings
-💾 断点已保存（108/119 个区域，2120 条）
-========== Shankill, Dublin ==========
-https://www.daft.ie/property-for-sale/shankill-dublin
-Property for Sale in Shankill, Dublin | Daft.ie
-Shankill, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/shankill-dublin
-Shankill, Dublin: __NEXT_DATA__ = 1
-Shankill, Dublin: Total pages: 3
-Shankill, Dublin Page 1: Found 20 listings
-Page 2/3
-Shankill, Dublin Page 2: Found 20 listings
-Page 3/3
-Shankill, Dublin Page 3: Found 12 listings
-💾 断点已保存（109/119 个区域，2134 条）
-========== Skerries, Dublin ==========
-https://www.daft.ie/property-for-sale/skerries-dublin
-Property for Sale in Skerries, Dublin | Daft.ie
-Skerries, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/skerries-dublin
-Skerries, Dublin: __NEXT_DATA__ = 1
-Skerries, Dublin: Total pages: 3
-Skerries, Dublin Page 1: Found 20 listings
-Page 2/3
-Skerries, Dublin Page 2: Found 20 listings
-Page 3/3
-Skerries, Dublin Page 3: Found 10 listings
-💾 断点已保存（110/119 个区域，2179 条）
-========== Stepaside, Dublin ==========
-https://www.daft.ie/property-for-sale/stepaside-dublin
-Property for Sale in Stepaside, Dublin | Daft.ie
-Stepaside, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/stepaside-dublin
-Stepaside, Dublin: __NEXT_DATA__ = 1
-Stepaside, Dublin: Total pages: 2
-Stepaside, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Stepaside, Dublin Page 2: Found 16 listings
-💾 断点已保存（111/119 个区域，2215 条）
-========== Stillorgan, Dublin ==========
-https://www.daft.ie/property-for-sale/stillorgan-dublin
-Property for Sale in Stillorgan, Dublin | Daft.ie
-Stillorgan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/stillorgan-dublin
-Stillorgan, Dublin: __NEXT_DATA__ = 1
-Stillorgan, Dublin: Total pages: 5
-Stillorgan, Dublin Page 1: Found 20 listings
-Page 2/5
-Stillorgan, Dublin Page 2: Found 20 listings
-Page 3/5
-Stillorgan, Dublin Page 3: Found 20 listings
-Page 4/5
-Stillorgan, Dublin Page 4: Found 20 listings
-Page 5/5
-Stillorgan, Dublin Page 5: Found 10 listings
-💾 断点已保存（112/119 个区域，2245 条）
-========== Swords, Dublin ==========
-https://www.daft.ie/property-for-sale/swords-dublin
-Property for Sale in Swords, Dublin | Daft.ie
-Swords, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/swords-dublin
-Swords, Dublin: __NEXT_DATA__ = 1
-Swords, Dublin: Total pages: 6
-Swords, Dublin Page 1: Found 20 listings
-Page 2/6
-Swords, Dublin Page 2: Found 20 listings
-Page 3/6
-Swords, Dublin Page 3: Found 20 listings
-Page 4/6
-Swords, Dublin Page 4: Found 20 listings
-Page 5/6
-Swords, Dublin Page 5: Found 20 listings
-Swords, Dublin: Cooling down 10 seconds...
-Page 6/6
-Swords, Dublin Page 6: Found 17 listings
-💾 断点已保存（113/119 个区域，2321 条）
-========== The Coombe, Dublin ==========
-https://www.daft.ie/property-for-sale/the-coombe-dublin
-Property for Sale in The Coombe, Dublin | Daft.ie
-The Coombe, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/the-coombe-dublin
-The Coombe, Dublin: __NEXT_DATA__ = 1
-The Coombe, Dublin: Total pages: 2
-The Coombe, Dublin Page 1: Found 20 listings
-Page 2/2
-The Coombe, Dublin Page 2: Found 17 listings
-💾 断点已保存（114/119 个区域，2358 条）
-========== The Five Roads, Dublin ==========
-https://www.daft.ie/property-for-sale/the-five-roads-dublin
-Property for Sale in The Five Roads, Dublin | Daft.ie
-The Five Roads, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/the-five-roads-dublin
-The Five Roads, Dublin: __NEXT_DATA__ = 1
-The Five Roads, Dublin: Total pages: 1
-The Five Roads, Dublin Page 1: Found 2 listings
-💾 断点已保存（115/119 个区域，2358 条）
-========== The Ward, Dublin ==========
-https://www.daft.ie/property-for-sale/the-ward-dublin
-Property for Sale in The Ward, Dublin | Daft.ie
-The Ward, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/the-ward-dublin
-The Ward, Dublin: __NEXT_DATA__ = 1
-The Ward, Dublin: Total pages: 1
-The Ward, Dublin Page 1: Found 17 listings
-💾 断点已保存（116/119 个区域，2363 条）
-========== Ticknock, Dublin ==========
-https://www.daft.ie/property-for-sale/ticknock-dublin
-Property for Sale in Ticknock, Dublin | Daft.ie
-Ticknock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ticknock-dublin
-Ticknock, Dublin: __NEXT_DATA__ = 1
-Ticknock, Dublin: Total pages: 1
-Ticknock, Dublin Page 1: Found 4 listings
-💾 断点已保存（117/119 个区域，2367 条）
-========== Ward, Dublin ==========
-https://www.daft.ie/property-for-sale/ward-dublin
-Property for Sale in Ward, Dublin | Daft.ie
-Ward, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/ward-dublin
-Ward, Dublin: __NEXT_DATA__ = 1
-Ward, Dublin: Total pages: 1
-Ward, Dublin Page 1: Found 10 listings
-💾 断点已保存（118/119 个区域，2369 条）
-========== Willbrook, Dublin ==========
-https://www.daft.ie/property-for-sale/willbrook-dublin
-Property for Sale in Willbrook, Dublin | Daft.ie
-Willbrook, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/willbrook-dublin
-Willbrook, Dublin: __NEXT_DATA__ = 1
-Willbrook, Dublin: Total pages: 1
-Willbrook, Dublin Page 1: Found 10 listings
-💾 断点已保存（119/119 个区域，2369 条）
-✔ 结果检查通过：有数据区域 119/119，房源 2369 条
-✔ daft-sale-dublin3.json: 本轮覆盖 119/119 个区域（完整），写入 2369 条，保留未覆盖区域旧数据 0 条
+After reload: Property for Sale in Mayo (County) | Daft.ie
+Mayo (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/mayo
+Mayo (County): __NEXT_DATA__ = 1
+Mayo (County): Total pages: 45
+Mayo (County) Page 1: Found 20 listings
+Page 2/45
+Mayo (County) Page 2: Found 20 listings
+Page 3/45
+Mayo (County) Page 3: Found 20 listings
+Page 4/45
+Mayo (County) Page 4: Found 20 listings
+Page 5/45
+Mayo (County) Page 5: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 6/45
+Mayo (County) Page 6: Found 20 listings
+Page 7/45
+Mayo (County) Page 7: Found 20 listings
+Page 8/45
+Mayo (County) Page 8: Found 20 listings
+Page 9/45
+Mayo (County) Page 9: Found 20 listings
+Page 10/45
+Page 10 retry 1/3
+Mayo (County) Page 10: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 11/45
+Mayo (County) Page 11: Found 20 listings
+Page 12/45
+Mayo (County) Page 12: Found 20 listings
+Page 13/45
+Mayo (County) Page 13: Found 20 listings
+Page 14/45
+Mayo (County) Page 14: Found 20 listings
+Page 15/45
+Mayo (County) Page 15: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 16/45
+Mayo (County) Page 16: Found 20 listings
+Page 17/45
+Mayo (County) Page 17: Found 20 listings
+Page 18/45
+Mayo (County) Page 18: Found 20 listings
+Page 19/45
+Mayo (County) Page 19: Found 20 listings
+Page 20/45
+Mayo (County) Page 20: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 21/45
+Mayo (County) Page 21: Found 20 listings
+Page 22/45
+Mayo (County) Page 22: Found 20 listings
+Page 23/45
+Mayo (County) Page 23: Found 20 listings
+Page 24/45
+Mayo (County) Page 24: Found 20 listings
+Page 25/45
+Mayo (County) Page 25: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 26/45
+Mayo (County) Page 26: Found 20 listings
+Page 27/45
+Mayo (County) Page 27: Found 20 listings
+Page 28/45
+Mayo (County) Page 28: Found 20 listings
+Page 29/45
+Page 29 retry 1/3
+Mayo (County) Page 29: Found 20 listings
+Page 30/45
+Mayo (County) Page 30: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 31/45
+Mayo (County) Page 31: Found 20 listings
+Page 32/45
+Mayo (County) Page 32: Found 20 listings
+Page 33/45
+Mayo (County) Page 33: Found 20 listings
+Page 34/45
+Mayo (County) Page 34: Found 20 listings
+Page 35/45
+Mayo (County) Page 35: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 36/45
+Mayo (County) Page 36: Found 20 listings
+Page 37/45
+Mayo (County) Page 37: Found 20 listings
+Page 38/45
+Mayo (County) Page 38: Found 20 listings
+Page 39/45
+Mayo (County) Page 39: Found 20 listings
+Page 40/45
+Mayo (County) Page 40: Found 20 listings
+Mayo (County): Cooling down 10 seconds...
+Page 41/45
+Mayo (County) Page 41: Found 20 listings
+Page 42/45
+Page 42 retry 1/3
+Mayo (County) Page 42: Found 20 listings
+Page 43/45
+Mayo (County) Page 43: Found 20 listings
+Page 44/45
+Mayo (County) Page 44: Found 20 listings
+Page 45/45
+Mayo (County) Page 45: Found 13 listings
+💾 断点已保存（4/6 个区域，2520 条）
+========== Roscommon (County) ==========
+https://www.daft.ie/property-for-sale/roscommon
+Property for Sale in Roscommon (County) | Daft.ie
+Roscommon (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/roscommon
+Roscommon (County): __NEXT_DATA__ = 1
+Roscommon (County): Total pages: 21
+Roscommon (County) Page 1: Found 20 listings
+Page 2/21
+Roscommon (County) Page 2: Found 20 listings
+Page 3/21
+Roscommon (County) Page 3: Found 20 listings
+Page 4/21
+Roscommon (County) Page 4: Found 20 listings
+Page 5/21
+Roscommon (County) Page 5: Found 20 listings
+Roscommon (County): Cooling down 10 seconds...
+Page 6/21
+Roscommon (County) Page 6: Found 20 listings
+Page 7/21
+Roscommon (County) Page 7: Found 20 listings
+Page 8/21
+Roscommon (County) Page 8: Found 20 listings
+Page 9/21
+Roscommon (County) Page 9: Found 20 listings
+Page 10/21
+Page 10 retry 1/3
+Roscommon (County) Page 10: Found 20 listings
+Roscommon (County): Cooling down 10 seconds...
+Page 11/21
+Roscommon (County) Page 11: Found 20 listings
+Page 12/21
+Roscommon (County) Page 12: Found 20 listings
+Page 13/21
+Roscommon (County) Page 13: Found 20 listings
+Page 14/21
+Roscommon (County) Page 14: Found 20 listings
+Page 15/21
+Roscommon (County) Page 15: Found 20 listings
+Roscommon (County): Cooling down 10 seconds...
+Page 16/21
+Roscommon (County) Page 16: Found 20 listings
+Page 17/21
+Roscommon (County) Page 17: Found 20 listings
+Page 18/21
+Roscommon (County) Page 18: Found 20 listings
+Page 19/21
+Roscommon (County) Page 19: Found 20 listings
+Page 20/21
+Roscommon (County) Page 20: Found 20 listings
+Roscommon (County): Cooling down 10 seconds...
+Page 21/21
+Roscommon (County) Page 21: Found 10 listings
+💾 断点已保存（5/6 个区域，2930 条）
+========== Tipperary (County) ==========
+https://www.daft.ie/property-for-sale/tipperary
+Property for Sale in Tipperary (County) | Daft.ie
+Tipperary (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/tipperary
+Tipperary (County): __NEXT_DATA__ = 1
+Tipperary (County): Total pages: 19
+Tipperary (County) Page 1: Found 20 listings
+Page 2/19
+Tipperary (County) Page 2: Found 20 listings
+Page 3/19
+Tipperary (County) Page 3: Found 20 listings
+Page 4/19
+Tipperary (County) Page 4: Found 20 listings
+Page 5/19
+Tipperary (County) Page 5: Found 20 listings
+Tipperary (County): Cooling down 10 seconds...
+Page 6/19
+Tipperary (County) Page 6: Found 20 listings
+Page 7/19
+Tipperary (County) Page 7: Found 20 listings
+Page 8/19
+Tipperary (County) Page 8: Found 20 listings
+Page 9/19
+Tipperary (County) Page 9: Found 20 listings
+Page 10/19
+Tipperary (County) Page 10: Found 20 listings
+Tipperary (County): Cooling down 10 seconds...
+Page 11/19
+Tipperary (County) Page 11: Found 20 listings
+Page 12/19
+Tipperary (County) Page 12: Found 20 listings
+Page 13/19
+Tipperary (County) Page 13: Found 20 listings
+Page 14/19
+Tipperary (County) Page 14: Found 20 listings
+Page 15/19
+Tipperary (County) Page 15: Found 20 listings
+Tipperary (County): Cooling down 10 seconds...
+Page 16/19
+Tipperary (County) Page 16: Found 20 listings
+Page 17/19
+Tipperary (County) Page 17: Found 20 listings
+Page 18/19
+Tipperary (County) Page 18: Found 20 listings
+Page 19/19
+Tipperary (County) Page 19: Found 14 listings
+💾 断点已保存（6/6 个区域，3304 条）
+✔ 结果检查通过：有数据区域 6/6，房源 3304 条
+✔ daft-sale-west.json: 本轮覆盖 6/6 个区域（完整），写入 3304 条，保留未覆盖区域旧数据 0 条
 Area Statistics:
-Adamstown, Dublin: 41
-Ard Na Greine, Dublin: 2
-Ashington, Dublin: 5
-Ayrfield, Dublin: 8
-Balbriggan, Dublin: 86
-Ballinascorney, Dublin: 7
-Ballyboden, Dublin: 18
-Ballyboughal, Dublin: 19
-Ballybrack, Dublin: 27
-Ballycorus, Dublin: 3
-Ballymount, Dublin: 5
-Balrothery, Dublin: 26
-Balscaddan, Dublin: 1
-Bayside, Dublin: 20
-Belfield, Dublin: 11
-Blackrock, Dublin: 151
-Booterstown, Dublin: 30
-Bray, Dublin: 12
-Brennanstown, Dublin: 7
-Brittas, Dublin: 8
-Chapelizod, Dublin: 15
-Cherrywood, Dublin: 36
-Citywest, Dublin: 49
-Clonburris, Dublin: 5
-Clonee, Dublin: 79
-Clonshaugh, Dublin: 35
-Clonsilla, Dublin: 142
-Clonskeagh, Dublin: 39
-Collinswood, Dublin: 1
-Coolmine, Dublin: 13
-Corduff, Dublin: 13
-Cornelscourt, Dublin: 6
-Dalkey, Dublin: 42
-Damastown, Dublin: 0
-Darndale, Dublin: 7
-Dartry, Dublin: 18
-Deansgrange, Dublin: 24
-Dollymount, Dublin: 11
-Donabate, Dublin: 28
-Donaghmede, Dublin: 54
-Donnycarney, Dublin: 9
-Dun Laoghaire, Dublin: 94
-Edenmore, Dublin: 6
-Edmondstown, Dublin: 11
-Firhouse, Dublin: 42
-Foxrock, Dublin: 56
-Galloping Green, Dublin: 1
-Garristown, Dublin: 6
-Glasthule, Dublin: 10
-Glenageary, Dublin: 52
-Glenasmole, Dublin: 1
-Glencullen, Dublin: 6
-Grange Castle, Dublin: 26
-Hartstown, Dublin: 17
-Hollystown, Dublin: 44
-Howth, Dublin: 43
-Huntstown, Dublin: 24
-Islandbridge, Dublin: 35
-Jobstown, Dublin: 9
-Kilbarrack, Dublin: 10
-Kilcarbery, Dublin: 4
-Kill O' The Grange, Dublin: 13
-Killakee, Dublin: 1
-Killester, Dublin: 15
-Killiney, Dublin: 73
-Kilmacud, Dublin: 32
-Kilmore, Dublin: 34
-Kilnamanagh, Dublin: 19
-Kilsallaghan, Dublin: 8
-Kiltipper, Dublin: 23
-Kingswood, Dublin: 12
-Kinsealy, Dublin: 63
-Knocklyon, Dublin: 57
-Laughanstown, Dublin: 3
-Loughlinstown, Dublin: 41
-Loughshinny, Dublin: 2
-Lucan, Dublin: 113
-Lusk, Dublin: 26
-Malahide, Dublin: 99
-Marino, Dublin: 16
-Merrion, Dublin: 10
-Milltown, Dublin: 37
-Monkstown, Dublin: 54
-Mulhuddart, Dublin: 38
-Naul, Dublin: 10
-Newcastle, Dublin: 25
-Old Connaught, Dublin: 4
-Oldbawn, Dublin: 19
-Oldtown, Dublin: 7
-Ongar, Dublin: 25
-Palmerstown, Dublin: 22
-Poppintree, Dublin: 32
-Portmarnock, Dublin: 48
-Portrane, Dublin: 4
-Priorswood, Dublin: 1
-Rathcoole, Dublin: 18
-Rathfarnham, Dublin: 130
-Rathmichael, Dublin: 25
-Rockbrook, Dublin: 0
-Rolestown, Dublin: 5
-Ronanstown, Dublin: 7
-Royal Canal Park, Dublin: 20
-Rush, Dublin: 53
-Saggart, Dublin: 58
-Sallynoggin, Dublin: 17
-Sandycove, Dublin: 19
-Sandyhill, Dublin: 25
-Seven Mills, Dublin: 4
-Shankill, Dublin: 52
-Skerries, Dublin: 50
-Stepaside, Dublin: 36
-Stillorgan, Dublin: 90
-Swords, Dublin: 117
-The Coombe, Dublin: 37
-The Five Roads, Dublin: 2
-The Ward, Dublin: 17
-Ticknock, Dublin: 4
-Ward, Dublin: 10
-Willbrook, Dublin: 10
+Clare (County): 409
+Kerry (County): 641
+Limerick (County): 577
+Mayo (County): 893
+Roscommon (County): 410
+Tipperary (County): 374
 ========== Summary ==========
 
-Elapsed: 33m 55s
-Average: 8.81 sec/page
+Elapsed: 24m 3s
+Average: 8.59 sec/page
 
-Areas: 119
-Pages crawled: 231
-Empty areas: 2
-Total listings: 3402
-Duplicates removed: 1033
-Unique properties: 2369
-✔ Saved 2369 properties
-📄 data/daft/sale/daft-sale-dublin3.json
-📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-dublin3.json
-✔ crawl-summary-sale-dublin3.json updated
+Areas: 6
+Pages crawled: 168
+Empty areas: 0
+Total listings: 3304
+Duplicates removed: 0
+Unique properties: 3304
+✔ Saved 3304 properties
+📄 data/daft/sale/daft-sale-west.json
+📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-west.json
+✔ crawl-summary-sale-west.json updated
 ✔ 断点已清除
 ✔ 整组完成：已写完成标记（后面几轮会自动跳过）
 All pages completed successfully.
