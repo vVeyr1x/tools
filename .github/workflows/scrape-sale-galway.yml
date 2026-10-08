@@ -17,7 +17,7 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
-    timeout-minutes: 200
+    timeout-minutes: 226
 
     steps:
       - name: Checkout main repository
@@ -50,7 +50,7 @@ jobs:
           exit $rc
 
       - name: 抓取 Sale - Galway（第 1 轮）
-        timeout-minutes: 60
+        timeout-minutes: 68
         continue-on-error: true
         shell: bash
         run: |
@@ -68,8 +68,10 @@ jobs:
             echo "整组已完成，跳过第 2 轮"
             exit 0
           fi
-          if ! ip link show warpcfg >/dev/null 2>&1; then
-            echo "WARP 隧道不在（建立步骤失败），跳过本轮"
+          echo "重建 WARP（若出口被 Cloudflare 挡，会自动换新身份/新出口 IP）"
+          sed -i 's/\r$//' scripts/ci-setup-warp.sh
+          if ! setsid timeout -k 10 400 bash scripts/ci-setup-warp.sh >> out-warp.txt 2>&1 < /dev/null; then
+            echo "WARP 重建失败，跳过本轮"
             exit 0
           fi
           echo "===== 第 2 轮（从断点续跑）$(date -u +%FT%TZ) ====="
@@ -86,8 +88,10 @@ jobs:
             echo "整组已完成，跳过第 3 轮"
             exit 0
           fi
-          if ! ip link show warpcfg >/dev/null 2>&1; then
-            echo "WARP 隧道不在（建立步骤失败），跳过本轮"
+          echo "重建 WARP（若出口被 Cloudflare 挡，会自动换新身份/新出口 IP）"
+          sed -i 's/\r$//' scripts/ci-setup-warp.sh
+          if ! setsid timeout -k 10 400 bash scripts/ci-setup-warp.sh >> out-warp.txt 2>&1 < /dev/null; then
+            echo "WARP 重建失败，跳过本轮"
             exit 0
           fi
           echo "===== 第 3 轮（从断点续跑）$(date -u +%FT%TZ) ====="
