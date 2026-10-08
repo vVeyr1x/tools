@@ -7,7 +7,7 @@ on:
     - cron: "50 18 * * 2-6"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: daft-southeast
