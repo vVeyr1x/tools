@@ -3,343 +3,293 @@ Launching browser (Headless)...
 Loading areas.json...
 Loaded 877 areas.
 Sale crawl areas: 877
-Group: dublin2 (12/877 areas)
-========== Dublin 11, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-11-dublin
-Property for Sale in Dublin 11, Dublin | Daft.ie
-Dublin 11, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-11-dublin
-Dublin 11, Dublin: __NEXT_DATA__ = 1
-Dublin 11, Dublin: Total pages: 7
-Dublin 11, Dublin Page 1: Found 20 listings
+Group: southeast (6/877 areas)
+========== Carlow (County) ==========
+https://www.daft.ie/property-for-sale/carlow
+Property for Sale in Carlow (County) | Daft.ie
+Carlow (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/carlow
+Carlow (County): __NEXT_DATA__ = 1
+Carlow (County): Total pages: 7
+Carlow (County) Page 1: Found 20 listings
 Page 2/7
-Dublin 11, Dublin Page 2: Found 20 listings
+Carlow (County) Page 2: Found 20 listings
 Page 3/7
-Dublin 11, Dublin Page 3: Found 20 listings
+Carlow (County) Page 3: Found 20 listings
 Page 4/7
-Dublin 11, Dublin Page 4: Found 20 listings
+Carlow (County) Page 4: Found 20 listings
 Page 5/7
-Dublin 11, Dublin Page 5: Found 20 listings
-Dublin 11, Dublin: Cooling down 10 seconds...
+Carlow (County) Page 5: Found 20 listings
+Carlow (County): Cooling down 10 seconds...
 Page 6/7
-Dublin 11, Dublin Page 6: Found 20 listings
+Carlow (County) Page 6: Found 20 listings
 Page 7/7
-Dublin 11, Dublin Page 7: Found 18 listings
-💾 断点已保存（1/12 个区域，138 条）
-========== Dublin 12, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-12-dublin
-Property for Sale in Dublin 12, Dublin | Daft.ie
-Dublin 12, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-12-dublin
-Dublin 12, Dublin: __NEXT_DATA__ = 1
-Dublin 12, Dublin: Total pages: 10
-Dublin 12, Dublin Page 1: Found 20 listings
-Page 2/10
-Dublin 12, Dublin Page 2: Found 20 listings
-Page 3/10
-Dublin 12, Dublin Page 3: Found 20 listings
-Page 4/10
-Dublin 12, Dublin Page 4: Found 20 listings
-Page 5/10
-Dublin 12, Dublin Page 5: Found 20 listings
-Dublin 12, Dublin: Cooling down 10 seconds...
-Page 6/10
-Dublin 12, Dublin Page 6: Found 20 listings
-Page 7/10
-Dublin 12, Dublin Page 7: Found 20 listings
-Page 8/10
-Dublin 12, Dublin Page 8: Found 20 listings
-Page 9/10
-Dublin 12, Dublin Page 9: Found 20 listings
-Page 10/10
-Dublin 12, Dublin Page 10: Found 20 listings
-💾 断点已保存（2/12 个区域，338 条）
-========== Dublin 13, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-13-dublin
-Property for Sale in Dublin 13, Dublin | Daft.ie
-Dublin 13, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-13-dublin
-Dublin 13, Dublin: __NEXT_DATA__ = 1
-Dublin 13, Dublin: Total pages: 11
-Dublin 13, Dublin Page 1: Found 20 listings
+Carlow (County) Page 7: Found 4 listings
+💾 断点已保存（1/6 个区域，124 条）
+========== Kilkenny (County) ==========
+https://www.daft.ie/property-for-sale/kilkenny
+Property for Sale in Kilkenny (County) | Daft.ie
+Kilkenny (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilkenny
+Kilkenny (County): __NEXT_DATA__ = 1
+Kilkenny (County): Total pages: 14
+Kilkenny (County) Page 1: Found 20 listings
+Page 2/14
+Kilkenny (County) Page 2: Found 20 listings
+Page 3/14
+Kilkenny (County) Page 3: Found 20 listings
+Page 4/14
+Kilkenny (County) Page 4: Found 20 listings
+Page 5/14
+Kilkenny (County) Page 5: Found 20 listings
+Kilkenny (County): Cooling down 10 seconds...
+Page 6/14
+Kilkenny (County) Page 6: Found 20 listings
+Page 7/14
+Kilkenny (County) Page 7: Found 20 listings
+Page 8/14
+Kilkenny (County) Page 8: Found 20 listings
+Page 9/14
+Kilkenny (County) Page 9: Found 20 listings
+Page 10/14
+Kilkenny (County) Page 10: Found 20 listings
+Kilkenny (County): Cooling down 10 seconds...
+Page 11/14
+Kilkenny (County) Page 11: Found 20 listings
+Page 12/14
+Kilkenny (County) Page 12: Found 20 listings
+Page 13/14
+Kilkenny (County) Page 13: Found 20 listings
+Page 14/14
+Kilkenny (County) Page 14: Found 14 listings
+💾 断点已保存（2/6 个区域，398 条）
+========== Laois (County) ==========
+https://www.daft.ie/property-for-sale/laois
+Property for Sale in Laois (County) | Daft.ie
+Laois (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/laois
+Laois (County): __NEXT_DATA__ = 1
+Laois (County): Total pages: 14
+Laois (County) Page 1: Found 20 listings
+Page 2/14
+Laois (County) Page 2: Found 20 listings
+Page 3/14
+Laois (County) Page 3: Found 20 listings
+Page 4/14
+Laois (County) Page 4: Found 20 listings
+Page 5/14
+Laois (County) Page 5: Found 20 listings
+Laois (County): Cooling down 10 seconds...
+Page 6/14
+Laois (County) Page 6: Found 20 listings
+Page 7/14
+Laois (County) Page 7: Found 20 listings
+Page 8/14
+Laois (County) Page 8: Found 20 listings
+Page 9/14
+Laois (County) Page 9: Found 20 listings
+Page 10/14
+Laois (County) Page 10: Found 20 listings
+Laois (County): Cooling down 10 seconds...
+Page 11/14
+Laois (County) Page 11: Found 20 listings
+Page 12/14
+Laois (County) Page 12: Found 20 listings
+Page 13/14
+Laois (County) Page 13: Found 20 listings
+Page 14/14
+Laois (County) Page 14: Found 11 listings
+💾 断点已保存（3/6 个区域，669 条）
+========== Offaly (County) ==========
+https://www.daft.ie/property-for-sale/offaly
+Property for Sale in Offaly (County) | Daft.ie
+Offaly (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/offaly
+Offaly (County): __NEXT_DATA__ = 1
+Offaly (County): Total pages: 11
+Offaly (County) Page 1: Found 20 listings
 Page 2/11
-Dublin 13, Dublin Page 2: Found 20 listings
+Offaly (County) Page 2: Found 20 listings
 Page 3/11
-Dublin 13, Dublin Page 3: Found 20 listings
+Offaly (County) Page 3: Found 20 listings
 Page 4/11
-Dublin 13, Dublin Page 4: Found 20 listings
+Offaly (County) Page 4: Found 20 listings
 Page 5/11
-Dublin 13, Dublin Page 5: Found 20 listings
-Dublin 13, Dublin: Cooling down 10 seconds...
+Offaly (County) Page 5: Found 20 listings
+Offaly (County): Cooling down 10 seconds...
 Page 6/11
-Dublin 13, Dublin Page 6: Found 20 listings
+Offaly (County) Page 6: Found 20 listings
 Page 7/11
-Dublin 13, Dublin Page 7: Found 20 listings
+Offaly (County) Page 7: Found 20 listings
 Page 8/11
-Dublin 13, Dublin Page 8: Found 20 listings
+Offaly (County) Page 8: Found 20 listings
 Page 9/11
-Dublin 13, Dublin Page 9: Found 20 listings
+Offaly (County) Page 9: Found 20 listings
 Page 10/11
-Dublin 13, Dublin Page 10: Found 20 listings
-Dublin 13, Dublin: Cooling down 10 seconds...
+Offaly (County) Page 10: Found 20 listings
+Offaly (County): Cooling down 10 seconds...
 Page 11/11
-Dublin 13, Dublin Page 11: Found 18 listings
-💾 断点已保存（3/12 个区域，556 条）
-========== Dublin 14, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-14-dublin
-Property for Sale in Dublin 14, Dublin | Daft.ie
-Dublin 14, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-14-dublin
-Dublin 14, Dublin: __NEXT_DATA__ = 1
-Dublin 14, Dublin: Total pages: 8
-Dublin 14, Dublin Page 1: Found 20 listings
-Page 2/8
-Dublin 14, Dublin Page 2: Found 20 listings
-Page 3/8
-Dublin 14, Dublin Page 3: Found 20 listings
-Page 4/8
-Dublin 14, Dublin Page 4: Found 20 listings
-Page 5/8
-Dublin 14, Dublin Page 5: Found 20 listings
-Dublin 14, Dublin: Cooling down 10 seconds...
-Page 6/8
-Dublin 14, Dublin Page 6: Found 20 listings
-Page 7/8
-Dublin 14, Dublin Page 7: Found 20 listings
-Page 8/8
-Dublin 14, Dublin Page 8: Found 5 listings
-💾 断点已保存（4/12 个区域，701 条）
-========== Dublin 15, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-15-dublin
-Property for Sale in Dublin 15, Dublin | Daft.ie
-Dublin 15, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-15-dublin
-Dublin 15, Dublin: __NEXT_DATA__ = 1
-Dublin 15, Dublin: Total pages: 18
-Dublin 15, Dublin Page 1: Found 20 listings
+Offaly (County) Page 11: Found 2 listings
+💾 断点已保存（4/6 个区域，871 条）
+========== Waterford (County) ==========
+https://www.daft.ie/property-for-sale/waterford
+Property for Sale in Waterford (County) | Daft.ie
+Waterford (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/waterford
+Waterford (County): __NEXT_DATA__ = 1
+Waterford (County): Total pages: 18
+Waterford (County) Page 1: Found 20 listings
 Page 2/18
-Dublin 15, Dublin Page 2: Found 20 listings
+Waterford (County) Page 2: Found 20 listings
 Page 3/18
-Dublin 15, Dublin Page 3: Found 20 listings
+Waterford (County) Page 3: Found 20 listings
 Page 4/18
-Dublin 15, Dublin Page 4: Found 20 listings
+Waterford (County) Page 4: Found 20 listings
 Page 5/18
-Dublin 15, Dublin Page 5: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
+Waterford (County) Page 5: Found 20 listings
+Waterford (County): Cooling down 10 seconds...
 Page 6/18
-Dublin 15, Dublin Page 6: Found 20 listings
+Waterford (County) Page 6: Found 20 listings
 Page 7/18
-Dublin 15, Dublin Page 7: Found 20 listings
+Waterford (County) Page 7: Found 20 listings
 Page 8/18
-Dublin 15, Dublin Page 8: Found 20 listings
+Waterford (County) Page 8: Found 20 listings
 Page 9/18
-Dublin 15, Dublin Page 9: Found 20 listings
+Waterford (County) Page 9: Found 20 listings
 Page 10/18
-Dublin 15, Dublin Page 10: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
+Waterford (County) Page 10: Found 20 listings
+Waterford (County): Cooling down 10 seconds...
 Page 11/18
-Dublin 15, Dublin Page 11: Found 20 listings
+Waterford (County) Page 11: Found 20 listings
 Page 12/18
-Dublin 15, Dublin Page 12: Found 20 listings
+Waterford (County) Page 12: Found 20 listings
 Page 13/18
-Dublin 15, Dublin Page 13: Found 20 listings
+Waterford (County) Page 13: Found 20 listings
 Page 14/18
-Dublin 15, Dublin Page 14: Found 20 listings
+Waterford (County) Page 14: Found 20 listings
 Page 15/18
-Dublin 15, Dublin Page 15: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
+Waterford (County) Page 15: Found 20 listings
+Waterford (County): Cooling down 10 seconds...
 Page 16/18
-Dublin 15, Dublin Page 16: Found 20 listings
+Waterford (County) Page 16: Found 20 listings
 Page 17/18
-Dublin 15, Dublin Page 17: Found 20 listings
+Waterford (County) Page 17: Found 20 listings
 Page 18/18
-Dublin 15, Dublin Page 18: Found 8 listings
-💾 断点已保存（5/12 个区域，1046 条）
-========== Dublin 16, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-16-dublin
-Property for Sale in Dublin 16, Dublin | Daft.ie
-Dublin 16, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-16-dublin
-Dublin 16, Dublin: __NEXT_DATA__ = 1
-Dublin 16, Dublin: Total pages: 7
-Dublin 16, Dublin Page 1: Found 20 listings
-Page 2/7
-Dublin 16, Dublin Page 2: Found 20 listings
-Page 3/7
-Dublin 16, Dublin Page 3: Found 20 listings
-Page 4/7
-Dublin 16, Dublin Page 4: Found 20 listings
-Page 5/7
-Dublin 16, Dublin Page 5: Found 20 listings
-Dublin 16, Dublin: Cooling down 10 seconds...
-Page 6/7
-Dublin 16, Dublin Page 6: Found 20 listings
-Page 7/7
-Dublin 16, Dublin Page 7: Found 16 listings
-💾 断点已保存（6/12 个区域，1170 条）
-========== Dublin 17, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-17-dublin
-Property for Sale in Dublin 17, Dublin | Daft.ie
-Dublin 17, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-17-dublin
-Dublin 17, Dublin: __NEXT_DATA__ = 1
-Dublin 17, Dublin: Total pages: 3
-Dublin 17, Dublin Page 1: Found 20 listings
-Page 2/3
-Dublin 17, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 17, Dublin Page 3: Found 10 listings
-💾 断点已保存（7/12 个区域，1212 条）
-========== Dublin 18, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-18-dublin
-Property for Sale in Dublin 18, Dublin | Daft.ie
-Dublin 18, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-18-dublin
-Dublin 18, Dublin: __NEXT_DATA__ = 1
-Dublin 18, Dublin: Total pages: 13
-Dublin 18, Dublin Page 1: Found 20 listings
-Page 2/13
-Dublin 18, Dublin Page 2: Found 20 listings
-Page 3/13
-Dublin 18, Dublin Page 3: Found 20 listings
-Page 4/13
-Dublin 18, Dublin Page 4: Found 20 listings
-Page 5/13
-Dublin 18, Dublin Page 5: Found 20 listings
-Dublin 18, Dublin: Cooling down 10 seconds...
-Page 6/13
-Dublin 18, Dublin Page 6: Found 20 listings
-Page 7/13
-Dublin 18, Dublin Page 7: Found 20 listings
-Page 8/13
-Dublin 18, Dublin Page 8: Found 20 listings
-Page 9/13
-Dublin 18, Dublin Page 9: Found 20 listings
-Page 10/13
-Dublin 18, Dublin Page 10: Found 20 listings
-Dublin 18, Dublin: Cooling down 10 seconds...
-Page 11/13
-Dublin 18, Dublin Page 11: Found 20 listings
-Page 12/13
-Dublin 18, Dublin Page 12: Found 20 listings
-Page 13/13
-Dublin 18, Dublin Page 13: Found 14 listings
-💾 断点已保存（8/12 个区域，1466 条）
-========== Dublin 20, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-20-dublin?__cf_chl_rt_tk=k08dEJWLu2XxzGsdl7kFpbOdwE_FcE2D6WiowHu10z0-1791456832-1.0.1.1-Aav_BKvDVXstyDvTqCLB8rN5y3F9ijSYwObBcrgOfCI
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property for Sale in Dublin 20, Dublin | Daft.ie
-Dublin 20, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-20-dublin
-Dublin 20, Dublin: __NEXT_DATA__ = 1
-Dublin 20, Dublin: Total pages: 3
-Dublin 20, Dublin Page 1: Found 20 listings
-Page 2/3
-Dublin 20, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 20, Dublin Page 3: Found 1 listings
-💾 断点已保存（9/12 个区域，1507 条）
-========== Dublin 22, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-22-dublin
-Property for Sale in Dublin 22, Dublin | Daft.ie
-Dublin 22, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-22-dublin
-Dublin 22, Dublin: __NEXT_DATA__ = 1
-Dublin 22, Dublin: Total pages: 7
-Dublin 22, Dublin Page 1: Found 20 listings
-Page 2/7
-Dublin 22, Dublin Page 2: Found 20 listings
-Page 3/7
-Dublin 22, Dublin Page 3: Found 20 listings
-Page 4/7
-Dublin 22, Dublin Page 4: Found 20 listings
-Page 5/7
-Dublin 22, Dublin Page 5: Found 20 listings
-Dublin 22, Dublin: Cooling down 10 seconds...
-Page 6/7
-Dublin 22, Dublin Page 6: Found 20 listings
-Page 7/7
-Dublin 22, Dublin Page 7: Found 1 listings
-💾 断点已保存（10/12 个区域，1628 条）
-========== Dublin 24, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-24-dublin
-Property for Sale in Dublin 24, Dublin | Daft.ie
-Dublin 24, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-24-dublin
-Dublin 24, Dublin: __NEXT_DATA__ = 1
-Dublin 24, Dublin: Total pages: 11
-Dublin 24, Dublin Page 1: Found 20 listings
-Page 2/11
-Dublin 24, Dublin Page 2: Found 20 listings
-Page 3/11
-Dublin 24, Dublin Page 3: Found 20 listings
-Page 4/11
-Dublin 24, Dublin Page 4: Found 20 listings
-Page 5/11
-Dublin 24, Dublin Page 5: Found 20 listings
-Dublin 24, Dublin: Cooling down 10 seconds...
-Page 6/11
-Dublin 24, Dublin Page 6: Found 20 listings
-Page 7/11
-Dublin 24, Dublin Page 7: Found 20 listings
-Page 8/11
-Dublin 24, Dublin Page 8: Found 20 listings
-Page 9/11
-Dublin 24, Dublin Page 9: Found 20 listings
-Page 10/11
-Dublin 24, Dublin Page 10: Found 20 listings
-Dublin 24, Dublin: Cooling down 10 seconds...
-Page 11/11
-Dublin 24, Dublin Page 11: Found 20 listings
-💾 断点已保存（11/12 个区域，1842 条）
-========== Dublin 6W, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-6w-dublin
-Property for Sale in Dublin 6W, Dublin | Daft.ie
-Dublin 6W, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-6w-dublin
-Dublin 6W, Dublin: __NEXT_DATA__ = 1
-Dublin 6W, Dublin: Total pages: 5
-Dublin 6W, Dublin Page 1: Found 20 listings
-Page 2/5
-Dublin 6W, Dublin Page 2: Found 20 listings
-Page 3/5
-Dublin 6W, Dublin Page 3: Found 20 listings
-Page 4/5
-Dublin 6W, Dublin Page 4: Found 20 listings
-Page 5/5
-Dublin 6W, Dublin Page 5: Found 12 listings
-💾 断点已保存（12/12 个区域，1922 条）
-✔ 结果检查通过：有数据区域 12/12，房源 1922 条
-✔ daft-sale-dublin2.json: 本轮覆盖 12/12 个区域（完整），写入 1922 条，保留未覆盖区域旧数据 0 条
+Waterford (County) Page 18: Found 1 listings
+💾 断点已保存（5/6 个区域，1212 条）
+========== Wexford (County) ==========
+https://www.daft.ie/property-for-sale/wexford
+Property for Sale in Wexford (County) | Daft.ie
+Wexford (County) loaded.
+Current URL: https://www.daft.ie/property-for-sale/wexford
+Wexford (County): __NEXT_DATA__ = 1
+Wexford (County): Total pages: 37
+Wexford (County) Page 1: Found 20 listings
+Page 2/37
+Wexford (County) Page 2: Found 20 listings
+Page 3/37
+Wexford (County) Page 3: Found 20 listings
+Page 4/37
+Wexford (County) Page 4: Found 20 listings
+Page 5/37
+Wexford (County) Page 5: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 6/37
+Wexford (County) Page 6: Found 20 listings
+Page 7/37
+Wexford (County) Page 7: Found 20 listings
+Page 8/37
+Wexford (County) Page 8: Found 20 listings
+Page 9/37
+Wexford (County) Page 9: Found 20 listings
+Page 10/37
+Wexford (County) Page 10: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 11/37
+Wexford (County) Page 11: Found 20 listings
+Page 12/37
+Wexford (County) Page 12: Found 20 listings
+Page 13/37
+Wexford (County) Page 13: Found 20 listings
+Page 14/37
+Wexford (County) Page 14: Found 20 listings
+Page 15/37
+Wexford (County) Page 15: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 16/37
+Wexford (County) Page 16: Found 20 listings
+Page 17/37
+Wexford (County) Page 17: Found 20 listings
+Page 18/37
+Wexford (County) Page 18: Found 20 listings
+Page 19/37
+Wexford (County) Page 19: Found 20 listings
+Page 20/37
+Wexford (County) Page 20: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 21/37
+Wexford (County) Page 21: Found 20 listings
+Page 22/37
+Wexford (County) Page 22: Found 20 listings
+Page 23/37
+Wexford (County) Page 23: Found 20 listings
+Page 24/37
+Wexford (County) Page 24: Found 20 listings
+Page 25/37
+Page 25 retry 1/3
+Wexford (County) Page 25: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 26/37
+Wexford (County) Page 26: Found 20 listings
+Page 27/37
+Wexford (County) Page 27: Found 20 listings
+Page 28/37
+Wexford (County) Page 28: Found 20 listings
+Page 29/37
+Wexford (County) Page 29: Found 20 listings
+Page 30/37
+Wexford (County) Page 30: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 31/37
+Wexford (County) Page 31: Found 20 listings
+Page 32/37
+Wexford (County) Page 32: Found 20 listings
+Page 33/37
+Wexford (County) Page 33: Found 20 listings
+Page 34/37
+Wexford (County) Page 34: Found 20 listings
+Page 35/37
+Wexford (County) Page 35: Found 20 listings
+Wexford (County): Cooling down 10 seconds...
+Page 36/37
+Wexford (County) Page 36: Found 20 listings
+Page 37/37
+Wexford (County) Page 37: Found 3 listings
+💾 断点已保存（6/6 个区域，1935 条）
+✔ 结果检查通过：有数据区域 6/6，房源 1935 条
+✔ daft-sale-southeast.json: 本轮覆盖 6/6 个区域（完整），写入 1935 条，保留未覆盖区域旧数据 0 条
 Area Statistics:
-Dublin 11, Dublin: 138
-Dublin 12, Dublin: 200
-Dublin 13, Dublin: 218
-Dublin 14, Dublin: 145
-Dublin 15, Dublin: 348
-Dublin 16, Dublin: 136
-Dublin 17, Dublin: 50
-Dublin 18, Dublin: 254
-Dublin 20, Dublin: 41
-Dublin 22, Dublin: 121
-Dublin 24, Dublin: 220
-Dublin 6W, Dublin: 92
+Carlow (County): 124
+Kilkenny (County): 274
+Laois (County): 271
+Offaly (County): 202
+Waterford (County): 341
+Wexford (County): 723
 ========== Summary ==========
 
-Elapsed: 12m 23s
-Average: 7.21 sec/page
+Elapsed: 12m 42s
+Average: 7.54 sec/page
 
-Areas: 12
-Pages crawled: 103
+Areas: 6
+Pages crawled: 101
 Empty areas: 0
-Total listings: 1963
-Duplicates removed: 41
-Unique properties: 1922
-✔ Saved 1922 properties
-📄 data/daft/sale/daft-sale-dublin2.json
-📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-dublin2.json
-✔ crawl-summary-sale-dublin2.json updated
+Total listings: 1935
+Duplicates removed: 0
+Unique properties: 1935
+✔ Saved 1935 properties
+📄 data/daft/sale/daft-sale-southeast.json
+📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-southeast.json
+✔ crawl-summary-sale-southeast.json updated
 ✔ 断点已清除
 ✔ 整组完成：已写完成标记（后面几轮会自动跳过）
 All pages completed successfully.
