@@ -5,1830 +5,231 @@ Group: dublin
 Areas: 186
 Loaded 186 areas.
 ========== Adamstown, Dublin ==========
-Skip Adamstown, Dublin: page.goto: net::ERR_CONNECTION_RESET at https://www.daft.ie/property-for-rent/adamstown-dublin
+⚠️ Adamstown, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
-
+），稍后重试
+⚠️ Adamstown, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Adamstown, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Adamstown, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/adamstown-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+Skip Adamstown, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
 ⚠️ Adamstown, Dublin: 无数据（累计 1 个，有数据 0 个）
 ========== Ard Na Greine, Dublin ==========
-Skip Ard Na Greine, Dublin: page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/ard-na-greine-dublin
+⚠️ Ard Na Greine, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.daft.ie/property-for-rent/ard-na-greine-dublin", waiting until "domcontentloaded"
-
+），稍后重试
+⚠️ Ard Na Greine, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ard-na-greine-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ard Na Greine, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ard-na-greine-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ard Na Greine, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/ard-na-greine-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ard-na-greine-dublin", waiting until "domcontentloaded"
+）
+Skip Ard Na Greine, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
 ⚠️ Ard Na Greine, Dublin: 无数据（累计 2 个，有数据 0 个）
 ========== Ashington, Dublin ==========
-Skip Ashington, Dublin: page.goto: Timeout 60000ms exceeded.
+⚠️ Ashington, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
 Call log:
   - navigating to "https://www.daft.ie/property-for-rent/ashington-dublin", waiting until "domcontentloaded"
-
+），稍后重试
+⚠️ Ashington, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashington-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ashington, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashington-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ashington, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/ashington-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashington-dublin", waiting until "domcontentloaded"
+）
+Skip Ashington, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
 ⚠️ Ashington, Dublin: 无数据（累计 3 个，有数据 0 个）
 ========== Ashtown, Dublin ==========
-https://www.daft.ie/property-for-rent/ashtown-dublin
-Property to Rent in Ashtown, Dublin | Daft.ie
-Ashtown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ashtown-dublin
-Ashtown, Dublin: __NEXT_DATA__ = 1
-Ashtown, Dublin: Total pages: 1
-Ashtown, Dublin Page 1: Found 10 listings
+⚠️ Ashtown, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashtown-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Ashtown, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashtown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ashtown, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashtown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ashtown, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/ashtown-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ashtown-dublin", waiting until "domcontentloaded"
+）
+Skip Ashtown, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Ashtown, Dublin: 无数据（累计 4 个，有数据 0 个）
 ========== Aylesbury, Dublin ==========
-https://www.daft.ie/property-for-rent/aylesbury-dublin
-Property to Rent in Aylesbury, Dublin | Daft.ie
-Aylesbury, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/aylesbury-dublin
-Aylesbury, Dublin: __NEXT_DATA__ = 1
-Aylesbury, Dublin: Total pages: 0
+⚠️ Aylesbury, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/aylesbury-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Aylesbury, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/aylesbury-dublin", waiting until "domcontentloaded"
+）
+⚠️ Aylesbury, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/aylesbury-dublin", waiting until "domcontentloaded"
+）
+⚠️ Aylesbury, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/aylesbury-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/aylesbury-dublin", waiting until "domcontentloaded"
+）
+Skip Aylesbury, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Aylesbury, Dublin: 无数据（累计 5 个，有数据 0 个）
 ========== Ayrfield, Dublin ==========
-https://www.daft.ie/property-for-rent/ayrfield-dublin
-Property to Rent in Ayrfield, Dublin | Daft.ie
-Ayrfield, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ayrfield-dublin
-Ayrfield, Dublin: __NEXT_DATA__ = 1
-Ayrfield, Dublin: Total pages: 0
+⚠️ Ayrfield, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ayrfield-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Ayrfield, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ayrfield-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ayrfield, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ayrfield-dublin", waiting until "domcontentloaded"
+）
+⚠️ Ayrfield, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/ayrfield-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/ayrfield-dublin", waiting until "domcontentloaded"
+）
+Skip Ayrfield, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Ayrfield, Dublin: 无数据（累计 6 个，有数据 0 个）
 ========== Balbriggan, Dublin ==========
-https://www.daft.ie/property-for-rent/balbriggan-dublin
-Property to Rent in Balbriggan, Dublin | Daft.ie
-Balbriggan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/balbriggan-dublin
-Balbriggan, Dublin: __NEXT_DATA__ = 1
-Balbriggan, Dublin: Total pages: 1
-Balbriggan, Dublin Page 1: Found 8 listings
+⚠️ Balbriggan, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/balbriggan-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Balbriggan, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/balbriggan-dublin", waiting until "domcontentloaded"
+）
+⚠️ Balbriggan, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/balbriggan-dublin", waiting until "domcontentloaded"
+）
+⚠️ Balbriggan, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/balbriggan-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/balbriggan-dublin", waiting until "domcontentloaded"
+）
+Skip Balbriggan, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Balbriggan, Dublin: 无数据（累计 7 个，有数据 0 个）
 ========== Baldonnell, Dublin ==========
-https://www.daft.ie/property-for-rent/baldonnell-dublin
-Property to Rent in Baldonnell, Dublin | Daft.ie
-Baldonnell, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/baldonnell-dublin
-Baldonnell, Dublin: __NEXT_DATA__ = 1
-Baldonnell, Dublin: Total pages: 1
-Baldonnell, Dublin Page 1: Found 11 listings
+⚠️ Baldonnell, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldonnell-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Baldonnell, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldonnell-dublin", waiting until "domcontentloaded"
+）
+⚠️ Baldonnell, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldonnell-dublin", waiting until "domcontentloaded"
+）
+⚠️ Baldonnell, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/baldonnell-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldonnell-dublin", waiting until "domcontentloaded"
+）
+Skip Baldonnell, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Baldonnell, Dublin: 无数据（累计 8 个，有数据 0 个）
 ========== Baldoyle, Dublin ==========
-https://www.daft.ie/property-for-rent/baldoyle-dublin
-Property to Rent in Baldoyle, Dublin | Daft.ie
-Baldoyle, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/baldoyle-dublin
-Baldoyle, Dublin: __NEXT_DATA__ = 1
-Baldoyle, Dublin: Total pages: 1
-Baldoyle, Dublin Page 1: Found 10 listings
+⚠️ Baldoyle, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldoyle-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Baldoyle, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldoyle-dublin", waiting until "domcontentloaded"
+）
+⚠️ Baldoyle, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldoyle-dublin", waiting until "domcontentloaded"
+）
+⚠️ Baldoyle, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/baldoyle-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/baldoyle-dublin", waiting until "domcontentloaded"
+）
+Skip Baldoyle, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Baldoyle, Dublin: 无数据（累计 9 个，有数据 0 个）
 ========== Balgriffin, Dublin ==========
-https://www.daft.ie/property-for-rent/balgriffin-dublin
-Property to Rent in Balgriffin, Dublin | Daft.ie
-Balgriffin, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/balgriffin-dublin
-Balgriffin, Dublin: __NEXT_DATA__ = 1
-Balgriffin, Dublin: Total pages: 1
-Balgriffin, Dublin Page 1: Found 8 listings
-========== Ballinascorney, Dublin ==========
-https://www.daft.ie/property-for-rent/ballinascorney-dublin
-Property to Rent in Ballinascorney, Dublin | Daft.ie
-Ballinascorney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballinascorney-dublin
-Ballinascorney, Dublin: __NEXT_DATA__ = 1
-Ballinascorney, Dublin: Total pages: 1
-Ballinascorney, Dublin Page 1: Found 3 listings
-========== Ballyboden, Dublin ==========
-https://www.daft.ie/property-for-rent/ballyboden-dublin
-Property to Rent in Ballyboden, Dublin | Daft.ie
-Ballyboden, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballyboden-dublin
-Ballyboden, Dublin: __NEXT_DATA__ = 1
-Ballyboden, Dublin: Total pages: 1
-Ballyboden, Dublin Page 1: Found 3 listings
-========== Ballybough, Dublin ==========
-https://www.daft.ie/property-for-rent/ballybough-dublin
-Property to Rent in Ballybough, Dublin | Daft.ie
-Ballybough, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballybough-dublin
-Ballybough, Dublin: __NEXT_DATA__ = 1
-Ballybough, Dublin: Total pages: 1
-Ballybough, Dublin Page 1: Found 9 listings
-========== Ballyboughal, Dublin ==========
-Skip Ballyboughal, Dublin: page.goto: Timeout 60000ms exceeded.
+⚠️ Balgriffin, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
 Call log:
-  - navigating to "https://www.daft.ie/property-for-rent/ballyboughal-dublin", waiting until "domcontentloaded"
-
-⚠️ Ballyboughal, Dublin: 无数据（累计 4 个，有数据 10 个）
-========== Ballybrack, Dublin ==========
-https://www.daft.ie/property-for-rent/ballybrack-dublin
-Property to Rent in Ballybrack, Dublin | Daft.ie
-Ballybrack, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballybrack-dublin
-Ballybrack, Dublin: __NEXT_DATA__ = 1
-Ballybrack, Dublin: Total pages: 1
-Ballybrack, Dublin Page 1: Found 5 listings
-========== Ballycoolin, Dublin ==========
-https://www.daft.ie/property-for-rent/ballycoolin-dublin
-Property to Rent in Ballycoolin, Dublin | Daft.ie
-Ballycoolin, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballycoolin-dublin
-Ballycoolin, Dublin: __NEXT_DATA__ = 1
-Ballycoolin, Dublin: Total pages: 1
-Ballycoolin, Dublin Page 1: Found 10 listings
-========== Ballycorus, Dublin ==========
-https://www.daft.ie/property-for-rent/ballycorus-dublin
-Property to Rent in Ballycorus, Dublin | Daft.ie
-Ballycorus, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballycorus-dublin
-Ballycorus, Dublin: __NEXT_DATA__ = 1
-Ballycorus, Dublin: Total pages: 1
-Ballycorus, Dublin Page 1: Found 1 listings
-========== Ballycullen, Dublin ==========
-https://www.daft.ie/property-for-rent/ballycullen-dublin
-Property to Rent in Ballycullen, Dublin | Daft.ie
-Ballycullen, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballycullen-dublin
-Ballycullen, Dublin: __NEXT_DATA__ = 1
-Ballycullen, Dublin: Total pages: 1
-Ballycullen, Dublin Page 1: Found 7 listings
-========== Ballyfermot, Dublin ==========
-https://www.daft.ie/property-for-rent/ballyfermot-dublin
-Property to Rent in Ballyfermot, Dublin | Daft.ie
-Ballyfermot, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballyfermot-dublin
-Ballyfermot, Dublin: __NEXT_DATA__ = 1
-Ballyfermot, Dublin: Total pages: 1
-Ballyfermot, Dublin Page 1: Found 5 listings
-========== Ballymount, Dublin ==========
-https://www.daft.ie/property-for-rent/ballymount-dublin
-Property to Rent in Ballymount, Dublin | Daft.ie
-Ballymount, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ballymount-dublin
-Ballymount, Dublin: __NEXT_DATA__ = 1
-Ballymount, Dublin: Total pages: 1
-Ballymount, Dublin Page 1: Found 2 listings
-========== Balrothery, Dublin ==========
-https://www.daft.ie/property-for-rent/balrothery-dublin
-Property to Rent in Balrothery, Dublin | Daft.ie
-Balrothery, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/balrothery-dublin
-Balrothery, Dublin: __NEXT_DATA__ = 1
-Balrothery, Dublin: Total pages: 1
-Balrothery, Dublin Page 1: Found 4 listings
-========== Balscaddan, Dublin ==========
-https://www.daft.ie/property-for-rent/balscaddan-dublin
-Property to Rent in Balscaddan, Dublin | Daft.ie
-Balscaddan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/balscaddan-dublin
-Balscaddan, Dublin: __NEXT_DATA__ = 1
-Balscaddan, Dublin: Total pages: 0
-========== Bayside, Dublin ==========
-https://www.daft.ie/property-for-rent/bayside-dublin
-Property to Rent in Bayside, Dublin | Daft.ie
-Bayside, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/bayside-dublin
-Bayside, Dublin: __NEXT_DATA__ = 1
-Bayside, Dublin: Total pages: 1
-Bayside, Dublin Page 1: Found 1 listings
-========== Belfield, Dublin ==========
-https://www.daft.ie/property-for-rent/belfield-dublin
-Property to Rent in Belfield, Dublin | Daft.ie
-Belfield, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/belfield-dublin
-Belfield, Dublin: __NEXT_DATA__ = 1
-Belfield, Dublin: Total pages: 1
-Belfield, Dublin Page 1: Found 1 listings
-========== Blackrock, Dublin ==========
-https://www.daft.ie/property-for-rent/blackrock-dublin
-Property to Rent in Blackrock, Dublin | Daft.ie
-Blackrock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/blackrock-dublin
-Blackrock, Dublin: __NEXT_DATA__ = 1
-Blackrock, Dublin: Total pages: 2
-Blackrock, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Blackrock, Dublin Page 2: Found 20 listings
-========== Bluebell, Dublin ==========
-https://www.daft.ie/property-for-rent/bluebell-dublin
-Property to Rent in Bluebell, Dublin | Daft.ie
-Bluebell, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/bluebell-dublin
-Bluebell, Dublin: __NEXT_DATA__ = 1
-Bluebell, Dublin: Total pages: 0
-========== Bohernabreena, Dublin ==========
-https://www.daft.ie/property-for-rent/bohernabreena-dublin
-Property to Rent in Bohernabreena, Dublin | Daft.ie
-Bohernabreena, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/bohernabreena-dublin
-Bohernabreena, Dublin: __NEXT_DATA__ = 1
-Bohernabreena, Dublin: Total pages: 1
-Bohernabreena, Dublin Page 1: Found 10 listings
-========== Booterstown, Dublin ==========
-https://www.daft.ie/property-for-rent/booterstown-dublin
-Property to Rent in Booterstown, Dublin | Daft.ie
-Booterstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/booterstown-dublin
-Booterstown, Dublin: __NEXT_DATA__ = 1
-Booterstown, Dublin: Total pages: 1
-Booterstown, Dublin Page 1: Found 15 listings
-========== Bray, Dublin ==========
-https://www.daft.ie/property-for-rent/bray-dublin
-Property to Rent in Bray, Dublin | Daft.ie
-Bray, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/bray-dublin
-Bray, Dublin: __NEXT_DATA__ = 1
-Bray, Dublin: Total pages: 1
-Bray, Dublin Page 1: Found 3 listings
-========== Brennanstown, Dublin ==========
-https://www.daft.ie/property-for-rent/brennanstown-dublin
-Property to Rent in Brennanstown, Dublin | Daft.ie
-Brennanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/brennanstown-dublin
-Brennanstown, Dublin: __NEXT_DATA__ = 1
-Brennanstown, Dublin: Total pages: 1
-Brennanstown, Dublin Page 1: Found 3 listings
-========== Brittas, Dublin ==========
-https://www.daft.ie/property-for-rent/brittas-dublin
-Property to Rent in Brittas, Dublin | Daft.ie
-Brittas, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/brittas-dublin
-Brittas, Dublin: __NEXT_DATA__ = 1
-Brittas, Dublin: Total pages: 1
-Brittas, Dublin Page 1: Found 1 listings
-========== Cabinteely, Dublin ==========
-https://www.daft.ie/property-for-rent/cabinteely-dublin
-Property to Rent in Cabinteely, Dublin | Daft.ie
-Cabinteely, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/cabinteely-dublin
-Cabinteely, Dublin: __NEXT_DATA__ = 1
-Cabinteely, Dublin: Total pages: 1
-Cabinteely, Dublin Page 1: Found 17 listings
-========== Carpenterstown, Dublin ==========
-https://www.daft.ie/property-for-rent/carpenterstown-dublin
-Property to Rent in Carpenterstown, Dublin | Daft.ie
-Carpenterstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/carpenterstown-dublin
-Carpenterstown, Dublin: __NEXT_DATA__ = 1
-Carpenterstown, Dublin: Total pages: 1
-Carpenterstown, Dublin Page 1: Found 7 listings
-========== Carrickmines, Dublin ==========
-https://www.daft.ie/property-for-rent/carrickmines-dublin
-Property to Rent in Carrickmines, Dublin | Daft.ie
-Carrickmines, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/carrickmines-dublin
-Carrickmines, Dublin: __NEXT_DATA__ = 1
-Carrickmines, Dublin: Total pages: 1
-Carrickmines, Dublin Page 1: Found 17 listings
-========== Chapelizod, Dublin ==========
-https://www.daft.ie/property-for-rent/chapelizod-dublin
-Property to Rent in Chapelizod, Dublin | Daft.ie
-Chapelizod, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/chapelizod-dublin
-Chapelizod, Dublin: __NEXT_DATA__ = 1
-Chapelizod, Dublin: Total pages: 1
-Chapelizod, Dublin Page 1: Found 6 listings
-========== Cherry Orchard, Dublin ==========
-https://www.daft.ie/property-for-rent/cherry-orchard-dublin
-Property to Rent in Cherry Orchard, Dublin | Daft.ie
-Cherry Orchard, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/cherry-orchard-dublin
-Cherry Orchard, Dublin: __NEXT_DATA__ = 1
-Cherry Orchard, Dublin: Total pages: 1
-Cherry Orchard, Dublin Page 1: Found 2 listings
-========== Cherrywood, Dublin ==========
-https://www.daft.ie/property-for-rent/cherrywood-dublin
-Property to Rent in Cherrywood, Dublin | Daft.ie
-Cherrywood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/cherrywood-dublin
-Cherrywood, Dublin: __NEXT_DATA__ = 1
-Cherrywood, Dublin: Total pages: 1
-Cherrywood, Dublin Page 1: Found 7 listings
-========== Christchurch, Dublin ==========
-https://www.daft.ie/property-for-rent/christchurch-dublin
-Property to Rent in Christchurch, Dublin | Daft.ie
-Christchurch, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/christchurch-dublin
-Christchurch, Dublin: __NEXT_DATA__ = 1
-Christchurch, Dublin: Total pages: 2
-Christchurch, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Christchurch, Dublin Page 2: Found 9 listings
-========== Citywest, Dublin ==========
-https://www.daft.ie/property-for-rent/citywest-dublin
-Property to Rent in Citywest, Dublin | Daft.ie
-Citywest, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/citywest-dublin
-Citywest, Dublin: __NEXT_DATA__ = 1
-Citywest, Dublin: Total pages: 1
-Citywest, Dublin Page 1: Found 20 listings
-========== Clarehall, Dublin ==========
-https://www.daft.ie/property-for-rent/clarehall-dublin
-Property to Rent in Clarehall, Dublin | Daft.ie
-Clarehall, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clarehall-dublin
-Clarehall, Dublin: __NEXT_DATA__ = 1
-Clarehall, Dublin: Total pages: 1
-Clarehall, Dublin Page 1: Found 15 listings
-========== Cloghran, Dublin ==========
-https://www.daft.ie/property-for-rent/cloghran-dublin
-Property to Rent in Cloghran, Dublin | Daft.ie
-Cloghran, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/cloghran-dublin
-Cloghran, Dublin: __NEXT_DATA__ = 1
-Cloghran, Dublin: Total pages: 2
-Cloghran, Dublin Page 1: Found 20 listings
-Page 2/2
-Cloghran, Dublin Page 2: Found 1 listings
-========== Clonburris, Dublin ==========
-https://www.daft.ie/property-for-rent/clonburris-dublin
-Property to Rent in Clonburris, Dublin | Daft.ie
-Clonburris, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clonburris-dublin
-Clonburris, Dublin: __NEXT_DATA__ = 1
-Clonburris, Dublin: Total pages: 0
-========== Clonee, Dublin ==========
-https://www.daft.ie/property-for-rent/clonee-dublin
-Property to Rent in Clonee, Dublin | Daft.ie
-Clonee, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clonee-dublin
-Clonee, Dublin: __NEXT_DATA__ = 1
-Clonee, Dublin: Total pages: 1
-Clonee, Dublin Page 1: Found 7 listings
-========== Clongriffin, Dublin ==========
-https://www.daft.ie/property-for-rent/clongriffin-dublin
-Property to Rent in Clongriffin, Dublin | Daft.ie
-Clongriffin, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clongriffin-dublin
-Clongriffin, Dublin: __NEXT_DATA__ = 1
-Clongriffin, Dublin: Total pages: 1
-Clongriffin, Dublin Page 1: Found 9 listings
-========== Clonshaugh, Dublin ==========
-https://www.daft.ie/property-for-rent/clonshaugh-dublin
-Property to Rent in Clonshaugh, Dublin | Daft.ie
-Clonshaugh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clonshaugh-dublin
-Clonshaugh, Dublin: __NEXT_DATA__ = 1
-Clonshaugh, Dublin: Total pages: 1
-Clonshaugh, Dublin Page 1: Found 5 listings
-========== Clonsilla, Dublin ==========
-https://www.daft.ie/property-for-rent/clonsilla-dublin
-Property to Rent in Clonsilla, Dublin | Daft.ie
-Clonsilla, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clonsilla-dublin
-Clonsilla, Dublin: __NEXT_DATA__ = 1
-Clonsilla, Dublin: Total pages: 1
-Clonsilla, Dublin Page 1: Found 19 listings
-========== Clonskeagh, Dublin ==========
-https://www.daft.ie/property-for-rent/clonskeagh-dublin
-Property to Rent in Clonskeagh, Dublin | Daft.ie
-Clonskeagh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/clonskeagh-dublin
-Clonskeagh, Dublin: __NEXT_DATA__ = 1
-Clonskeagh, Dublin: Total pages: 2
-Clonskeagh, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Clonskeagh, Dublin Page 2: Found 1 listings
-========== Collinswood, Dublin ==========
-https://www.daft.ie/property-for-rent/collinswood-dublin
-Property to Rent in Collinswood, Dublin | Daft.ie
-Collinswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/collinswood-dublin
-Collinswood, Dublin: __NEXT_DATA__ = 1
-Collinswood, Dublin: Total pages: 1
-Collinswood, Dublin Page 1: Found 1 listings
-========== Coolmine, Dublin ==========
-https://www.daft.ie/property-for-rent/coolmine-dublin
-Property to Rent in Coolmine, Dublin | Daft.ie
-Coolmine, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/coolmine-dublin
-Coolmine, Dublin: __NEXT_DATA__ = 1
-Coolmine, Dublin: Total pages: 1
-Coolmine, Dublin Page 1: Found 5 listings
-========== Corduff, Dublin ==========
-https://www.daft.ie/property-for-rent/corduff-dublin
-Property to Rent in Corduff, Dublin | Daft.ie
-Corduff, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/corduff-dublin
-Corduff, Dublin: __NEXT_DATA__ = 1
-Corduff, Dublin: Total pages: 1
-Corduff, Dublin Page 1: Found 1 listings
-========== Cornelscourt, Dublin ==========
-https://www.daft.ie/property-for-rent/cornelscourt-dublin
-Property to Rent in Cornelscourt, Dublin | Daft.ie
-Cornelscourt, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/cornelscourt-dublin
-Cornelscourt, Dublin: __NEXT_DATA__ = 1
-Cornelscourt, Dublin: Total pages: 1
-Cornelscourt, Dublin Page 1: Found 1 listings
-========== Dalkey, Dublin ==========
-https://www.daft.ie/property-for-rent/dalkey-dublin
-Property to Rent in Dalkey, Dublin | Daft.ie
-Dalkey, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dalkey-dublin
-Dalkey, Dublin: __NEXT_DATA__ = 1
-Dalkey, Dublin: Total pages: 1
-Dalkey, Dublin Page 1: Found 8 listings
-========== Damastown, Dublin ==========
-https://www.daft.ie/property-for-rent/damastown-dublin
-Property to Rent in Damastown, Dublin | Daft.ie
-Damastown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/damastown-dublin
-Damastown, Dublin: __NEXT_DATA__ = 1
-Damastown, Dublin: Total pages: 1
-Damastown, Dublin Page 1: Found 1 listings
-========== Darndale, Dublin ==========
-https://www.daft.ie/property-for-rent/darndale-dublin
-Property to Rent in Darndale, Dublin | Daft.ie
-Darndale, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/darndale-dublin
-Darndale, Dublin: __NEXT_DATA__ = 1
-Darndale, Dublin: Total pages: 1
-Darndale, Dublin Page 1: Found 3 listings
-========== Dartry, Dublin ==========
-https://www.daft.ie/property-for-rent/dartry-dublin
-Property to Rent in Dartry, Dublin | Daft.ie
-Dartry, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dartry-dublin
-Dartry, Dublin: __NEXT_DATA__ = 1
-Dartry, Dublin: Total pages: 1
-Dartry, Dublin Page 1: Found 14 listings
-========== Deansgrange, Dublin ==========
-https://www.daft.ie/property-for-rent/deansgrange-dublin
-Property to Rent in Deansgrange, Dublin | Daft.ie
-Deansgrange, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/deansgrange-dublin
-Deansgrange, Dublin: __NEXT_DATA__ = 1
-Deansgrange, Dublin: Total pages: 1
-Deansgrange, Dublin Page 1: Found 1 listings
-========== Dollymount, Dublin ==========
-https://www.daft.ie/property-for-rent/dollymount-dublin
-Property to Rent in Dollymount, Dublin | Daft.ie
-Dollymount, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dollymount-dublin
-Dollymount, Dublin: __NEXT_DATA__ = 1
-Dollymount, Dublin: Total pages: 1
-Dollymount, Dublin Page 1: Found 4 listings
-========== Dolphin's Barn, Dublin ==========
-https://www.daft.ie/property-for-rent/dolphin-s-barn-dublin
-Property to Rent in Dolphin's Barn, Dublin | Daft.ie
-Dolphin's Barn, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dolphin-s-barn-dublin
-Dolphin's Barn, Dublin: __NEXT_DATA__ = 1
-Dolphin's Barn, Dublin: Total pages: 1
-Dolphin's Barn, Dublin Page 1: Found 2 listings
-========== Donabate, Dublin ==========
-https://www.daft.ie/property-for-rent/donabate-dublin
-Property to Rent in Donabate, Dublin | Daft.ie
-Donabate, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/donabate-dublin
-Donabate, Dublin: __NEXT_DATA__ = 1
-Donabate, Dublin: Total pages: 1
-Donabate, Dublin Page 1: Found 2 listings
-========== Donaghmede, Dublin ==========
-https://www.daft.ie/property-for-rent/donaghmede-dublin?__cf_chl_rt_tk=te.unc4ltkjtBWi0W7V.FhK0tvoVyYexrafgoUFdygU-1791379128-1.0.1.1-fz3bsPpuHs1pt1j9xo28h1baF5LQbyPSA.BIwo.14VA
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Donaghmede, Dublin | Daft.ie
-Donaghmede, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/donaghmede-dublin
-Donaghmede, Dublin: __NEXT_DATA__ = 1
-Donaghmede, Dublin: Total pages: 1
-Donaghmede, Dublin Page 1: Found 11 listings
-========== Donnycarney, Dublin ==========
-https://www.daft.ie/property-for-rent/donnycarney-dublin
-Property to Rent in Donnycarney, Dublin | Daft.ie
-Donnycarney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/donnycarney-dublin
-Donnycarney, Dublin: __NEXT_DATA__ = 1
-Donnycarney, Dublin: Total pages: 1
-Donnycarney, Dublin Page 1: Found 3 listings
-========== Dublin 1, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-1-dublin
-Property to Rent in Dublin 1, Dublin | Daft.ie
-Dublin 1, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-1-dublin
-Dublin 1, Dublin: __NEXT_DATA__ = 1
-Dublin 1, Dublin: Total pages: 5
-Dublin 1, Dublin Page 1: Found 20 listings
-Page 2/5
-Dublin 1, Dublin Page 2: Found 20 listings
-Page 3/5
-Dublin 1, Dublin Page 3: Found 20 listings
-Page 4/5
-Dublin 1, Dublin Page 4: Found 20 listings
-Page 5/5
-Dublin 1, Dublin Page 5: Found 6 listings
-========== Dublin 10, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-10-dublin
-Property to Rent in Dublin 10, Dublin | Daft.ie
-Dublin 10, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-10-dublin
-Dublin 10, Dublin: __NEXT_DATA__ = 1
-Dublin 10, Dublin: Total pages: 1
-Dublin 10, Dublin Page 1: Found 5 listings
-========== Dublin 11, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-11-dublin
-Property to Rent in Dublin 11, Dublin | Daft.ie
-Dublin 11, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-11-dublin
-Dublin 11, Dublin: __NEXT_DATA__ = 1
-Dublin 11, Dublin: Total pages: 2
-Dublin 11, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 11, Dublin Page 2: Found 10 listings
-========== Dublin 12, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-12-dublin
-Property to Rent in Dublin 12, Dublin | Daft.ie
-Dublin 12, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-12-dublin
-Dublin 12, Dublin: __NEXT_DATA__ = 1
-Dublin 12, Dublin: Total pages: 2
-Dublin 12, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 12, Dublin Page 2: Found 4 listings
-========== Dublin 13, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-13-dublin
-Property to Rent in Dublin 13, Dublin | Daft.ie
-Dublin 13, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-13-dublin
-Dublin 13, Dublin: __NEXT_DATA__ = 1
-Dublin 13, Dublin: Total pages: 2
-Dublin 13, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 13, Dublin Page 2: Found 15 listings
-========== Dublin 14, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-14-dublin?__cf_chl_rt_tk=EW7dF81.4_6i7xD3YgRjapBWIrODunZLs.82UHh3DRQ-1791379244-1.0.1.1-szaakoTcq39.TkkrCc8XLeBr2chOEsRQvU20m602cZo
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Dublin 14, Dublin | Daft.ie
-Dublin 14, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-14-dublin
-Dublin 14, Dublin: __NEXT_DATA__ = 1
-Dublin 14, Dublin: Total pages: 3
-Dublin 14, Dublin Page 1: Found 20 listings
-Page 2/3
-Dublin 14, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 14, Dublin Page 3: Found 12 listings
-========== Dublin 15, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-15-dublin
-Property to Rent in Dublin 15, Dublin | Daft.ie
-Dublin 15, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-15-dublin
-Dublin 15, Dublin: __NEXT_DATA__ = 1
-Dublin 15, Dublin: Total pages: 4
-Dublin 15, Dublin Page 1: Found 20 listings
-Page 2/4
-Dublin 15, Dublin Page 2: Found 20 listings
-Page 3/4
-Dublin 15, Dublin Page 3: Found 20 listings
-Page 4/4
-Dublin 15, Dublin Page 4: Found 5 listings
-========== Dublin 16, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-16-dublin
-Property to Rent in Dublin 16, Dublin | Daft.ie
-Dublin 16, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-16-dublin
-Dublin 16, Dublin: __NEXT_DATA__ = 1
-Dublin 16, Dublin: Total pages: 2
-Dublin 16, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 16, Dublin Page 2: Found 15 listings
-========== Dublin 17, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-17-dublin
-Property to Rent in Dublin 17, Dublin | Daft.ie
-Dublin 17, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-17-dublin
-Dublin 17, Dublin: __NEXT_DATA__ = 1
-Dublin 17, Dublin: Total pages: 1
-Dublin 17, Dublin Page 1: Found 5 listings
-========== Dublin 18, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-18-dublin?__cf_chl_rt_tk=Ocesk8b35dNUi1NSgpl4KK7b7zH00txwnVBMO9q6Hdk-1791379335-1.0.1.1-lmIRhQeU2b0OSnFWN9_nRGsoQgRfO1JuT.yqa_Skw9E
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Dublin 18, Dublin | Daft.ie
-Dublin 18, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-18-dublin
-Dublin 18, Dublin: __NEXT_DATA__ = 1
-Dublin 18, Dublin: Total pages: 4
-Dublin 18, Dublin Page 1: Found 20 listings
-Page 2/4
-Dublin 18, Dublin Page 2: Found 20 listings
-Page 3/4
-Dublin 18, Dublin Page 3: Found 20 listings
-Page 4/4
-Dublin 18, Dublin Page 4: Found 7 listings
-========== Dublin 2, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-2-dublin
-Property to Rent in Dublin 2, Dublin | Daft.ie
-Dublin 2, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-2-dublin
-Dublin 2, Dublin: __NEXT_DATA__ = 1
-Dublin 2, Dublin: Total pages: 4
-Dublin 2, Dublin Page 1: Found 20 listings
-Page 2/4
-Dublin 2, Dublin Page 2: Found 20 listings
-Page 3/4
-Dublin 2, Dublin Page 3: Found 20 listings
-Page 4/4
-Dublin 2, Dublin Page 4: Found 17 listings
-========== Dublin 20, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-20-dublin
-Property to Rent in Dublin 20, Dublin | Daft.ie
-Dublin 20, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-20-dublin
-Dublin 20, Dublin: __NEXT_DATA__ = 1
-Dublin 20, Dublin: Total pages: 1
-Dublin 20, Dublin Page 1: Found 10 listings
-========== Dublin 22, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-22-dublin
-Property to Rent in Dublin 22, Dublin | Daft.ie
-Dublin 22, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-22-dublin
-Dublin 22, Dublin: __NEXT_DATA__ = 1
-Dublin 22, Dublin: Total pages: 2
-Dublin 22, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 22, Dublin Page 2: Found 1 listings
-========== Dublin 24, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-24-dublin?__cf_chl_rt_tk=NDp6j178kROxKUKJGA4JYqeKXvy.fBCQZ_2wE1eGZnE-1791379422-1.0.1.1-MyXuGcNZpk4pTygpZFLGliWZsKZ66mQxXMZTbuCK8FE
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Dublin 24, Dublin | Daft.ie
-Dublin 24, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-24-dublin
-Dublin 24, Dublin: __NEXT_DATA__ = 1
-Dublin 24, Dublin: Total pages: 5
-Dublin 24, Dublin Page 1: Found 20 listings
-Page 2/5
-Dublin 24, Dublin Page 2: Found 20 listings
-Page 3/5
-Dublin 24, Dublin Page 3: Found 20 listings
-Page 4/5
-Dublin 24, Dublin Page 4: Found 20 listings
-Page 5/5
-Dublin 24, Dublin Page 5: Found 8 listings
-========== Dublin 3, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-3-dublin
-Property to Rent in Dublin 3, Dublin | Daft.ie
-Dublin 3, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-3-dublin
-Dublin 3, Dublin: __NEXT_DATA__ = 1
-Dublin 3, Dublin: Total pages: 3
-Dublin 3, Dublin Page 1: Found 20 listings
-Page 2/3
-Page 2 retry 1/3
-Dublin 3, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 3, Dublin Page 3: Found 7 listings
-========== Dublin 4, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-4-dublin
-Property to Rent in Dublin 4, Dublin | Daft.ie
-Dublin 4, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-4-dublin
-Dublin 4, Dublin: __NEXT_DATA__ = 1
-Dublin 4, Dublin: Total pages: 7
-Dublin 4, Dublin Page 1: Found 20 listings
-Page 2/7
-Dublin 4, Dublin Page 2: Found 20 listings
-Page 3/7
-Dublin 4, Dublin Page 3: Found 20 listings
-Page 4/7
-Dublin 4, Dublin Page 4: Found 20 listings
-Page 5/7
-Dublin 4, Dublin Page 5: Found 20 listings
-Dublin 4, Dublin: Cooling down 10 seconds...
-Page 6/7
-Dublin 4, Dublin Page 6: Found 20 listings
-Page 7/7
-Dublin 4, Dublin Page 7: Found 7 listings
-========== Dublin 5, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-5-dublin
-Property to Rent in Dublin 5, Dublin | Daft.ie
-Dublin 5, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-5-dublin
-Dublin 5, Dublin: __NEXT_DATA__ = 1
-Dublin 5, Dublin: Total pages: 2
-Dublin 5, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 5, Dublin Page 2: Found 3 listings
-========== Dublin 6, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-6-dublin
-Property to Rent in Dublin 6, Dublin | Daft.ie
-Dublin 6, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-6-dublin
-Dublin 6, Dublin: __NEXT_DATA__ = 1
-Dublin 6, Dublin: Total pages: 6
-Dublin 6, Dublin Page 1: Found 20 listings
-Page 2/6
-Dublin 6, Dublin Page 2: Found 20 listings
-Page 3/6
-Dublin 6, Dublin Page 3: Found 20 listings
-Page 4/6
-Page 4 retry 1/3
-Dublin 6, Dublin Page 4: Found 20 listings
-Page 5/6
-Dublin 6, Dublin Page 5: Found 20 listings
-Dublin 6, Dublin: Cooling down 10 seconds...
-Page 6/6
-Dublin 6, Dublin Page 6: Found 2 listings
-========== Dublin 6W, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-6w-dublin
-Property to Rent in Dublin 6W, Dublin | Daft.ie
-Dublin 6W, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-6w-dublin
-Dublin 6W, Dublin: __NEXT_DATA__ = 1
-Dublin 6W, Dublin: Total pages: 2
-Dublin 6W, Dublin Page 1: Found 20 listings
-Page 2/2
-Dublin 6W, Dublin Page 2: Found 2 listings
-========== Dublin 7, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-7-dublin
-Property to Rent in Dublin 7, Dublin | Daft.ie
-Dublin 7, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-7-dublin
-Dublin 7, Dublin: __NEXT_DATA__ = 1
-Dublin 7, Dublin: Total pages: 4
-Dublin 7, Dublin Page 1: Found 20 listings
-Page 2/4
-Dublin 7, Dublin Page 2: Found 20 listings
-Page 3/4
-Dublin 7, Dublin Page 3: Found 20 listings
-Page 4/4
-Dublin 7, Dublin Page 4: Found 16 listings
-========== Dublin 8, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-8-dublin
-Property to Rent in Dublin 8, Dublin | Daft.ie
-Dublin 8, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-8-dublin
-Dublin 8, Dublin: __NEXT_DATA__ = 1
-Dublin 8, Dublin: Total pages: 7
-Dublin 8, Dublin Page 1: Found 20 listings
-Page 2/7
-Dublin 8, Dublin Page 2: Found 20 listings
-Page 3/7
-Dublin 8, Dublin Page 3: Found 20 listings
-Page 4/7
-Page 4 retry 1/3
-Dublin 8, Dublin Page 4: Found 20 listings
-Page 5/7
-Dublin 8, Dublin Page 5: Found 20 listings
-Dublin 8, Dublin: Cooling down 10 seconds...
-Page 6/7
-Dublin 8, Dublin Page 6: Found 20 listings
-Page 7/7
-Dublin 8, Dublin Page 7: Found 12 listings
-========== Dublin 9, Dublin ==========
-https://www.daft.ie/property-for-rent/dublin-9-dublin
-Property to Rent in Dublin 9, Dublin | Daft.ie
-Dublin 9, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dublin-9-dublin
-Dublin 9, Dublin: __NEXT_DATA__ = 1
-Dublin 9, Dublin: Total pages: 3
-Dublin 9, Dublin Page 1: Found 20 listings
-Page 2/3
-Dublin 9, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 9, Dublin Page 3: Found 9 listings
-========== Dun Laoghaire, Dublin ==========
-https://www.daft.ie/property-for-rent/dun-laoghaire-dublin
-Property to Rent in Dun Laoghaire, Dublin | Daft.ie
-Dun Laoghaire, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/dun-laoghaire-dublin
-Dun Laoghaire, Dublin: __NEXT_DATA__ = 1
-Dun Laoghaire, Dublin: Total pages: 2
-Dun Laoghaire, Dublin Page 1: Found 20 listings
-Page 2/2
-Dun Laoghaire, Dublin Page 2: Found 14 listings
-========== Edenmore, Dublin ==========
-https://www.daft.ie/property-for-rent/edenmore-dublin
-Property to Rent in Edenmore, Dublin | Daft.ie
-Edenmore, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/edenmore-dublin
-Edenmore, Dublin: __NEXT_DATA__ = 1
-Edenmore, Dublin: Total pages: 1
-Edenmore, Dublin Page 1: Found 1 listings
-========== Edmondstown, Dublin ==========
-Skip Edmondstown, Dublin: page.goto: Timeout 60000ms exceeded.
+  - navigating to "https://www.daft.ie/property-for-rent/balgriffin-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Balgriffin, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
 Call log:
-  - navigating to "https://www.daft.ie/property-for-rent/edmondstown-dublin", waiting until "domcontentloaded"
-
-⚠️ Edmondstown, Dublin: 无数据（累计 5 个，有数据 81 个）
-========== Firhouse, Dublin ==========
-https://www.daft.ie/property-for-rent/firhouse-dublin
-Property to Rent in Firhouse, Dublin | Daft.ie
-Firhouse, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/firhouse-dublin
-Firhouse, Dublin: __NEXT_DATA__ = 1
-Firhouse, Dublin: Total pages: 1
-Firhouse, Dublin Page 1: Found 10 listings
-========== Fox & Geese, Dublin ==========
-https://www.daft.ie/property-for-rent/fox-and-geese-dublin
-Property to Rent in Fox & Geese, Dublin | Daft.ie
-Fox & Geese, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/fox-and-geese-dublin
-Fox & Geese, Dublin: __NEXT_DATA__ = 1
-Fox & Geese, Dublin: Total pages: 1
-Fox & Geese, Dublin Page 1: Found 2 listings
-========== Foxrock, Dublin ==========
-https://www.daft.ie/property-for-rent/foxrock-dublin
-Property to Rent in Foxrock, Dublin | Daft.ie
-Foxrock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/foxrock-dublin
-Foxrock, Dublin: __NEXT_DATA__ = 1
-Foxrock, Dublin: Total pages: 1
-Foxrock, Dublin Page 1: Found 11 listings
-========== Galloping Green, Dublin ==========
-https://www.daft.ie/property-for-rent/galloping-green-dublin
-Property to Rent in Galloping Green, Dublin | Daft.ie
-Galloping Green, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/galloping-green-dublin
-Galloping Green, Dublin: __NEXT_DATA__ = 1
-Galloping Green, Dublin: Total pages: 1
-Galloping Green, Dublin Page 1: Found 1 listings
-========== Garristown, Dublin ==========
-https://www.daft.ie/property-for-rent/garristown-dublin
-Property to Rent in Garristown, Dublin | Daft.ie
-Garristown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/garristown-dublin
-Garristown, Dublin: __NEXT_DATA__ = 1
-Garristown, Dublin: Total pages: 0
-========== Glasthule, Dublin ==========
-https://www.daft.ie/property-for-rent/glasthule-dublin
-Property to Rent in Glasthule, Dublin | Daft.ie
-Glasthule, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/glasthule-dublin
-Glasthule, Dublin: __NEXT_DATA__ = 1
-Glasthule, Dublin: Total pages: 1
-Glasthule, Dublin Page 1: Found 4 listings
-========== Glenageary, Dublin ==========
-https://www.daft.ie/property-for-rent/glenageary-dublin
-Property to Rent in Glenageary, Dublin | Daft.ie
-Glenageary, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/glenageary-dublin
-Glenageary, Dublin: __NEXT_DATA__ = 1
-Glenageary, Dublin: Total pages: 1
-Glenageary, Dublin Page 1: Found 17 listings
-========== Glenasmole, Dublin ==========
-https://www.daft.ie/property-for-rent/glenasmole-dublin
-Property to Rent in Glenasmole, Dublin | Daft.ie
-Glenasmole, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/glenasmole-dublin
-Glenasmole, Dublin: __NEXT_DATA__ = 1
-Glenasmole, Dublin: Total pages: 1
-Glenasmole, Dublin Page 1: Found 1 listings
-========== Glencullen, Dublin ==========
-https://www.daft.ie/property-for-rent/glencullen-dublin
-Property to Rent in Glencullen, Dublin | Daft.ie
-Glencullen, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/glencullen-dublin
-Glencullen, Dublin: __NEXT_DATA__ = 1
-Glencullen, Dublin: Total pages: 0
-========== Grand Canal Dock, Dublin ==========
-https://www.daft.ie/property-for-rent/grand-canal-dock-dublin
-Property to Rent in Grand Canal Dock, Dublin | Daft.ie
-Grand Canal Dock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/grand-canal-dock-dublin
-Grand Canal Dock, Dublin: __NEXT_DATA__ = 1
-Grand Canal Dock, Dublin: Total pages: 2
-Grand Canal Dock, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Grand Canal Dock, Dublin Page 2: Found 6 listings
-========== Grange Castle, Dublin ==========
-https://www.daft.ie/property-for-rent/grange-castle-dublin
-Property to Rent in Grange Castle, Dublin | Daft.ie
-Grange Castle, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/grange-castle-dublin
-Grange Castle, Dublin: __NEXT_DATA__ = 1
-Grange Castle, Dublin: Total pages: 1
-Grange Castle, Dublin Page 1: Found 5 listings
-========== Greenhills, Dublin ==========
-https://www.daft.ie/property-for-rent/greenhills-dublin
-Property to Rent in Greenhills, Dublin | Daft.ie
-Greenhills, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/greenhills-dublin
-Greenhills, Dublin: __NEXT_DATA__ = 1
-Greenhills, Dublin: Total pages: 1
-Greenhills, Dublin Page 1: Found 2 listings
-========== Hanover Quay, Dublin ==========
-https://www.daft.ie/property-for-rent/hanover-quay-dublin
-Property to Rent in Hanover Quay, Dublin | Daft.ie
-Hanover Quay, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/hanover-quay-dublin
-Hanover Quay, Dublin: __NEXT_DATA__ = 1
-Hanover Quay, Dublin: Total pages: 1
-Hanover Quay, Dublin Page 1: Found 6 listings
-========== Hartstown, Dublin ==========
-https://www.daft.ie/property-for-rent/hartstown-dublin
-Property to Rent in Hartstown, Dublin | Daft.ie
-Hartstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/hartstown-dublin
-Hartstown, Dublin: __NEXT_DATA__ = 1
-Hartstown, Dublin: Total pages: 0
-========== Hollystown, Dublin ==========
-https://www.daft.ie/property-for-rent/hollystown-dublin
-Property to Rent in Hollystown, Dublin | Daft.ie
-Hollystown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/hollystown-dublin
-Hollystown, Dublin: __NEXT_DATA__ = 1
-Hollystown, Dublin: Total pages: 1
-Hollystown, Dublin Page 1: Found 4 listings
-========== Howth, Dublin ==========
-https://www.daft.ie/property-for-rent/howth-dublin
-Property to Rent in Howth, Dublin | Daft.ie
-Howth, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/howth-dublin
-Howth, Dublin: __NEXT_DATA__ = 1
-Howth, Dublin: Total pages: 1
-Howth, Dublin Page 1: Found 9 listings
-========== Huntstown, Dublin ==========
-https://www.daft.ie/property-for-rent/huntstown-dublin
-Property to Rent in Huntstown, Dublin | Daft.ie
-Huntstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/huntstown-dublin
-Huntstown, Dublin: __NEXT_DATA__ = 1
-Huntstown, Dublin: Total pages: 1
-Huntstown, Dublin Page 1: Found 2 listings
-========== IFSC, Dublin ==========
-https://www.daft.ie/property-for-rent/ifsc-dublin
-Property to Rent in IFSC, Dublin | Daft.ie
-IFSC, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ifsc-dublin
-IFSC, Dublin: __NEXT_DATA__ = 1
-IFSC, Dublin: Total pages: 2
-IFSC, Dublin Page 1: Found 20 listings
-Page 2/2
-IFSC, Dublin Page 2: Found 3 listings
-========== Islandbridge, Dublin ==========
-https://www.daft.ie/property-for-rent/islandbridge-dublin
-Property to Rent in Islandbridge, Dublin | Daft.ie
-Islandbridge, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/islandbridge-dublin
-Islandbridge, Dublin: __NEXT_DATA__ = 1
-Islandbridge, Dublin: Total pages: 1
-Islandbridge, Dublin Page 1: Found 13 listings
-========== Jobstown, Dublin ==========
-https://www.daft.ie/property-for-rent/jobstown-dublin?__cf_chl_rt_tk=yQ76Y6wjZObMyODJhQlGR8rBozI8zRhTwNrjQKvAzrU-1791380064-1.0.1.1-N4HCycsLPTGv8lSbnQruINjVLqxkAc0H6nmcCpBz8Q0
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Jobstown, Dublin | Daft.ie
-Jobstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/jobstown-dublin
-Jobstown, Dublin: __NEXT_DATA__ = 1
-Jobstown, Dublin: Total pages: 1
-Jobstown, Dublin Page 1: Found 4 listings
-========== Kilbarrack, Dublin ==========
-https://www.daft.ie/property-for-rent/kilbarrack-dublin
-Property to Rent in Kilbarrack, Dublin | Daft.ie
-Kilbarrack, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilbarrack-dublin
-Kilbarrack, Dublin: __NEXT_DATA__ = 1
-Kilbarrack, Dublin: Total pages: 1
-Kilbarrack, Dublin Page 1: Found 5 listings
-========== Kilcarbery, Dublin ==========
-https://www.daft.ie/property-for-rent/kilcarbery-dublin
-Property to Rent in Kilcarbery, Dublin | Daft.ie
-Kilcarbery, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilcarbery-dublin
-Kilcarbery, Dublin: __NEXT_DATA__ = 1
-Kilcarbery, Dublin: Total pages: 1
-Kilcarbery, Dublin Page 1: Found 1 listings
-========== Kill O' The Grange, Dublin ==========
-https://www.daft.ie/property-for-rent/kill-o-the-grange-dublin
-Property to Rent in Kill O' The Grange, Dublin | Daft.ie
-Kill O' The Grange, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kill-o-the-grange-dublin
-Kill O' The Grange, Dublin: __NEXT_DATA__ = 1
-Kill O' The Grange, Dublin: Total pages: 1
-Kill O' The Grange, Dublin Page 1: Found 1 listings
-========== Killakee, Dublin ==========
-https://www.daft.ie/property-for-rent/killakee-dublin
-Property to Rent in Killakee, Dublin | Daft.ie
-Killakee, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/killakee-dublin
-Killakee, Dublin: __NEXT_DATA__ = 1
-Killakee, Dublin: Total pages: 0
-========== Killester, Dublin ==========
-https://www.daft.ie/property-for-rent/killester-dublin
-Property to Rent in Killester, Dublin | Daft.ie
-Killester, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/killester-dublin
-Killester, Dublin: __NEXT_DATA__ = 1
-Killester, Dublin: Total pages: 1
-Killester, Dublin Page 1: Found 4 listings
-========== Killiney, Dublin ==========
-https://www.daft.ie/property-for-rent/killiney-dublin
-Property to Rent in Killiney, Dublin | Daft.ie
-Killiney, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/killiney-dublin
-Killiney, Dublin: __NEXT_DATA__ = 1
-Killiney, Dublin: Total pages: 1
-Killiney, Dublin Page 1: Found 8 listings
-========== Kilmacud, Dublin ==========
-https://www.daft.ie/property-for-rent/kilmacud-dublin
-Property to Rent in Kilmacud, Dublin | Daft.ie
-Kilmacud, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilmacud-dublin
-Kilmacud, Dublin: __NEXT_DATA__ = 1
-Kilmacud, Dublin: Total pages: 1
-Kilmacud, Dublin Page 1: Found 10 listings
-========== Kilmore, Dublin ==========
-https://www.daft.ie/property-for-rent/kilmore-dublin?__cf_chl_rt_tk=3mPDs47H.WGSsnXVwdytC1wztDHRBopqdADSU3gkgX8-1791380138-1.0.1.1-0VDr6nYsLshwTOHL6dSqoM6DE9HLWnKrs9oJhtPHpS4
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Kilmore, Dublin | Daft.ie
-Kilmore, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilmore-dublin
-Kilmore, Dublin: __NEXT_DATA__ = 1
-Kilmore, Dublin: Total pages: 1
-Kilmore, Dublin Page 1: Found 5 listings
-========== Kilnamanagh, Dublin ==========
-https://www.daft.ie/property-for-rent/kilnamanagh-dublin
-Property to Rent in Kilnamanagh, Dublin | Daft.ie
-Kilnamanagh, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilnamanagh-dublin
-Kilnamanagh, Dublin: __NEXT_DATA__ = 1
-Kilnamanagh, Dublin: Total pages: 1
-Kilnamanagh, Dublin Page 1: Found 5 listings
-========== Kilsallaghan, Dublin ==========
-https://www.daft.ie/property-for-rent/kilsallaghan-dublin
-Property to Rent in Kilsallaghan, Dublin | Daft.ie
-Kilsallaghan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilsallaghan-dublin
-Kilsallaghan, Dublin: __NEXT_DATA__ = 1
-Kilsallaghan, Dublin: Total pages: 0
-========== Kilshane Cross, Dublin ==========
-https://www.daft.ie/property-for-rent/kilshane-cross-dublin
-Property to Rent in Kilshane Cross, Dublin | Daft.ie
-Kilshane Cross, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilshane-cross-dublin
-Kilshane Cross, Dublin: __NEXT_DATA__ = 1
-Kilshane Cross, Dublin: Total pages: 1
-Kilshane Cross, Dublin Page 1: Found 12 listings
-========== Kilternan, Dublin ==========
-https://www.daft.ie/property-for-rent/kilternan-dublin
-Property to Rent in Kilternan, Dublin | Daft.ie
-Kilternan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilternan-dublin
-Kilternan, Dublin: __NEXT_DATA__ = 1
-Kilternan, Dublin: Total pages: 1
-Kilternan, Dublin Page 1: Found 13 listings
-========== Kiltipper, Dublin ==========
-https://www.daft.ie/property-for-rent/kiltipper-dublin
-Property to Rent in Kiltipper, Dublin | Daft.ie
-Kiltipper, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kiltipper-dublin
-Kiltipper, Dublin: __NEXT_DATA__ = 1
-Kiltipper, Dublin: Total pages: 1
-Kiltipper, Dublin Page 1: Found 7 listings
-========== Kimmage, Dublin ==========
-https://www.daft.ie/property-for-rent/kimmage-dublin
-Property to Rent in Kimmage, Dublin | Daft.ie
-Kimmage, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kimmage-dublin
-Kimmage, Dublin: __NEXT_DATA__ = 1
-Kimmage, Dublin: Total pages: 1
-Kimmage, Dublin Page 1: Found 13 listings
-========== Kingswood, Dublin ==========
-https://www.daft.ie/property-for-rent/kingswood-dublin
-Property to Rent in Kingswood, Dublin | Daft.ie
-Kingswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kingswood-dublin
-Kingswood, Dublin: __NEXT_DATA__ = 1
-Kingswood, Dublin: Total pages: 1
-Kingswood, Dublin Page 1: Found 3 listings
-========== Kinsealy, Dublin ==========
-https://www.daft.ie/property-for-rent/kinsealy-dublin
-Property to Rent in Kinsealy, Dublin | Daft.ie
-Kinsealy, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/kinsealy-dublin
-Kinsealy, Dublin: __NEXT_DATA__ = 1
-Kinsealy, Dublin: Total pages: 1
-Kinsealy, Dublin Page 1: Found 11 listings
-========== Knocklyon, Dublin ==========
-https://www.daft.ie/property-for-rent/knocklyon-dublin?__cf_chl_rt_tk=hmkWMpOCSclhfX5dvbXAgQ1ypUiU3u_JWDpP1pizh1Q-1791380219-1.0.1.1-GhiZT05RkjLwE1qkvitVcNpyE9.j86aCKWuNqZZ02X0
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Knocklyon, Dublin | Daft.ie
-Knocklyon, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/knocklyon-dublin
-Knocklyon, Dublin: __NEXT_DATA__ = 1
-Knocklyon, Dublin: Total pages: 1
-Knocklyon, Dublin Page 1: Found 12 listings
-========== Laughanstown, Dublin ==========
-https://www.daft.ie/property-for-rent/laughanstown-dublin
-Property to Rent in Laughanstown, Dublin | Daft.ie
-Laughanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/laughanstown-dublin
-Laughanstown, Dublin: __NEXT_DATA__ = 1
-Laughanstown, Dublin: Total pages: 1
-Laughanstown, Dublin Page 1: Found 1 listings
-========== Leopardstown, Dublin ==========
-Skip Leopardstown, Dublin: page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/leopardstown-dublin
+  - navigating to "https://www.daft.ie/property-for-rent/balgriffin-dublin", waiting until "domcontentloaded"
+）
+⚠️ Balgriffin, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
 Call log:
-  - navigating to "https://www.daft.ie/property-for-rent/leopardstown-dublin", waiting until "domcontentloaded"
-
-⚠️ Leopardstown, Dublin: 无数据（累计 6 个，有数据 119 个）
-========== Loughlinstown, Dublin ==========
-https://www.daft.ie/property-for-rent/loughlinstown-dublin
-Property to Rent in Loughlinstown, Dublin | Daft.ie
-Loughlinstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/loughlinstown-dublin
-Loughlinstown, Dublin: __NEXT_DATA__ = 1
-Loughlinstown, Dublin: Total pages: 1
-Loughlinstown, Dublin Page 1: Found 6 listings
-========== Loughshinny, Dublin ==========
-https://www.daft.ie/property-for-rent/loughshinny-dublin
-Property to Rent in Loughshinny, Dublin | Daft.ie
-Loughshinny, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/loughshinny-dublin
-Loughshinny, Dublin: __NEXT_DATA__ = 1
-Loughshinny, Dublin: Total pages: 0
-========== Lucan, Dublin ==========
-https://www.daft.ie/property-for-rent/lucan-dublin
-Property to Rent in Lucan, Dublin | Daft.ie
-Lucan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/lucan-dublin
-Lucan, Dublin: __NEXT_DATA__ = 1
-Lucan, Dublin: Total pages: 2
-Lucan, Dublin Page 1: Found 20 listings
-Page 2/2
-Lucan, Dublin Page 2: Found 7 listings
-========== Lusk, Dublin ==========
-https://www.daft.ie/property-for-rent/lusk-dublin
-Property to Rent in Lusk, Dublin | Daft.ie
-Lusk, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/lusk-dublin
-Lusk, Dublin: __NEXT_DATA__ = 1
-Lusk, Dublin: Total pages: 1
-Lusk, Dublin Page 1: Found 4 listings
-========== Malahide, Dublin ==========
-https://www.daft.ie/property-for-rent/malahide-dublin
-Property to Rent in Malahide, Dublin | Daft.ie
-Malahide, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/malahide-dublin
-Malahide, Dublin: __NEXT_DATA__ = 1
-Malahide, Dublin: Total pages: 1
-Malahide, Dublin Page 1: Found 14 listings
-========== Marino, Dublin ==========
-https://www.daft.ie/property-for-rent/marino-dublin
-Property to Rent in Marino, Dublin | Daft.ie
-Marino, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/marino-dublin
-Marino, Dublin: __NEXT_DATA__ = 1
-Marino, Dublin: Total pages: 1
-Marino, Dublin Page 1: Found 5 listings
-========== Merrion, Dublin ==========
-https://www.daft.ie/property-for-rent/merrion-dublin
-Property to Rent in Merrion, Dublin | Daft.ie
-Merrion, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/merrion-dublin
-Merrion, Dublin: __NEXT_DATA__ = 1
-Merrion, Dublin: Total pages: 1
-Merrion, Dublin Page 1: Found 10 listings
-========== Milltown, Dublin ==========
-https://www.daft.ie/property-for-rent/milltown-dublin?__cf_chl_rt_tk=DpqIIyxeRxlJUdkRmow0RxyGX8Kt6Vw_H73XQp7yFSU-1791380332-1.0.1.1-.bj.s308rFBmpAJSBfvyrcLED1oEBo9eLNEhXlNFQTY
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Milltown, Dublin | Daft.ie
-Milltown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/milltown-dublin
-Milltown, Dublin: __NEXT_DATA__ = 1
-Milltown, Dublin: Total pages: 1
-Milltown, Dublin Page 1: Found 16 listings
-========== Monkstown, Dublin ==========
-https://www.daft.ie/property-for-rent/monkstown-dublin
-Property to Rent in Monkstown, Dublin | Daft.ie
-Monkstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/monkstown-dublin
-Monkstown, Dublin: __NEXT_DATA__ = 1
-Monkstown, Dublin: Total pages: 1
-Monkstown, Dublin Page 1: Found 16 listings
-========== Mulhuddart, Dublin ==========
-https://www.daft.ie/property-for-rent/mulhuddart-dublin
-Property to Rent in Mulhuddart, Dublin | Daft.ie
-Mulhuddart, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/mulhuddart-dublin
-Mulhuddart, Dublin: __NEXT_DATA__ = 1
-Mulhuddart, Dublin: Total pages: 1
-Mulhuddart, Dublin Page 1: Found 6 listings
-========== Naul, Dublin ==========
-https://www.daft.ie/property-for-rent/naul-dublin
-Property to Rent in Naul, Dublin | Daft.ie
-Naul, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/naul-dublin
-Naul, Dublin: __NEXT_DATA__ = 1
-Naul, Dublin: Total pages: 0
-========== Navan Road (D7), Dublin ==========
-https://www.daft.ie/property-for-rent/navan-road-d7-dublin
-Property to Rent in Navan Road (D7), Dublin | Daft.ie
-Navan Road (D7), Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/navan-road-d7-dublin
-Navan Road (D7), Dublin: __NEXT_DATA__ = 1
-Navan Road (D7), Dublin: Total pages: 1
-Navan Road (D7), Dublin Page 1: Found 9 listings
-========== Newcastle, Dublin ==========
-https://www.daft.ie/property-for-rent/newcastle-dublin
-Property to Rent in Newcastle, Dublin | Daft.ie
-Newcastle, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/newcastle-dublin
-Newcastle, Dublin: __NEXT_DATA__ = 1
-Newcastle, Dublin: Total pages: 1
-Newcastle, Dublin Page 1: Found 15 listings
-========== North Circular Road, Dublin ==========
-https://www.daft.ie/property-for-rent/north-circular-road-dublin
-Property to Rent in North Circular Road, Dublin | Daft.ie
-North Circular Road, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/north-circular-road-dublin
-North Circular Road, Dublin: __NEXT_DATA__ = 1
-North Circular Road, Dublin: Total pages: 3
-North Circular Road, Dublin Page 1: Found 20 listings
-Page 2/3
-North Circular Road, Dublin Page 2: Found 20 listings
-Page 3/3
-North Circular Road, Dublin Page 3: Found 19 listings
-========== North Strand, Dublin ==========
-https://www.daft.ie/property-for-rent/north-strand-dublin
-Property to Rent in North Strand, Dublin | Daft.ie
-North Strand, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/north-strand-dublin
-North Strand, Dublin: __NEXT_DATA__ = 1
-North Strand, Dublin: Total pages: 1
-North Strand, Dublin Page 1: Found 9 listings
-========== North Wall, Dublin ==========
-https://www.daft.ie/property-for-rent/north-wall-dublin
-Property to Rent in North Wall, Dublin | Daft.ie
-North Wall, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/north-wall-dublin
-North Wall, Dublin: __NEXT_DATA__ = 1
-North Wall, Dublin: Total pages: 2
-North Wall, Dublin Page 1: Found 20 listings
-Page 2/2
-North Wall, Dublin Page 2: Found 8 listings
-========== Old Connaught, Dublin ==========
-https://www.daft.ie/property-for-rent/old-connaught-dublin?__cf_chl_rt_tk=LdHVEv_2ffzgRMNVq4GTK_cbCTR_W5iPlElTcGA39BA-1791380430-1.0.1.1-p6Fp1BFBagKyqAg4pj_L.y67AKTkZO1x4Lg0co.BFus
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Old Connaught, Dublin | Daft.ie
-Old Connaught, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/old-connaught-dublin
-Old Connaught, Dublin: __NEXT_DATA__ = 1
-Old Connaught, Dublin: Total pages: 0
-========== Oldbawn, Dublin ==========
-https://www.daft.ie/property-for-rent/oldbawn-dublin
-Property to Rent in Oldbawn, Dublin | Daft.ie
-Oldbawn, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/oldbawn-dublin
-Oldbawn, Dublin: __NEXT_DATA__ = 1
-Oldbawn, Dublin: Total pages: 1
-Oldbawn, Dublin Page 1: Found 4 listings
-========== Oldtown, Dublin ==========
-https://www.daft.ie/property-for-rent/oldtown-dublin
-Property to Rent in Oldtown, Dublin | Daft.ie
-Oldtown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/oldtown-dublin
-Oldtown, Dublin: __NEXT_DATA__ = 1
-Oldtown, Dublin: Total pages: 0
-========== Ongar, Dublin ==========
-https://www.daft.ie/property-for-rent/ongar-dublin
-Property to Rent in Ongar, Dublin | Daft.ie
-Ongar, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ongar-dublin
-Ongar, Dublin: __NEXT_DATA__ = 1
-Ongar, Dublin: Total pages: 1
-Ongar, Dublin Page 1: Found 2 listings
-========== Palmerstown, Dublin ==========
-https://www.daft.ie/property-for-rent/palmerstown-dublin
-Property to Rent in Palmerstown, Dublin | Daft.ie
-Palmerstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/palmerstown-dublin
-Palmerstown, Dublin: __NEXT_DATA__ = 1
-Palmerstown, Dublin: Total pages: 1
-Palmerstown, Dublin Page 1: Found 2 listings
-========== Park West, Dublin ==========
-https://www.daft.ie/property-for-rent/park-west-dublin
-Property to Rent in Park West, Dublin | Daft.ie
-Park West, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/park-west-dublin
-Park West, Dublin: __NEXT_DATA__ = 1
-Park West, Dublin: Total pages: 1
-Park West, Dublin Page 1: Found 2 listings
-========== Poppintree, Dublin ==========
-https://www.daft.ie/property-for-rent/poppintree-dublin
-Property to Rent in Poppintree, Dublin | Daft.ie
-Poppintree, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/poppintree-dublin
-Poppintree, Dublin: __NEXT_DATA__ = 1
-Poppintree, Dublin: Total pages: 1
-Poppintree, Dublin Page 1: Found 3 listings
-========== Porterstown, Dublin ==========
-https://www.daft.ie/property-for-rent/porterstown-dublin
-Property to Rent in Porterstown, Dublin | Daft.ie
-Porterstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/porterstown-dublin
-Porterstown, Dublin: __NEXT_DATA__ = 1
-Porterstown, Dublin: Total pages: 1
-Porterstown, Dublin Page 1: Found 10 listings
-========== Portmarnock, Dublin ==========
-https://www.daft.ie/property-for-rent/portmarnock-dublin?__cf_chl_rt_tk=LGYFysnWA7.7NpheRbwAa5hHYDEjgbboXB.P4nbb1_s-1791380493-1.0.1.1-9SEhsmrGZCHd9NYH7bBdlLrE9Lj5nobP.EEwEd2doII
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Portmarnock, Dublin | Daft.ie
-Portmarnock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/portmarnock-dublin
-Portmarnock, Dublin: __NEXT_DATA__ = 1
-Portmarnock, Dublin: Total pages: 1
-Portmarnock, Dublin Page 1: Found 8 listings
-========== Portobello, Dublin ==========
-https://www.daft.ie/property-for-rent/portobello-dublin
-Property to Rent in Portobello, Dublin | Daft.ie
-Portobello, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/portobello-dublin
-Portobello, Dublin: __NEXT_DATA__ = 1
-Portobello, Dublin: Total pages: 2
-Portobello, Dublin Page 1: Found 20 listings
-Page 2/2
-Portobello, Dublin Page 2: Found 8 listings
-========== Portrane, Dublin ==========
-https://www.daft.ie/property-for-rent/portrane-dublin
-Property to Rent in Portrane, Dublin | Daft.ie
-Portrane, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/portrane-dublin
-Portrane, Dublin: __NEXT_DATA__ = 1
-Portrane, Dublin: Total pages: 0
-========== Priorswood, Dublin ==========
-https://www.daft.ie/property-for-rent/priorswood-dublin
-Property to Rent in Priorswood, Dublin | Daft.ie
-Priorswood, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/priorswood-dublin
-Priorswood, Dublin: __NEXT_DATA__ = 1
-Priorswood, Dublin: Total pages: 0
-========== Rathcoole, Dublin ==========
-https://www.daft.ie/property-for-rent/rathcoole-dublin?__cf_chl_rt_tk=GSFNIc5KptPxT5G8KqMVHJAE34YO4UoUkX5e1p_s47I-1791380537-1.0.1.1-wFbzA4uJx2nRGs4cnCE1cSqHncCjVYxd4l0YzSyZwQE
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Rathcoole, Dublin | Daft.ie
-Rathcoole, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rathcoole-dublin
-Rathcoole, Dublin: __NEXT_DATA__ = 1
-Rathcoole, Dublin: Total pages: 1
-Rathcoole, Dublin Page 1: Found 13 listings
-========== Rathfarnham, Dublin ==========
-https://www.daft.ie/property-for-rent/rathfarnham-dublin
-Property to Rent in Rathfarnham, Dublin | Daft.ie
-Rathfarnham, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rathfarnham-dublin
-Rathfarnham, Dublin: __NEXT_DATA__ = 1
-Rathfarnham, Dublin: Total pages: 2
-Rathfarnham, Dublin Page 1: Found 20 listings
-Page 2/2
-Rathfarnham, Dublin Page 2: Found 2 listings
-========== Rathmichael, Dublin ==========
-https://www.daft.ie/property-for-rent/rathmichael-dublin
-Property to Rent in Rathmichael, Dublin | Daft.ie
-Rathmichael, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rathmichael-dublin
-Rathmichael, Dublin: __NEXT_DATA__ = 1
-Rathmichael, Dublin: Total pages: 1
-Rathmichael, Dublin Page 1: Found 2 listings
-========== Rockbrook, Dublin ==========
-https://www.daft.ie/property-for-rent/rockbrook-dublin
-Property to Rent in Rockbrook, Dublin | Daft.ie
-Rockbrook, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rockbrook-dublin
-Rockbrook, Dublin: __NEXT_DATA__ = 1
-Rockbrook, Dublin: Total pages: 0
-========== Rolestown, Dublin ==========
-https://www.daft.ie/property-for-rent/rolestown-dublin?__cf_chl_rt_tk=Ie0i9W.4sYFEeFxaDvTnG3.Cys0YY.9C33MhIzWRBL8-1791380585-1.0.1.1-Mlmhw1iftWjVLYmiU1K3TQoykqhx3BJY1eOGToZYmWQ
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Rolestown, Dublin | Daft.ie
-Rolestown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rolestown-dublin
-Rolestown, Dublin: __NEXT_DATA__ = 1
-Rolestown, Dublin: Total pages: 0
-========== Ronanstown, Dublin ==========
-https://www.daft.ie/property-for-rent/ronanstown-dublin
-Property to Rent in Ronanstown, Dublin | Daft.ie
-Ronanstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ronanstown-dublin
-Ronanstown, Dublin: __NEXT_DATA__ = 1
-Ronanstown, Dublin: Total pages: 0
-========== Royal Canal Park, Dublin ==========
-https://www.daft.ie/property-for-rent/royal-canal-park-dublin
-Property to Rent in Royal Canal Park, Dublin | Daft.ie
-Royal Canal Park, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/royal-canal-park-dublin
-Royal Canal Park, Dublin: __NEXT_DATA__ = 1
-Royal Canal Park, Dublin: Total pages: 1
-Royal Canal Park, Dublin Page 1: Found 6 listings
-========== Rush, Dublin ==========
-https://www.daft.ie/property-for-rent/rush-dublin
-Property to Rent in Rush, Dublin | Daft.ie
-Rush, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/rush-dublin
-Rush, Dublin: __NEXT_DATA__ = 1
-Rush, Dublin: Total pages: 1
-Rush, Dublin Page 1: Found 5 listings
-========== Saggart, Dublin ==========
-https://www.daft.ie/property-for-rent/saggart-dublin
-Property to Rent in Saggart, Dublin | Daft.ie
-Saggart, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/saggart-dublin
-Saggart, Dublin: __NEXT_DATA__ = 1
-Saggart, Dublin: Total pages: 2
-Saggart, Dublin Page 1: Found 20 listings
-Page 2/2
-Saggart, Dublin Page 2: Found 5 listings
-========== Sallynoggin, Dublin ==========
-https://www.daft.ie/property-for-rent/sallynoggin-dublin
-Property to Rent in Sallynoggin, Dublin | Daft.ie
-Sallynoggin, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/sallynoggin-dublin
-Sallynoggin, Dublin: __NEXT_DATA__ = 1
-Sallynoggin, Dublin: Total pages: 1
-Sallynoggin, Dublin Page 1: Found 2 listings
-========== Sandycove, Dublin ==========
-https://www.daft.ie/property-for-rent/sandycove-dublin
-Property to Rent in Sandycove, Dublin | Daft.ie
-Sandycove, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/sandycove-dublin
-Sandycove, Dublin: __NEXT_DATA__ = 1
-Sandycove, Dublin: Total pages: 1
-Sandycove, Dublin Page 1: Found 7 listings
-========== Sandyhill, Dublin ==========
-https://www.daft.ie/property-for-rent/sandyhill-dublin
-Property to Rent in Sandyhill, Dublin | Daft.ie
-Sandyhill, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/sandyhill-dublin
-Sandyhill, Dublin: __NEXT_DATA__ = 1
-Sandyhill, Dublin: Total pages: 1
-Sandyhill, Dublin Page 1: Found 4 listings
-========== Seven Mills, Dublin ==========
-https://www.daft.ie/property-for-rent/seven-mills-dublin
-Property to Rent in Seven Mills, Dublin | Daft.ie
-Seven Mills, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/seven-mills-dublin
-Seven Mills, Dublin: __NEXT_DATA__ = 1
-Seven Mills, Dublin: Total pages: 0
-========== Shankill, Dublin ==========
-https://www.daft.ie/property-for-rent/shankill-dublin?__cf_chl_rt_tk=tkRszKZ4DIvicpuNwASItTRyCGRZSpSZRSX8mqIEGo0-1791380659-1.0.1.1-lCGNnIcmAiHJX0ke38l9SNeH_UsZsCPj_Z1IQW9sEC4
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Shankill, Dublin | Daft.ie
-Shankill, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/shankill-dublin
-Shankill, Dublin: __NEXT_DATA__ = 1
-Shankill, Dublin: Total pages: 1
-Shankill, Dublin Page 1: Found 6 listings
-========== Skerries, Dublin ==========
-https://www.daft.ie/property-for-rent/skerries-dublin
-Property to Rent in Skerries, Dublin | Daft.ie
-Skerries, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/skerries-dublin
-Skerries, Dublin: __NEXT_DATA__ = 1
-Skerries, Dublin: Total pages: 1
-Skerries, Dublin Page 1: Found 7 listings
-========== South Circular Road, Dublin ==========
-https://www.daft.ie/property-for-rent/south-circular-road-dublin
-Property to Rent in South Circular Road, Dublin | Daft.ie
-South Circular Road, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/south-circular-road-dublin
-South Circular Road, Dublin: __NEXT_DATA__ = 1
-South Circular Road, Dublin: Total pages: 3
-South Circular Road, Dublin Page 1: Found 20 listings
-Page 2/3
-South Circular Road, Dublin Page 2: Found 20 listings
-Page 3/3
-South Circular Road, Dublin Page 3: Found 19 listings
-========== St Margaret's, Dublin ==========
-https://www.daft.ie/property-for-rent/st-margaret-s-dublin
-Property to Rent in St Margaret's, Dublin | Daft.ie
-St Margaret's, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/st-margaret-s-dublin
-St Margaret's, Dublin: __NEXT_DATA__ = 1
-St Margaret's, Dublin: Total pages: 1
-St Margaret's, Dublin Page 1: Found 4 listings
-========== St. James Gate, Dublin ==========
-https://www.daft.ie/property-for-rent/st-james-gate-dublin
-Property to Rent in St. James Gate, Dublin | Daft.ie
-St. James Gate, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/st-james-gate-dublin
-St. James Gate, Dublin: __NEXT_DATA__ = 1
-St. James Gate, Dublin: Total pages: 1
-St. James Gate, Dublin Page 1: Found 2 listings
-========== Stepaside, Dublin ==========
-https://www.daft.ie/property-for-rent/stepaside-dublin
-Property to Rent in Stepaside, Dublin | Daft.ie
-Stepaside, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/stepaside-dublin
-Stepaside, Dublin: __NEXT_DATA__ = 1
-Stepaside, Dublin: Total pages: 1
-Stepaside, Dublin Page 1: Found 12 listings
-========== Stillorgan, Dublin ==========
-https://www.daft.ie/property-for-rent/stillorgan-dublin
-Property to Rent in Stillorgan, Dublin | Daft.ie
-Stillorgan, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/stillorgan-dublin
-Stillorgan, Dublin: __NEXT_DATA__ = 1
-Stillorgan, Dublin: Total pages: 2
-Stillorgan, Dublin Page 1: Found 20 listings
-Page 2/2
-Page 2 retry 1/3
-Stillorgan, Dublin Page 2: Found 14 listings
-========== Strawberry Beds, Dublin ==========
-https://www.daft.ie/property-for-rent/strawberry-beds-dublin
-Property to Rent in Strawberry Beds, Dublin | Daft.ie
-Strawberry Beds, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/strawberry-beds-dublin
-Strawberry Beds, Dublin: __NEXT_DATA__ = 1
-Strawberry Beds, Dublin: Total pages: 1
-Strawberry Beds, Dublin Page 1: Found 8 listings
-========== Sutton, Dublin ==========
-https://www.daft.ie/property-for-rent/sutton-dublin
-Property to Rent in Sutton, Dublin | Daft.ie
-Sutton, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/sutton-dublin
-Sutton, Dublin: __NEXT_DATA__ = 1
-Sutton, Dublin: Total pages: 1
-Sutton, Dublin Page 1: Found 4 listings
-========== Swords, Dublin ==========
-https://www.daft.ie/property-for-rent/swords-dublin
-Property to Rent in Swords, Dublin | Daft.ie
-Swords, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/swords-dublin
-Swords, Dublin: __NEXT_DATA__ = 1
-Swords, Dublin: Total pages: 2
-Swords, Dublin Page 1: Found 20 listings
-Page 2/2
-Swords, Dublin Page 2: Found 4 listings
-========== Temple Bar, Dublin ==========
-https://www.daft.ie/property-for-rent/temple-bar-dublin
-Property to Rent in Temple Bar, Dublin | Daft.ie
-Temple Bar, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/temple-bar-dublin
-Temple Bar, Dublin: __NEXT_DATA__ = 1
-Temple Bar, Dublin: Total pages: 1
-Temple Bar, Dublin Page 1: Found 3 listings
-========== Templeogue, Dublin ==========
-https://www.daft.ie/property-for-rent/templeogue-dublin
-Property to Rent in Templeogue, Dublin | Daft.ie
-Templeogue, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/templeogue-dublin
-Templeogue, Dublin: __NEXT_DATA__ = 1
-Templeogue, Dublin: Total pages: 1
-Templeogue, Dublin Page 1: Found 4 listings
-========== The Coombe, Dublin ==========
-https://www.daft.ie/property-for-rent/the-coombe-dublin
-Property to Rent in The Coombe, Dublin | Daft.ie
-The Coombe, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/the-coombe-dublin
-The Coombe, Dublin: __NEXT_DATA__ = 1
-The Coombe, Dublin: Total pages: 1
-The Coombe, Dublin Page 1: Found 13 listings
-========== The Five Roads, Dublin ==========
-https://www.daft.ie/property-for-rent/the-five-roads-dublin
-Property to Rent in The Five Roads, Dublin | Daft.ie
-The Five Roads, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/the-five-roads-dublin
-The Five Roads, Dublin: __NEXT_DATA__ = 1
-The Five Roads, Dublin: Total pages: 1
-The Five Roads, Dublin Page 1: Found 1 listings
-========== The Ward, Dublin ==========
-https://www.daft.ie/property-for-rent/the-ward-dublin
-Property to Rent in The Ward, Dublin | Daft.ie
-The Ward, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/the-ward-dublin
-The Ward, Dublin: __NEXT_DATA__ = 1
-The Ward, Dublin: Total pages: 1
-The Ward, Dublin Page 1: Found 3 listings
-========== Ticknock, Dublin ==========
-https://www.daft.ie/property-for-rent/ticknock-dublin
-Property to Rent in Ticknock, Dublin | Daft.ie
-Ticknock, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ticknock-dublin
-Ticknock, Dublin: __NEXT_DATA__ = 1
-Ticknock, Dublin: Total pages: 1
-Ticknock, Dublin Page 1: Found 2 listings
-========== Tyrrelstown, Dublin ==========
-https://www.daft.ie/property-for-rent/tyrrelstown-dublin
-Property to Rent in Tyrrelstown, Dublin | Daft.ie
-Tyrrelstown, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/tyrrelstown-dublin
-Tyrrelstown, Dublin: __NEXT_DATA__ = 1
-Tyrrelstown, Dublin: Total pages: 1
-Tyrrelstown, Dublin Page 1: Found 3 listings
-========== Ward, Dublin ==========
-https://www.daft.ie/property-for-rent/ward-dublin
-Property to Rent in Ward, Dublin | Daft.ie
-Ward, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/ward-dublin
-Ward, Dublin: __NEXT_DATA__ = 1
-Ward, Dublin: Total pages: 1
-Ward, Dublin Page 1: Found 2 listings
-========== Willbrook, Dublin ==========
-https://www.daft.ie/property-for-rent/willbrook-dublin
-Property to Rent in Willbrook, Dublin | Daft.ie
-Willbrook, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/willbrook-dublin
-Willbrook, Dublin: __NEXT_DATA__ = 1
-Willbrook, Dublin: Total pages: 0
-========== Windy Arbour, Dublin ==========
-https://www.daft.ie/property-for-rent/windy-arbour-dublin?__cf_chl_rt_tk=sqD3BZOeAeL56Cozy6JV1NCLY2dBDCOSUaGq2ROJW.0-1791380869-1.0.1.1-A2O_b3xmAhJT01oBqNOQkXedCpM62IZPkCU2fMTyIN4
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Windy Arbour, Dublin | Daft.ie
-Windy Arbour, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-rent/windy-arbour-dublin
-Windy Arbour, Dublin: __NEXT_DATA__ = 1
-Windy Arbour, Dublin: Total pages: 1
-Windy Arbour, Dublin Page 1: Found 8 listings
-✔ 结果检查通过：有数据区域 180/186，房源 1285 条
-✔ Updated daft-rent.json (2693 properties)
-Area Statistics:
-Ashtown, Dublin: 10
-Aylesbury, Dublin: 0
-Ayrfield, Dublin: 0
-Balbriggan, Dublin: 8
-Baldonnell, Dublin: 11
-Baldoyle, Dublin: 10
-Balgriffin, Dublin: 8
-Ballinascorney, Dublin: 3
-Ballyboden, Dublin: 3
-Ballybough, Dublin: 9
-Ballybrack, Dublin: 5
-Ballycoolin, Dublin: 10
-Ballycorus, Dublin: 1
-Ballycullen, Dublin: 7
-Ballyfermot, Dublin: 5
-Ballymount, Dublin: 2
-Balrothery, Dublin: 4
-Balscaddan, Dublin: 0
-Bayside, Dublin: 1
-Belfield, Dublin: 1
-Blackrock, Dublin: 40
-Bluebell, Dublin: 0
-Bohernabreena, Dublin: 10
-Booterstown, Dublin: 15
-Bray, Dublin: 3
-Brennanstown, Dublin: 3
-Brittas, Dublin: 1
-Cabinteely, Dublin: 17
-Carpenterstown, Dublin: 7
-Carrickmines, Dublin: 17
-Chapelizod, Dublin: 6
-Cherry Orchard, Dublin: 2
-Cherrywood, Dublin: 7
-Christchurch, Dublin: 29
-Citywest, Dublin: 20
-Clarehall, Dublin: 15
-Cloghran, Dublin: 21
-Clonburris, Dublin: 0
-Clonee, Dublin: 7
-Clongriffin, Dublin: 9
-Clonshaugh, Dublin: 5
-Clonsilla, Dublin: 19
-Clonskeagh, Dublin: 21
-Collinswood, Dublin: 1
-Coolmine, Dublin: 5
-Corduff, Dublin: 1
-Cornelscourt, Dublin: 1
-Dalkey, Dublin: 8
-Damastown, Dublin: 1
-Darndale, Dublin: 3
-Dartry, Dublin: 14
-Deansgrange, Dublin: 1
-Dollymount, Dublin: 4
-Dolphin's Barn, Dublin: 2
-Donabate, Dublin: 2
-Donaghmede, Dublin: 11
-Donnycarney, Dublin: 3
-Dublin 1, Dublin: 86
-Dublin 10, Dublin: 5
-Dublin 11, Dublin: 30
-Dublin 12, Dublin: 24
-Dublin 13, Dublin: 35
-Dublin 14, Dublin: 52
-Dublin 15, Dublin: 65
-Dublin 16, Dublin: 35
-Dublin 17, Dublin: 5
-Dublin 18, Dublin: 67
-Dublin 2, Dublin: 77
-Dublin 20, Dublin: 10
-Dublin 22, Dublin: 21
-Dublin 24, Dublin: 88
-Dublin 3, Dublin: 47
-Dublin 4, Dublin: 127
-Dublin 5, Dublin: 23
-Dublin 6, Dublin: 102
-Dublin 6W, Dublin: 22
-Dublin 7, Dublin: 76
-Dublin 8, Dublin: 132
-Dublin 9, Dublin: 49
-Dun Laoghaire, Dublin: 34
-Edenmore, Dublin: 1
-Firhouse, Dublin: 10
-Fox & Geese, Dublin: 2
-Foxrock, Dublin: 11
-Galloping Green, Dublin: 1
-Garristown, Dublin: 0
-Glasthule, Dublin: 4
-Glenageary, Dublin: 17
-Glenasmole, Dublin: 1
-Glencullen, Dublin: 0
-Grand Canal Dock, Dublin: 26
-Grange Castle, Dublin: 5
-Greenhills, Dublin: 2
-Hanover Quay, Dublin: 6
-Hartstown, Dublin: 0
-Hollystown, Dublin: 4
-Howth, Dublin: 9
-Huntstown, Dublin: 2
-IFSC, Dublin: 23
-Islandbridge, Dublin: 13
-Jobstown, Dublin: 4
-Kilbarrack, Dublin: 5
-Kilcarbery, Dublin: 1
-Kill O' The Grange, Dublin: 1
-Killakee, Dublin: 0
-Killester, Dublin: 4
-Killiney, Dublin: 8
-Kilmacud, Dublin: 10
-Kilmore, Dublin: 5
-Kilnamanagh, Dublin: 5
-Kilsallaghan, Dublin: 0
-Kilshane Cross, Dublin: 12
-Kilternan, Dublin: 13
-Kiltipper, Dublin: 7
-Kimmage, Dublin: 13
-Kingswood, Dublin: 3
-Kinsealy, Dublin: 11
-Knocklyon, Dublin: 12
-Laughanstown, Dublin: 1
-Loughlinstown, Dublin: 6
-Loughshinny, Dublin: 0
-Lucan, Dublin: 27
-Lusk, Dublin: 4
-Malahide, Dublin: 14
-Marino, Dublin: 5
-Merrion, Dublin: 10
-Milltown, Dublin: 16
-Monkstown, Dublin: 16
-Mulhuddart, Dublin: 6
-Naul, Dublin: 0
-Navan Road (D7), Dublin: 9
-Newcastle, Dublin: 15
-North Circular Road, Dublin: 59
-North Strand, Dublin: 9
-North Wall, Dublin: 28
-Old Connaught, Dublin: 0
-Oldbawn, Dublin: 4
-Oldtown, Dublin: 0
-Ongar, Dublin: 2
-Palmerstown, Dublin: 2
-Park West, Dublin: 2
-Poppintree, Dublin: 3
-Porterstown, Dublin: 10
-Portmarnock, Dublin: 8
-Portobello, Dublin: 28
-Portrane, Dublin: 0
-Priorswood, Dublin: 0
-Rathcoole, Dublin: 13
-Rathfarnham, Dublin: 22
-Rathmichael, Dublin: 2
-Rockbrook, Dublin: 0
-Rolestown, Dublin: 0
-Ronanstown, Dublin: 0
-Royal Canal Park, Dublin: 6
-Rush, Dublin: 5
-Saggart, Dublin: 25
-Sallynoggin, Dublin: 2
-Sandycove, Dublin: 7
-Sandyhill, Dublin: 4
-Seven Mills, Dublin: 0
-Shankill, Dublin: 6
-Skerries, Dublin: 7
-South Circular Road, Dublin: 59
-St Margaret's, Dublin: 4
-St. James Gate, Dublin: 2
-Stepaside, Dublin: 12
-Stillorgan, Dublin: 34
-Strawberry Beds, Dublin: 8
-Sutton, Dublin: 4
-Swords, Dublin: 24
-Temple Bar, Dublin: 3
-Templeogue, Dublin: 4
-The Coombe, Dublin: 13
-The Five Roads, Dublin: 1
-The Ward, Dublin: 3
-Ticknock, Dublin: 2
-Tyrrelstown, Dublin: 3
-Ward, Dublin: 2
-Willbrook, Dublin: 0
-Windy Arbour, Dublin: 8
-========== Summary ==========
-Elapsed: 40m 11s
-Average: 10.62 sec/page
-
+  - navigating to "https://www.daft.ie/property-for-rent/balgriffin-dublin", waiting until "domcontentloaded"
+）
+⚠️ Balgriffin, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/balgriffin-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/balgriffin-dublin", waiting until "domcontentloaded"
+）
+Skip Balgriffin, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Balgriffin, Dublin: 无数据（累计 10 个，有数据 0 个）
+❌ 连续 10 个区域都拿不到 __NEXT_DATA__（疑似被 Cloudflare 全线拦截），提前中止，未写入任何文件。
+Playwright started
+Launching browser (Headless)...
+Loading rent-areas.json...
+Group: dublin
 Areas: 186
-Pages crawled: 227
-Empty areas: 21
-Total listings: 2461
-Duplicates removed: 1176
-Unique properties: 1285
-✔ Saved 1285 properties
-📄 data/daft/rent/daft-rent-dublin.json
-📄 /home/runner/work/tools/tools/data/daft/rent/crawl-summary.json
-✔ crawl-summary.json updated
-All pages completed successfully.
+Loaded 186 areas.
+⟳ 断点续跑：已完成 0 个区域、已抓到 0 条，剩余 186 个区域
+========== Adamstown, Dublin ==========
+⚠️ Adamstown, Dublin: 首次打开失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+），稍后重试
+⚠️ Adamstown, Dublin: 第 1/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Adamstown, Dublin: 第 2/3 次重试失败（page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+⚠️ Adamstown, Dublin: 第 3/3 次重试失败（page.goto: net::ERR_TIMED_OUT at https://www.daft.ie/property-for-rent/adamstown-dublin
+Call log:
+  - navigating to "https://www.daft.ie/property-for-rent/adamstown-dublin", waiting until "domcontentloaded"
+）
+Skip Adamstown, Dublin: 连续 4 次打不开，放弃这个区域
+💾 断点已保存（0/186 个区域，0 条）
+⚠️ Adamstown, Dublin: 无数据（累计 11 个，有数据 0 个）
+❌ 连续 11 个区域都拿不到 __NEXT_DATA__（疑似被 Cloudflare 全线拦截），提前中止，未写入任何文件。
