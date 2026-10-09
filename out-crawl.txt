@@ -1,418 +1,239 @@
 Playwright started
 Launching browser (Headless)...
-Loading rent-areas.json...
-Group: ireland
-Areas: 25
-Loaded 25 areas.
-========== Carlow (County) ==========
-https://www.daft.ie/property-for-rent/carlow
-Property to Rent in Carlow (County) | Daft.ie
-Carlow (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/carlow
-Carlow (County): __NEXT_DATA__ = 1
-Carlow (County): Total pages: 2
-Carlow (County) Page 1: Found 20 listings
-Page 2/2
-Carlow (County) Page 2: Found 9 listings
-💾 断点已保存（1/25 个区域，29 条）
-========== Cavan (County) ==========
-https://www.daft.ie/property-for-rent/cavan
-Property to Rent in Cavan (County) | Daft.ie
-Cavan (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/cavan
-Cavan (County): __NEXT_DATA__ = 1
-Cavan (County): Total pages: 2
-Cavan (County) Page 1: Found 19 listings
-Page 2/2
-Cavan (County) Page 2: Found 4 listings
-💾 断点已保存（2/25 个区域，52 条）
-========== Clare (County) ==========
-https://www.daft.ie/property-for-rent/clare
-Property to Rent in Clare (County) | Daft.ie
-Clare (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/clare
-Clare (County): __NEXT_DATA__ = 1
-Clare (County): Total pages: 2
-Clare (County) Page 1: Found 20 listings
-Page 2/2
-Clare (County) Page 2: Found 5 listings
-💾 断点已保存（3/25 个区域，77 条）
-========== Cork (County) ==========
-https://www.daft.ie/property-for-rent/cork
-Property to Rent in Cork (County) | Daft.ie
-Cork (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/cork
-Cork (County): __NEXT_DATA__ = 1
-Cork (County): Total pages: 14
-Cork (County) Page 1: Found 20 listings
-Page 2/14
-Cork (County) Page 2: Found 20 listings
-Page 3/14
-Cork (County) Page 3: Found 20 listings
-Page 4/14
-Cork (County) Page 4: Found 20 listings
-Page 5/14
-Page 5 retry 1/3
-Cork (County) Page 5: Found 20 listings
-Cork (County): Cooling down 10 seconds...
-Page 6/14
-Cork (County) Page 6: Found 20 listings
-Page 7/14
-Cork (County) Page 7: Found 20 listings
-Page 8/14
-Cork (County) Page 8: Found 20 listings
-Page 9/14
-Cork (County) Page 9: Found 20 listings
-Page 10/14
-Cork (County) Page 10: Found 20 listings
-Cork (County): Cooling down 10 seconds...
-Page 11/14
-Cork (County) Page 11: Found 20 listings
-Page 12/14
-Cork (County) Page 12: Found 20 listings
-Page 13/14
-Cork (County) Page 13: Found 20 listings
-Page 14/14
-Cork (County) Page 14: Found 0 listings
-💾 断点已保存（4/25 个区域，337 条）
-========== Donegal (County) ==========
-https://www.daft.ie/property-for-rent/donegal
-Property to Rent in Donegal (County) | Daft.ie
-Donegal (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/donegal
-Donegal (County): __NEXT_DATA__ = 1
-Donegal (County): Total pages: 3
-Donegal (County) Page 1: Found 20 listings
-Page 2/3
-Donegal (County) Page 2: Found 20 listings
-Page 3/3
-Donegal (County) Page 3: Found 17 listings
-💾 断点已保存（5/25 个区域，394 条）
-========== Galway (County) ==========
-https://www.daft.ie/property-for-rent/galway?__cf_chl_rt_tk=uHPJZE6E7J.oD2E4OwrYv.d7bcf5HCwIaRETeZCRsyw-1791572329-1.0.1.1-aWVew8iLuUAA8sV_SNSAwHrLfvLiHyXiurOyw9_XTOQ
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Galway (County) | Daft.ie
-Galway (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/galway
-Galway (County): __NEXT_DATA__ = 1
-Galway (County): Total pages: 9
-Galway (County) Page 1: Found 20 listings
-Page 2/9
-Galway (County) Page 2: Found 20 listings
-Page 3/9
-Galway (County) Page 3: Found 20 listings
-Page 4/9
-Galway (County) Page 4: Found 20 listings
-Page 5/9
-Galway (County) Page 5: Found 20 listings
-Galway (County): Cooling down 10 seconds...
-Page 6/9
-Galway (County) Page 6: Found 20 listings
-Page 7/9
-Galway (County) Page 7: Found 20 listings
-Page 8/9
-Galway (County) Page 8: Found 20 listings
-Page 9/9
-Galway (County) Page 9: Found 1 listings
-💾 断点已保存（6/25 个区域，555 条）
-========== Kerry (County) ==========
-https://www.daft.ie/property-for-rent/kerry
-Property to Rent in Kerry (County) | Daft.ie
-Kerry (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/kerry
-Kerry (County): __NEXT_DATA__ = 1
-Kerry (County): Total pages: 2
-Kerry (County) Page 1: Found 20 listings
-Page 2/2
-Kerry (County) Page 2: Found 19 listings
-💾 断点已保存（7/25 个区域，594 条）
+Loading areas.json...
+Loaded 877 areas.
+Sale crawl areas: 877
+Group: east (3/877 areas)
 ========== Kildare (County) ==========
-https://www.daft.ie/property-for-rent/kildare
-Property to Rent in Kildare (County) | Daft.ie
+https://www.daft.ie/property-for-sale/kildare
+Property for Sale in Kildare (County) | Daft.ie
 Kildare (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/kildare
+Current URL: https://www.daft.ie/property-for-sale/kildare
 Kildare (County): __NEXT_DATA__ = 1
-Kildare (County): Total pages: 7
+Kildare (County): Total pages: 30
 Kildare (County) Page 1: Found 20 listings
-Page 2/7
+Page 2/30
 Kildare (County) Page 2: Found 20 listings
-Page 3/7
-Page 3 retry 1/3
+Page 3/30
 Kildare (County) Page 3: Found 20 listings
-Page 4/7
+Page 4/30
 Kildare (County) Page 4: Found 20 listings
-Page 5/7
+Page 5/30
 Kildare (County) Page 5: Found 20 listings
 Kildare (County): Cooling down 10 seconds...
-Page 6/7
+Page 6/30
 Kildare (County) Page 6: Found 20 listings
-Page 7/7
-Kildare (County) Page 7: Found 19 listings
-💾 断点已保存（8/25 个区域，733 条）
-========== Kilkenny (County) ==========
-https://www.daft.ie/property-for-rent/kilkenny
-Property to Rent in Kilkenny (County) | Daft.ie
-Kilkenny (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/kilkenny
-Kilkenny (County): __NEXT_DATA__ = 1
-Kilkenny (County): Total pages: 2
-Kilkenny (County) Page 1: Found 20 listings
-Page 2/2
-Kilkenny (County) Page 2: Found 5 listings
-💾 断点已保存（9/25 个区域，758 条）
-========== Laois (County) ==========
-https://www.daft.ie/property-for-rent/laois
-Property to Rent in Laois (County) | Daft.ie
-Laois (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/laois
-Laois (County): __NEXT_DATA__ = 1
-Laois (County): Total pages: 2
-Laois (County) Page 1: Found 20 listings
-Page 2/2
-Laois (County) Page 2: Found 2 listings
-💾 断点已保存（10/25 个区域，780 条）
-========== Leitrim (County) ==========
-https://www.daft.ie/property-for-rent/leitrim
-Property to Rent in Leitrim (County) | Daft.ie
-Leitrim (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/leitrim
-Leitrim (County): __NEXT_DATA__ = 1
-Leitrim (County): Total pages: 1
-Leitrim (County) Page 1: Found 12 listings
-💾 断点已保存（11/25 个区域，792 条）
-========== Limerick (County) ==========
-https://www.daft.ie/property-for-rent/limerick
-Property to Rent in Limerick (County) | Daft.ie
-Limerick (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/limerick
-Limerick (County): __NEXT_DATA__ = 1
-Limerick (County): Total pages: 4
-Limerick (County) Page 1: Found 20 listings
-Page 2/4
-Page 2 retry 1/3
-Limerick (County) Page 2: Found 20 listings
-Page 3/4
-Limerick (County) Page 3: Found 20 listings
-Page 4/4
-Limerick (County) Page 4: Found 11 listings
-💾 断点已保存（12/25 个区域，863 条）
-========== Longford (County) ==========
-https://www.daft.ie/property-for-rent/longford
-Property to Rent in Longford (County) | Daft.ie
-Longford (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/longford
-Longford (County): __NEXT_DATA__ = 1
-Longford (County): Total pages: 1
-Longford (County) Page 1: Found 14 listings
-💾 断点已保存（13/25 个区域，877 条）
-========== Louth (County) ==========
-https://www.daft.ie/property-for-rent/louth
-Property to Rent in Louth (County) | Daft.ie
-Louth (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/louth
-Louth (County): __NEXT_DATA__ = 1
-Louth (County): Total pages: 5
-Louth (County) Page 1: Found 20 listings
-Page 2/5
-Louth (County) Page 2: Found 20 listings
-Page 3/5
-Louth (County) Page 3: Found 20 listings
-Page 4/5
-Louth (County) Page 4: Found 20 listings
-Page 5/5
-Louth (County) Page 5: Found 3 listings
-💾 断点已保存（14/25 个区域，960 条）
-========== Mayo (County) ==========
-https://www.daft.ie/property-for-rent/mayo
-Property to Rent in Mayo (County) | Daft.ie
-Mayo (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/mayo
-Mayo (County): __NEXT_DATA__ = 1
-Mayo (County): Total pages: 3
-Mayo (County) Page 1: Found 20 listings
-Page 2/3
-Mayo (County) Page 2: Found 20 listings
-Page 3/3
-Page 3 retry 1/3
-Mayo (County) Page 3: Found 19 listings
-💾 断点已保存（15/25 个区域，1019 条）
+Page 7/30
+Kildare (County) Page 7: Found 20 listings
+Page 8/30
+Kildare (County) Page 8: Found 20 listings
+Page 9/30
+Kildare (County) Page 9: Found 20 listings
+Page 10/30
+Kildare (County) Page 10: Found 20 listings
+Kildare (County): Cooling down 10 seconds...
+Page 11/30
+Kildare (County) Page 11: Found 20 listings
+Page 12/30
+Kildare (County) Page 12: Found 20 listings
+Page 13/30
+Kildare (County) Page 13: Found 20 listings
+Page 14/30
+Kildare (County) Page 14: Found 20 listings
+Page 15/30
+Kildare (County) Page 15: Found 20 listings
+Kildare (County): Cooling down 10 seconds...
+Page 16/30
+Kildare (County) Page 16: Found 20 listings
+Page 17/30
+Kildare (County) Page 17: Found 20 listings
+Page 18/30
+Kildare (County) Page 18: Found 20 listings
+Page 19/30
+Kildare (County) Page 19: Found 20 listings
+Page 20/30
+Kildare (County) Page 20: Found 20 listings
+Kildare (County): Cooling down 10 seconds...
+Page 21/30
+Kildare (County) Page 21: Found 20 listings
+Page 22/30
+Kildare (County) Page 22: Found 20 listings
+Page 23/30
+Kildare (County) Page 23: Found 20 listings
+Page 24/30
+Kildare (County) Page 24: Found 20 listings
+Page 25/30
+Kildare (County) Page 25: Found 20 listings
+Kildare (County): Cooling down 10 seconds...
+Page 26/30
+Kildare (County) Page 26: Found 20 listings
+Page 27/30
+Kildare (County) Page 27: Found 20 listings
+Page 28/30
+Kildare (County) Page 28: Found 20 listings
+Page 29/30
+Kildare (County) Page 29: Found 20 listings
+Page 30/30
+Kildare (County) Page 30: Found 20 listings
+💾 断点已保存（1/3 个区域，600 条）
 ========== Meath (County) ==========
-https://www.daft.ie/property-for-rent/meath
-Property to Rent in Meath (County) | Daft.ie
+https://www.daft.ie/property-for-sale/meath
+Property for Sale in Meath (County) | Daft.ie
 Meath (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/meath
+Current URL: https://www.daft.ie/property-for-sale/meath
 Meath (County): __NEXT_DATA__ = 1
-Meath (County): Total pages: 5
+Meath (County): Total pages: 28
 Meath (County) Page 1: Found 20 listings
-Page 2/5
+Page 2/28
 Meath (County) Page 2: Found 20 listings
-Page 3/5
+Page 3/28
 Meath (County) Page 3: Found 20 listings
-Page 4/5
+Page 4/28
+Page 4 retry 1/3
 Meath (County) Page 4: Found 20 listings
-Page 5/5
-Meath (County) Page 5: Found 5 listings
-💾 断点已保存（16/25 个区域，1104 条）
-========== Monaghan (County) ==========
-https://www.daft.ie/property-for-rent/monaghan
-Property to Rent in Monaghan (County) | Daft.ie
-Monaghan (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/monaghan
-Monaghan (County): __NEXT_DATA__ = 1
-Monaghan (County): Total pages: 1
-Monaghan (County) Page 1: Found 10 listings
-💾 断点已保存（17/25 个区域，1114 条）
-========== Offaly (County) ==========
-https://www.daft.ie/property-for-rent/offaly
-Property to Rent in Offaly (County) | Daft.ie
-Offaly (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/offaly
-Offaly (County): __NEXT_DATA__ = 1
-Offaly (County): Total pages: 1
-Offaly (County) Page 1: Found 18 listings
-💾 断点已保存（18/25 个区域，1132 条）
-========== Roscommon (County) ==========
-https://www.daft.ie/property-for-rent/roscommon?__cf_chl_rt_tk=ukNc3MLTO7IEeiiDM9by_Oiy6_cQUyORllzlfi4Cg.o-1791572748-1.0.1.1-ugC91WisQCcBBHG5zeTh8gSOd8h2Ad0_EkiZVlA4gVk
-Security Check | Daft
-Cloudflare challenge...
-After reload: Property to Rent in Roscommon (County) | Daft.ie
-Roscommon (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/roscommon
-Roscommon (County): __NEXT_DATA__ = 1
-Roscommon (County): Total pages: 2
-Roscommon (County) Page 1: Found 20 listings
-Page 2/2
-Roscommon (County) Page 2: Found 4 listings
-💾 断点已保存（19/25 个区域，1156 条）
-========== Sligo (County) ==========
-https://www.daft.ie/property-for-rent/sligo
-Property to Rent in Sligo (County) | Daft.ie
-Sligo (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/sligo
-Sligo (County): __NEXT_DATA__ = 1
-Sligo (County): Total pages: 2
-Sligo (County) Page 1: Found 20 listings
-Page 2/2
-Sligo (County) Page 2: Found 4 listings
-💾 断点已保存（20/25 个区域，1180 条）
-========== Tipperary (County) ==========
-https://www.daft.ie/property-for-rent/tipperary
-Property to Rent in Tipperary (County) | Daft.ie
-Tipperary (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/tipperary
-Tipperary (County): __NEXT_DATA__ = 1
-Tipperary (County): Total pages: 2
-Tipperary (County) Page 1: Found 20 listings
-Page 2/2
-Tipperary (County) Page 2: Found 7 listings
-💾 断点已保存（21/25 个区域，1207 条）
-========== Waterford (County) ==========
-https://www.daft.ie/property-for-rent/waterford
-Property to Rent in Waterford (County) | Daft.ie
-Waterford (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/waterford
-Waterford (County): __NEXT_DATA__ = 1
-Waterford (County): Total pages: 4
-Waterford (County) Page 1: Found 20 listings
-Page 2/4
-Waterford (County) Page 2: Found 20 listings
-Page 3/4
-Page 3 retry 1/3
-Waterford (County) Page 3: Found 20 listings
-Page 4/4
-Waterford (County) Page 4: Found 1 listings
-💾 断点已保存（22/25 个区域，1268 条）
-========== Westmeath (County) ==========
-https://www.daft.ie/property-for-rent/westmeath
-Property to Rent in Westmeath (County) | Daft.ie
-Westmeath (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/westmeath
-Westmeath (County): __NEXT_DATA__ = 1
-Westmeath (County): Total pages: 4
-Westmeath (County) Page 1: Found 20 listings
-Page 2/4
-Westmeath (County) Page 2: Found 20 listings
-Page 3/4
-Westmeath (County) Page 3: Found 20 listings
-Page 4/4
-Westmeath (County) Page 4: Found 8 listings
-💾 断点已保存（23/25 个区域，1336 条）
-========== Wexford (County) ==========
-https://www.daft.ie/property-for-rent/wexford
-Property to Rent in Wexford (County) | Daft.ie
-Wexford (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/wexford
-Wexford (County): __NEXT_DATA__ = 1
-Wexford (County): Total pages: 4
-Wexford (County) Page 1: Found 20 listings
-Page 2/4
-Wexford (County) Page 2: Found 20 listings
-Page 3/4
-Wexford (County) Page 3: Found 20 listings
-Page 4/4
-Wexford (County) Page 4: Found 1 listings
-💾 断点已保存（24/25 个区域，1397 条）
+Page 5/28
+Meath (County) Page 5: Found 20 listings
+Meath (County): Cooling down 10 seconds...
+Page 6/28
+Meath (County) Page 6: Found 20 listings
+Page 7/28
+Meath (County) Page 7: Found 20 listings
+Page 8/28
+Meath (County) Page 8: Found 20 listings
+Page 9/28
+Meath (County) Page 9: Found 20 listings
+Page 10/28
+Meath (County) Page 10: Found 20 listings
+Meath (County): Cooling down 10 seconds...
+Page 11/28
+Meath (County) Page 11: Found 20 listings
+Page 12/28
+Meath (County) Page 12: Found 20 listings
+Page 13/28
+Meath (County) Page 13: Found 20 listings
+Page 14/28
+Meath (County) Page 14: Found 20 listings
+Page 15/28
+Meath (County) Page 15: Found 20 listings
+Meath (County): Cooling down 10 seconds...
+Page 16/28
+Meath (County) Page 16: Found 20 listings
+Page 17/28
+Meath (County) Page 17: Found 20 listings
+Page 18/28
+Meath (County) Page 18: Found 20 listings
+Page 19/28
+Meath (County) Page 19: Found 20 listings
+Page 20/28
+Meath (County) Page 20: Found 20 listings
+Meath (County): Cooling down 10 seconds...
+Page 21/28
+Meath (County) Page 21: Found 20 listings
+Page 22/28
+Meath (County) Page 22: Found 20 listings
+Page 23/28
+Meath (County) Page 23: Found 20 listings
+Page 24/28
+Meath (County) Page 24: Found 20 listings
+Page 25/28
+Meath (County) Page 25: Found 20 listings
+Meath (County): Cooling down 10 seconds...
+Page 26/28
+Meath (County) Page 26: Found 20 listings
+Page 27/28
+Meath (County) Page 27: Found 20 listings
+Page 28/28
+Meath (County) Page 28: Found 8 listings
+💾 断点已保存（2/3 个区域，1148 条）
 ========== Wicklow (County) ==========
-https://www.daft.ie/property-for-rent/wicklow
-Property to Rent in Wicklow (County) | Daft.ie
+https://www.daft.ie/property-for-sale/wicklow
+Property for Sale in Wicklow (County) | Daft.ie
 Wicklow (County) loaded.
-Current URL: https://www.daft.ie/property-for-rent/wicklow
+Current URL: https://www.daft.ie/property-for-sale/wicklow
 Wicklow (County): __NEXT_DATA__ = 1
-Wicklow (County): Total pages: 4
+Wicklow (County): Total pages: 28
 Wicklow (County) Page 1: Found 20 listings
-Page 2/4
-Page 2 retry 1/3
+Page 2/28
 Wicklow (County) Page 2: Found 20 listings
-Page 3/4
+Page 3/28
 Wicklow (County) Page 3: Found 20 listings
-Page 4/4
-Wicklow (County) Page 4: Found 10 listings
-💾 断点已保存（25/25 个区域，1467 条）
-✔ 结果检查通过：有数据区域 25/25，房源 1467 条
-✔ daft-rent-ireland.json: 本轮覆盖 25/25 个区域（完整），写入 1619 条，保留未覆盖区域旧数据 1398 条
-总库合并：保留其它分区 1373 条，保留本分区未覆盖区域 0 条
-✔ Updated daft-rent.json (2988 properties)
+Page 4/28
+Wicklow (County) Page 4: Found 20 listings
+Page 5/28
+Wicklow (County) Page 5: Found 20 listings
+Wicklow (County): Cooling down 10 seconds...
+Page 6/28
+Wicklow (County) Page 6: Found 20 listings
+Page 7/28
+Wicklow (County) Page 7: Found 20 listings
+Page 8/28
+Wicklow (County) Page 8: Found 20 listings
+Page 9/28
+Wicklow (County) Page 9: Found 20 listings
+Page 10/28
+Wicklow (County) Page 10: Found 20 listings
+Wicklow (County): Cooling down 10 seconds...
+Page 11/28
+Wicklow (County) Page 11: Found 20 listings
+Page 12/28
+Wicklow (County) Page 12: Found 20 listings
+Page 13/28
+Wicklow (County) Page 13: Found 20 listings
+Page 14/28
+Wicklow (County) Page 14: Found 20 listings
+Page 15/28
+Wicklow (County) Page 15: Found 20 listings
+Wicklow (County): Cooling down 10 seconds...
+Page 16/28
+Wicklow (County) Page 16: Found 20 listings
+Page 17/28
+Wicklow (County) Page 17: Found 20 listings
+Page 18/28
+Wicklow (County) Page 18: Found 20 listings
+Page 19/28
+Wicklow (County) Page 19: Found 20 listings
+Page 20/28
+Wicklow (County) Page 20: Found 20 listings
+Wicklow (County): Cooling down 10 seconds...
+Page 21/28
+Wicklow (County) Page 21: Found 20 listings
+Page 22/28
+Wicklow (County) Page 22: Found 20 listings
+Page 23/28
+Wicklow (County) Page 23: Found 20 listings
+Page 24/28
+Wicklow (County) Page 24: Found 20 listings
+Page 25/28
+Wicklow (County) Page 25: Found 20 listings
+Wicklow (County): Cooling down 10 seconds...
+Page 26/28
+Wicklow (County) Page 26: Found 20 listings
+Page 27/28
+Wicklow (County) Page 27: Found 20 listings
+Page 28/28
+Wicklow (County) Page 28: Found 17 listings
+💾 断点已保存（3/3 个区域，1705 条）
+✔ 结果检查通过：有数据区域 3/3，房源 1705 条
+✔ daft-sale-east.json: 本轮覆盖 3/3 个区域（完整），写入 1705 条，保留未覆盖区域旧数据 0 条
 Area Statistics:
-Carlow (County): 29
-Cavan (County): 23
-Clare (County): 25
-Cork (County): 260
-Donegal (County): 57
-Galway (County): 161
-Kerry (County): 39
-Kildare (County): 139
-Kilkenny (County): 25
-Laois (County): 22
-Leitrim (County): 12
-Limerick (County): 71
-Longford (County): 14
-Louth (County): 83
-Mayo (County): 59
-Meath (County): 85
-Monaghan (County): 10
-Offaly (County): 18
-Roscommon (County): 24
-Sligo (County): 24
-Tipperary (County): 27
-Waterford (County): 61
-Westmeath (County): 68
-Wexford (County): 61
-Wicklow (County): 70
+Kildare (County): 600
+Meath (County): 548
+Wicklow (County): 557
 ========== Summary ==========
-Elapsed: 14m 1s
-Average: 9.56 sec/page
 
-Areas: 25
-Pages crawled: 88
+Elapsed: 10m 56s
+Average: 7.63 sec/page
+
+Areas: 3
+Pages crawled: 86
 Empty areas: 0
-Total listings: 1467
+Total listings: 1705
 Duplicates removed: 0
-Unique properties: 1467
-✔ Saved 1467 properties
-📄 data/daft/rent/daft-rent-ireland.json
-📄 /home/runner/work/tools/tools/data/daft/rent/crawl-summary.json
-✔ crawl-summary.json updated
+Unique properties: 1705
+✔ Saved 1705 properties
+📄 data/daft/sale/daft-sale-east.json
+📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-east.json
+✔ crawl-summary-sale-east.json updated
 ✔ 断点已清除
 ✔ 整组完成：已写完成标记（后面几轮会自动跳过）
 All pages completed successfully.
