@@ -50,9 +50,9 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip -4 route add 104.16.0.0/13 dev warpcfg
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=on ip=104.28.201.73
-daft 真页面 ✓（3377719 字节）
+trace: warp=on ip=104.28.196.79
+daft 真页面 ✓（3327373 字节）
 runner 自身连通性：200
 warmup 1 -> 200
 warmup 2 -> 200
-==== WARP 就绪（第 1 次尝试生效，已用 16s；仅 Cloudflare 段走隧道）====
+==== WARP 就绪（第 1 次尝试生效，已用 14s；仅 Cloudflare 段走隧道）====
