@@ -51,13 +51,13 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
 trace: warp=? ip=?
-trace: warp=off ip=20.168.21.130
+trace: warp=off ip=20.163.47.66
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（0 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 ----- 换 WARP 身份（重新注册，换出口 IP）-----
 [Interface]
-Address = 172.16.0.2/32, 2606:4700:110:83fd:c60c:45ac:44f5:de3b/128
+Address = 172.16.0.2/32, 2606:4700:110:8d1c:52be:f0f9:da81:f7f2/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
@@ -69,7 +69,36 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip link add warpcfg type wireguard
 [#] wg setconf warpcfg /dev/fd/63
 [#] ip -4 address add 172.16.0.2/32 dev warpcfg
-[#] ip -6 address add 2606:4700:110:83fd:c60c:45ac:44f5:de3b/128 dev warpcfg
+[#] ip -6 address add 2606:4700:110:8d1c:52be:f0f9:da81:f7f2/128 dev warpcfg
+[#] ip link set mtu 1280 up dev warpcfg
+[#] ip -4 route add 197.234.240.0/22 dev warpcfg
+[#] ip -4 route add 131.0.72.0/22 dev warpcfg
+[#] ip -4 route add 103.31.4.0/22 dev warpcfg
+[#] ip -4 route add 103.22.200.0/22 dev warpcfg
+[#] ip -4 route add 103.21.244.0/22 dev warpcfg
+[#] ip -4 route add 190.93.240.0/20 dev warpcfg
+[#] ip -4 route add 188.114.96.0/20 dev warpcfg
+[#] ip -4 route add 173.245.48.0/20 dev warpcfg
+[#] ip -4 route add 141.101.64.0/18 dev warpcfg
+[#] ip -4 route add 108.162.192.0/18 dev warpcfg
+[#] ip -4 route add 198.41.128.0/17 dev warpcfg
+[#] ip -4 route add 162.158.0.0/15 dev warpcfg
+[#] ip -4 route add 104.24.0.0/14 dev warpcfg
+[#] ip -4 route add 172.64.0.0/13 dev warpcfg
+[#] ip -4 route add 104.16.0.0/13 dev warpcfg
+wg-quick up 成功
+端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
+trace: warp=? ip=?
+trace: warp=off ip=20.163.47.66
+（trace 未报 warp=on，仍以 daft 为准）
+daft 拿到的是挑战页/空页 ✗（0 字节，出口被 Cloudflare 挡了）
+出口被挡 → 换新身份重来
+----- 尝试 3（已用 41s，身份=新）-----
+Warning: `/tmp/warpcfg.conf' is world accessible
+[#] ip link add warpcfg type wireguard
+[#] wg setconf warpcfg /dev/fd/63
+[#] ip -4 address add 172.16.0.2/32 dev warpcfg
+[#] ip -6 address add 2606:4700:110:8d1c:52be:f0f9:da81:f7f2/128 dev warpcfg
 [#] ip link set mtu 1280 up dev warpcfg
 [#] ip -4 route add 197.234.240.0/22 dev warpcfg
 [#] ip -4 route add 131.0.72.0/22 dev warpcfg
@@ -89,8 +118,8 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
 trace: warp=on ip=104.28.205.117
-daft 真页面 ✓（3281193 字节）
+daft 真页面 ✓（3198689 字节）
 runner 自身连通性：200
 warmup 1 -> 200
 warmup 2 -> 200
-==== WARP 就绪（第 2 次尝试生效，已用 35s；仅 Cloudflare 段走隧道）====
+==== WARP 就绪（第 3 次尝试生效，已用 53s；仅 Cloudflare 段走隧道）====
