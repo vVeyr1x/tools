@@ -9,7 +9,7 @@ AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.1
 Endpoint = engage.cloudflareclient.com:2408
 原默认路由: gw=10.1.0.1 dev=eth0 | 端点: engage.cloudflareclient.com
 Selecting previously unselected package wireguard-tools.
-(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 214677 files and directories currently installed.)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203807 files and directories currently installed.)
 Preparing to unpack .../wireguard-tools_1.0.20210914-1ubuntu4_amd64.deb ...
 Unpacking wireguard-tools (1.0.20210914-1ubuntu4) ...
 Setting up wireguard-tools (1.0.20210914-1ubuntu4) ...
@@ -29,7 +29,7 @@ No containers need to be restarted.
 No user sessions are running outdated binaries.
 
 No VM guests are running outdated hypervisor (qemu) binaries on this host.
------ 尝试 1（已用 5s，身份=仓库自带）-----
+----- 尝试 1（已用 3s，身份=仓库自带）-----
 Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip link add warpcfg type wireguard
 [#] wg setconf warpcfg /dev/fd/63
@@ -53,9 +53,9 @@ Warning: `/tmp/warpcfg.conf' is world accessible
 [#] ip -4 route add 104.16.0.0/13 dev warpcfg
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=on ip=104.28.233.161
-daft 真页面 ✓（3257110 字节）
+trace: warp=on ip=104.28.200.112
+daft 真页面 ✓（3048376 字节）
 runner 自身连通性：200
 warmup 1 -> 200
 warmup 2 -> 200
-==== WARP 就绪（第 1 次尝试生效，已用 16s；仅 Cloudflare 段走隧道）====
+==== WARP 就绪（第 1 次尝试生效，已用 14s；仅 Cloudflare 段走隧道）====
