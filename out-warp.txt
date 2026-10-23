@@ -8,151 +8,54 @@ PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
 Endpoint = engage.cloudflareclient.com:2408
 原默认路由: gw=10.1.0.1 dev=eth0 | 端点: engage.cloudflareclient.com
-E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 2511 (apt-get)
-E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
-wireguard-tools 安装超时/失败
+Selecting previously unselected package wireguard-tools.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203807 files and directories currently installed.)
+Preparing to unpack .../wireguard-tools_1.0.20210914-1ubuntu4_amd64.deb ...
+Unpacking wireguard-tools (1.0.20210914-1ubuntu4) ...
+Setting up wireguard-tools (1.0.20210914-1ubuntu4) ...
+wg-quick.target is a disabled or a static unit, not starting it.
+Processing triggers for man-db (2.12.0-4build2) ...
+Not building database; man-db/auto-update is not 'true'.
+
+Running kernel seems to be up-to-date.
+
+Restarting services...
+
+Service restarts being deferred:
+ systemctl restart networkd-dispatcher.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
 ----- 尝试 1（已用 3s，身份=仓库自带）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
+Warning: `/tmp/warpcfg.conf' is world accessible
+[#] ip link add warpcfg type wireguard
+[#] wg setconf warpcfg /dev/fd/63
+[#] ip -4 address add 172.16.0.2/32 dev warpcfg
+[#] ip -6 address add 2606:4700:110:82d8:6458:aa21:6d33:64cf/128 dev warpcfg
+[#] ip link set mtu 1280 up dev warpcfg
+[#] ip -4 route add 197.234.240.0/22 dev warpcfg
+[#] ip -4 route add 131.0.72.0/22 dev warpcfg
+[#] ip -4 route add 103.31.4.0/22 dev warpcfg
+[#] ip -4 route add 103.22.200.0/22 dev warpcfg
+[#] ip -4 route add 103.21.244.0/22 dev warpcfg
+[#] ip -4 route add 190.93.240.0/20 dev warpcfg
+[#] ip -4 route add 188.114.96.0/20 dev warpcfg
+[#] ip -4 route add 173.245.48.0/20 dev warpcfg
+[#] ip -4 route add 141.101.64.0/18 dev warpcfg
+[#] ip -4 route add 108.162.192.0/18 dev warpcfg
+[#] ip -4 route add 198.41.128.0/17 dev warpcfg
+[#] ip -4 route add 162.158.0.0/15 dev warpcfg
+[#] ip -4 route add 104.24.0.0/14 dev warpcfg
+[#] ip -4 route add 172.64.0.0/13 dev warpcfg
+[#] ip -4 route add 104.16.0.0/13 dev warpcfg
+wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 换 WARP 身份（重新注册，换出口 IP）-----
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8fa6:336b:375d:6eed:c8cd/128
-MTU = 1280
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
-Endpoint = engage.cloudflareclient.com:2408
-新身份配置就绪
------ 尝试 2（已用 12s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 尝试 3（已用 17s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 尝试 4（已用 22s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
-FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
-sudo: wg: command not found
---- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.0.156 metric 100 
---- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.156 uid 1001 
---- daft 解析 ---
-104.20.40.239   STREAM www.daft.ie
-104.20.40.239   DGRAM  
-==== setup WARP（只路由 Cloudflare 网段）====
-Cloudflare 段：14 条
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:82d8:6458:aa21:6d33:64cf/128
-MTU = 1280
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
-Endpoint = engage.cloudflareclient.com:2408
-原默认路由: gw=10.1.0.1 dev=eth0 | 端点: engage.cloudflareclient.com
-E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 2511 (apt-get)
-E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?
-wireguard-tools 安装超时/失败
------ 尝试 1（已用 1s，身份=仓库自带）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 换 WARP 身份（重新注册，换出口 IP）-----
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8fbe:a1f8:1262:45f7:9c9d/128
-MTU = 1280
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
-Endpoint = engage.cloudflareclient.com:2408
-新身份配置就绪
------ 尝试 2（已用 9s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 尝试 3（已用 15s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
------ 尝试 4（已用 20s，身份=新）-----
-sudo: wg-quick: command not found
-wg-quick 失败 → 手工配置
-手工配置：gw=10.1.0.1
-timeout: failed to run command ‘wg’: No such file or directory
-手工配置失败
-端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=20.168.102.131
-trace: warp=off ip=20.168.102.131
-（trace 未报 warp=on，仍以 daft 为准）
-daft 拿到的是挑战页/空页 ✗（116820 字节，出口被 Cloudflare 挡了）
-出口被挡 → 换新身份重来
-FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
-sudo: wg: command not found
---- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.0.156 metric 100 
---- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.156 uid 1001 
---- daft 解析 ---
-172.66.160.92   STREAM www.daft.ie
-172.66.160.92   DGRAM  
+trace: warp=on ip=104.28.216.161
+daft 真页面 ✓（3275250 字节）
+runner 自身连通性：200
+warmup 1 -> 200
+warmup 2 -> 200
+==== WARP 就绪（第 1 次尝试生效，已用 14s；仅 Cloudflare 段走隧道）====
