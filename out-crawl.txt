@@ -3,355 +3,4035 @@ Launching browser (Headless)...
 Loading areas.json...
 Loaded 877 areas.
 Sale crawl areas: 877
-Group: dublin2 (12/877 areas)
-========== Dublin 11, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-11-dublin
-Property for Sale in Dublin 11, Dublin | Daft.ie
-Dublin 11, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-11-dublin
-Dublin 11, Dublin: __NEXT_DATA__ = 1
-Dublin 11, Dublin: Total pages: 7
-Dublin 11, Dublin Page 1: Found 20 listings
-Page 2/7
-Dublin 11, Dublin Page 2: Found 20 listings
-Page 3/7
-Dublin 11, Dublin Page 3: Found 20 listings
-Page 4/7
-Dublin 11, Dublin Page 4: Found 20 listings
-Page 5/7
-Dublin 11, Dublin Page 5: Found 20 listings
-Dublin 11, Dublin: Cooling down 10 seconds...
-Page 6/7
-Dublin 11, Dublin Page 6: Found 20 listings
-Page 7/7
-Page 7 retry 1/3
-Dublin 11, Dublin Page 7: Found 11 listings
-💾 断点已保存（1/12 个区域，131 条）
-========== Dublin 12, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-12-dublin
-Property for Sale in Dublin 12, Dublin | Daft.ie
-Dublin 12, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-12-dublin
-Dublin 12, Dublin: __NEXT_DATA__ = 1
-Dublin 12, Dublin: Total pages: 11
-Dublin 12, Dublin Page 1: Found 20 listings
-Page 2/11
-Dublin 12, Dublin Page 2: Found 20 listings
-Page 3/11
-Dublin 12, Dublin Page 3: Found 20 listings
-Page 4/11
-Page 4 retry 1/3
-Dublin 12, Dublin Page 4: Found 20 listings
-Page 5/11
-Page 5 retry 1/3
-Dublin 12, Dublin Page 5: Found 20 listings
-Dublin 12, Dublin: Cooling down 10 seconds...
-Page 6/11
-Dublin 12, Dublin Page 6: Found 20 listings
-Page 7/11
-Dublin 12, Dublin Page 7: Found 20 listings
-Page 8/11
-Dublin 12, Dublin Page 8: Found 20 listings
-Page 9/11
-Dublin 12, Dublin Page 9: Found 20 listings
-Page 10/11
-Dublin 12, Dublin Page 10: Found 20 listings
-Dublin 12, Dublin: Cooling down 10 seconds...
-Page 11/11
-Page 11 retry 1/3
-Dublin 12, Dublin Page 11: Found 2 listings
-💾 断点已保存（2/12 个区域，333 条）
-========== Dublin 13, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-13-dublin
-Property for Sale in Dublin 13, Dublin | Daft.ie
-Dublin 13, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-13-dublin
-Dublin 13, Dublin: __NEXT_DATA__ = 1
-Dublin 13, Dublin: Total pages: 11
-Dublin 13, Dublin Page 1: Found 20 listings
-Page 2/11
-Dublin 13, Dublin Page 2: Found 20 listings
-Page 3/11
-Dublin 13, Dublin Page 3: Found 20 listings
-Page 4/11
-Dublin 13, Dublin Page 4: Found 20 listings
-Page 5/11
-Dublin 13, Dublin Page 5: Found 20 listings
-Dublin 13, Dublin: Cooling down 10 seconds...
-Page 6/11
-Dublin 13, Dublin Page 6: Found 20 listings
-Page 7/11
-Dublin 13, Dublin Page 7: Found 20 listings
-Page 8/11
-Dublin 13, Dublin Page 8: Found 20 listings
-Page 9/11
-Dublin 13, Dublin Page 9: Found 20 listings
-Page 10/11
-Dublin 13, Dublin Page 10: Found 20 listings
-Dublin 13, Dublin: Cooling down 10 seconds...
-Page 11/11
-Page 11 retry 1/3
-Dublin 13, Dublin Page 11: Found 7 listings
-💾 断点已保存（3/12 个区域，540 条）
-========== Dublin 14, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-14-dublin
-Property for Sale in Dublin 14, Dublin | Daft.ie
-Dublin 14, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-14-dublin
-Dublin 14, Dublin: __NEXT_DATA__ = 1
-Dublin 14, Dublin: Total pages: 8
-Dublin 14, Dublin Page 1: Found 20 listings
-Page 2/8
-Dublin 14, Dublin Page 2: Found 20 listings
-Page 3/8
-Dublin 14, Dublin Page 3: Found 20 listings
-Page 4/8
-Dublin 14, Dublin Page 4: Found 20 listings
-Page 5/8
-Dublin 14, Dublin Page 5: Found 20 listings
-Dublin 14, Dublin: Cooling down 10 seconds...
-Page 6/8
-Page 6 retry 1/3
-Dublin 14, Dublin Page 6: Found 20 listings
-Page 7/8
-Dublin 14, Dublin Page 7: Found 20 listings
-Page 8/8
-Dublin 14, Dublin Page 8: Found 5 listings
-💾 断点已保存（4/12 个区域，685 条）
-========== Dublin 15, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-15-dublin
-Property for Sale in Dublin 15, Dublin | Daft.ie
-Dublin 15, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-15-dublin
-Dublin 15, Dublin: __NEXT_DATA__ = 1
-Dublin 15, Dublin: Total pages: 17
-Dublin 15, Dublin Page 1: Found 20 listings
-Page 2/17
-Page 2 retry 1/3
-Dublin 15, Dublin Page 2: Found 20 listings
-Page 3/17
-Page 3 retry 1/3
-Dublin 15, Dublin Page 3: Found 20 listings
-Page 4/17
-Dublin 15, Dublin Page 4: Found 20 listings
-Page 5/17
-Dublin 15, Dublin Page 5: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
-Page 6/17
-Dublin 15, Dublin Page 6: Found 20 listings
-Page 7/17
-Dublin 15, Dublin Page 7: Found 20 listings
-Page 8/17
-Page 8 retry 1/3
-Dublin 15, Dublin Page 8: Found 20 listings
-Page 9/17
-Dublin 15, Dublin Page 9: Found 20 listings
-Page 10/17
-Dublin 15, Dublin Page 10: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
-Page 11/17
-Dublin 15, Dublin Page 11: Found 20 listings
-Page 12/17
-Page 12 retry 1/3
-Dublin 15, Dublin Page 12: Found 20 listings
-Page 13/17
-Dublin 15, Dublin Page 13: Found 20 listings
-Page 14/17
-Dublin 15, Dublin Page 14: Found 20 listings
-Page 15/17
-Page 15 retry 1/3
-Dublin 15, Dublin Page 15: Found 20 listings
-Dublin 15, Dublin: Cooling down 10 seconds...
-Page 16/17
-Dublin 15, Dublin Page 16: Found 20 listings
-Page 17/17
-Page 17 retry 1/3
-Dublin 15, Dublin Page 17: Found 1 listings
-💾 断点已保存（5/12 个区域，1003 条）
-========== Dublin 16, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-16-dublin
-Property for Sale in Dublin 16, Dublin | Daft.ie
-Dublin 16, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-16-dublin
-Dublin 16, Dublin: __NEXT_DATA__ = 1
-Dublin 16, Dublin: Total pages: 6
-Dublin 16, Dublin Page 1: Found 20 listings
-Page 2/6
-Dublin 16, Dublin Page 2: Found 20 listings
-Page 3/6
-Page 3 retry 1/3
-Dublin 16, Dublin Page 3: Found 20 listings
-Page 4/6
-Page 4 retry 1/3
-Dublin 16, Dublin Page 4: Found 20 listings
-Page 5/6
-Dublin 16, Dublin Page 5: Found 20 listings
-Dublin 16, Dublin: Cooling down 10 seconds...
-Page 6/6
-Dublin 16, Dublin Page 6: Found 13 listings
-💾 断点已保存（6/12 个区域，1111 条）
-========== Dublin 17, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-17-dublin
-Property for Sale in Dublin 17, Dublin | Daft.ie
-Dublin 17, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-17-dublin
-Dublin 17, Dublin: __NEXT_DATA__ = 1
-Dublin 17, Dublin: Total pages: 3
-Dublin 17, Dublin Page 1: Found 20 listings
-Page 2/3
-Page 2 retry 1/3
-Dublin 17, Dublin Page 2: Found 20 listings
-Page 3/3
-Dublin 17, Dublin Page 3: Found 1 listings
-💾 断点已保存（7/12 个区域，1148 条）
-========== Dublin 18, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-18-dublin
-Property for Sale in Dublin 18, Dublin | Daft.ie
-Dublin 18, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-18-dublin
-Dublin 18, Dublin: __NEXT_DATA__ = 1
-Dublin 18, Dublin: Total pages: 14
-Dublin 18, Dublin Page 1: Found 20 listings
-Page 2/14
-Page 2 retry 1/3
-Dublin 18, Dublin Page 2: Found 20 listings
-Page 3/14
-Dublin 18, Dublin Page 3: Found 20 listings
-Page 4/14
-Dublin 18, Dublin Page 4: Found 20 listings
-Page 5/14
-Dublin 18, Dublin Page 5: Found 20 listings
-Dublin 18, Dublin: Cooling down 10 seconds...
-Page 6/14
-Dublin 18, Dublin Page 6: Found 20 listings
-Page 7/14
-Dublin 18, Dublin Page 7: Found 20 listings
-Page 8/14
-Dublin 18, Dublin Page 8: Found 20 listings
-Page 9/14
-Dublin 18, Dublin Page 9: Found 20 listings
-Page 10/14
-Dublin 18, Dublin Page 10: Found 20 listings
-Dublin 18, Dublin: Cooling down 10 seconds...
-Page 11/14
-Dublin 18, Dublin Page 11: Found 20 listings
-Page 12/14
-Dublin 18, Dublin Page 12: Found 20 listings
-Page 13/14
-Dublin 18, Dublin Page 13: Found 20 listings
-Page 14/14
-Dublin 18, Dublin Page 14: Found 8 listings
-💾 断点已保存（8/12 个区域，1415 条）
-========== Dublin 20, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-20-dublin
-Property for Sale in Dublin 20, Dublin | Daft.ie
-Dublin 20, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-20-dublin
-Dublin 20, Dublin: __NEXT_DATA__ = 1
-Dublin 20, Dublin: Total pages: 2
-Dublin 20, Dublin Page 1: Found 20 listings
+Group: cork (386/877 areas)
+========== Adrigole, Cork ==========
+https://www.daft.ie/property-for-sale/adrigole-cork
+Property for Sale in Adrigole, Cork | Daft.ie
+Adrigole, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/adrigole-cork
+Adrigole, Cork: __NEXT_DATA__ = 1
+Adrigole, Cork: Total pages: 1
+Adrigole, Cork Page 1: Found 12 listings
+💾 断点已保存（1/386 个区域，12 条）
+========== Aghabullogue, Cork ==========
+https://www.daft.ie/property-for-sale/aghabullogue-cork
+Property for Sale in Aghabullogue, Cork | Daft.ie
+Aghabullogue, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/aghabullogue-cork
+Aghabullogue, Cork: __NEXT_DATA__ = 1
+Aghabullogue, Cork: Total pages: 1
+Aghabullogue, Cork Page 1: Found 4 listings
+💾 断点已保存（2/386 个区域，16 条）
+========== Aghada, Cork ==========
+https://www.daft.ie/property-for-sale/aghada-cork
+Property for Sale in Aghada, Cork | Daft.ie
+Aghada, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/aghada-cork
+Aghada, Cork: __NEXT_DATA__ = 1
+Aghada, Cork: Total pages: 1
+Aghada, Cork Page 1: Found 10 listings
+💾 断点已保存（3/386 个区域，26 条）
+========== Aghaville, Cork ==========
+https://www.daft.ie/property-for-sale/aghaville-cork
+Property for Sale in Aghaville, Cork | Daft.ie
+Aghaville, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/aghaville-cork
+Aghaville, Cork: __NEXT_DATA__ = 1
+Aghaville, Cork: Total pages: 1
+Aghaville, Cork Page 1: Found 1 listings
+💾 断点已保存（4/386 个区域，27 条）
+========== Ahakista, Cork ==========
+https://www.daft.ie/property-for-sale/ahakista-cork
+Property for Sale in Ahakista, Cork | Daft.ie
+Ahakista, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ahakista-cork
+Ahakista, Cork: __NEXT_DATA__ = 1
+Ahakista, Cork: Total pages: 1
+Ahakista, Cork Page 1: Found 12 listings
+💾 断点已保存（5/386 个区域，39 条）
+========== Aherla, Cork ==========
+https://www.daft.ie/property-for-sale/aherla-cork
+Property for Sale in Aherla, Cork | Daft.ie
+Aherla, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/aherla-cork
+Aherla, Cork: __NEXT_DATA__ = 1
+Aherla, Cork: Total pages: 1
+Aherla, Cork Page 1: Found 4 listings
+💾 断点已保存（6/386 个区域，43 条）
+========== Allihies, Cork ==========
+https://www.daft.ie/property-for-sale/allihies-cork
+Property for Sale in Allihies, Cork | Daft.ie
+Allihies, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/allihies-cork
+Allihies, Cork: __NEXT_DATA__ = 1
+Allihies, Cork: Total pages: 1
+Allihies, Cork Page 1: Found 7 listings
+💾 断点已保存（7/386 个区域，50 条）
+========== Araglin, Cork ==========
+https://www.daft.ie/property-for-sale/araglin-cork
+Property for Sale in Araglin, Cork | Daft.ie
+Araglin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/araglin-cork
+Araglin, Cork: __NEXT_DATA__ = 1
+Araglin, Cork: Total pages: 1
+Araglin, Cork Page 1: Found 1 listings
+💾 断点已保存（8/386 个区域，51 条）
+========== Ardfield, Cork ==========
+https://www.daft.ie/property-for-sale/ardfield-cork
+Property for Sale in Ardfield, Cork | Daft.ie
+Ardfield, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ardfield-cork
+Ardfield, Cork: __NEXT_DATA__ = 1
+Ardfield, Cork: Total pages: 1
+Ardfield, Cork Page 1: Found 2 listings
+💾 断点已保存（9/386 个区域，53 条）
+========== Ardgehane, Cork ==========
+https://www.daft.ie/property-for-sale/ardgehane-cork
+Property for Sale in Ardgehane, Cork | Daft.ie
+Ardgehane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ardgehane-cork
+Ardgehane, Cork: __NEXT_DATA__ = 1
+Ardgehane, Cork: Total pages: 1
+Ardgehane, Cork Page 1: Found 1 listings
+💾 断点已保存（10/386 个区域，54 条）
+========== Ardglass, Cork ==========
+https://www.daft.ie/property-for-sale/ardglass-cork
+Property for Sale in Ardglass, Cork | Daft.ie
+Ardglass, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ardglass-cork
+Ardglass, Cork: __NEXT_DATA__ = 1
+Ardglass, Cork: Total pages: 0
+💾 断点已保存（11/386 个区域，54 条）
+========== Ardgroom, Cork ==========
+https://www.daft.ie/property-for-sale/ardgroom-cork
+Property for Sale in Ardgroom, Cork | Daft.ie
+Ardgroom, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ardgroom-cork
+Ardgroom, Cork: __NEXT_DATA__ = 1
+Ardgroom, Cork: Total pages: 1
+Ardgroom, Cork Page 1: Found 3 listings
+💾 断点已保存（12/386 个区域，57 条）
+========== Ashton, Cork ==========
+https://www.daft.ie/property-for-sale/ashton-cork
+Property for Sale in Ashton, Cork | Daft.ie
+Ashton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ashton-cork
+Ashton, Cork: __NEXT_DATA__ = 1
+Ashton, Cork: Total pages: 1
+Ashton, Cork Page 1: Found 4 listings
+💾 断点已保存（13/386 个区域，61 条）
+========== Ballinadee, Cork ==========
+https://www.daft.ie/property-for-sale/ballinadee-cork?__cf_chl_rt_tk=CYv1jA3bn70YeGA2O8YjmJH8L.KiJm7fBxlB.0ByCRI-1793307210-1.0.1.1-ELHv_1NhKBaopzlNj7BBivpjWSBZYvTb8OAchiQvHcI
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Ballinadee, Cork | Daft.ie
+Ballinadee, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinadee-cork
+Ballinadee, Cork: __NEXT_DATA__ = 1
+Ballinadee, Cork: Total pages: 1
+Ballinadee, Cork Page 1: Found 2 listings
+💾 断点已保存（14/386 个区域，63 条）
+========== Ballinascarty, Cork ==========
+https://www.daft.ie/property-for-sale/ballinascarty-cork
+Property for Sale in Ballinascarty, Cork | Daft.ie
+Ballinascarty, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinascarty-cork
+Ballinascarty, Cork: __NEXT_DATA__ = 1
+Ballinascarty, Cork: Total pages: 0
+💾 断点已保存（15/386 个区域，63 条）
+========== Ballinclashet, Cork ==========
+https://www.daft.ie/property-for-sale/ballinclashet-cork
+Property for Sale in Ballinclashet, Cork | Daft.ie
+Ballinclashet, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinclashet-cork
+Ballinclashet, Cork: __NEXT_DATA__ = 1
+Ballinclashet, Cork: Total pages: 1
+Ballinclashet, Cork Page 1: Found 3 listings
+💾 断点已保存（16/386 个区域，66 条）
+========== Ballincollig, Cork ==========
+https://www.daft.ie/property-for-sale/ballincollig-cork
+Property for Sale in Ballincollig, Cork | Daft.ie
+Ballincollig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballincollig-cork
+Ballincollig, Cork: __NEXT_DATA__ = 1
+Ballincollig, Cork: Total pages: 4
+Ballincollig, Cork Page 1: Found 20 listings
+Page 2/4
+Ballincollig, Cork Page 2: Found 20 listings
+Page 3/4
+Ballincollig, Cork Page 3: Found 20 listings
+Page 4/4
+Ballincollig, Cork Page 4: Found 13 listings
+💾 断点已保存（17/386 个区域，138 条）
+========== Ballincrokig, Cork ==========
+https://www.daft.ie/property-for-sale/ballincrokig-cork
+Property for Sale in Ballincrokig, Cork | Daft.ie
+Ballincrokig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballincrokig-cork
+Ballincrokig, Cork: __NEXT_DATA__ = 1
+Ballincrokig, Cork: Total pages: 1
+Ballincrokig, Cork Page 1: Found 1 listings
+💾 断点已保存（18/386 个区域，139 条）
+========== Ballincurrig, Cork ==========
+https://www.daft.ie/property-for-sale/ballincurrig-cork
+Property for Sale in Ballincurrig, Cork | Daft.ie
+Ballincurrig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballincurrig-cork
+Ballincurrig, Cork: __NEXT_DATA__ = 1
+Ballincurrig, Cork: Total pages: 1
+Ballincurrig, Cork Page 1: Found 1 listings
+💾 断点已保存（19/386 个区域，140 条）
+========== Ballineen, Cork ==========
+https://www.daft.ie/property-for-sale/ballineen-cork
+Property for Sale in Ballineen, Cork | Daft.ie
+Ballineen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballineen-cork
+Ballineen, Cork: __NEXT_DATA__ = 1
+Ballineen, Cork: Total pages: 1
+Ballineen, Cork Page 1: Found 13 listings
+💾 断点已保存（20/386 个区域，153 条）
+========== Ballingeary, Cork ==========
+https://www.daft.ie/property-for-sale/ballingeary-cork
+Property for Sale in Ballingeary, Cork | Daft.ie
+Ballingeary, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballingeary-cork
+Ballingeary, Cork: __NEXT_DATA__ = 1
+Ballingeary, Cork: Total pages: 1
+Ballingeary, Cork Page 1: Found 2 listings
+💾 断点已保存（21/386 个区域，155 条）
+========== Ballingurteen, Cork ==========
+https://www.daft.ie/property-for-sale/ballingurteen-cork
+Property for Sale in Ballingurteen, Cork | Daft.ie
+Ballingurteen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballingurteen-cork
+Ballingurteen, Cork: __NEXT_DATA__ = 1
+Ballingurteen, Cork: Total pages: 1
+Ballingurteen, Cork Page 1: Found 3 listings
+💾 断点已保存（22/386 个区域，157 条）
+========== Ballinhassig, Cork ==========
+https://www.daft.ie/property-for-sale/ballinhassig-cork
+Property for Sale in Ballinhassig, Cork | Daft.ie
+Ballinhassig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinhassig-cork
+Ballinhassig, Cork: __NEXT_DATA__ = 1
+Ballinhassig, Cork: Total pages: 1
+Ballinhassig, Cork Page 1: Found 19 listings
+💾 断点已保存（23/386 个区域，176 条）
+========== Ballinlough, Cork ==========
+https://www.daft.ie/property-for-sale/ballinlough-cork
+Property for Sale in Ballinlough, Cork | Daft.ie
+Ballinlough, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinlough-cork
+Ballinlough, Cork: __NEXT_DATA__ = 1
+Ballinlough, Cork: Total pages: 2
+Ballinlough, Cork Page 1: Found 20 listings
 Page 2/2
-Dublin 20, Dublin Page 2: Found 16 listings
-💾 断点已保存（9/12 个区域，1451 条）
-========== Dublin 22, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-22-dublin
-Property for Sale in Dublin 22, Dublin | Daft.ie
-Dublin 22, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-22-dublin
-Dublin 22, Dublin: __NEXT_DATA__ = 1
-Dublin 22, Dublin: Total pages: 6
-Dublin 22, Dublin Page 1: Found 20 listings
-Page 2/6
-Dublin 22, Dublin Page 2: Found 20 listings
-Page 3/6
-Dublin 22, Dublin Page 3: Found 20 listings
-Page 4/6
+Ballinlough, Cork Page 2: Found 14 listings
+💾 断点已保存（24/386 个区域，210 条）
+========== Ballinluska, Cork ==========
+https://www.daft.ie/property-for-sale/ballinluska-cork
+Property for Sale in Ballinluska, Cork | Daft.ie
+Ballinluska, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinluska-cork
+Ballinluska, Cork: __NEXT_DATA__ = 1
+Ballinluska, Cork: Total pages: 1
+Ballinluska, Cork Page 1: Found 7 listings
+💾 断点已保存（25/386 个区域，217 条）
+========== Ballinora, Cork ==========
+https://www.daft.ie/property-for-sale/ballinora-cork
+Property for Sale in Ballinora, Cork | Daft.ie
+Ballinora, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinora-cork
+Ballinora, Cork: __NEXT_DATA__ = 1
+Ballinora, Cork: Total pages: 0
+💾 断点已保存（26/386 个区域，217 条）
+========== Ballinrea, Cork ==========
+https://www.daft.ie/property-for-sale/ballinrea-cork?__cf_chl_rt_tk=YPFhtuO9q5conB1PMGOxcISq73.WGUx109mTMnWSlcg-1793307332-1.0.1.1-O6Nii.plJFThxy_uss4m39es.SNCE85fNaA6ISu0jUY
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Ballinrea, Cork | Daft.ie
+Ballinrea, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinrea-cork
+Ballinrea, Cork: __NEXT_DATA__ = 1
+Ballinrea, Cork: Total pages: 1
+Ballinrea, Cork Page 1: Found 8 listings
+💾 断点已保存（27/386 个区域，225 条）
+========== Ballinspittle, Cork ==========
+https://www.daft.ie/property-for-sale/ballinspittle-cork
+Property for Sale in Ballinspittle, Cork | Daft.ie
+Ballinspittle, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinspittle-cork
+Ballinspittle, Cork: __NEXT_DATA__ = 1
+Ballinspittle, Cork: Total pages: 1
+Ballinspittle, Cork Page 1: Found 10 listings
+💾 断点已保存（28/386 个区域，235 条）
+========== Ballintemple, Cork ==========
+https://www.daft.ie/property-for-sale/ballintemple-cork
+Property for Sale in Ballintemple, Cork | Daft.ie
+Ballintemple, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballintemple-cork
+Ballintemple, Cork: __NEXT_DATA__ = 1
+Ballintemple, Cork: Total pages: 2
+Ballintemple, Cork Page 1: Found 20 listings
+Page 2/2
+Ballintemple, Cork Page 2: Found 1 listings
+💾 断点已保存（29/386 个区域，249 条）
+========== Ballinure, Cork ==========
+https://www.daft.ie/property-for-sale/ballinure-cork
+Property for Sale in Ballinure, Cork | Daft.ie
+Ballinure, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinure-cork
+Ballinure, Cork: __NEXT_DATA__ = 1
+Ballinure, Cork: Total pages: 1
+Ballinure, Cork Page 1: Found 1 listings
+💾 断点已保存（30/386 个区域，250 条）
+========== Ballinveiltig, Cork ==========
+https://www.daft.ie/property-for-sale/ballinveiltig-cork
+Property for Sale in Ballinveiltig, Cork | Daft.ie
+Ballinveiltig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinveiltig-cork
+Ballinveiltig, Cork: __NEXT_DATA__ = 1
+Ballinveiltig, Cork: Total pages: 1
+Ballinveiltig, Cork Page 1: Found 7 listings
+💾 断点已保存（31/386 个区域，253 条）
+========== Ballinvoultig, Cork ==========
+https://www.daft.ie/property-for-sale/ballinvoultig-cork
+Property for Sale in Ballinvoultig, Cork | Daft.ie
+Ballinvoultig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinvoultig-cork
+Ballinvoultig, Cork: __NEXT_DATA__ = 1
+Ballinvoultig, Cork: Total pages: 1
+Ballinvoultig, Cork Page 1: Found 1 listings
+💾 断点已保存（32/386 个区域，253 条）
+========== Ballinvrinsig, Cork ==========
+https://www.daft.ie/property-for-sale/ballinvrinsig-cork
+Property for Sale in Ballinvrinsig, Cork | Daft.ie
+Ballinvrinsig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinvrinsig-cork
+Ballinvrinsig, Cork: __NEXT_DATA__ = 1
+Ballinvrinsig, Cork: Total pages: 1
+Ballinvrinsig, Cork Page 1: Found 1 listings
+💾 断点已保存（33/386 个区域，253 条）
+========== Ballinvuskig, Cork ==========
+https://www.daft.ie/property-for-sale/ballinvuskig-cork
+Property for Sale in Ballinvuskig, Cork | Daft.ie
+Ballinvuskig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballinvuskig-cork
+Ballinvuskig, Cork: __NEXT_DATA__ = 1
+Ballinvuskig, Cork: Total pages: 1
+Ballinvuskig, Cork Page 1: Found 1 listings
+💾 断点已保存（34/386 个区域，253 条）
+========== Ballyburden, Cork ==========
+https://www.daft.ie/property-for-sale/ballyburden-cork?__cf_chl_rt_tk=wWav2Bd7XewgULbBgGzbhFqCc2tQl0ixKMI_scoCT8I-1793307409-1.0.1.1-KceDgWNMh3zDxsezkeIbP8HrfFzT4.BDkrU70xT_deU
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Ballyburden, Cork | Daft.ie
+Ballyburden, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyburden-cork
+Ballyburden, Cork: __NEXT_DATA__ = 1
+Ballyburden, Cork: Total pages: 1
+Ballyburden, Cork Page 1: Found 1 listings
+💾 断点已保存（35/386 个区域，253 条）
+========== Ballyclough, Cork ==========
+https://www.daft.ie/property-for-sale/ballyclough-cork
+Property for Sale in Ballyclough, Cork | Daft.ie
+Ballyclough, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyclough-cork
+Ballyclough, Cork: __NEXT_DATA__ = 1
+Ballyclough, Cork: Total pages: 1
+Ballyclough, Cork Page 1: Found 1 listings
+💾 断点已保存（36/386 个区域，254 条）
+========== Ballycotton, Cork ==========
+https://www.daft.ie/property-for-sale/ballycotton-cork
+Property for Sale in Ballycotton, Cork | Daft.ie
+Ballycotton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballycotton-cork
+Ballycotton, Cork: __NEXT_DATA__ = 1
+Ballycotton, Cork: Total pages: 1
+Ballycotton, Cork Page 1: Found 8 listings
+💾 断点已保存（37/386 个区域，262 条）
+========== Ballydehob, Cork ==========
+https://www.daft.ie/property-for-sale/ballydehob-cork
+Property for Sale in Ballydehob, Cork | Daft.ie
+Ballydehob, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballydehob-cork
+Ballydehob, Cork: __NEXT_DATA__ = 1
+Ballydehob, Cork: Total pages: 1
+Ballydehob, Cork Page 1: Found 13 listings
+💾 断点已保存（38/386 个区域，275 条）
+========== Ballydesmond, Cork ==========
+https://www.daft.ie/property-for-sale/ballydesmond-cork
+Property for Sale in Ballydesmond, Cork | Daft.ie
+Ballydesmond, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballydesmond-cork
+Ballydesmond, Cork: __NEXT_DATA__ = 1
+Ballydesmond, Cork: Total pages: 1
+Ballydesmond, Cork Page 1: Found 7 listings
+💾 断点已保存（39/386 个区域，282 条）
+========== Ballydonegan, Cork ==========
+https://www.daft.ie/property-for-sale/ballydonegan-cork
+Property for Sale in Ballydonegan, Cork | Daft.ie
+Ballydonegan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballydonegan-cork
+Ballydonegan, Cork: __NEXT_DATA__ = 1
+Ballydonegan, Cork: Total pages: 1
+Ballydonegan, Cork Page 1: Found 2 listings
+💾 断点已保存（40/386 个区域，282 条）
+========== Ballyfeard, Cork ==========
+https://www.daft.ie/property-for-sale/ballyfeard-cork
+Property for Sale in Ballyfeard, Cork | Daft.ie
+Ballyfeard, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyfeard-cork
+Ballyfeard, Cork: __NEXT_DATA__ = 1
+Ballyfeard, Cork: Total pages: 1
+Ballyfeard, Cork Page 1: Found 11 listings
+💾 断点已保存（41/386 个区域，293 条）
+========== Ballygarvan, Cork ==========
+https://www.daft.ie/property-for-sale/ballygarvan-cork
+Property for Sale in Ballygarvan, Cork | Daft.ie
+Ballygarvan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballygarvan-cork
+Ballygarvan, Cork: __NEXT_DATA__ = 1
+Ballygarvan, Cork: Total pages: 1
+Ballygarvan, Cork Page 1: Found 8 listings
+💾 断点已保存（42/386 个区域，296 条）
+========== Ballyhooly, Cork ==========
+https://www.daft.ie/property-for-sale/ballyhooly-cork
+Property for Sale in Ballyhooly, Cork | Daft.ie
+Ballyhooly, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyhooly-cork
+Ballyhooly, Cork: __NEXT_DATA__ = 1
+Ballyhooly, Cork: Total pages: 1
+Ballyhooly, Cork Page 1: Found 7 listings
+💾 断点已保存（43/386 个区域，303 条）
+========== Ballylickey, Cork ==========
+https://www.daft.ie/property-for-sale/ballylickey-cork
+Property for Sale in Ballylickey, Cork | Daft.ie
+Ballylickey, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballylickey-cork
+Ballylickey, Cork: __NEXT_DATA__ = 1
+Ballylickey, Cork: Total pages: 1
+Ballylickey, Cork Page 1: Found 4 listings
+💾 断点已保存（44/386 个区域，307 条）
+========== Ballymacoda, Cork ==========
+https://www.daft.ie/property-for-sale/ballymacoda-cork
+Property for Sale in Ballymacoda, Cork | Daft.ie
+Ballymacoda, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballymacoda-cork
+Ballymacoda, Cork: __NEXT_DATA__ = 1
+Ballymacoda, Cork: Total pages: 1
+Ballymacoda, Cork Page 1: Found 10 listings
+💾 断点已保存（45/386 个区域，317 条）
+========== Ballymadog, Cork ==========
+https://www.daft.ie/property-for-sale/ballymadog-cork
+Property for Sale in Ballymadog, Cork | Daft.ie
+Ballymadog, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballymadog-cork
+Ballymadog, Cork: __NEXT_DATA__ = 1
+Ballymadog, Cork: Total pages: 1
+Ballymadog, Cork Page 1: Found 1 listings
+💾 断点已保存（46/386 个区域，318 条）
+========== Ballymakeagh, Cork ==========
+https://www.daft.ie/property-for-sale/ballymakeagh-cork
+Property for Sale in Ballymakeagh, Cork | Daft.ie
+Ballymakeagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballymakeagh-cork
+Ballymakeagh, Cork: __NEXT_DATA__ = 1
+Ballymakeagh, Cork: Total pages: 1
+Ballymakeagh, Cork Page 1: Found 3 listings
+💾 断点已保存（47/386 个区域，321 条）
+========== Ballymakeera, Cork ==========
+https://www.daft.ie/property-for-sale/ballymakeera-cork
+Property for Sale in Ballymakeera, Cork | Daft.ie
+Ballymakeera, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballymakeera-cork
+Ballymakeera, Cork: __NEXT_DATA__ = 1
+Ballymakeera, Cork: Total pages: 1
+Ballymakeera, Cork Page 1: Found 4 listings
+💾 断点已保存（48/386 个区域，325 条）
+========== Ballymartle, Cork ==========
+https://www.daft.ie/property-for-sale/ballymartle-cork
+Property for Sale in Ballymartle, Cork | Daft.ie
+Ballymartle, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballymartle-cork
+Ballymartle, Cork: __NEXT_DATA__ = 1
+Ballymartle, Cork: Total pages: 1
+Ballymartle, Cork Page 1: Found 3 listings
+💾 断点已保存（49/386 个区域，325 条）
+========== Ballynacallagh, Cork ==========
+https://www.daft.ie/property-for-sale/ballynacallagh-cork
+Property for Sale in Ballynacallagh, Cork | Daft.ie
+Ballynacallagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynacallagh-cork
+Ballynacallagh, Cork: __NEXT_DATA__ = 1
+Ballynacallagh, Cork: Total pages: 1
+Ballynacallagh, Cork Page 1: Found 3 listings
+💾 断点已保存（50/386 个区域，325 条）
+========== Ballynacarriga, Cork ==========
+https://www.daft.ie/property-for-sale/ballynacarriga-cork
+Property for Sale in Ballynacarriga, Cork | Daft.ie
+Ballynacarriga, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynacarriga-cork
+Ballynacarriga, Cork: __NEXT_DATA__ = 1
+Ballynacarriga, Cork: Total pages: 1
+Ballynacarriga, Cork Page 1: Found 2 listings
+💾 断点已保存（51/386 个区域，325 条）
+========== Ballynacorra, Cork ==========
+https://www.daft.ie/property-for-sale/ballynacorra-cork
+Property for Sale in Ballynacorra, Cork | Daft.ie
+Ballynacorra, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynacorra-cork
+Ballynacorra, Cork: __NEXT_DATA__ = 1
+Ballynacorra, Cork: Total pages: 1
+Ballynacorra, Cork Page 1: Found 10 listings
+💾 断点已保存（52/386 个区域，335 条）
+========== Ballynagree, Cork ==========
+https://www.daft.ie/property-for-sale/ballynagree-cork
+Property for Sale in Ballynagree, Cork | Daft.ie
+Ballynagree, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynagree-cork
+Ballynagree, Cork: __NEXT_DATA__ = 1
+Ballynagree, Cork: Total pages: 1
+Ballynagree, Cork Page 1: Found 3 listings
+💾 断点已保存（53/386 个区域，338 条）
+========== Ballynamona, Cork ==========
+https://www.daft.ie/property-for-sale/ballynamona-cork
+Property for Sale in Ballynamona, Cork | Daft.ie
+Ballynamona, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynamona-cork
+Ballynamona, Cork: __NEXT_DATA__ = 1
+Ballynamona, Cork: Total pages: 0
+💾 断点已保存（54/386 个区域，338 条）
+========== Ballynoe, Cork ==========
+https://www.daft.ie/property-for-sale/ballynoe-cork
+Property for Sale in Ballynoe, Cork | Daft.ie
+Ballynoe, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballynoe-cork
+Ballynoe, Cork: __NEXT_DATA__ = 1
+Ballynoe, Cork: Total pages: 1
+Ballynoe, Cork Page 1: Found 5 listings
+💾 断点已保存（55/386 个区域，343 条）
+========== Ballyphehane, Cork ==========
+https://www.daft.ie/property-for-sale/ballyphehane-cork
+Property for Sale in Ballyphehane, Cork | Daft.ie
+Ballyphehane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyphehane-cork
+Ballyphehane, Cork: __NEXT_DATA__ = 1
+Ballyphehane, Cork: Total pages: 1
+Ballyphehane, Cork Page 1: Found 8 listings
+💾 断点已保存（56/386 个区域，351 条）
+========== Ballyroon, Cork ==========
+https://www.daft.ie/property-for-sale/ballyroon-cork?__cf_chl_rt_tk=FJxU2p_4uN_RikCnUunhi6TPAFW1YGEIwl2JqUMmkCY-1793307577-1.0.1.1-7wxK4rQbUCUUfrJ_cBUgeCASztvTMlFfXPFeKCv03mY
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Ballyroon, Cork | Daft.ie
+Ballyroon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyroon-cork
+Ballyroon, Cork: __NEXT_DATA__ = 1
+Ballyroon, Cork: Total pages: 1
+Ballyroon, Cork Page 1: Found 3 listings
+💾 断点已保存（57/386 个区域，354 条）
+========== Ballyvoge, Cork ==========
+https://www.daft.ie/property-for-sale/ballyvoge-cork
+Property for Sale in Ballyvoge, Cork | Daft.ie
+Ballyvoge, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyvoge-cork
+Ballyvoge, Cork: __NEXT_DATA__ = 1
+Ballyvoge, Cork: Total pages: 1
+Ballyvoge, Cork Page 1: Found 1 listings
+💾 断点已保存（58/386 个区域，355 条）
+========== Ballyvolane, Cork ==========
+https://www.daft.ie/property-for-sale/ballyvolane-cork
+Property for Sale in Ballyvolane, Cork | Daft.ie
+Ballyvolane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyvolane-cork
+Ballyvolane, Cork: __NEXT_DATA__ = 1
+Ballyvolane, Cork: Total pages: 3
+Ballyvolane, Cork Page 1: Found 20 listings
+Page 2/3
+Ballyvolane, Cork Page 2: Found 20 listings
+Page 3/3
+Ballyvolane, Cork Page 3: Found 14 listings
+💾 断点已保存（59/386 个区域，408 条）
+========== Ballyvourney, Cork ==========
+https://www.daft.ie/property-for-sale/ballyvourney-cork
+Property for Sale in Ballyvourney, Cork | Daft.ie
+Ballyvourney, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ballyvourney-cork
+Ballyvourney, Cork: __NEXT_DATA__ = 1
+Ballyvourney, Cork: Total pages: 1
+Ballyvourney, Cork Page 1: Found 6 listings
+💾 断点已保存（60/386 个区域，410 条）
+========== Baltimore, Cork ==========
+https://www.daft.ie/property-for-sale/baltimore-cork
+Property for Sale in Baltimore, Cork | Daft.ie
+Baltimore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/baltimore-cork
+Baltimore, Cork: __NEXT_DATA__ = 1
+Baltimore, Cork: Total pages: 2
+Baltimore, Cork Page 1: Found 20 listings
+Page 2/2
+Baltimore, Cork Page 2: Found 1 listings
+💾 断点已保存（61/386 个区域，431 条）
+========== Bandon, Cork ==========
+https://www.daft.ie/property-for-sale/bandon-cork
+Property for Sale in Bandon, Cork | Daft.ie
+Bandon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bandon-cork
+Bandon, Cork: __NEXT_DATA__ = 1
+Bandon, Cork: Total pages: 3
+Bandon, Cork Page 1: Found 20 listings
+Page 2/3
+Bandon, Cork Page 2: Found 20 listings
+Page 3/3
+Bandon, Cork Page 3: Found 18 listings
+💾 断点已保存（62/386 个区域，489 条）
+========== Banduff, Cork ==========
+https://www.daft.ie/property-for-sale/banduff-cork
+Property for Sale in Banduff, Cork | Daft.ie
+Banduff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/banduff-cork
+Banduff, Cork: __NEXT_DATA__ = 1
+Banduff, Cork: Total pages: 0
+💾 断点已保存（63/386 个区域，489 条）
+========== Banteer, Cork ==========
+https://www.daft.ie/property-for-sale/banteer-cork
+Property for Sale in Banteer, Cork | Daft.ie
+Banteer, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/banteer-cork
+Banteer, Cork: __NEXT_DATA__ = 1
+Banteer, Cork: Total pages: 1
+Banteer, Cork Page 1: Found 15 listings
+💾 断点已保存（64/386 个区域，504 条）
+========== Bantry, Cork ==========
+https://www.daft.ie/property-for-sale/bantry-cork
+Property for Sale in Bantry, Cork | Daft.ie
+Bantry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bantry-cork
+Bantry, Cork: __NEXT_DATA__ = 1
+Bantry, Cork: Total pages: 2
+Bantry, Cork Page 1: Found 20 listings
+Page 2/2
+Bantry, Cork Page 2: Found 1 listings
+💾 断点已保存（65/386 个区域，525 条）
+========== Barley Cove, Cork ==========
+https://www.daft.ie/property-for-sale/barley-cove-cork?__cf_chl_rt_tk=i0s3AVgw4yMUNhi1FpDiC6knjtkn4QIQAQQ9Zj_2IhE-1793307692-1.0.1.1-UIts9_yW5zysfAQqJC4SiTdxhW6ORtdjpfmHeEdPJ9k
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Barley Cove, Cork | Daft.ie
+Barley Cove, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/barley-cove-cork
+Barley Cove, Cork: __NEXT_DATA__ = 1
+Barley Cove, Cork: Total pages: 1
+Barley Cove, Cork Page 1: Found 7 listings
+💾 断点已保存（66/386 个区域，532 条）
+========== Barnavara, Cork ==========
+https://www.daft.ie/property-for-sale/barnavara-cork
+Property for Sale in Barnavara, Cork | Daft.ie
+Barnavara, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/barnavara-cork
+Barnavara, Cork: __NEXT_DATA__ = 1
+Barnavara, Cork: Total pages: 1
+Barnavara, Cork Page 1: Found 2 listings
+💾 断点已保存（67/386 个区域，532 条）
+========== Bartlemy, Cork ==========
+https://www.daft.ie/property-for-sale/bartlemy-cork
+Property for Sale in Bartlemy, Cork | Daft.ie
+Bartlemy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bartlemy-cork
+Bartlemy, Cork: __NEXT_DATA__ = 1
+Bartlemy, Cork: Total pages: 1
+Bartlemy, Cork Page 1: Found 3 listings
+💾 断点已保存（68/386 个区域，534 条）
+========== Bealad Cross Roads, Cork ==========
+https://www.daft.ie/property-for-sale/bealad-cross-roads-cork
+Property for Sale in Bealad Cross Roads, Cork | Daft.ie
+Bealad Cross Roads, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bealad-cross-roads-cork
+Bealad Cross Roads, Cork: __NEXT_DATA__ = 1
+Bealad Cross Roads, Cork: Total pages: 1
+Bealad Cross Roads, Cork Page 1: Found 4 listings
+💾 断点已保存（69/386 个区域，538 条）
+========== Bealnablath, Cork ==========
+https://www.daft.ie/property-for-sale/bealnablath-cork
+Property for Sale in Bealnablath, Cork | Daft.ie
+Bealnablath, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bealnablath-cork
+Bealnablath, Cork: __NEXT_DATA__ = 1
+Bealnablath, Cork: Total pages: 1
+Bealnablath, Cork Page 1: Found 1 listings
+💾 断点已保存（70/386 个区域，539 条）
+========== Beara, Cork ==========
+https://www.daft.ie/property-for-sale/beara-cork
+Property for Sale in Beara, Cork | Daft.ie
+Beara, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/beara-cork
+Beara, Cork: __NEXT_DATA__ = 1
+Beara, Cork: Total pages: 4
+Beara, Cork Page 1: Found 20 listings
+Page 2/4
+Beara, Cork Page 2: Found 20 listings
+Page 3/4
+Beara, Cork Page 3: Found 20 listings
+Page 4/4
+Beara, Cork Page 4: Found 8 listings
+💾 断点已保存（71/386 个区域，585 条）
+========== Beennaskehy, Cork ==========
+https://www.daft.ie/property-for-sale/beennaskehy-cork
+Property for Sale in Beennaskehy, Cork | Daft.ie
+Beennaskehy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/beennaskehy-cork
+Beennaskehy, Cork: __NEXT_DATA__ = 1
+Beennaskehy, Cork: Total pages: 1
+Beennaskehy, Cork Page 1: Found 1 listings
+💾 断点已保存（72/386 个区域，586 条）
+========== Belgooly, Cork ==========
+https://www.daft.ie/property-for-sale/belgooly-cork
+Property for Sale in Belgooly, Cork | Daft.ie
+Belgooly, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/belgooly-cork
+Belgooly, Cork: __NEXT_DATA__ = 1
+Belgooly, Cork: Total pages: 1
+Belgooly, Cork Page 1: Found 11 listings
+💾 断点已保存（73/386 个区域，595 条）
+========== Belvelly, Cork ==========
+https://www.daft.ie/property-for-sale/belvelly-cork
+Property for Sale in Belvelly, Cork | Daft.ie
+Belvelly, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/belvelly-cork
+Belvelly, Cork: __NEXT_DATA__ = 1
+Belvelly, Cork: Total pages: 1
+Belvelly, Cork Page 1: Found 2 listings
+💾 断点已保存（74/386 个区域，597 条）
+========== Bere Island, Cork ==========
+https://www.daft.ie/property-for-sale/bere-island-cork
+Property for Sale in Bere Island, Cork | Daft.ie
+Bere Island, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bere-island-cork
+Bere Island, Cork: __NEXT_DATA__ = 1
+Bere Island, Cork: Total pages: 1
+Bere Island, Cork Page 1: Found 3 listings
+💾 断点已保存（75/386 个区域，597 条）
+========== Berrings, Cork ==========
+https://www.daft.ie/property-for-sale/berrings-cork
+Property for Sale in Berrings, Cork | Daft.ie
+Berrings, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/berrings-cork
+Berrings, Cork: __NEXT_DATA__ = 1
+Berrings, Cork: Total pages: 1
+Berrings, Cork Page 1: Found 4 listings
+💾 断点已保存（76/386 个区域，601 条）
+========== Bishopstown, Cork ==========
+https://www.daft.ie/property-for-sale/bishopstown-cork
+Property for Sale in Bishopstown, Cork | Daft.ie
+Bishopstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bishopstown-cork
+Bishopstown, Cork: __NEXT_DATA__ = 1
+Bishopstown, Cork: Total pages: 2
+Bishopstown, Cork Page 1: Found 20 listings
+Page 2/2
+Bishopstown, Cork Page 2: Found 20 listings
+💾 断点已保存（77/386 个区域，638 条）
+========== Blackpool, Cork ==========
+https://www.daft.ie/property-for-sale/blackpool-cork
+Property for Sale in Blackpool, Cork | Daft.ie
+Blackpool, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/blackpool-cork
+Blackpool, Cork: __NEXT_DATA__ = 1
+Blackpool, Cork: Total pages: 2
+Blackpool, Cork Page 1: Found 20 listings
+Page 2/2
+Blackpool, Cork Page 2: Found 7 listings
+💾 断点已保存（78/386 个区域，659 条）
+========== Blackrock, Cork ==========
+https://www.daft.ie/property-for-sale/blackrock-cork
+Property for Sale in Blackrock, Cork | Daft.ie
+Blackrock, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/blackrock-cork
+Blackrock, Cork: __NEXT_DATA__ = 1
+Blackrock, Cork: Total pages: 4
+Blackrock, Cork Page 1: Found 20 listings
+Page 2/4
+Blackrock, Cork Page 2: Found 20 listings
+Page 3/4
+Blackrock, Cork Page 3: Found 20 listings
+Page 4/4
+Blackrock, Cork Page 4: Found 5 listings
+💾 断点已保存（79/386 个区域，678 条）
+========== Blarney, Cork ==========
+https://www.daft.ie/property-for-sale/blarney-cork
+Property for Sale in Blarney, Cork | Daft.ie
+Blarney, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/blarney-cork
+Blarney, Cork: __NEXT_DATA__ = 1
+Blarney, Cork: Total pages: 2
+Blarney, Cork Page 1: Found 20 listings
+Page 2/2
+Blarney, Cork Page 2: Found 5 listings
+💾 断点已保存（80/386 个区域，702 条）
+========== Blueford, Cork ==========
+https://www.daft.ie/property-for-sale/blueford-cork
+Property for Sale in Blueford, Cork | Daft.ie
+Blueford, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/blueford-cork
+Blueford, Cork: __NEXT_DATA__ = 1
+Blueford, Cork: Total pages: 1
+Blueford, Cork Page 1: Found 1 listings
+💾 断点已保存（81/386 个区域，703 条）
+========== Boherbue, Cork ==========
+https://www.daft.ie/property-for-sale/boherbue-cork?__cf_chl_rt_tk=H4obL_HufWgCblIUt0XjUYx7ewD14lt4sTfXLZo2UIA-1793307873-1.0.1.1-0YG3LofJwmp1CtybMOj7xUC3lI3lgny2GU51ELuM2Xw
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Boherbue, Cork | Daft.ie
+Boherbue, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/boherbue-cork
+Boherbue, Cork: __NEXT_DATA__ = 1
+Boherbue, Cork: Total pages: 1
+Boherbue, Cork Page 1: Found 8 listings
+💾 断点已保存（82/386 个区域，709 条）
+========== Bridebridge, Cork ==========
+https://www.daft.ie/property-for-sale/bridebridge-cork
+Property for Sale in Bridebridge, Cork | Daft.ie
+Bridebridge, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bridebridge-cork
+Bridebridge, Cork: __NEXT_DATA__ = 1
+Bridebridge, Cork: Total pages: 1
+Bridebridge, Cork Page 1: Found 1 listings
+💾 断点已保存（83/386 个区域，710 条）
+========== Britway, Cork ==========
+https://www.daft.ie/property-for-sale/britway-cork
+Property for Sale in Britway, Cork | Daft.ie
+Britway, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/britway-cork
+Britway, Cork: __NEXT_DATA__ = 1
+Britway, Cork: Total pages: 1
+Britway, Cork Page 1: Found 1 listings
+💾 断点已保存（84/386 个区域，710 条）
+========== Burnfort, Cork ==========
+https://www.daft.ie/property-for-sale/burnfort-cork
+Property for Sale in Burnfort, Cork | Daft.ie
+Burnfort, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/burnfort-cork
+Burnfort, Cork: __NEXT_DATA__ = 1
+Burnfort, Cork: Total pages: 1
+Burnfort, Cork Page 1: Found 3 listings
+💾 断点已保存（85/386 个区域，713 条）
+========== Butlerstown, Cork ==========
+https://www.daft.ie/property-for-sale/butlerstown-cork
+Property for Sale in Butlerstown, Cork | Daft.ie
+Butlerstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/butlerstown-cork
+Butlerstown, Cork: __NEXT_DATA__ = 1
+Butlerstown, Cork: Total pages: 1
+Butlerstown, Cork Page 1: Found 3 listings
+💾 断点已保存（86/386 个区域，716 条）
+========== Buttevant, Cork ==========
+https://www.daft.ie/property-for-sale/buttevant-cork
+Property for Sale in Buttevant, Cork | Daft.ie
+Buttevant, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/buttevant-cork
+Buttevant, Cork: __NEXT_DATA__ = 1
+Buttevant, Cork: Total pages: 1
+Buttevant, Cork Page 1: Found 4 listings
+💾 断点已保存（87/386 个区域，720 条）
+========== Bweeng, Cork ==========
+https://www.daft.ie/property-for-sale/bweeng-cork
+Property for Sale in Bweeng, Cork | Daft.ie
+Bweeng, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/bweeng-cork
+Bweeng, Cork: __NEXT_DATA__ = 1
+Bweeng, Cork: Total pages: 1
+Bweeng, Cork Page 1: Found 8 listings
+💾 断点已保存（88/386 个区域，728 条）
+========== Caheragh, Cork ==========
+https://www.daft.ie/property-for-sale/caheragh-cork
+Property for Sale in Caheragh, Cork | Daft.ie
+Caheragh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/caheragh-cork
+Caheragh, Cork: __NEXT_DATA__ = 1
+Caheragh, Cork: Total pages: 1
+Caheragh, Cork Page 1: Found 4 listings
+💾 断点已保存（89/386 个区域，732 条）
+========== Caherbarnagh, Cork ==========
+https://www.daft.ie/property-for-sale/caherbarnagh-cork
+Property for Sale in Caherbarnagh, Cork | Daft.ie
+Caherbarnagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/caherbarnagh-cork
+Caherbarnagh, Cork: __NEXT_DATA__ = 1
+Caherbarnagh, Cork: Total pages: 0
+💾 断点已保存（90/386 个区域，732 条）
+========== Cahermore, Cork ==========
+https://www.daft.ie/property-for-sale/cahermore-cork
+Property for Sale in Cahermore, Cork | Daft.ie
+Cahermore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cahermore-cork
+Cahermore, Cork: __NEXT_DATA__ = 1
+Cahermore, Cork: Total pages: 1
+Cahermore, Cork Page 1: Found 4 listings
+💾 断点已保存（91/386 个区域，732 条）
+========== Cape Clear, Cork ==========
+https://www.daft.ie/property-for-sale/cape-clear-cork?__cf_chl_rt_tk=cazVDJSVNEqxdUnCvrnkVwN..T7RVk4wJASp_LT4iUY-1793307960-1.0.1.1-qhgwfS5B6hcT54d7JDK2AgTB7la63O06bYAJvO9DIbQ
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Cape Clear, Cork | Daft.ie
+Cape Clear, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cape-clear-cork
+Cape Clear, Cork: __NEXT_DATA__ = 1
+Cape Clear, Cork: Total pages: 0
+💾 断点已保存（92/386 个区域，732 条）
+========== Cappeen, Cork ==========
+https://www.daft.ie/property-for-sale/cappeen-cork
+Property for Sale in Cappeen, Cork | Daft.ie
+Cappeen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cappeen-cork
+Cappeen, Cork: __NEXT_DATA__ = 1
+Cappeen, Cork: Total pages: 1
+Cappeen, Cork Page 1: Found 5 listings
+💾 断点已保存（93/386 个区域，737 条）
+========== Carrig, Cork ==========
+https://www.daft.ie/property-for-sale/carrig-cork
+Property for Sale in Carrig, Cork | Daft.ie
+Carrig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrig-cork
+Carrig, Cork: __NEXT_DATA__ = 1
+Carrig, Cork: Total pages: 1
+Carrig, Cork Page 1: Found 1 listings
+💾 断点已保存（94/386 个区域，738 条）
+========== Carrigadrohid, Cork ==========
+https://www.daft.ie/property-for-sale/carrigadrohid-cork
+Property for Sale in Carrigadrohid, Cork | Daft.ie
+Carrigadrohid, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrigadrohid-cork
+Carrigadrohid, Cork: __NEXT_DATA__ = 1
+Carrigadrohid, Cork: Total pages: 0
+💾 断点已保存（95/386 个区域，738 条）
+========== Carrigagulla, Cork ==========
+https://www.daft.ie/property-for-sale/carrigagulla-cork
+Property for Sale in Carrigagulla, Cork | Daft.ie
+Carrigagulla, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrigagulla-cork
+Carrigagulla, Cork: __NEXT_DATA__ = 1
+Carrigagulla, Cork: Total pages: 1
+Carrigagulla, Cork Page 1: Found 3 listings
+💾 断点已保存（96/386 个区域，738 条）
+========== Carrigaline, Cork ==========
+https://www.daft.ie/property-for-sale/carrigaline-cork
+Property for Sale in Carrigaline, Cork | Daft.ie
+Carrigaline, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrigaline-cork
+Carrigaline, Cork: __NEXT_DATA__ = 1
+Carrigaline, Cork: Total pages: 3
+Carrigaline, Cork Page 1: Found 20 listings
+Page 2/3
+Carrigaline, Cork Page 2: Found 20 listings
+Page 3/3
+Carrigaline, Cork Page 3: Found 8 listings
+💾 断点已保存（97/386 个区域，784 条）
+========== Carrignavar, Cork ==========
+https://www.daft.ie/property-for-sale/carrignavar-cork
+Property for Sale in Carrignavar, Cork | Daft.ie
+Carrignavar, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrignavar-cork
+Carrignavar, Cork: __NEXT_DATA__ = 1
+Carrignavar, Cork: Total pages: 1
+Carrignavar, Cork Page 1: Found 7 listings
+💾 断点已保存（98/386 个区域，791 条）
+========== Carrigrohane, Cork ==========
+https://www.daft.ie/property-for-sale/carrigrohane-cork
+Property for Sale in Carrigrohane, Cork | Daft.ie
+Carrigrohane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrigrohane-cork
+Carrigrohane, Cork: __NEXT_DATA__ = 1
+Carrigrohane, Cork: Total pages: 3
+Carrigrohane, Cork Page 1: Found 20 listings
+Page 2/3
+Carrigrohane, Cork Page 2: Found 20 listings
+Page 3/3
+Carrigrohane, Cork Page 3: Found 10 listings
+💾 断点已保存（99/386 个区域，802 条）
+========== Carrigtwohill, Cork ==========
+https://www.daft.ie/property-for-sale/carrigtwohill-cork
+Property for Sale in Carrigtwohill, Cork | Daft.ie
+Carrigtwohill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/carrigtwohill-cork
+Carrigtwohill, Cork: __NEXT_DATA__ = 1
+Carrigtwohill, Cork: Total pages: 1
+Carrigtwohill, Cork Page 1: Found 14 listings
+💾 断点已保存（100/386 个区域，815 条）
+========== Castlecor, Cork ==========
+https://www.daft.ie/property-for-sale/castlecor-cork
+Property for Sale in Castlecor, Cork | Daft.ie
+Castlecor, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castlecor-cork
+Castlecor, Cork: __NEXT_DATA__ = 1
+Castlecor, Cork: Total pages: 1
+Castlecor, Cork Page 1: Found 2 listings
+💾 断点已保存（101/386 个区域，817 条）
+========== Castlefreke, Cork ==========
+https://www.daft.ie/property-for-sale/castlefreke-cork
+Property for Sale in Castlefreke, Cork | Daft.ie
+Castlefreke, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castlefreke-cork
+Castlefreke, Cork: __NEXT_DATA__ = 1
+Castlefreke, Cork: Total pages: 1
+Castlefreke, Cork Page 1: Found 1 listings
+💾 断点已保存（102/386 个区域，818 条）
+========== Castlelyons, Cork ==========
+https://www.daft.ie/property-for-sale/castlelyons-cork
+Property for Sale in Castlelyons, Cork | Daft.ie
+Castlelyons, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castlelyons-cork
+Castlelyons, Cork: __NEXT_DATA__ = 1
+Castlelyons, Cork: Total pages: 1
+Castlelyons, Cork Page 1: Found 9 listings
+💾 断点已保存（103/386 个区域，821 条）
+========== Castlemagner, Cork ==========
+https://www.daft.ie/property-for-sale/castlemagner-cork
+Property for Sale in Castlemagner, Cork | Daft.ie
+Castlemagner, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castlemagner-cork
+Castlemagner, Cork: __NEXT_DATA__ = 1
+Castlemagner, Cork: Total pages: 1
+Castlemagner, Cork Page 1: Found 1 listings
+💾 断点已保存（104/386 个区域，822 条）
+========== Castlemartyr, Cork ==========
+https://www.daft.ie/property-for-sale/castlemartyr-cork
+Property for Sale in Castlemartyr, Cork | Daft.ie
+Castlemartyr, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castlemartyr-cork
+Castlemartyr, Cork: __NEXT_DATA__ = 1
+Castlemartyr, Cork: Total pages: 1
+Castlemartyr, Cork Page 1: Found 14 listings
+💾 断点已保存（105/386 个区域，836 条）
+========== Castletown, Cork ==========
+https://www.daft.ie/property-for-sale/castletown-cork
+Property for Sale in Castletown, Cork | Daft.ie
+Castletown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castletown-cork
+Castletown, Cork: __NEXT_DATA__ = 1
+Castletown, Cork: Total pages: 1
+Castletown, Cork Page 1: Found 16 listings
+💾 断点已保存（106/386 个区域，836 条）
+========== Castletownbere, Cork ==========
+https://www.daft.ie/property-for-sale/castletownbere-cork
+Property for Sale in Castletownbere, Cork | Daft.ie
+Castletownbere, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castletownbere-cork
+Castletownbere, Cork: __NEXT_DATA__ = 1
+Castletownbere, Cork: Total pages: 1
+Castletownbere, Cork Page 1: Found 17 listings
+💾 断点已保存（107/386 个区域，836 条）
+========== Castletownroche, Cork ==========
+https://www.daft.ie/property-for-sale/castletownroche-cork
+Property for Sale in Castletownroche, Cork | Daft.ie
+Castletownroche, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castletownroche-cork
+Castletownroche, Cork: __NEXT_DATA__ = 1
+Castletownroche, Cork: Total pages: 1
+Castletownroche, Cork Page 1: Found 11 listings
+💾 断点已保存（108/386 个区域，842 条）
+========== Castletownshend, Cork ==========
+https://www.daft.ie/property-for-sale/castletownshend-cork
+Property for Sale in Castletownshend, Cork | Daft.ie
+Castletownshend, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/castletownshend-cork
+Castletownshend, Cork: __NEXT_DATA__ = 1
+Castletownshend, Cork: Total pages: 1
+Castletownshend, Cork Page 1: Found 11 listings
+💾 断点已保存（109/386 个区域，849 条）
+========== Cecilstown, Cork ==========
+https://www.daft.ie/property-for-sale/cecilstown-cork
+Property for Sale in Cecilstown, Cork | Daft.ie
+Cecilstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cecilstown-cork
+Cecilstown, Cork: __NEXT_DATA__ = 1
+Cecilstown, Cork: Total pages: 1
+Cecilstown, Cork Page 1: Found 3 listings
+💾 断点已保存（110/386 个区域，850 条）
+========== Charleville, Cork ==========
+https://www.daft.ie/property-for-sale/charleville-cork
+Property for Sale in Charleville, Cork | Daft.ie
+Charleville, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/charleville-cork
+Charleville, Cork: __NEXT_DATA__ = 1
+Charleville, Cork: Total pages: 1
+Charleville, Cork Page 1: Found 15 listings
+💾 断点已保存（111/386 个区域，865 条）
+========== Church Cross, Cork ==========
+https://www.daft.ie/property-for-sale/church-cross-cork
+Property for Sale in Church Cross, Cork | Daft.ie
+Church Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/church-cross-cork
+Church Cross, Cork: __NEXT_DATA__ = 1
+Church Cross, Cork: Total pages: 1
+Church Cross, Cork Page 1: Found 6 listings
+💾 断点已保存（112/386 个区域，871 条）
+========== Churchfield, Cork ==========
+https://www.daft.ie/property-for-sale/churchfield-cork
+Property for Sale in Churchfield, Cork | Daft.ie
+Churchfield, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/churchfield-cork
+Churchfield, Cork: __NEXT_DATA__ = 1
+Churchfield, Cork: Total pages: 1
+Churchfield, Cork Page 1: Found 2 listings
+💾 断点已保存（113/386 个区域，873 条）
+========== Churchtown, Cork ==========
+https://www.daft.ie/property-for-sale/churchtown-cork
+Property for Sale in Churchtown, Cork | Daft.ie
+Churchtown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/churchtown-cork
+Churchtown, Cork: __NEXT_DATA__ = 1
+Churchtown, Cork: Total pages: 1
+Churchtown, Cork Page 1: Found 2 listings
+💾 断点已保存（114/386 个区域，874 条）
+========== Clash, Cork ==========
+https://www.daft.ie/property-for-sale/clash-cork
+Property for Sale in Clash, Cork | Daft.ie
+Clash, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clash-cork
+Clash, Cork: __NEXT_DATA__ = 1
+Clash, Cork: Total pages: 1
+Clash, Cork Page 1: Found 10 listings
+💾 断点已保存（115/386 个区域，874 条）
+========== Clogheen, Cork ==========
+https://www.daft.ie/property-for-sale/clogheen-cork
+Property for Sale in Clogheen, Cork | Daft.ie
+Clogheen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clogheen-cork
+Clogheen, Cork: __NEXT_DATA__ = 1
+Clogheen, Cork: Total pages: 1
+Clogheen, Cork Page 1: Found 5 listings
+💾 断点已保存（116/386 个区域，874 条）
+========== Clogheenmilcon, Cork ==========
+https://www.daft.ie/property-for-sale/clogheenmilcon-cork
+Property for Sale in Clogheenmilcon, Cork | Daft.ie
+Clogheenmilcon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clogheenmilcon-cork
+Clogheenmilcon, Cork: __NEXT_DATA__ = 1
+Clogheenmilcon, Cork: Total pages: 0
+💾 断点已保存（117/386 个区域，874 条）
+========== Cloghroe, Cork ==========
+https://www.daft.ie/property-for-sale/cloghroe-cork?__cf_chl_rt_tk=.d_f5Vy0bbu4UuzjgGOdfMFbqy30M.Aj2se0xOFJoxg-1793308166-1.0.1.1-NUELYaqxAJfbeo.h9Wp0ck.az6yX7UWtJztM.PchV.w
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Cloghroe, Cork | Daft.ie
+Cloghroe, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cloghroe-cork
+Cloghroe, Cork: __NEXT_DATA__ = 1
+Cloghroe, Cork: Total pages: 1
+Cloghroe, Cork Page 1: Found 6 listings
+💾 断点已保存（118/386 个区域，874 条）
+========== Clonakilty, Cork ==========
+https://www.daft.ie/property-for-sale/clonakilty-cork
+Property for Sale in Clonakilty, Cork | Daft.ie
+Clonakilty, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clonakilty-cork
+Clonakilty, Cork: __NEXT_DATA__ = 1
+Clonakilty, Cork: Total pages: 1
+Clonakilty, Cork Page 1: Found 15 listings
+💾 断点已保存（119/386 个区域，884 条）
+========== Clondrohid, Cork ==========
+https://www.daft.ie/property-for-sale/clondrohid-cork
+Property for Sale in Clondrohid, Cork | Daft.ie
+Clondrohid, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clondrohid-cork
+Clondrohid, Cork: __NEXT_DATA__ = 1
+Clondrohid, Cork: Total pages: 1
+Clondrohid, Cork Page 1: Found 5 listings
+💾 断点已保存（120/386 个区域，889 条）
+========== Clondulane, Cork ==========
+https://www.daft.ie/property-for-sale/clondulane-cork
+Property for Sale in Clondulane, Cork | Daft.ie
+Clondulane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clondulane-cork
+Clondulane, Cork: __NEXT_DATA__ = 1
+Clondulane, Cork: Total pages: 0
+💾 断点已保存（121/386 个区域，889 条）
+========== Clonmult, Cork ==========
+https://www.daft.ie/property-for-sale/clonmult-cork
+Property for Sale in Clonmult, Cork | Daft.ie
+Clonmult, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/clonmult-cork
+Clonmult, Cork: __NEXT_DATA__ = 1
+Clonmult, Cork: Total pages: 0
+💾 断点已保存（122/386 个区域，889 条）
+========== Cloughduv, Cork ==========
+https://www.daft.ie/property-for-sale/cloughduv-cork
+Property for Sale in Cloughduv, Cork | Daft.ie
+Cloughduv, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cloughduv-cork
+Cloughduv, Cork: __NEXT_DATA__ = 1
+Cloughduv, Cork: Total pages: 1
+Cloughduv, Cork Page 1: Found 3 listings
+💾 断点已保存（123/386 个区域，889 条）
+========== Cloyne, Cork ==========
+https://www.daft.ie/property-for-sale/cloyne-cork
+Property for Sale in Cloyne, Cork | Daft.ie
+Cloyne, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cloyne-cork
+Cloyne, Cork: __NEXT_DATA__ = 1
+Cloyne, Cork: Total pages: 2
+Cloyne, Cork Page 1: Found 20 listings
+Page 2/2
+Cloyne, Cork Page 2: Found 5 listings
+💾 断点已保存（124/386 个区域，900 条）
+========== Coachford, Cork ==========
+https://www.daft.ie/property-for-sale/coachford-cork?__cf_chl_rt_tk=KIp47lNATLnu7Begx4ZRoIMX1.gArjFnx8rkVp65iRA-1793308229-1.0.1.1-Lwqf7nRuvtIs8uuotnKmJGHEor7l2dqz_Tz1vaSP_gA
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Coachford, Cork | Daft.ie
+Coachford, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coachford-cork
+Coachford, Cork: __NEXT_DATA__ = 1
+Coachford, Cork: Total pages: 1
+Coachford, Cork Page 1: Found 10 listings
+💾 断点已保存（125/386 个区域，906 条）
+========== Cobh, Cork ==========
+https://www.daft.ie/property-for-sale/cobh-cork
+Property for Sale in Cobh, Cork | Daft.ie
+Cobh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cobh-cork
+Cobh, Cork: __NEXT_DATA__ = 1
+Cobh, Cork: Total pages: 3
+Cobh, Cork Page 1: Found 20 listings
+Page 2/3
+Cobh, Cork Page 2: Found 20 listings
+Page 3/3
+Cobh, Cork Page 3: Found 7 listings
+💾 断点已保存（126/386 个区域，952 条）
+========== Conna, Cork ==========
+https://www.daft.ie/property-for-sale/conna-cork
+Property for Sale in Conna, Cork | Daft.ie
+Conna, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/conna-cork
+Conna, Cork: __NEXT_DATA__ = 1
+Conna, Cork: Total pages: 1
+Conna, Cork Page 1: Found 5 listings
+💾 断点已保存（127/386 个区域，952 条）
+========== Connonagh, Cork ==========
+https://www.daft.ie/property-for-sale/connonagh-cork
+Property for Sale in Connonagh, Cork | Daft.ie
+Connonagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/connonagh-cork
+Connonagh, Cork: __NEXT_DATA__ = 1
+Connonagh, Cork: Total pages: 1
+Connonagh, Cork Page 1: Found 8 listings
+💾 断点已保存（128/386 个区域，960 条）
+========== Coole Abbey, Cork ==========
+https://www.daft.ie/property-for-sale/coole-abbey-cork
+Property for Sale in Coole Abbey, Cork | Daft.ie
+Coole Abbey, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coole-abbey-cork
+Coole Abbey, Cork: __NEXT_DATA__ = 1
+Coole Abbey, Cork: Total pages: 1
+Coole Abbey, Cork Page 1: Found 1 listings
+💾 断点已保存（129/386 个区域，960 条）
+========== Coolkelure, Cork ==========
+https://www.daft.ie/property-for-sale/coolkelure-cork
+Property for Sale in Coolkelure, Cork | Daft.ie
+Coolkelure, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coolkelure-cork
+Coolkelure, Cork: __NEXT_DATA__ = 1
+Coolkelure, Cork: Total pages: 0
+💾 断点已保存（130/386 个区域，960 条）
+========== Coolyduff, Cork ==========
+https://www.daft.ie/property-for-sale/coolyduff-cork
+Property for Sale in Coolyduff, Cork | Daft.ie
+Coolyduff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coolyduff-cork
+Coolyduff, Cork: __NEXT_DATA__ = 1
+Coolyduff, Cork: Total pages: 0
+💾 断点已保存（131/386 个区域，960 条）
+========== Coolymurraghue, Cork ==========
+https://www.daft.ie/property-for-sale/coolymurraghue-cork?__cf_chl_rt_tk=38CJdsFQs3ZiXT4EA3n2wDjoeVCk1TPdTJM5I_c6BsM-1793308300-1.0.1.1-x53mdoFDZskZ9KBw1QOrQsTVsB22BaXi..USarXYYD4
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Coolymurraghue, Cork | Daft.ie
+Coolymurraghue, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coolymurraghue-cork
+Coolymurraghue, Cork: __NEXT_DATA__ = 1
+Coolymurraghue, Cork: Total pages: 1
+Coolymurraghue, Cork Page 1: Found 3 listings
+💾 断点已保存（132/386 个区域，960 条）
+========== Coomhola, Cork ==========
+https://www.daft.ie/property-for-sale/coomhola-cork
+Property for Sale in Coomhola, Cork | Daft.ie
+Coomhola, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/coomhola-cork
+Coomhola, Cork: __NEXT_DATA__ = 1
+Coomhola, Cork: Total pages: 1
+Coomhola, Cork Page 1: Found 1 listings
+💾 断点已保存（133/386 个区域，960 条）
+========== Corbally, Cork ==========
+https://www.daft.ie/property-for-sale/corbally-cork
+Property for Sale in Corbally, Cork | Daft.ie
+Corbally, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/corbally-cork
+Corbally, Cork: __NEXT_DATA__ = 1
+Corbally, Cork: Total pages: 0
+💾 断点已保存（134/386 个区域，960 条）
+========== Courtmacsherry, Cork ==========
+https://www.daft.ie/property-for-sale/courtmacsherry-cork
+Property for Sale in Courtmacsherry, Cork | Daft.ie
+Courtmacsherry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/courtmacsherry-cork
+Courtmacsherry, Cork: __NEXT_DATA__ = 1
+Courtmacsherry, Cork: Total pages: 1
+Courtmacsherry, Cork Page 1: Found 7 listings
+💾 断点已保存（135/386 个区域，964 条）
+========== Crookhaven, Cork ==========
+https://www.daft.ie/property-for-sale/crookhaven-cork
+Property for Sale in Crookhaven, Cork | Daft.ie
+Crookhaven, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/crookhaven-cork
+Crookhaven, Cork: __NEXT_DATA__ = 1
+Crookhaven, Cork: Total pages: 1
+Crookhaven, Cork Page 1: Found 11 listings
+💾 断点已保存（136/386 个区域，968 条）
+========== Crookstown, Cork ==========
+https://www.daft.ie/property-for-sale/crookstown-cork
+Property for Sale in Crookstown, Cork | Daft.ie
+Crookstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/crookstown-cork
+Crookstown, Cork: __NEXT_DATA__ = 1
+Crookstown, Cork: Total pages: 1
+Crookstown, Cork Page 1: Found 6 listings
+💾 断点已保存（137/386 个区域，970 条）
+========== Crossbarry, Cork ==========
+https://www.daft.ie/property-for-sale/crossbarry-cork
+Property for Sale in Crossbarry, Cork | Daft.ie
+Crossbarry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/crossbarry-cork
+Crossbarry, Cork: __NEXT_DATA__ = 1
+Crossbarry, Cork: Total pages: 1
+Crossbarry, Cork Page 1: Found 5 listings
+💾 断点已保存（138/386 个区域，975 条）
+========== Crosshaven, Cork ==========
+https://www.daft.ie/property-for-sale/crosshaven-cork
+Property for Sale in Crosshaven, Cork | Daft.ie
+Crosshaven, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/crosshaven-cork
+Crosshaven, Cork: __NEXT_DATA__ = 1
+Crosshaven, Cork: Total pages: 2
+Crosshaven, Cork Page 1: Found 20 listings
+Page 2/2
+Page 2 retry 1/3
+Crosshaven, Cork Page 2: Found 7 listings
+💾 断点已保存（139/386 个区域，995 条）
+========== Cullen, Cork ==========
+https://www.daft.ie/property-for-sale/cullen-cork
+Property for Sale in Cullen, Cork | Daft.ie
+Cullen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cullen-cork
+Cullen, Cork: __NEXT_DATA__ = 1
+Cullen, Cork: Total pages: 1
+Cullen, Cork Page 1: Found 7 listings
+💾 断点已保存（140/386 个区域，1001 条）
+========== Currabinny, Cork ==========
+https://www.daft.ie/property-for-sale/currabinny-cork
+Property for Sale in Currabinny, Cork | Daft.ie
+Currabinny, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/currabinny-cork
+Currabinny, Cork: __NEXT_DATA__ = 1
+Currabinny, Cork: Total pages: 1
+Currabinny, Cork Page 1: Found 3 listings
+💾 断点已保存（141/386 个区域，1001 条）
+========== Curraglass, Cork ==========
+https://www.daft.ie/property-for-sale/curraglass-cork
+Property for Sale in Curraglass, Cork | Daft.ie
+Curraglass, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/curraglass-cork
+Curraglass, Cork: __NEXT_DATA__ = 1
+Curraglass, Cork: Total pages: 0
+💾 断点已保存（142/386 个区域，1001 条）
+========== Curraheen, Cork ==========
+https://www.daft.ie/property-for-sale/curraheen-cork
+Property for Sale in Curraheen, Cork | Daft.ie
+Curraheen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/curraheen-cork
+Curraheen, Cork: __NEXT_DATA__ = 1
+Curraheen, Cork: Total pages: 1
+Curraheen, Cork Page 1: Found 7 listings
+💾 断点已保存（143/386 个区域，1001 条）
+========== Curryglass, Cork ==========
+https://www.daft.ie/property-for-sale/curryglass-cork
+Property for Sale in Curryglass, Cork | Daft.ie
+Curryglass, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/curryglass-cork
+Curryglass, Cork: __NEXT_DATA__ = 1
+Curryglass, Cork: Total pages: 1
+Curryglass, Cork Page 1: Found 1 listings
+💾 断点已保存（144/386 个区域，1002 条）
+========== Cusduff, Cork ==========
+https://www.daft.ie/property-for-sale/cusduff-cork
+Property for Sale in Cusduff, Cork | Daft.ie
+Cusduff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/cusduff-cork
+Cusduff, Cork: __NEXT_DATA__ = 1
+Cusduff, Cork: Total pages: 1
+Cusduff, Cork Page 1: Found 3 listings
+💾 断点已保存（145/386 个区域，1005 条）
+========== Dangan, Cork ==========
+https://www.daft.ie/property-for-sale/dangan-cork
+Property for Sale in Dangan, Cork | Daft.ie
+Dangan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dangan-cork
+Dangan, Cork: __NEXT_DATA__ = 1
+Dangan, Cork: Total pages: 1
+Dangan, Cork Page 1: Found 2 listings
+💾 断点已保存（146/386 个区域，1007 条）
+========== Deelish, Cork ==========
+https://www.daft.ie/property-for-sale/deelish-cork
+Property for Sale in Deelish, Cork | Daft.ie
+Deelish, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/deelish-cork
+Deelish, Cork: __NEXT_DATA__ = 1
+Deelish, Cork: Total pages: 1
+Deelish, Cork Page 1: Found 5 listings
+💾 断点已保存（147/386 个区域，1007 条）
+========== Dernagree, Cork ==========
+https://www.daft.ie/property-for-sale/dernagree-cork
+Property for Sale in Dernagree, Cork | Daft.ie
+Dernagree, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dernagree-cork
+Dernagree, Cork: __NEXT_DATA__ = 1
+Dernagree, Cork: Total pages: 1
+Dernagree, Cork Page 1: Found 2 listings
+💾 断点已保存（148/386 个区域，1007 条）
+========== Derreeny, Cork ==========
+https://www.daft.ie/property-for-sale/derreeny-cork
+Property for Sale in Derreeny, Cork | Daft.ie
+Derreeny, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/derreeny-cork
+Derreeny, Cork: __NEXT_DATA__ = 1
+Derreeny, Cork: Total pages: 1
+Derreeny, Cork Page 1: Found 1 listings
+💾 断点已保存（149/386 个区域，1008 条）
+========== Dillons Cross, Cork ==========
+https://www.daft.ie/property-for-sale/dillons-cross-cork
+Property for Sale in Dillons Cross, Cork | Daft.ie
+Dillons Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dillons-cross-cork
+Dillons Cross, Cork: __NEXT_DATA__ = 1
+Dillons Cross, Cork: Total pages: 1
+Dillons Cross, Cork Page 1: Found 19 listings
+💾 断点已保存（150/386 个区域，1008 条）
+========== Doneraile, Cork ==========
+https://www.daft.ie/property-for-sale/doneraile-cork
+Property for Sale in Doneraile, Cork | Daft.ie
+Doneraile, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/doneraile-cork
+Doneraile, Cork: __NEXT_DATA__ = 1
+Doneraile, Cork: Total pages: 1
+Doneraile, Cork Page 1: Found 5 listings
+💾 断点已保存（151/386 个区域，1011 条）
+========== Donnybrook, Cork ==========
+https://www.daft.ie/property-for-sale/donnybrook-cork
+Property for Sale in Donnybrook, Cork | Daft.ie
+Donnybrook, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/donnybrook-cork
+Donnybrook, Cork: __NEXT_DATA__ = 1
+Donnybrook, Cork: Total pages: 1
+Donnybrook, Cork Page 1: Found 6 listings
+💾 断点已保存（152/386 个区域，1014 条）
+========== Donoughmore, Cork ==========
+https://www.daft.ie/property-for-sale/donoughmore-cork
+Property for Sale in Donoughmore, Cork | Daft.ie
+Donoughmore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/donoughmore-cork
+Donoughmore, Cork: __NEXT_DATA__ = 1
+Donoughmore, Cork: Total pages: 1
+Donoughmore, Cork Page 1: Found 6 listings
+💾 断点已保存（153/386 个区域，1015 条）
+========== Dough, Cork ==========
+https://www.daft.ie/property-for-sale/dough-cork
+Property for Sale in Dough, Cork | Daft.ie
+Dough, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dough-cork
+Dough, Cork: __NEXT_DATA__ = 1
+Dough, Cork: Total pages: 1
+Dough, Cork Page 1: Found 7 listings
+💾 断点已保存（154/386 个区域，1015 条）
+========== Doughcloyne, Cork ==========
+https://www.daft.ie/property-for-sale/doughcloyne-cork
+Property for Sale in Doughcloyne, Cork | Daft.ie
+Doughcloyne, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/doughcloyne-cork
+Doughcloyne, Cork: __NEXT_DATA__ = 1
+Doughcloyne, Cork: Total pages: 1
+Doughcloyne, Cork Page 1: Found 7 listings
+💾 断点已保存（155/386 个区域，1022 条）
+========== Douglas, Cork ==========
+https://www.daft.ie/property-for-sale/douglas-cork
+Property for Sale in Douglas, Cork | Daft.ie
+Douglas, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/douglas-cork
+Douglas, Cork: __NEXT_DATA__ = 1
+Douglas, Cork: Total pages: 7
+Douglas, Cork Page 1: Found 20 listings
+Page 2/7
+Douglas, Cork Page 2: Found 20 listings
+Page 3/7
+Douglas, Cork Page 3: Found 20 listings
+Page 4/7
+Douglas, Cork Page 4: Found 20 listings
+Page 5/7
+Douglas, Cork Page 5: Found 20 listings
+Douglas, Cork: Cooling down 10 seconds...
+Page 6/7
+Douglas, Cork Page 6: Found 20 listings
+Page 7/7
+Douglas, Cork Page 7: Found 1 listings
+💾 断点已保存（156/386 个区域，1122 条）
+========== Drimoleague, Cork ==========
+https://www.daft.ie/property-for-sale/drimoleague-cork
+Property for Sale in Drimoleague, Cork | Daft.ie
+Drimoleague, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/drimoleague-cork
+Drimoleague, Cork: __NEXT_DATA__ = 1
+Drimoleague, Cork: Total pages: 1
+Drimoleague, Cork Page 1: Found 15 listings
+💾 断点已保存（157/386 个区域，1135 条）
+========== Drinagh, Cork ==========
+https://www.daft.ie/property-for-sale/drinagh-cork
+Property for Sale in Drinagh, Cork | Daft.ie
+Drinagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/drinagh-cork
+Drinagh, Cork: __NEXT_DATA__ = 1
+Drinagh, Cork: Total pages: 1
+Drinagh, Cork Page 1: Found 5 listings
+💾 断点已保存（158/386 个区域，1138 条）
+========== Dripsey, Cork ==========
+https://www.daft.ie/property-for-sale/dripsey-cork
+Property for Sale in Dripsey, Cork | Daft.ie
+Dripsey, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dripsey-cork
+Dripsey, Cork: __NEXT_DATA__ = 1
+Dripsey, Cork: Total pages: 1
+Dripsey, Cork Page 1: Found 8 listings
+💾 断点已保存（159/386 个区域，1138 条）
+========== Dromahane, Cork ==========
+https://www.daft.ie/property-for-sale/dromahane-cork
+Property for Sale in Dromahane, Cork | Daft.ie
+Dromahane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dromahane-cork
+Dromahane, Cork: __NEXT_DATA__ = 1
+Dromahane, Cork: Total pages: 1
+Dromahane, Cork Page 1: Found 8 listings
+💾 断点已保存（160/386 个区域，1143 条）
+========== Dromasmole, Cork ==========
+https://www.daft.ie/property-for-sale/dromasmole-cork
+Property for Sale in Dromasmole, Cork | Daft.ie
+Dromasmole, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dromasmole-cork
+Dromasmole, Cork: __NEXT_DATA__ = 1
+Dromasmole, Cork: Total pages: 1
+Dromasmole, Cork Page 1: Found 4 listings
+💾 断点已保存（161/386 个区域，1143 条）
+========== Dromin, Cork ==========
+https://www.daft.ie/property-for-sale/dromin-cork
+Property for Sale in Dromin, Cork | Daft.ie
+Dromin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dromin-cork
+Dromin, Cork: __NEXT_DATA__ = 1
+Dromin, Cork: Total pages: 1
+Dromin, Cork Page 1: Found 2 listings
+💾 断点已保存（162/386 个区域，1143 条）
+========== Dromina, Cork ==========
+https://www.daft.ie/property-for-sale/dromina-cork
+Property for Sale in Dromina, Cork | Daft.ie
+Dromina, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dromina-cork
+Dromina, Cork: __NEXT_DATA__ = 1
+Dromina, Cork: Total pages: 1
+Dromina, Cork Page 1: Found 5 listings
+💾 断点已保存（163/386 个区域，1148 条）
+========== Dublin Pike, Cork ==========
+https://www.daft.ie/property-for-sale/dublin-pike-cork
+Property for Sale in Dublin Pike, Cork | Daft.ie
+Dublin Pike, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dublin-pike-cork
+Dublin Pike, Cork: __NEXT_DATA__ = 1
+Dublin Pike, Cork: Total pages: 1
+Dublin Pike, Cork Page 1: Found 2 listings
+💾 断点已保存（164/386 个区域，1148 条）
+========== Dunderrow, Cork ==========
+https://www.daft.ie/property-for-sale/dunderrow-cork
+Property for Sale in Dunderrow, Cork | Daft.ie
+Dunderrow, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dunderrow-cork
+Dunderrow, Cork: __NEXT_DATA__ = 1
+Dunderrow, Cork: Total pages: 1
+Dunderrow, Cork Page 1: Found 2 listings
+💾 断点已保存（165/386 个区域，1150 条）
+========== Dungourney, Cork ==========
+https://www.daft.ie/property-for-sale/dungourney-cork
+Property for Sale in Dungourney, Cork | Daft.ie
+Dungourney, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dungourney-cork
+Dungourney, Cork: __NEXT_DATA__ = 1
+Dungourney, Cork: Total pages: 1
+Dungourney, Cork Page 1: Found 6 listings
+💾 断点已保存（166/386 个区域，1154 条）
+========== Dunmanus, Cork ==========
+https://www.daft.ie/property-for-sale/dunmanus-cork
+Property for Sale in Dunmanus, Cork | Daft.ie
+Dunmanus, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dunmanus-cork
+Dunmanus, Cork: __NEXT_DATA__ = 1
+Dunmanus, Cork: Total pages: 1
+Dunmanus, Cork Page 1: Found 2 listings
+💾 断点已保存（167/386 个区域，1156 条）
+========== Dunmanway, Cork ==========
+https://www.daft.ie/property-for-sale/dunmanway-cork
+Property for Sale in Dunmanway, Cork | Daft.ie
+Dunmanway, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dunmanway-cork
+Dunmanway, Cork: __NEXT_DATA__ = 1
+Dunmanway, Cork: Total pages: 1
+Dunmanway, Cork Page 1: Found 19 listings
+💾 断点已保存（168/386 个区域，1162 条）
+========== Dunworly, Cork ==========
+https://www.daft.ie/property-for-sale/dunworly-cork
+Property for Sale in Dunworly, Cork | Daft.ie
+Dunworly, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/dunworly-cork
+Dunworly, Cork: __NEXT_DATA__ = 1
+Dunworly, Cork: Total pages: 1
+Dunworly, Cork Page 1: Found 1 listings
+💾 断点已保存（169/386 个区域，1162 条）
+========== Durrus, Cork ==========
+https://www.daft.ie/property-for-sale/durrus-cork
+Property for Sale in Durrus, Cork | Daft.ie
+Durrus, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/durrus-cork
+Durrus, Cork: __NEXT_DATA__ = 1
+Durrus, Cork: Total pages: 1
+Durrus, Cork Page 1: Found 20 listings
+💾 断点已保存（170/386 个区域，1169 条）
+========== East Ferry, Cork ==========
+https://www.daft.ie/property-for-sale/east-ferry-cork
+Property for Sale in East Ferry, Cork | Daft.ie
+East Ferry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/east-ferry-cork
+East Ferry, Cork: __NEXT_DATA__ = 1
+East Ferry, Cork: Total pages: 1
+East Ferry, Cork Page 1: Found 2 listings
+💾 断点已保存（171/386 个区域，1169 条）
+========== Enniskeane, Cork ==========
+https://www.daft.ie/property-for-sale/enniskeane-cork
+Property for Sale in Enniskeane, Cork | Daft.ie
+Enniskeane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/enniskeane-cork
+Enniskeane, Cork: __NEXT_DATA__ = 1
+Enniskeane, Cork: Total pages: 1
+Enniskeane, Cork Page 1: Found 17 listings
+💾 断点已保存（172/386 个区域，1172 条）
+========== Eyeries, Cork ==========
+https://www.daft.ie/property-for-sale/eyeries-cork
+Property for Sale in Eyeries, Cork | Daft.ie
+Eyeries, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/eyeries-cork
+Eyeries, Cork: __NEXT_DATA__ = 1
+Eyeries, Cork: Total pages: 1
+Eyeries, Cork Page 1: Found 9 listings
+💾 断点已保存（173/386 个区域，1172 条）
+========== Fairhill, Cork ==========
+https://www.daft.ie/property-for-sale/fairhill-cork
+Property for Sale in Fairhill, Cork | Daft.ie
+Fairhill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/fairhill-cork
+Fairhill, Cork: __NEXT_DATA__ = 1
+Fairhill, Cork: Total pages: 1
+Fairhill, Cork Page 1: Found 10 listings
+💾 断点已保存（174/386 个区域，1173 条）
+========== Farahy, Cork ==========
+https://www.daft.ie/property-for-sale/farahy-cork
+Property for Sale in Farahy, Cork | Daft.ie
+Farahy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/farahy-cork
+Farahy, Cork: __NEXT_DATA__ = 1
+Farahy, Cork: Total pages: 0
+💾 断点已保存（175/386 个区域，1173 条）
+========== Farmers Cross, Cork ==========
+https://www.daft.ie/property-for-sale/farmers-cross-cork?__cf_chl_rt_tk=VsPYHmmeYRYqpQf1olYGHKvS6vvX2nzFEdR.hZJNKiE-1793308685-1.0.1.1-Q7O6ii6kh_4FscnUEmH8I59glhsxP2QP3jdkGomz2aU
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Farmers Cross, Cork | Daft.ie
+Farmers Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/farmers-cross-cork
+Farmers Cross, Cork: __NEXT_DATA__ = 1
+Farmers Cross, Cork: Total pages: 1
+Farmers Cross, Cork Page 1: Found 17 listings
+💾 断点已保存（176/386 个区域，1177 条）
+========== Farnanes, Cork ==========
+https://www.daft.ie/property-for-sale/farnanes-cork
+Property for Sale in Farnanes, Cork | Daft.ie
+Farnanes, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/farnanes-cork
+Farnanes, Cork: __NEXT_DATA__ = 1
+Farnanes, Cork: Total pages: 1
+Farnanes, Cork Page 1: Found 6 listings
+💾 断点已保存（177/386 个区域，1178 条）
+========== Farran, Cork ==========
+https://www.daft.ie/property-for-sale/farran-cork
+Property for Sale in Farran, Cork | Daft.ie
+Farran, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/farran-cork
+Farran, Cork: __NEXT_DATA__ = 1
+Farran, Cork: Total pages: 1
+Farran, Cork Page 1: Found 10 listings
+💾 断点已保存（178/386 个区域，1178 条）
+========== Farranree, Cork ==========
+https://www.daft.ie/property-for-sale/farranree-cork
+Property for Sale in Farranree, Cork | Daft.ie
+Farranree, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/farranree-cork
+Farranree, Cork: __NEXT_DATA__ = 1
+Farranree, Cork: Total pages: 1
+Farranree, Cork Page 1: Found 8 listings
+💾 断点已保存（179/386 个区域，1178 条）
+========== Fermoy, Cork ==========
+https://www.daft.ie/property-for-sale/fermoy-cork
+Property for Sale in Fermoy, Cork | Daft.ie
+Fermoy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/fermoy-cork
+Fermoy, Cork: __NEXT_DATA__ = 1
+Fermoy, Cork: Total pages: 2
+Fermoy, Cork Page 1: Found 20 listings
+Page 2/2
+Fermoy, Cork Page 2: Found 2 listings
+💾 断点已保存（180/386 个区域，1200 条）
+========== Firkeel, Cork ==========
+https://www.daft.ie/property-for-sale/firkeel-cork
+Property for Sale in Firkeel, Cork | Daft.ie
+Firkeel, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/firkeel-cork
+Firkeel, Cork: __NEXT_DATA__ = 1
+Firkeel, Cork: Total pages: 1
+Firkeel, Cork Page 1: Found 3 listings
+💾 断点已保存（181/386 个区域，1200 条）
+========== Fivemilebridge, Cork ==========
+https://www.daft.ie/property-for-sale/fivemilebridge-cork
+Property for Sale in Fivemilebridge, Cork | Daft.ie
+Fivemilebridge, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/fivemilebridge-cork
+Fivemilebridge, Cork: __NEXT_DATA__ = 1
+Fivemilebridge, Cork: Total pages: 1
+Fivemilebridge, Cork Page 1: Found 7 listings
+💾 断点已保存（182/386 个区域，1200 条）
+========== Fota, Cork ==========
+https://www.daft.ie/property-for-sale/fota-cork
+Property for Sale in Fota, Cork | Daft.ie
+Fota, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/fota-cork
+Fota, Cork: __NEXT_DATA__ = 1
+Fota, Cork: Total pages: 1
+Fota, Cork Page 1: Found 1 listings
+💾 断点已保存（183/386 个区域，1200 条）
+========== Fountainstown, Cork ==========
+https://www.daft.ie/property-for-sale/fountainstown-cork
+Property for Sale in Fountainstown, Cork | Daft.ie
+Fountainstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/fountainstown-cork
+Fountainstown, Cork: __NEXT_DATA__ = 1
+Fountainstown, Cork: Total pages: 1
+Fountainstown, Cork Page 1: Found 2 listings
+💾 断点已保存（184/386 个区域，1200 条）
+========== Frankfield, Cork ==========
+https://www.daft.ie/property-for-sale/frankfield-cork
+Property for Sale in Frankfield, Cork | Daft.ie
+Frankfield, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/frankfield-cork
+Frankfield, Cork: __NEXT_DATA__ = 1
+Frankfield, Cork: Total pages: 1
+Frankfield, Cork Page 1: Found 12 listings
+💾 断点已保存（185/386 个区域，1200 条）
+========== Freemount, Cork ==========
+https://www.daft.ie/property-for-sale/freemount-cork
+Property for Sale in Freemount, Cork | Daft.ie
+Freemount, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/freemount-cork
+Freemount, Cork: __NEXT_DATA__ = 1
+Freemount, Cork: Total pages: 1
+Freemount, Cork Page 1: Found 1 listings
+💾 断点已保存（186/386 个区域，1201 条）
+========== Garrane, Cork ==========
+https://www.daft.ie/property-for-sale/garrane-cork
+Property for Sale in Garrane, Cork | Daft.ie
+Garrane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/garrane-cork
+Garrane, Cork: __NEXT_DATA__ = 1
+Garrane, Cork: Total pages: 1
+Garrane, Cork Page 1: Found 3 listings
+💾 断点已保存（187/386 个区域，1201 条）
+========== Garravagh, Cork ==========
+https://www.daft.ie/property-for-sale/garravagh-cork
+Property for Sale in Garravagh, Cork | Daft.ie
+Garravagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/garravagh-cork
+Garravagh, Cork: __NEXT_DATA__ = 1
+Garravagh, Cork: Total pages: 0
+💾 断点已保存（188/386 个区域，1201 条）
+========== Garrettstown, Cork ==========
+https://www.daft.ie/property-for-sale/garrettstown-cork
+Property for Sale in Garrettstown, Cork | Daft.ie
+Garrettstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/garrettstown-cork
+Garrettstown, Cork: __NEXT_DATA__ = 1
+Garrettstown, Cork: Total pages: 1
+Garrettstown, Cork Page 1: Found 8 listings
+💾 断点已保存（189/386 个区域，1201 条）
+========== Garryvoe, Cork ==========
+https://www.daft.ie/property-for-sale/garryvoe-cork?__cf_chl_rt_tk=yJNqMC.TRnyUWYmFKUiHSR5360ZjBYLhFEJUSs7PUDg-1793308800-1.0.1.1-QcOdypRTXwjHD5MfrZj70t0CEqu7.L49JjbvxjhHaXg
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Garryvoe, Cork | Daft.ie
+Garryvoe, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/garryvoe-cork
+Garryvoe, Cork: __NEXT_DATA__ = 1
+Garryvoe, Cork: Total pages: 1
+Garryvoe, Cork Page 1: Found 8 listings
+💾 断点已保存（190/386 个区域，1203 条）
+========== Gawsworth, Cork ==========
+https://www.daft.ie/property-for-sale/gawsworth-cork
+Property for Sale in Gawsworth, Cork | Daft.ie
+Gawsworth, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gawsworth-cork
+Gawsworth, Cork: __NEXT_DATA__ = 1
+Gawsworth, Cork: Total pages: 1
+Gawsworth, Cork Page 1: Found 2 listings
+💾 断点已保存（191/386 个区域，1203 条）
+========== Gerahies, Cork ==========
+https://www.daft.ie/property-for-sale/gerahies-cork
+Property for Sale in Gerahies, Cork | Daft.ie
+Gerahies, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gerahies-cork
+Gerahies, Cork: __NEXT_DATA__ = 1
+Gerahies, Cork: Total pages: 1
+Gerahies, Cork Page 1: Found 9 listings
+💾 断点已保存（192/386 个区域，1203 条）
+========== Glandore, Cork ==========
+https://www.daft.ie/property-for-sale/glandore-cork
+Property for Sale in Glandore, Cork | Daft.ie
+Glandore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glandore-cork
+Glandore, Cork: __NEXT_DATA__ = 1
+Glandore, Cork: Total pages: 1
+Glandore, Cork Page 1: Found 12 listings
+💾 断点已保存（193/386 个区域，1207 条）
+========== Glanmire, Cork ==========
+https://www.daft.ie/property-for-sale/glanmire-cork
+Property for Sale in Glanmire, Cork | Daft.ie
+Glanmire, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glanmire-cork
+Glanmire, Cork: __NEXT_DATA__ = 1
+Glanmire, Cork: Total pages: 1
+Glanmire, Cork Page 1: Found 18 listings
+💾 断点已保存（194/386 个区域，1225 条）
+========== Glantane, Cork ==========
+https://www.daft.ie/property-for-sale/glantane-cork
+Property for Sale in Glantane, Cork | Daft.ie
+Glantane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glantane-cork
+Glantane, Cork: __NEXT_DATA__ = 1
+Glantane, Cork: Total pages: 0
+💾 断点已保存（195/386 个区域，1225 条）
+========== Glanworth, Cork ==========
+https://www.daft.ie/property-for-sale/glanworth-cork
+Property for Sale in Glanworth, Cork | Daft.ie
+Glanworth, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glanworth-cork
+Glanworth, Cork: __NEXT_DATA__ = 1
+Glanworth, Cork: Total pages: 1
+Glanworth, Cork Page 1: Found 1 listings
+💾 断点已保存（196/386 个区域，1226 条）
+========== Glasheen, Cork ==========
+https://www.daft.ie/property-for-sale/glasheen-cork
+Property for Sale in Glasheen, Cork | Daft.ie
+Glasheen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glasheen-cork
+Glasheen, Cork: __NEXT_DATA__ = 1
+Glasheen, Cork: Total pages: 2
+Glasheen, Cork Page 1: Found 20 listings
+Page 2/2
+Glasheen, Cork Page 2: Found 16 listings
+💾 断点已保存（197/386 个区域，1259 条）
+========== Glenbrook, Cork ==========
+https://www.daft.ie/property-for-sale/glenbrook-cork
+Property for Sale in Glenbrook, Cork | Daft.ie
+Glenbrook, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glenbrook-cork
+Glenbrook, Cork: __NEXT_DATA__ = 1
+Glenbrook, Cork: Total pages: 1
+Glenbrook, Cork Page 1: Found 6 listings
+💾 断点已保存（198/386 个区域，1265 条）
+========== Glengarriff, Cork ==========
+https://www.daft.ie/property-for-sale/glengarriff-cork
+Property for Sale in Glengarriff, Cork | Daft.ie
+Glengarriff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glengarriff-cork
+Glengarriff, Cork: __NEXT_DATA__ = 1
+Glengarriff, Cork: Total pages: 2
+Glengarriff, Cork Page 1: Found 20 listings
+Page 2/2
+Glengarriff, Cork Page 2: Found 2 listings
+💾 断点已保存（199/386 个区域，1269 条）
+========== Glenville, Cork ==========
+https://www.daft.ie/property-for-sale/glenville-cork
+Property for Sale in Glenville, Cork | Daft.ie
+Glenville, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glenville-cork
+Glenville, Cork: __NEXT_DATA__ = 1
+Glenville, Cork: Total pages: 1
+Glenville, Cork Page 1: Found 4 listings
+💾 断点已保存（200/386 个区域，1271 条）
+========== Glounthaune, Cork ==========
+https://www.daft.ie/property-for-sale/glounthaune-cork
+Property for Sale in Glounthaune, Cork | Daft.ie
+Glounthaune, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/glounthaune-cork
+Glounthaune, Cork: __NEXT_DATA__ = 1
+Glounthaune, Cork: Total pages: 1
+Glounthaune, Cork Page 1: Found 18 listings
+💾 断点已保存（201/386 个区域，1283 条）
+========== Goleen, Cork ==========
+https://www.daft.ie/property-for-sale/goleen-cork
+Property for Sale in Goleen, Cork | Daft.ie
+Goleen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/goleen-cork
+Goleen, Cork: __NEXT_DATA__ = 1
+Goleen, Cork: Total pages: 2
+Goleen, Cork Page 1: Found 20 listings
+Page 2/2
+Goleen, Cork Page 2: Found 5 listings
+💾 断点已保存（202/386 个区域，1297 条）
+========== Gortaroo, Cork ==========
+https://www.daft.ie/property-for-sale/gortaroo-cork
+Property for Sale in Gortaroo, Cork | Daft.ie
+Gortaroo, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gortaroo-cork
+Gortaroo, Cork: __NEXT_DATA__ = 1
+Gortaroo, Cork: Total pages: 1
+Gortaroo, Cork Page 1: Found 6 listings
+💾 断点已保存（203/386 个区域，1302 条）
+========== Gortgarriff, Cork ==========
+https://www.daft.ie/property-for-sale/gortgarriff-cork
+Property for Sale in Gortgarriff, Cork | Daft.ie
+Gortgarriff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gortgarriff-cork
+Gortgarriff, Cork: __NEXT_DATA__ = 1
+Gortgarriff, Cork: Total pages: 0
+💾 断点已保存（204/386 个区域，1302 条）
+========== Gouladoo, Cork ==========
+https://www.daft.ie/property-for-sale/gouladoo-cork?__cf_chl_rt_tk=1JEvqRK6OV52DgVTsGXFSKyVt1IM.koMi1AZ2zUmeg4-1793308930-1.0.1.1-JAp5qeDKLRw5gNVsylC_HWW6pgvEGs8NEEmuKczTvag
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Gouladoo, Cork | Daft.ie
+Gouladoo, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gouladoo-cork
+Gouladoo, Cork: __NEXT_DATA__ = 1
+Gouladoo, Cork: Total pages: 1
+Gouladoo, Cork Page 1: Found 11 listings
+💾 断点已保存（205/386 个区域，1302 条）
+========== Grange, Cork ==========
+https://www.daft.ie/property-for-sale/grange-cork
+Property for Sale in Grange, Cork | Daft.ie
+Grange, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/grange-cork
+Grange, Cork: __NEXT_DATA__ = 1
+Grange, Cork: Total pages: 1
+Grange, Cork Page 1: Found 9 listings
+💾 断点已保存（206/386 个区域，1302 条）
+========== Greenfield, Cork ==========
+https://www.daft.ie/property-for-sale/greenfield-cork
+Property for Sale in Greenfield, Cork | Daft.ie
+Greenfield, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/greenfield-cork
+Greenfield, Cork: __NEXT_DATA__ = 1
+Greenfield, Cork: Total pages: 1
+Greenfield, Cork Page 1: Found 18 listings
+💾 断点已保存（207/386 个区域，1320 条）
+========== Grenagh, Cork ==========
+https://www.daft.ie/property-for-sale/grenagh-cork
+Property for Sale in Grenagh, Cork | Daft.ie
+Grenagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/grenagh-cork
+Grenagh, Cork: __NEXT_DATA__ = 1
+Grenagh, Cork: Total pages: 1
+Grenagh, Cork Page 1: Found 10 listings
+💾 断点已保存（208/386 个区域，1325 条）
+========== Gurranabraher, Cork ==========
+https://www.daft.ie/property-for-sale/gurranabraher-cork
+Property for Sale in Gurranabraher, Cork | Daft.ie
+Gurranabraher, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gurranabraher-cork
+Gurranabraher, Cork: __NEXT_DATA__ = 1
+Gurranabraher, Cork: Total pages: 1
+Gurranabraher, Cork Page 1: Found 11 listings
+💾 断点已保存（209/386 个区域，1331 条）
+========== Gyleen, Cork ==========
+https://www.daft.ie/property-for-sale/gyleen-cork
+Property for Sale in Gyleen, Cork | Daft.ie
+Gyleen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/gyleen-cork
+Gyleen, Cork: __NEXT_DATA__ = 1
+Gyleen, Cork: Total pages: 1
+Gyleen, Cork Page 1: Found 2 listings
+💾 断点已保存（210/386 个区域，1333 条）
+========== Halfway, Cork ==========
+https://www.daft.ie/property-for-sale/halfway-cork
+Property for Sale in Halfway, Cork | Daft.ie
+Halfway, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/halfway-cork
+Halfway, Cork: __NEXT_DATA__ = 1
+Halfway, Cork: Total pages: 1
+Halfway, Cork Page 1: Found 1 listings
+💾 断点已保存（211/386 个区域，1333 条）
+========== Heir Island, Cork ==========
+https://www.daft.ie/property-for-sale/heir-island-cork
+Property for Sale in Heir Island, Cork | Daft.ie
+Heir Island, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/heir-island-cork
+Heir Island, Cork: __NEXT_DATA__ = 1
+Heir Island, Cork: Total pages: 1
+Heir Island, Cork Page 1: Found 2 listings
+💾 断点已保存（212/386 个区域，1333 条）
+========== Hollyhill, Cork ==========
+https://www.daft.ie/property-for-sale/hollyhill-cork
+Property for Sale in Hollyhill, Cork | Daft.ie
+Hollyhill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/hollyhill-cork
+Hollyhill, Cork: __NEXT_DATA__ = 1
+Hollyhill, Cork: Total pages: 1
+Hollyhill, Cork Page 1: Found 6 listings
+💾 断点已保存（213/386 个区域，1338 条）
+========== Inch, Cork ==========
+https://www.daft.ie/property-for-sale/inch-cork
+Property for Sale in Inch, Cork | Daft.ie
+Inch, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/inch-cork
+Inch, Cork: __NEXT_DATA__ = 1
+Inch, Cork: Total pages: 1
+Inch, Cork Page 1: Found 2 listings
+💾 断点已保存（214/386 个区域，1340 条）
+========== Inchigeelagh, Cork ==========
+https://www.daft.ie/property-for-sale/inchigeelagh-cork
+Property for Sale in Inchigeelagh, Cork | Daft.ie
+Inchigeelagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/inchigeelagh-cork
+Inchigeelagh, Cork: __NEXT_DATA__ = 1
+Inchigeelagh, Cork: Total pages: 1
+Inchigeelagh, Cork Page 1: Found 2 listings
+💾 断点已保存（215/386 个区域，1342 条）
+========== Inishcarra, Cork ==========
+https://www.daft.ie/property-for-sale/inishcarra-cork
+Property for Sale in Inishcarra, Cork | Daft.ie
+Inishcarra, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/inishcarra-cork
+Inishcarra, Cork: __NEXT_DATA__ = 1
+Inishcarra, Cork: Total pages: 1
+Inishcarra, Cork Page 1: Found 3 listings
+💾 断点已保存（216/386 个区域，1342 条）
+========== Inniscarra, Cork ==========
+https://www.daft.ie/property-for-sale/inniscarra-cork
+Property for Sale in Inniscarra, Cork | Daft.ie
+Inniscarra, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/inniscarra-cork
+Inniscarra, Cork: __NEXT_DATA__ = 1
+Inniscarra, Cork: Total pages: 1
+Inniscarra, Cork Page 1: Found 13 listings
+💾 断点已保存（217/386 个区域，1342 条）
+========== Innishannon, Cork ==========
+https://www.daft.ie/property-for-sale/innishannon-cork
+Property for Sale in Innishannon, Cork | Daft.ie
+Innishannon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/innishannon-cork
+Innishannon, Cork: __NEXT_DATA__ = 1
+Innishannon, Cork: Total pages: 1
+Innishannon, Cork Page 1: Found 16 listings
+💾 断点已保存（218/386 个区域，1350 条）
+========== Kanturk, Cork ==========
+https://www.daft.ie/property-for-sale/kanturk-cork
+Property for Sale in Kanturk, Cork | Daft.ie
+Kanturk, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kanturk-cork
+Kanturk, Cork: __NEXT_DATA__ = 1
+Kanturk, Cork: Total pages: 2
+Kanturk, Cork Page 1: Found 20 listings
+Page 2/2
+Kanturk, Cork Page 2: Found 1 listings
+💾 断点已保存（219/386 个区域，1354 条）
+========== Kealkill, Cork ==========
+https://www.daft.ie/property-for-sale/kealkill-cork
+Property for Sale in Kealkill, Cork | Daft.ie
+Kealkill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kealkill-cork
+Kealkill, Cork: __NEXT_DATA__ = 1
+Kealkill, Cork: Total pages: 1
+Kealkill, Cork Page 1: Found 6 listings
+💾 断点已保存（220/386 个区域，1360 条）
+========== Kerry Pike, Cork ==========
+https://www.daft.ie/property-for-sale/kerry-pike-cork
+Property for Sale in Kerry Pike, Cork | Daft.ie
+Kerry Pike, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kerry-pike-cork
+Kerry Pike, Cork: __NEXT_DATA__ = 1
+Kerry Pike, Cork: Total pages: 1
+Kerry Pike, Cork Page 1: Found 12 listings
+💾 断点已保存（221/386 个区域，1360 条）
+========== Kilbarry, Cork ==========
+https://www.daft.ie/property-for-sale/kilbarry-cork
+Property for Sale in Kilbarry, Cork | Daft.ie
+Kilbarry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilbarry-cork
+Kilbarry, Cork: __NEXT_DATA__ = 1
+Kilbarry, Cork: Total pages: 1
+Kilbarry, Cork Page 1: Found 3 listings
+💾 断点已保存（222/386 个区域，1360 条）
+========== Kilbrin, Cork ==========
+https://www.daft.ie/property-for-sale/kilbrin-cork
+Property for Sale in Kilbrin, Cork | Daft.ie
+Kilbrin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilbrin-cork
+Kilbrin, Cork: __NEXT_DATA__ = 1
+Kilbrin, Cork: Total pages: 1
+Kilbrin, Cork Page 1: Found 1 listings
+💾 断点已保存（223/386 个区域，1360 条）
+========== Kilbrittain, Cork ==========
+https://www.daft.ie/property-for-sale/kilbrittain-cork?__cf_chl_rt_tk=5uRB64HOQK61p4_8EtSQQhaAL16CwaxZBk3D7HwHJjg-1793309079-1.0.1.1-VJ1Z8.LzKSwy6EUWEehy07_hfnN7JCe7TYBJwPN4k3g
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Kilbrittain, Cork | Daft.ie
+Kilbrittain, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilbrittain-cork
+Kilbrittain, Cork: __NEXT_DATA__ = 1
+Kilbrittain, Cork: Total pages: 1
+Kilbrittain, Cork Page 1: Found 14 listings
+💾 断点已保存（224/386 个区域，1372 条）
+========== Kilcolman, Cork ==========
+https://www.daft.ie/property-for-sale/kilcolman-cork
+Property for Sale in Kilcolman, Cork | Daft.ie
+Kilcolman, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilcolman-cork
+Kilcolman, Cork: __NEXT_DATA__ = 1
+Kilcolman, Cork: Total pages: 0
+💾 断点已保存（225/386 个区域，1372 条）
+========== Kilcredan, Cork ==========
+https://www.daft.ie/property-for-sale/kilcredan-cork
+Property for Sale in Kilcredan, Cork | Daft.ie
+Kilcredan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilcredan-cork
+Kilcredan, Cork: __NEXT_DATA__ = 1
+Kilcredan, Cork: Total pages: 1
+Kilcredan, Cork Page 1: Found 5 listings
+💾 断点已保存（226/386 个区域，1372 条）
+========== Kilcrohane, Cork ==========
+https://www.daft.ie/property-for-sale/kilcrohane-cork
+Property for Sale in Kilcrohane, Cork | Daft.ie
+Kilcrohane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilcrohane-cork
+Kilcrohane, Cork: __NEXT_DATA__ = 1
+Kilcrohane, Cork: Total pages: 1
+Kilcrohane, Cork Page 1: Found 15 listings
+💾 断点已保存（227/386 个区域，1373 条）
+========== Kilcully, Cork ==========
+https://www.daft.ie/property-for-sale/kilcully-cork
+Property for Sale in Kilcully, Cork | Daft.ie
+Kilcully, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilcully-cork
+Kilcully, Cork: __NEXT_DATA__ = 1
+Kilcully, Cork: Total pages: 0
+💾 断点已保存（228/386 个区域，1373 条）
+========== Kildinan, Cork ==========
+https://www.daft.ie/property-for-sale/kildinan-cork
+Property for Sale in Kildinan, Cork | Daft.ie
+Kildinan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kildinan-cork
+Kildinan, Cork: __NEXT_DATA__ = 1
+Kildinan, Cork: Total pages: 1
+Kildinan, Cork Page 1: Found 5 listings
+💾 断点已保存（229/386 个区域，1377 条）
+========== Kildorrery, Cork ==========
+https://www.daft.ie/property-for-sale/kildorrery-cork
+Property for Sale in Kildorrery, Cork | Daft.ie
+Kildorrery, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kildorrery-cork
+Kildorrery, Cork: __NEXT_DATA__ = 1
+Kildorrery, Cork: Total pages: 1
+Kildorrery, Cork Page 1: Found 1 listings
+💾 断点已保存（230/386 个区域，1378 条）
+========== Killaclug, Cork ==========
+https://www.daft.ie/property-for-sale/killaclug-cork
+Property for Sale in Killaclug, Cork | Daft.ie
+Killaclug, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/killaclug-cork
+Killaclug, Cork: __NEXT_DATA__ = 1
+Killaclug, Cork: Total pages: 1
+Killaclug, Cork Page 1: Found 1 listings
+💾 断点已保存（231/386 个区域，1378 条）
+========== Killavullen, Cork ==========
+https://www.daft.ie/property-for-sale/killavullen-cork
+Property for Sale in Killavullen, Cork | Daft.ie
+Killavullen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/killavullen-cork
+Killavullen, Cork: __NEXT_DATA__ = 1
+Killavullen, Cork: Total pages: 1
+Killavullen, Cork Page 1: Found 7 listings
+💾 断点已保存（232/386 个区域，1379 条）
+========== Killeagh, Cork ==========
+https://www.daft.ie/property-for-sale/killeagh-cork?__cf_chl_rt_tk=8gNwZpb3AQN7as.iFucdB7dKxT22p_WQcsMO94JBEDU-1793309149-1.0.1.1-yBmcTJ5YqEXmTWi0vTP8zd9ms1uGjpJEhJ7f0fibEmI
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Killeagh, Cork | Daft.ie
+Killeagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/killeagh-cork
+Killeagh, Cork: __NEXT_DATA__ = 1
+Killeagh, Cork: Total pages: 1
+Killeagh, Cork Page 1: Found 13 listings
+💾 断点已保存（233/386 个区域，1383 条）
+========== Killeens, Cork ==========
+https://www.daft.ie/property-for-sale/killeens-cork
+Property for Sale in Killeens, Cork | Daft.ie
+Killeens, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/killeens-cork
+Killeens, Cork: __NEXT_DATA__ = 1
+Killeens, Cork: Total pages: 1
+Killeens, Cork Page 1: Found 2 listings
+💾 断点已保存（234/386 个区域，1383 条）
+========== Killumney, Cork ==========
+https://www.daft.ie/property-for-sale/killumney-cork
+Property for Sale in Killumney, Cork | Daft.ie
+Killumney, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/killumney-cork
+Killumney, Cork: __NEXT_DATA__ = 1
+Killumney, Cork: Total pages: 1
+Killumney, Cork Page 1: Found 10 listings
+💾 断点已保存（235/386 个区域，1383 条）
+========== Kilmichael, Cork ==========
+https://www.daft.ie/property-for-sale/kilmichael-cork
+Property for Sale in Kilmichael, Cork | Daft.ie
+Kilmichael, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilmichael-cork
+Kilmichael, Cork: __NEXT_DATA__ = 1
+Kilmichael, Cork: Total pages: 1
+Kilmichael, Cork Page 1: Found 2 listings
+💾 断点已保存（236/386 个区域，1383 条）
+========== Kilmona, Cork ==========
+https://www.daft.ie/property-for-sale/kilmona-cork
+Property for Sale in Kilmona, Cork | Daft.ie
+Kilmona, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilmona-cork
+Kilmona, Cork: __NEXT_DATA__ = 1
+Kilmona, Cork: Total pages: 1
+Kilmona, Cork Page 1: Found 1 listings
+💾 断点已保存（237/386 个区域，1383 条）
+========== Kilmoon, Cork ==========
+https://www.daft.ie/property-for-sale/kilmoon-cork
+Property for Sale in Kilmoon, Cork | Daft.ie
+Kilmoon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilmoon-cork
+Kilmoon, Cork: __NEXT_DATA__ = 1
+Kilmoon, Cork: Total pages: 1
+Kilmoon, Cork Page 1: Found 2 listings
+💾 断点已保存（238/386 个区域，1383 条）
+========== Kilmurry, Cork ==========
+https://www.daft.ie/property-for-sale/kilmurry-cork
+Property for Sale in Kilmurry, Cork | Daft.ie
+Kilmurry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilmurry-cork
+Kilmurry, Cork: __NEXT_DATA__ = 1
+Kilmurry, Cork: Total pages: 1
+Kilmurry, Cork Page 1: Found 1 listings
+💾 断点已保存（239/386 个区域，1383 条）
+========== Kilnap, Cork ==========
+https://www.daft.ie/property-for-sale/kilnap-cork
+Property for Sale in Kilnap, Cork | Daft.ie
+Kilnap, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilnap-cork
+Kilnap, Cork: __NEXT_DATA__ = 1
+Kilnap, Cork: Total pages: 0
+💾 断点已保存（240/386 个区域，1383 条）
+========== Kilpatrick, Cork ==========
+https://www.daft.ie/property-for-sale/kilpatrick-cork
+Property for Sale in Kilpatrick, Cork | Daft.ie
+Kilpatrick, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilpatrick-cork
+Kilpatrick, Cork: __NEXT_DATA__ = 1
+Kilpatrick, Cork: Total pages: 1
+Kilpatrick, Cork Page 1: Found 2 listings
+💾 断点已保存（241/386 个区域，1383 条）
+========== Kilworth Camp, Cork ==========
+https://www.daft.ie/property-for-sale/kilworth-camp-cork
+Property for Sale in Kilworth Camp, Cork | Daft.ie
+Kilworth Camp, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilworth-camp-cork
+Kilworth Camp, Cork: __NEXT_DATA__ = 1
+Kilworth Camp, Cork: Total pages: 1
+Kilworth Camp, Cork Page 1: Found 5 listings
+💾 断点已保存（242/386 个区域，1388 条）
+========== Kilworth, Cork ==========
+https://www.daft.ie/property-for-sale/kilworth-cork
+Property for Sale in Kilworth, Cork | Daft.ie
+Kilworth, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kilworth-cork
+Kilworth, Cork: __NEXT_DATA__ = 1
+Kilworth, Cork: Total pages: 1
+Kilworth, Cork Page 1: Found 7 listings
+💾 断点已保存（243/386 个区域，1390 条）
+========== Kinsale, Cork ==========
+https://www.daft.ie/property-for-sale/kinsale-cork
+Property for Sale in Kinsale, Cork | Daft.ie
+Kinsale, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kinsale-cork
+Kinsale, Cork: __NEXT_DATA__ = 1
+Kinsale, Cork: Total pages: 4
+Kinsale, Cork Page 1: Found 20 listings
+Page 2/4
+Kinsale, Cork Page 2: Found 20 listings
+Page 3/4
+Kinsale, Cork Page 3: Found 20 listings
+Page 4/4
 Page 4 retry 1/3
-Dublin 22, Dublin Page 4: Found 20 listings
-Page 5/6
-Dublin 22, Dublin Page 5: Found 20 listings
-Dublin 22, Dublin: Cooling down 10 seconds...
-Page 6/6
-Dublin 22, Dublin Page 6: Found 17 listings
-💾 断点已保存（10/12 个区域，1568 条）
-========== Dublin 24, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-24-dublin
-Property for Sale in Dublin 24, Dublin | Daft.ie
-Dublin 24, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-24-dublin
-Dublin 24, Dublin: __NEXT_DATA__ = 1
-Dublin 24, Dublin: Total pages: 11
-Dublin 24, Dublin Page 1: Found 20 listings
-Page 2/11
-Dublin 24, Dublin Page 2: Found 20 listings
-Page 3/11
-Dublin 24, Dublin Page 3: Found 20 listings
-Page 4/11
-Dublin 24, Dublin Page 4: Found 20 listings
-Page 5/11
-Dublin 24, Dublin Page 5: Found 20 listings
-Dublin 24, Dublin: Cooling down 10 seconds...
-Page 6/11
-Dublin 24, Dublin Page 6: Found 20 listings
-Page 7/11
-Dublin 24, Dublin Page 7: Found 20 listings
-Page 8/11
-Dublin 24, Dublin Page 8: Found 20 listings
-Page 9/11
-Dublin 24, Dublin Page 9: Found 20 listings
-Page 10/11
-Dublin 24, Dublin Page 10: Found 20 listings
-Dublin 24, Dublin: Cooling down 10 seconds...
-Page 11/11
-Dublin 24, Dublin Page 11: Found 16 listings
-💾 断点已保存（11/12 个区域，1777 条）
-========== Dublin 6W, Dublin ==========
-https://www.daft.ie/property-for-sale/dublin-6w-dublin
-Property for Sale in Dublin 6W, Dublin | Daft.ie
-Dublin 6W, Dublin loaded.
-Current URL: https://www.daft.ie/property-for-sale/dublin-6w-dublin
-Dublin 6W, Dublin: __NEXT_DATA__ = 1
-Dublin 6W, Dublin: Total pages: 5
-Dublin 6W, Dublin Page 1: Found 20 listings
-Page 2/5
-Dublin 6W, Dublin Page 2: Found 20 listings
-Page 3/5
-Dublin 6W, Dublin Page 3: Found 20 listings
-Page 4/5
-Dublin 6W, Dublin Page 4: Found 20 listings
-Page 5/5
-Dublin 6W, Dublin Page 5: Found 6 listings
-💾 断点已保存（12/12 个区域，1852 条）
-✔ 结果检查通过：有数据区域 12/12，房源 1852 条
-✔ daft-sale-dublin2.json: 本轮覆盖 12/12 个区域（完整），写入 1852 条，保留未覆盖区域旧数据 0 条
+Kinsale, Cork Page 4: Found 4 listings
+💾 断点已保存（244/386 个区域，1451 条）
+========== Kishkeam, Cork ==========
+https://www.daft.ie/property-for-sale/kishkeam-cork
+Property for Sale in Kishkeam, Cork | Daft.ie
+Kishkeam, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/kishkeam-cork
+Kishkeam, Cork: __NEXT_DATA__ = 1
+Kishkeam, Cork: Total pages: 1
+Kishkeam, Cork Page 1: Found 4 listings
+💾 断点已保存（245/386 个区域，1451 条）
+========== Knockanevin, Cork ==========
+https://www.daft.ie/property-for-sale/knockanevin-cork
+Property for Sale in Knockanevin, Cork | Daft.ie
+Knockanevin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockanevin-cork
+Knockanevin, Cork: __NEXT_DATA__ = 1
+Knockanevin, Cork: Total pages: 1
+Knockanevin, Cork Page 1: Found 2 listings
+💾 断点已保存（246/386 个区域，1452 条）
+========== Knockaunalour, Cork ==========
+https://www.daft.ie/property-for-sale/knockaunalour-cork
+Property for Sale in Knockaunalour, Cork | Daft.ie
+Knockaunalour, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockaunalour-cork
+Knockaunalour, Cork: __NEXT_DATA__ = 1
+Knockaunalour, Cork: Total pages: 0
+💾 断点已保存（247/386 个区域，1452 条）
+========== Knockburden, Cork ==========
+https://www.daft.ie/property-for-sale/knockburden-cork
+Property for Sale in Knockburden, Cork | Daft.ie
+Knockburden, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockburden-cork
+Knockburden, Cork: __NEXT_DATA__ = 1
+Knockburden, Cork: Total pages: 1
+Knockburden, Cork Page 1: Found 1 listings
+💾 断点已保存（248/386 个区域，1452 条）
+========== Knockmourne, Cork ==========
+https://www.daft.ie/property-for-sale/knockmourne-cork
+Property for Sale in Knockmourne, Cork | Daft.ie
+Knockmourne, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockmourne-cork
+Knockmourne, Cork: __NEXT_DATA__ = 1
+Knockmourne, Cork: Total pages: 1
+Knockmourne, Cork Page 1: Found 1 listings
+💾 断点已保存（249/386 个区域，1452 条）
+========== Knocknagree, Cork ==========
+https://www.daft.ie/property-for-sale/knocknagree-cork
+Property for Sale in Knocknagree, Cork | Daft.ie
+Knocknagree, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knocknagree-cork
+Knocknagree, Cork: __NEXT_DATA__ = 1
+Knocknagree, Cork: Total pages: 1
+Knocknagree, Cork Page 1: Found 8 listings
+💾 断点已保存（250/386 个区域，1455 条）
+========== Knocknaheeny, Cork ==========
+https://www.daft.ie/property-for-sale/knocknaheeny-cork
+Property for Sale in Knocknaheeny, Cork | Daft.ie
+Knocknaheeny, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knocknaheeny-cork
+Knocknaheeny, Cork: __NEXT_DATA__ = 1
+Knocknaheeny, Cork: Total pages: 1
+Knocknaheeny, Cork Page 1: Found 1 listings
+💾 断点已保存（251/386 个区域，1455 条）
+========== Knocknahilan, Cork ==========
+https://www.daft.ie/property-for-sale/knocknahilan-cork
+Property for Sale in Knocknahilan, Cork | Daft.ie
+Knocknahilan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knocknahilan-cork
+Knocknahilan, Cork: __NEXT_DATA__ = 1
+Knocknahilan, Cork: Total pages: 0
+💾 断点已保存（252/386 个区域，1455 条）
+========== Knockraha, Cork ==========
+https://www.daft.ie/property-for-sale/knockraha-cork
+Property for Sale in Knockraha, Cork | Daft.ie
+Knockraha, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockraha-cork
+Knockraha, Cork: __NEXT_DATA__ = 1
+Knockraha, Cork: Total pages: 1
+Knockraha, Cork Page 1: Found 9 listings
+💾 断点已保存（253/386 个区域，1463 条）
+========== Knocks, Cork ==========
+https://www.daft.ie/property-for-sale/knocks-cork
+Property for Sale in Knocks, Cork | Daft.ie
+Knocks, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knocks-cork
+Knocks, Cork: __NEXT_DATA__ = 1
+Knocks, Cork: Total pages: 0
+💾 断点已保存（254/386 个区域，1463 条）
+========== Knockskagh, Cork ==========
+https://www.daft.ie/property-for-sale/knockskagh-cork
+Property for Sale in Knockskagh, Cork | Daft.ie
+Knockskagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knockskagh-cork
+Knockskagh, Cork: __NEXT_DATA__ = 1
+Knockskagh, Cork: Total pages: 0
+💾 断点已保存（255/386 个区域，1463 条）
+========== Knuttery, Cork ==========
+https://www.daft.ie/property-for-sale/knuttery-cork?__cf_chl_rt_tk=dJAZi3tFHVnqWwQxB0LJ5lbGEnvu4jrCO5yC.1T7pSU-1793309358-1.0.1.1-sqaoAOfs9WoVrRjibDU1NT42FrfyTeA9P5gbkDgWWsg
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Knuttery, Cork | Daft.ie
+Knuttery, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/knuttery-cork
+Knuttery, Cork: __NEXT_DATA__ = 1
+Knuttery, Cork: Total pages: 1
+Knuttery, Cork Page 1: Found 2 listings
+💾 断点已保存（256/386 个区域，1463 条）
+========== Lackareagh, Cork ==========
+https://www.daft.ie/property-for-sale/lackareagh-cork
+Property for Sale in Lackareagh, Cork | Daft.ie
+Lackareagh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lackareagh-cork
+Lackareagh, Cork: __NEXT_DATA__ = 1
+Lackareagh, Cork: Total pages: 1
+Lackareagh, Cork Page 1: Found 3 listings
+💾 断点已保存（257/386 个区域，1463 条）
+========== Lackenshoneen, Cork ==========
+https://www.daft.ie/property-for-sale/lackenshoneen-cork
+Property for Sale in Lackenshoneen, Cork | Daft.ie
+Lackenshoneen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lackenshoneen-cork
+Lackenshoneen, Cork: __NEXT_DATA__ = 1
+Lackenshoneen, Cork: Total pages: 1
+Lackenshoneen, Cork Page 1: Found 2 listings
+💾 断点已保存（258/386 个区域，1463 条）
+========== Ladysbridge, Cork ==========
+https://www.daft.ie/property-for-sale/ladysbridge-cork
+Property for Sale in Ladysbridge, Cork | Daft.ie
+Ladysbridge, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ladysbridge-cork
+Ladysbridge, Cork: __NEXT_DATA__ = 1
+Ladysbridge, Cork: Total pages: 1
+Ladysbridge, Cork Page 1: Found 6 listings
+💾 断点已保存（259/386 个区域，1463 条）
+========== Leamlara, Cork ==========
+https://www.daft.ie/property-for-sale/leamlara-cork
+Property for Sale in Leamlara, Cork | Daft.ie
+Leamlara, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/leamlara-cork
+Leamlara, Cork: __NEXT_DATA__ = 1
+Leamlara, Cork: Total pages: 1
+Leamlara, Cork Page 1: Found 3 listings
+💾 断点已保存（260/386 个区域，1464 条）
+========== Leap, Cork ==========
+https://www.daft.ie/property-for-sale/leap-cork
+Property for Sale in Leap, Cork | Daft.ie
+Leap, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/leap-cork
+Leap, Cork: __NEXT_DATA__ = 1
+Leap, Cork: Total pages: 1
+Leap, Cork Page 1: Found 13 listings
+💾 断点已保存（261/386 个区域，1469 条）
+========== Lehenaghbeg, Cork ==========
+https://www.daft.ie/property-for-sale/lehenaghbeg-cork
+Property for Sale in Lehenaghbeg, Cork | Daft.ie
+Lehenaghbeg, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lehenaghbeg-cork
+Lehenaghbeg, Cork: __NEXT_DATA__ = 1
+Lehenaghbeg, Cork: Total pages: 1
+Lehenaghbeg, Cork Page 1: Found 13 listings
+💾 断点已保存（262/386 个区域，1475 条）
+========== Lehenaghmore, Cork ==========
+https://www.daft.ie/property-for-sale/lehenaghmore-cork
+Property for Sale in Lehenaghmore, Cork | Daft.ie
+Lehenaghmore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lehenaghmore-cork
+Lehenaghmore, Cork: __NEXT_DATA__ = 1
+Lehenaghmore, Cork: Total pages: 1
+Lehenaghmore, Cork Page 1: Found 9 listings
+💾 断点已保存（263/386 个区域，1475 条）
+========== Liscarrol, Cork ==========
+https://www.daft.ie/property-for-sale/liscarrol-cork
+Property for Sale in Liscarrol, Cork | Daft.ie
+Liscarrol, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/liscarrol-cork
+Liscarrol, Cork: __NEXT_DATA__ = 1
+Liscarrol, Cork: Total pages: 1
+Liscarrol, Cork Page 1: Found 3 listings
+💾 断点已保存（264/386 个区域，1477 条）
+========== Lisgoold, Cork ==========
+https://www.daft.ie/property-for-sale/lisgoold-cork
+Property for Sale in Lisgoold, Cork | Daft.ie
+Lisgoold, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lisgoold-cork
+Lisgoold, Cork: __NEXT_DATA__ = 1
+Lisgoold, Cork: Total pages: 1
+Lisgoold, Cork Page 1: Found 2 listings
+💾 断点已保存（265/386 个区域，1477 条）
+========== Lispatrick, Cork ==========
+https://www.daft.ie/property-for-sale/lispatrick-cork
+Property for Sale in Lispatrick, Cork | Daft.ie
+Lispatrick, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lispatrick-cork
+Lispatrick, Cork: __NEXT_DATA__ = 1
+Lispatrick, Cork: Total pages: 1
+Lispatrick, Cork Page 1: Found 3 listings
+💾 断点已保存（266/386 个区域，1480 条）
+========== Lissamona, Cork ==========
+https://www.daft.ie/property-for-sale/lissamona-cork
+Property for Sale in Lissamona, Cork | Daft.ie
+Lissamona, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lissamona-cork
+Lissamona, Cork: __NEXT_DATA__ = 1
+Lissamona, Cork: Total pages: 0
+💾 断点已保存（267/386 个区域，1480 条）
+========== Lissarda, Cork ==========
+https://www.daft.ie/property-for-sale/lissarda-cork
+Property for Sale in Lissarda, Cork | Daft.ie
+Lissarda, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lissarda-cork
+Lissarda, Cork: __NEXT_DATA__ = 1
+Lissarda, Cork: Total pages: 1
+Lissarda, Cork Page 1: Found 5 listings
+💾 断点已保存（268/386 个区域，1481 条）
+========== Lissavaird, Cork ==========
+https://www.daft.ie/property-for-sale/lissavaird-cork
+Property for Sale in Lissavaird, Cork | Daft.ie
+Lissavaird, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lissavaird-cork
+Lissavaird, Cork: __NEXT_DATA__ = 1
+Lissavaird, Cork: Total pages: 1
+Lissavaird, Cork Page 1: Found 1 listings
+💾 断点已保存（269/386 个区域，1482 条）
+========== Little Island, Cork ==========
+https://www.daft.ie/property-for-sale/little-island-cork
+Property for Sale in Little Island, Cork | Daft.ie
+Little Island, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/little-island-cork
+Little Island, Cork: __NEXT_DATA__ = 1
+Little Island, Cork: Total pages: 1
+Little Island, Cork Page 1: Found 12 listings
+💾 断点已保存（270/386 个区域，1483 条）
+========== Lombardstown, Cork ==========
+https://www.daft.ie/property-for-sale/lombardstown-cork
+Property for Sale in Lombardstown, Cork | Daft.ie
+Lombardstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lombardstown-cork
+Lombardstown, Cork: __NEXT_DATA__ = 1
+Lombardstown, Cork: Total pages: 1
+Lombardstown, Cork Page 1: Found 2 listings
+💾 断点已保存（271/386 个区域，1483 条）
+========== Lota, Cork ==========
+https://www.daft.ie/property-for-sale/lota-cork
+Property for Sale in Lota, Cork | Daft.ie
+Lota, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lota-cork
+Lota, Cork: __NEXT_DATA__ = 1
+Lota, Cork: Total pages: 1
+Lota, Cork Page 1: Found 2 listings
+💾 断点已保存（272/386 个区域，1484 条）
+========== Lowertown, Cork ==========
+https://www.daft.ie/property-for-sale/lowertown-cork
+Property for Sale in Lowertown, Cork | Daft.ie
+Lowertown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lowertown-cork
+Lowertown, Cork: __NEXT_DATA__ = 1
+Lowertown, Cork: Total pages: 1
+Lowertown, Cork Page 1: Found 6 listings
+💾 断点已保存（273/386 个区域，1484 条）
+========== Lyre, Cork ==========
+https://www.daft.ie/property-for-sale/lyre-cork
+Property for Sale in Lyre, Cork | Daft.ie
+Lyre, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/lyre-cork
+Lyre, Cork: __NEXT_DATA__ = 1
+Lyre, Cork: Total pages: 1
+Lyre, Cork Page 1: Found 2 listings
+💾 断点已保存（274/386 个区域，1484 条）
+========== Macroom, Cork ==========
+https://www.daft.ie/property-for-sale/macroom-cork
+Property for Sale in Macroom, Cork | Daft.ie
+Macroom, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/macroom-cork
+Macroom, Cork: __NEXT_DATA__ = 1
+Macroom, Cork: Total pages: 1
+Macroom, Cork Page 1: Found 14 listings
+💾 断点已保存（275/386 个区域，1498 条）
+========== Maglin, Cork ==========
+https://www.daft.ie/property-for-sale/maglin-cork
+Property for Sale in Maglin, Cork | Daft.ie
+Maglin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/maglin-cork
+Maglin, Cork: __NEXT_DATA__ = 1
+Maglin, Cork: Total pages: 1
+Maglin, Cork Page 1: Found 2 listings
+💾 断点已保存（276/386 个区域，1498 条）
+========== Mahon, Cork ==========
+https://www.daft.ie/property-for-sale/mahon-cork
+Property for Sale in Mahon, Cork | Daft.ie
+Mahon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mahon-cork
+Mahon, Cork: __NEXT_DATA__ = 1
+Mahon, Cork: Total pages: 1
+Mahon, Cork Page 1: Found 2 listings
+💾 断点已保存（277/386 个区域，1498 条）
+========== Mallow, Cork ==========
+https://www.daft.ie/property-for-sale/mallow-cork
+Property for Sale in Mallow, Cork | Daft.ie
+Mallow, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mallow-cork
+Mallow, Cork: __NEXT_DATA__ = 1
+Mallow, Cork: Total pages: 3
+Mallow, Cork Page 1: Found 20 listings
+Page 2/3
+Mallow, Cork Page 2: Found 20 listings
+Page 3/3
+Mallow, Cork Page 3: Found 3 listings
+💾 断点已保存（278/386 个区域，1540 条）
+========== Matehy, Cork ==========
+https://www.daft.ie/property-for-sale/matehy-cork
+Property for Sale in Matehy, Cork | Daft.ie
+Matehy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/matehy-cork
+Matehy, Cork: __NEXT_DATA__ = 1
+Matehy, Cork: Total pages: 1
+Matehy, Cork Page 1: Found 3 listings
+💾 断点已保存（279/386 个区域，1540 条）
+========== Mayfield, Cork ==========
+https://www.daft.ie/property-for-sale/mayfield-cork
+Property for Sale in Mayfield, Cork | Daft.ie
+Mayfield, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mayfield-cork
+Mayfield, Cork: __NEXT_DATA__ = 1
+Mayfield, Cork: Total pages: 2
+Mayfield, Cork Page 1: Found 20 listings
+Page 2/2
+Mayfield, Cork Page 2: Found 7 listings
+💾 断点已保存（280/386 个区域，1544 条）
+========== Meelin, Cork ==========
+https://www.daft.ie/property-for-sale/meelin-cork
+Property for Sale in Meelin, Cork | Daft.ie
+Meelin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/meelin-cork
+Meelin, Cork: __NEXT_DATA__ = 1
+Meelin, Cork: Total pages: 1
+Meelin, Cork Page 1: Found 2 listings
+💾 断点已保存（281/386 个区域，1544 条）
+========== Midleton, Cork ==========
+https://www.daft.ie/property-for-sale/midleton-cork
+Property for Sale in Midleton, Cork | Daft.ie
+Midleton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/midleton-cork
+Midleton, Cork: __NEXT_DATA__ = 1
+Midleton, Cork: Total pages: 4
+Midleton, Cork Page 1: Found 20 listings
+Page 2/4
+Midleton, Cork Page 2: Found 20 listings
+Page 3/4
+Midleton, Cork Page 3: Found 20 listings
+Page 4/4
+Midleton, Cork Page 4: Found 3 listings
+💾 断点已保存（282/386 个区域，1599 条）
+========== Milford, Cork ==========
+https://www.daft.ie/property-for-sale/milford-cork
+Property for Sale in Milford, Cork | Daft.ie
+Milford, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/milford-cork
+Milford, Cork: __NEXT_DATA__ = 1
+Milford, Cork: Total pages: 1
+Milford, Cork Page 1: Found 6 listings
+💾 断点已保存（283/386 个区域，1599 条）
+========== Milleen, Cork ==========
+https://www.daft.ie/property-for-sale/milleen-cork
+Property for Sale in Milleen, Cork | Daft.ie
+Milleen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/milleen-cork
+Milleen, Cork: __NEXT_DATA__ = 1
+Milleen, Cork: Total pages: 1
+Milleen, Cork Page 1: Found 1 listings
+💾 断点已保存（284/386 个区域，1599 条）
+========== Millstreet, Cork ==========
+https://www.daft.ie/property-for-sale/millstreet-cork
+Property for Sale in Millstreet, Cork | Daft.ie
+Millstreet, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/millstreet-cork
+Millstreet, Cork: __NEXT_DATA__ = 1
+Millstreet, Cork: Total pages: 2
+Millstreet, Cork Page 1: Found 20 listings
+Page 2/2
+Millstreet, Cork Page 2: Found 1 listings
+💾 断点已保存（285/386 个区域，1608 条）
+========== Minane Bridge, Cork ==========
+https://www.daft.ie/property-for-sale/minane-bridge-cork
+Property for Sale in Minane Bridge, Cork | Daft.ie
+Minane Bridge, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/minane-bridge-cork
+Minane Bridge, Cork: __NEXT_DATA__ = 1
+Minane Bridge, Cork: Total pages: 1
+Minane Bridge, Cork Page 1: Found 18 listings
+💾 断点已保存（286/386 个区域，1614 条）
+========== Mitchelstown, Cork ==========
+https://www.daft.ie/property-for-sale/mitchelstown-cork
+Property for Sale in Mitchelstown, Cork | Daft.ie
+Mitchelstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mitchelstown-cork
+Mitchelstown, Cork: __NEXT_DATA__ = 1
+Mitchelstown, Cork: Total pages: 1
+Mitchelstown, Cork Page 1: Found 10 listings
+💾 断点已保存（287/386 个区域，1621 条）
+========== Model Farm Road, Cork ==========
+https://www.daft.ie/property-for-sale/model-farm-road-cork
+Property for Sale in Model Farm Road, Cork | Daft.ie
+Model Farm Road, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/model-farm-road-cork
+Model Farm Road, Cork: __NEXT_DATA__ = 1
+Model Farm Road, Cork: Total pages: 2
+Model Farm Road, Cork Page 1: Found 20 listings
+Page 2/2
+Model Farm Road, Cork Page 2: Found 6 listings
+💾 断点已保存（288/386 个区域，1622 条）
+========== Model Village, Cork ==========
+https://www.daft.ie/property-for-sale/model-village-cork
+Property for Sale in Model Village, Cork | Daft.ie
+Model Village, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/model-village-cork
+Model Village, Cork: __NEXT_DATA__ = 1
+Model Village, Cork: Total pages: 1
+Model Village, Cork Page 1: Found 2 listings
+💾 断点已保存（289/386 个区域，1622 条）
+========== Mogeely, Cork ==========
+https://www.daft.ie/property-for-sale/mogeely-cork?__cf_chl_rt_tk=CqsTJdadGcDrZ_7InH32GgqUwYFTYdPNSxMFZnSKcVo-1793309652-1.0.1.1-e7Gs9X2BpUQK1nhL9ZJLTjzfx6kZLWZ_BBygxj7RKoA
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Mogeely, Cork | Daft.ie
+Mogeely, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mogeely-cork
+Mogeely, Cork: __NEXT_DATA__ = 1
+Mogeely, Cork: Total pages: 1
+Mogeely, Cork Page 1: Found 4 listings
+💾 断点已保存（290/386 个区域，1622 条）
+========== Monard, Cork ==========
+https://www.daft.ie/property-for-sale/monard-cork
+Property for Sale in Monard, Cork | Daft.ie
+Monard, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/monard-cork
+Monard, Cork: __NEXT_DATA__ = 1
+Monard, Cork: Total pages: 0
+💾 断点已保存（291/386 个区域，1622 条）
+========== Moneyflugh, Cork ==========
+https://www.daft.ie/property-for-sale/moneyflugh-cork
+Property for Sale in Moneyflugh, Cork | Daft.ie
+Moneyflugh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/moneyflugh-cork
+Moneyflugh, Cork: __NEXT_DATA__ = 1
+Moneyflugh, Cork: Total pages: 0
+💾 断点已保存（292/386 个区域，1622 条）
+========== Monkstown, Cork ==========
+https://www.daft.ie/property-for-sale/monkstown-cork
+Property for Sale in Monkstown, Cork | Daft.ie
+Monkstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/monkstown-cork
+Monkstown, Cork: __NEXT_DATA__ = 1
+Monkstown, Cork: Total pages: 1
+Monkstown, Cork Page 1: Found 9 listings
+💾 断点已保存（293/386 个区域，1630 条）
+========== Montenotte, Cork ==========
+https://www.daft.ie/property-for-sale/montenotte-cork
+Property for Sale in Montenotte, Cork | Daft.ie
+Montenotte, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/montenotte-cork
+Montenotte, Cork: __NEXT_DATA__ = 1
+Montenotte, Cork: Total pages: 1
+Montenotte, Cork Page 1: Found 16 listings
+💾 断点已保存（294/386 个区域，1631 条）
+========== Mount Uniacke, Cork ==========
+https://www.daft.ie/property-for-sale/mount-uniacke-cork
+Property for Sale in Mount Uniacke, Cork | Daft.ie
+Mount Uniacke, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mount-uniacke-cork
+Mount Uniacke, Cork: __NEXT_DATA__ = 1
+Mount Uniacke, Cork: Total pages: 1
+Mount Uniacke, Cork Page 1: Found 5 listings
+💾 断点已保存（295/386 个区域，1631 条）
+========== Mourn Abbey, Cork ==========
+https://www.daft.ie/property-for-sale/mourn-abbey-cork
+Property for Sale in Mourn Abbey, Cork | Daft.ie
+Mourn Abbey, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mourn-abbey-cork
+Mourn Abbey, Cork: __NEXT_DATA__ = 1
+Mourn Abbey, Cork: Total pages: 0
+💾 断点已保存（296/386 个区域，1631 条）
+========== Mourneabbey, Cork ==========
+https://www.daft.ie/property-for-sale/mourneabbey-cork
+Property for Sale in Mourneabbey, Cork | Daft.ie
+Mourneabbey, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/mourneabbey-cork
+Mourneabbey, Cork: __NEXT_DATA__ = 1
+Mourneabbey, Cork: Total pages: 1
+Mourneabbey, Cork Page 1: Found 4 listings
+💾 断点已保存（297/386 个区域，1633 条）
+========== Myrtleville, Cork ==========
+https://www.daft.ie/property-for-sale/myrtleville-cork
+Property for Sale in Myrtleville, Cork | Daft.ie
+Myrtleville, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/myrtleville-cork
+Myrtleville, Cork: __NEXT_DATA__ = 1
+Myrtleville, Cork: Total pages: 1
+Myrtleville, Cork Page 1: Found 15 listings
+💾 断点已保存（298/386 个区域，1633 条）
+========== Nad, Cork ==========
+https://www.daft.ie/property-for-sale/nad-cork
+Property for Sale in Nad, Cork | Daft.ie
+Nad, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/nad-cork
+Nad, Cork: __NEXT_DATA__ = 1
+Nad, Cork: Total pages: 1
+Nad, Cork Page 1: Found 5 listings
+💾 断点已保存（299/386 个区域，1633 条）
+========== Newcestown, Cork ==========
+https://www.daft.ie/property-for-sale/newcestown-cork
+Property for Sale in Newcestown, Cork | Daft.ie
+Newcestown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/newcestown-cork
+Newcestown, Cork: __NEXT_DATA__ = 1
+Newcestown, Cork: Total pages: 1
+Newcestown, Cork Page 1: Found 4 listings
+💾 断点已保存（300/386 个区域，1635 条）
+========== Newmarket, Cork ==========
+https://www.daft.ie/property-for-sale/newmarket-cork
+Property for Sale in Newmarket, Cork | Daft.ie
+Newmarket, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/newmarket-cork
+Newmarket, Cork: __NEXT_DATA__ = 1
+Newmarket, Cork: Total pages: 2
+Newmarket, Cork Page 1: Found 20 listings
+Page 2/2
+Newmarket, Cork Page 2: Found 1 listings
+💾 断点已保存（301/386 个区域，1651 条）
+========== Newtown, Cork ==========
+https://www.daft.ie/property-for-sale/newtown-cork
+Property for Sale in Newtown, Cork | Daft.ie
+Newtown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/newtown-cork
+Newtown, Cork: __NEXT_DATA__ = 1
+Newtown, Cork: Total pages: 1
+Newtown, Cork Page 1: Found 2 listings
+💾 断点已保存（302/386 个区域，1651 条）
+========== Newtownshandrum, Cork ==========
+https://www.daft.ie/property-for-sale/newtownshandrum-cork?__cf_chl_rt_tk=t.TocBT__TKzMFJaYJ5HUwtmv3CzoFSMxjkC2lIn9JM-1793309752-1.0.1.1-VT9wYfGJW1S.4AKydiWqXYoxMFadxEI1f4NU3LuQNzA
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Newtownshandrum, Cork | Daft.ie
+Newtownshandrum, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/newtownshandrum-cork
+Newtownshandrum, Cork: __NEXT_DATA__ = 1
+Newtownshandrum, Cork: Total pages: 1
+Newtownshandrum, Cork Page 1: Found 4 listings
+💾 断点已保存（303/386 个区域，1654 条）
+========== Newtwopothouse, Cork ==========
+https://www.daft.ie/property-for-sale/newtwopothouse-cork
+Property for Sale in Newtwopothouse, Cork | Daft.ie
+Newtwopothouse, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/newtwopothouse-cork
+Newtwopothouse, Cork: __NEXT_DATA__ = 1
+Newtwopothouse, Cork: Total pages: 0
+💾 断点已保存（304/386 个区域，1654 条）
+========== Nohoval, Cork ==========
+https://www.daft.ie/property-for-sale/nohoval-cork
+Property for Sale in Nohoval, Cork | Daft.ie
+Nohoval, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/nohoval-cork
+Nohoval, Cork: __NEXT_DATA__ = 1
+Nohoval, Cork: Total pages: 1
+Nohoval, Cork Page 1: Found 9 listings
+💾 断点已保存（305/386 个区域，1654 条）
+========== North Ring, Cork ==========
+https://www.daft.ie/property-for-sale/north-ring-cork
+Property for Sale in North Ring, Cork | Daft.ie
+North Ring, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/north-ring-cork
+North Ring, Cork: __NEXT_DATA__ = 1
+North Ring, Cork: Total pages: 1
+North Ring, Cork Page 1: Found 2 listings
+💾 断点已保存（306/386 个区域，1656 条）
+========== Old Court, Cork ==========
+https://www.daft.ie/property-for-sale/old-court-cork
+Property for Sale in Old Court, Cork | Daft.ie
+Old Court, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/old-court-cork
+Old Court, Cork: __NEXT_DATA__ = 1
+Old Court, Cork: Total pages: 1
+Old Court, Cork Page 1: Found 5 listings
+💾 断点已保存（307/386 个区域，1661 条）
+========== Old Head, Cork ==========
+https://www.daft.ie/property-for-sale/old-head-cork
+Property for Sale in Old Head, Cork | Daft.ie
+Old Head, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/old-head-cork
+Old Head, Cork: __NEXT_DATA__ = 1
+Old Head, Cork: Total pages: 1
+Old Head, Cork Page 1: Found 3 listings
+💾 断点已保存（308/386 个区域，1661 条）
+========== Old Twopoldouse, Cork ==========
+https://www.daft.ie/property-for-sale/old-twopoldouse-cork
+Property for Sale in Old Twopoldouse, Cork | Daft.ie
+Old Twopoldouse, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/old-twopoldouse-cork
+Old Twopoldouse, Cork: __NEXT_DATA__ = 1
+Old Twopoldouse, Cork: Total pages: 1
+Old Twopoldouse, Cork Page 1: Found 3 listings
+💾 断点已保存（309/386 个区域，1664 条）
+========== Ovens, Cork ==========
+https://www.daft.ie/property-for-sale/ovens-cork
+Property for Sale in Ovens, Cork | Daft.ie
+Ovens, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ovens-cork
+Ovens, Cork: __NEXT_DATA__ = 1
+Ovens, Cork: Total pages: 3
+Ovens, Cork Page 1: Found 20 listings
+Page 2/3
+Ovens, Cork Page 2: Found 20 listings
+Page 3/3
+Ovens, Cork Page 3: Found 2 listings
+💾 断点已保存（310/386 个区域，1665 条）
+========== Ownahincha, Cork ==========
+https://www.daft.ie/property-for-sale/ownahincha-cork
+Property for Sale in Ownahincha, Cork | Daft.ie
+Ownahincha, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ownahincha-cork
+Ownahincha, Cork: __NEXT_DATA__ = 1
+Ownahincha, Cork: Total pages: 1
+Ownahincha, Cork Page 1: Found 5 listings
+💾 断点已保存（311/386 个区域，1670 条）
+========== Oysterhaven, Cork ==========
+https://www.daft.ie/property-for-sale/oysterhaven-cork
+Property for Sale in Oysterhaven, Cork | Daft.ie
+Oysterhaven, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/oysterhaven-cork
+Oysterhaven, Cork: __NEXT_DATA__ = 1
+Oysterhaven, Cork: Total pages: 1
+Oysterhaven, Cork Page 1: Found 3 listings
+💾 断点已保存（312/386 个区域，1670 条）
+========== Passage West, Cork ==========
+https://www.daft.ie/property-for-sale/passage-west-cork
+Property for Sale in Passage West, Cork | Daft.ie
+Passage West, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/passage-west-cork
+Passage West, Cork: __NEXT_DATA__ = 1
+Passage West, Cork: Total pages: 2
+Passage West, Cork Page 1: Found 20 listings
+Page 2/2
+Passage West, Cork Page 2: Found 6 listings
+💾 断点已保存（313/386 个区域，1687 条）
+========== Peake, Cork ==========
+https://www.daft.ie/property-for-sale/peake-cork
+Property for Sale in Peake, Cork | Daft.ie
+Peake, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/peake-cork
+Peake, Cork: __NEXT_DATA__ = 1
+Peake, Cork: Total pages: 0
+💾 断点已保存（314/386 个区域，1687 条）
+========== Pouladuff, Cork ==========
+https://www.daft.ie/property-for-sale/pouladuff-cork?__cf_chl_rt_tk=T3TVE6ijWZV5RIO5YeY_ZlHvapUc48LATwwokgVBdfU-1793309864-1.0.1.1-l_QmeaFCpxygcbU5aQWlIThGej2S095Oc7YBilolp4M
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Pouladuff, Cork | Daft.ie
+Pouladuff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/pouladuff-cork
+Pouladuff, Cork: __NEXT_DATA__ = 1
+Pouladuff, Cork: Total pages: 1
+Pouladuff, Cork Page 1: Found 13 listings
+💾 断点已保存（315/386 个区域，1692 条）
+========== Raheen, Cork ==========
+https://www.daft.ie/property-for-sale/raheen-cork
+Property for Sale in Raheen, Cork | Daft.ie
+Raheen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/raheen-cork
+Raheen, Cork: __NEXT_DATA__ = 1
+Raheen, Cork: Total pages: 1
+Raheen, Cork Page 1: Found 6 listings
+💾 断点已保存（316/386 个区域，1692 条）
+========== Rath Luirc, Cork ==========
+https://www.daft.ie/property-for-sale/rath-luirc-cork
+Property for Sale in Rath Luirc, Cork | Daft.ie
+Rath Luirc, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rath-luirc-cork
+Rath Luirc, Cork: __NEXT_DATA__ = 1
+Rath Luirc, Cork: Total pages: 1
+Rath Luirc, Cork Page 1: Found 6 listings
+💾 断点已保存（317/386 个区域，1692 条）
+========== Rathcool, Cork ==========
+https://www.daft.ie/property-for-sale/rathcool-cork
+Property for Sale in Rathcool, Cork | Daft.ie
+Rathcool, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rathcool-cork
+Rathcool, Cork: __NEXT_DATA__ = 1
+Rathcool, Cork: Total pages: 1
+Rathcool, Cork Page 1: Found 5 listings
+💾 断点已保存（318/386 个区域，1692 条）
+========== Rathcormac, Cork ==========
+https://www.daft.ie/property-for-sale/rathcormac-cork
+Property for Sale in Rathcormac, Cork | Daft.ie
+Rathcormac, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rathcormac-cork
+Rathcormac, Cork: __NEXT_DATA__ = 1
+Rathcormac, Cork: Total pages: 1
+Rathcormac, Cork Page 1: Found 8 listings
+💾 断点已保存（319/386 个区域，1694 条）
+========== Rathduff, Cork ==========
+https://www.daft.ie/property-for-sale/rathduff-cork
+Property for Sale in Rathduff, Cork | Daft.ie
+Rathduff, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rathduff-cork
+Rathduff, Cork: __NEXT_DATA__ = 1
+Rathduff, Cork: Total pages: 1
+Rathduff, Cork Page 1: Found 3 listings
+💾 断点已保存（320/386 个区域，1694 条）
+========== Rathmacullig, Cork ==========
+https://www.daft.ie/property-for-sale/rathmacullig-cork
+Property for Sale in Rathmacullig, Cork | Daft.ie
+Rathmacullig, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rathmacullig-cork
+Rathmacullig, Cork: __NEXT_DATA__ = 1
+Rathmacullig, Cork: Total pages: 1
+Rathmacullig, Cork Page 1: Found 1 listings
+💾 断点已保存（321/386 个区域，1694 条）
+========== Rathpeacon, Cork ==========
+https://www.daft.ie/property-for-sale/rathpeacon-cork
+Property for Sale in Rathpeacon, Cork | Daft.ie
+Rathpeacon, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rathpeacon-cork
+Rathpeacon, Cork: __NEXT_DATA__ = 1
+Rathpeacon, Cork: Total pages: 0
+💾 断点已保存（322/386 个区域，1694 条）
+========== Reananeree, Cork ==========
+https://www.daft.ie/property-for-sale/reananeree-cork?__cf_chl_rt_tk=6NrCuGInOp.8NV6nO.viLNlGFn6AnCPmwLrOUsfoInk-1793309931-1.0.1.1-OgYYuCRBO1ASoklQMVm6vEzuXM2v267PEWrlACrxMGM
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Reananeree, Cork | Daft.ie
+Reananeree, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/reananeree-cork
+Reananeree, Cork: __NEXT_DATA__ = 1
+Reananeree, Cork: Total pages: 1
+Reananeree, Cork Page 1: Found 1 listings
+💾 断点已保存（323/386 个区域，1695 条）
+========== Reanascreena, Cork ==========
+https://www.daft.ie/property-for-sale/reanascreena-cork
+Property for Sale in Reanascreena, Cork | Daft.ie
+Reanascreena, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/reanascreena-cork
+Reanascreena, Cork: __NEXT_DATA__ = 1
+Reanascreena, Cork: Total pages: 1
+Reanascreena, Cork Page 1: Found 1 listings
+💾 断点已保存（324/386 个区域，1696 条）
+========== Rerrin, Cork ==========
+https://www.daft.ie/property-for-sale/rerrin-cork
+Property for Sale in Rerrin, Cork | Daft.ie
+Rerrin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rerrin-cork
+Rerrin, Cork: __NEXT_DATA__ = 1
+Rerrin, Cork: Total pages: 1
+Rerrin, Cork Page 1: Found 2 listings
+💾 断点已保存（325/386 个区域，1696 条）
+========== Ringaskiddy, Cork ==========
+https://www.daft.ie/property-for-sale/ringaskiddy-cork
+Property for Sale in Ringaskiddy, Cork | Daft.ie
+Ringaskiddy, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/ringaskiddy-cork
+Ringaskiddy, Cork: __NEXT_DATA__ = 1
+Ringaskiddy, Cork: Total pages: 1
+Ringaskiddy, Cork Page 1: Found 7 listings
+💾 断点已保存（326/386 个区域，1703 条）
+========== Rinneen, Cork ==========
+https://www.daft.ie/property-for-sale/rinneen-cork
+Property for Sale in Rinneen, Cork | Daft.ie
+Rinneen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rinneen-cork
+Rinneen, Cork: __NEXT_DATA__ = 1
+Rinneen, Cork: Total pages: 0
+💾 断点已保存（327/386 个区域，1703 条）
+========== Riverstick, Cork ==========
+https://www.daft.ie/property-for-sale/riverstick-cork
+Property for Sale in Riverstick, Cork | Daft.ie
+Riverstick, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/riverstick-cork
+Riverstick, Cork: __NEXT_DATA__ = 1
+Riverstick, Cork: Total pages: 1
+Riverstick, Cork Page 1: Found 4 listings
+💾 断点已保存（328/386 个区域，1703 条）
+========== Riverstown, Cork ==========
+https://www.daft.ie/property-for-sale/riverstown-cork
+Property for Sale in Riverstown, Cork | Daft.ie
+Riverstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/riverstown-cork
+Riverstown, Cork: __NEXT_DATA__ = 1
+Riverstown, Cork: Total pages: 1
+Riverstown, Cork Page 1: Found 14 listings
+💾 断点已保存（329/386 个区域，1703 条）
+========== Rochestown, Cork ==========
+https://www.daft.ie/property-for-sale/rochestown-cork
+Property for Sale in Rochestown, Cork | Daft.ie
+Rochestown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rochestown-cork
+Rochestown, Cork: __NEXT_DATA__ = 1
+Rochestown, Cork: Total pages: 3
+Rochestown, Cork Page 1: Found 20 listings
+Page 2/3
+Rochestown, Cork Page 2: Found 20 listings
+Page 3/3
+Rochestown, Cork Page 3: Found 2 listings
+💾 断点已保存（330/386 个区域，1703 条）
+========== Rockchapel, Cork ==========
+https://www.daft.ie/property-for-sale/rockchapel-cork
+Property for Sale in Rockchapel, Cork | Daft.ie
+Rockchapel, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rockchapel-cork
+Rockchapel, Cork: __NEXT_DATA__ = 1
+Rockchapel, Cork: Total pages: 1
+Rockchapel, Cork Page 1: Found 3 listings
+💾 断点已保存（331/386 个区域，1704 条）
+========== Rockmills, Cork ==========
+https://www.daft.ie/property-for-sale/rockmills-cork
+Property for Sale in Rockmills, Cork | Daft.ie
+Rockmills, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rockmills-cork
+Rockmills, Cork: __NEXT_DATA__ = 1
+Rockmills, Cork: Total pages: 0
+💾 断点已保存（332/386 个区域，1704 条）
+========== Rossbrin, Cork ==========
+https://www.daft.ie/property-for-sale/rossbrin-cork?__cf_chl_rt_tk=irLWOMfWvSEvVSoXM9Yy8SoDssmQD2a4VqnMWJnNvbw-1793310022-1.0.1.1-fQc8PfRJZMMewcI8rGVC5SCTyZnfnfeEbTZ7Cw6gjHc
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Rossbrin, Cork | Daft.ie
+Rossbrin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rossbrin-cork
+Rossbrin, Cork: __NEXT_DATA__ = 1
+Rossbrin, Cork: Total pages: 1
+Rossbrin, Cork Page 1: Found 3 listings
+💾 断点已保存（333/386 个区域，1704 条）
+========== Rosscarbery, Cork ==========
+https://www.daft.ie/property-for-sale/rosscarbery-cork
+Property for Sale in Rosscarbery, Cork | Daft.ie
+Rosscarbery, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rosscarbery-cork
+Rosscarbery, Cork: __NEXT_DATA__ = 1
+Rosscarbery, Cork: Total pages: 2
+Rosscarbery, Cork Page 1: Found 20 listings
+Page 2/2
+Rosscarbery, Cork Page 2: Found 1 listings
+💾 断点已保存（334/386 个区域，1709 条）
+========== Rossmore, Cork ==========
+https://www.daft.ie/property-for-sale/rossmore-cork
+Property for Sale in Rossmore, Cork | Daft.ie
+Rossmore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rossmore-cork
+Rossmore, Cork: __NEXT_DATA__ = 1
+Rossmore, Cork: Total pages: 1
+Rossmore, Cork Page 1: Found 5 listings
+💾 断点已保存（335/386 个区域，1709 条）
+========== Rostellan, Cork ==========
+https://www.daft.ie/property-for-sale/rostellan-cork
+Property for Sale in Rostellan, Cork | Daft.ie
+Rostellan, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rostellan-cork
+Rostellan, Cork: __NEXT_DATA__ = 1
+Rostellan, Cork: Total pages: 1
+Rostellan, Cork Page 1: Found 3 listings
+💾 断点已保存（336/386 个区域，1709 条）
+========== Rylane Cross, Cork ==========
+https://www.daft.ie/property-for-sale/rylane-cross-cork
+Property for Sale in Rylane Cross, Cork | Daft.ie
+Rylane Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rylane-cross-cork
+Rylane Cross, Cork: __NEXT_DATA__ = 1
+Rylane Cross, Cork: Total pages: 1
+Rylane Cross, Cork Page 1: Found 3 listings
+💾 断点已保存（337/386 个区域，1709 条）
+========== Rylane, Cork ==========
+https://www.daft.ie/property-for-sale/rylane-cork
+Property for Sale in Rylane, Cork | Daft.ie
+Rylane, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/rylane-cork
+Rylane, Cork: __NEXT_DATA__ = 1
+Rylane, Cork: Total pages: 1
+Rylane, Cork Page 1: Found 8 listings
+💾 断点已保存（338/386 个区域，1710 条）
+========== Saleen, Cork ==========
+https://www.daft.ie/property-for-sale/saleen-cork
+Property for Sale in Saleen, Cork | Daft.ie
+Saleen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/saleen-cork
+Saleen, Cork: __NEXT_DATA__ = 1
+Saleen, Cork: Total pages: 1
+Saleen, Cork Page 1: Found 3 listings
+💾 断点已保存（339/386 个区域，1710 条）
+========== Sallybrook, Cork ==========
+https://www.daft.ie/property-for-sale/sallybrook-cork
+Property for Sale in Sallybrook, Cork | Daft.ie
+Sallybrook, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/sallybrook-cork
+Sallybrook, Cork: __NEXT_DATA__ = 1
+Sallybrook, Cork: Total pages: 1
+Sallybrook, Cork Page 1: Found 2 listings
+💾 断点已保存（340/386 个区域，1710 条）
+========== Schull, Cork ==========
+https://www.daft.ie/property-for-sale/schull-cork
+Property for Sale in Schull, Cork | Daft.ie
+Schull, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/schull-cork
+Schull, Cork: __NEXT_DATA__ = 1
+Schull, Cork: Total pages: 2
+Schull, Cork Page 1: Found 20 listings
+Page 2/2
+Schull, Cork Page 2: Found 18 listings
+💾 断点已保存（341/386 个区域，1722 条）
+========== Shanagarry, Cork ==========
+https://www.daft.ie/property-for-sale/shanagarry-cork
+Property for Sale in Shanagarry, Cork | Daft.ie
+Shanagarry, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/shanagarry-cork
+Shanagarry, Cork: __NEXT_DATA__ = 1
+Shanagarry, Cork: Total pages: 1
+Shanagarry, Cork Page 1: Found 4 listings
+💾 断点已保存（342/386 个区域，1722 条）
+========== Shanakiel, Cork ==========
+https://www.daft.ie/property-for-sale/shanakiel-cork?__cf_chl_rt_tk=gn_5sMAPwHoZtrujEmRo1aYK_iYUZw_TRr_8l9hXmx0-1793310120-1.0.1.1-WAH_R2u8ZOo_qEUBlifBWuOBetVfgVG48UDdAHPR6Ho
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Shanakiel, Cork | Daft.ie
+Shanakiel, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/shanakiel-cork
+Shanakiel, Cork: __NEXT_DATA__ = 1
+Shanakiel, Cork: Total pages: 2
+Shanakiel, Cork Page 1: Found 20 listings
+Page 2/2
+Shanakiel, Cork Page 2: Found 4 listings
+💾 断点已保存（343/386 个区域，1733 条）
+========== Shanbally, Cork ==========
+https://www.daft.ie/property-for-sale/shanbally-cork
+Property for Sale in Shanbally, Cork | Daft.ie
+Shanbally, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/shanbally-cork
+Shanbally, Cork: __NEXT_DATA__ = 1
+Shanbally, Cork: Total pages: 1
+Shanbally, Cork Page 1: Found 14 listings
+💾 断点已保存（344/386 个区域，1733 条）
+========== Shanballymore, Cork ==========
+https://www.daft.ie/property-for-sale/shanballymore-cork
+Property for Sale in Shanballymore, Cork | Daft.ie
+Shanballymore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/shanballymore-cork
+Shanballymore, Cork: __NEXT_DATA__ = 1
+Shanballymore, Cork: Total pages: 1
+Shanballymore, Cork Page 1: Found 2 listings
+💾 断点已保存（345/386 个区域，1733 条）
+========== Shanlaragh, Cork ==========
+https://www.daft.ie/property-for-sale/shanlaragh-cork
+Property for Sale in Shanlaragh, Cork | Daft.ie
+Shanlaragh, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/shanlaragh-cork
+Shanlaragh, Cork: __NEXT_DATA__ = 1
+Shanlaragh, Cork: Total pages: 0
+💾 断点已保存（346/386 个区域，1733 条）
+========== Sherkin Island, Cork ==========
+https://www.daft.ie/property-for-sale/sherkin-island-cork
+Property for Sale in Sherkin Island, Cork | Daft.ie
+Sherkin Island, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/sherkin-island-cork
+Sherkin Island, Cork: __NEXT_DATA__ = 1
+Sherkin Island, Cork: Total pages: 1
+Sherkin Island, Cork Page 1: Found 2 listings
+💾 断点已保存（347/386 个区域，1733 条）
+========== Silversprings, Cork ==========
+https://www.daft.ie/property-for-sale/silversprings-cork
+Property for Sale in Silversprings, Cork | Daft.ie
+Silversprings, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/silversprings-cork
+Silversprings, Cork: __NEXT_DATA__ = 1
+Silversprings, Cork: Total pages: 1
+Silversprings, Cork Page 1: Found 10 listings
+💾 断点已保存（348/386 个区域，1733 条）
+========== Skibbereen, Cork ==========
+https://www.daft.ie/property-for-sale/skibbereen-cork
+Property for Sale in Skibbereen, Cork | Daft.ie
+Skibbereen, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/skibbereen-cork
+Skibbereen, Cork: __NEXT_DATA__ = 1
+Skibbereen, Cork: Total pages: 2
+Skibbereen, Cork Page 1: Found 20 listings
+Page 2/2
+Skibbereen, Cork Page 2: Found 6 listings
+💾 断点已保存（349/386 个区域，1751 条）
+========== Snave, Cork ==========
+https://www.daft.ie/property-for-sale/snave-cork
+Property for Sale in Snave, Cork | Daft.ie
+Snave, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/snave-cork
+Snave, Cork: __NEXT_DATA__ = 1
+Snave, Cork: Total pages: 1
+Snave, Cork Page 1: Found 2 listings
+💾 断点已保存（350/386 个区域，1751 条）
+========== Springmount, Cork ==========
+https://www.daft.ie/property-for-sale/springmount-cork
+Property for Sale in Springmount, Cork | Daft.ie
+Springmount, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/springmount-cork
+Springmount, Cork: __NEXT_DATA__ = 1
+Springmount, Cork: Total pages: 0
+💾 断点已保存（351/386 个区域，1751 条）
+========== St. Lukes, Cork ==========
+https://www.daft.ie/property-for-sale/st-lukes-cork
+Property for Sale in St. Lukes, Cork | Daft.ie
+St. Lukes, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/st-lukes-cork
+St. Lukes, Cork: __NEXT_DATA__ = 1
+St. Lukes, Cork: Total pages: 2
+St. Lukes, Cork Page 1: Found 20 listings
+Page 2/2
+St. Lukes, Cork Page 2: Found 16 listings
+💾 断点已保存（352/386 个区域，1759 条）
+========== Starch Hill, Cork ==========
+https://www.daft.ie/property-for-sale/starch-hill-cork?__cf_chl_rt_tk=AhnjCMMZx3z1_Q8khNC9t_DIf.w7C3RkXPjFVPl1eQk-1793310220-1.0.1.1-DMwUr_JgXolBG2fiaTs5CkOY5wEc3QMe3NCUQa_ZOv8
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Starch Hill, Cork | Daft.ie
+Starch Hill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/starch-hill-cork
+Starch Hill, Cork: __NEXT_DATA__ = 1
+Starch Hill, Cork: Total pages: 1
+Starch Hill, Cork Page 1: Found 10 listings
+💾 断点已保存（353/386 个区域，1759 条）
+========== Stickstown, Cork ==========
+https://www.daft.ie/property-for-sale/stickstown-cork
+Property for Sale in Stickstown, Cork | Daft.ie
+Stickstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/stickstown-cork
+Stickstown, Cork: __NEXT_DATA__ = 1
+Stickstown, Cork: Total pages: 1
+Stickstown, Cork Page 1: Found 3 listings
+💾 断点已保存（354/386 个区域，1759 条）
+========== Summercove, Cork ==========
+https://www.daft.ie/property-for-sale/summercove-cork
+Property for Sale in Summercove, Cork | Daft.ie
+Summercove, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/summercove-cork
+Summercove, Cork: __NEXT_DATA__ = 1
+Summercove, Cork: Total pages: 1
+Summercove, Cork Page 1: Found 2 listings
+💾 断点已保存（355/386 个区域，1759 条）
+========== Sunday's Well, Cork ==========
+https://www.daft.ie/property-for-sale/sunday-s-well-cork
+Property for Sale in Sunday's Well, Cork | Daft.ie
+Sunday's Well, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/sunday-s-well-cork
+Sunday's Well, Cork: __NEXT_DATA__ = 1
+Sunday's Well, Cork: Total pages: 2
+Sunday's Well, Cork Page 1: Found 20 listings
+Page 2/2
+Sunday's Well, Cork Page 2: Found 16 listings
+💾 断点已保存（356/386 个区域，1770 条）
+========== Tarvara, Cork ==========
+https://www.daft.ie/property-for-sale/tarvara-cork
+Property for Sale in Tarvara, Cork | Daft.ie
+Tarvara, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tarvara-cork
+Tarvara, Cork: __NEXT_DATA__ = 1
+Tarvara, Cork: Total pages: 1
+Tarvara, Cork Page 1: Found 2 listings
+💾 断点已保存（357/386 个区域，1770 条）
+========== Taur, Cork ==========
+https://www.daft.ie/property-for-sale/taur-cork
+Property for Sale in Taur, Cork | Daft.ie
+Taur, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/taur-cork
+Taur, Cork: __NEXT_DATA__ = 1
+Taur, Cork: Total pages: 1
+Taur, Cork Page 1: Found 2 listings
+💾 断点已保存（358/386 个区域，1770 条）
+========== Teerelton, Cork ==========
+https://www.daft.ie/property-for-sale/teerelton-cork
+Property for Sale in Teerelton, Cork | Daft.ie
+Teerelton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/teerelton-cork
+Teerelton, Cork: __NEXT_DATA__ = 1
+Teerelton, Cork: Total pages: 0
+💾 断点已保存（359/386 个区域，1770 条）
+========== Templehill, Cork ==========
+https://www.daft.ie/property-for-sale/templehill-cork?__cf_chl_rt_tk=VqhLedPELkRuktRA5TKOSmEflmWQs6ftKQYTT20QBiQ-1793310289-1.0.1.1-dj.WoEKkYAkMvpm4QlMOxcJAlSXiHju7pNkbGamTMmU
+Security Check | Daft
+Cloudflare challenge...
+After reload: Property for Sale in Templehill, Cork | Daft.ie
+Templehill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/templehill-cork
+Templehill, Cork: __NEXT_DATA__ = 1
+Templehill, Cork: Total pages: 1
+Templehill, Cork Page 1: Found 2 listings
+💾 断点已保存（360/386 个区域，1770 条）
+========== Templemartin, Cork ==========
+https://www.daft.ie/property-for-sale/templemartin-cork
+Property for Sale in Templemartin, Cork | Daft.ie
+Templemartin, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/templemartin-cork
+Templemartin, Cork: __NEXT_DATA__ = 1
+Templemartin, Cork: Total pages: 1
+Templemartin, Cork Page 1: Found 11 listings
+💾 断点已保存（361/386 个区域，1776 条）
+========== The Lough, Cork ==========
+https://www.daft.ie/property-for-sale/the-lough-cork
+Property for Sale in The Lough, Cork | Daft.ie
+The Lough, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/the-lough-cork
+The Lough, Cork: __NEXT_DATA__ = 1
+The Lough, Cork: Total pages: 1
+The Lough, Cork Page 1: Found 15 listings
+💾 断点已保存（362/386 个区域，1776 条）
+========== Timoleague, Cork ==========
+https://www.daft.ie/property-for-sale/timoleague-cork
+Property for Sale in Timoleague, Cork | Daft.ie
+Timoleague, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/timoleague-cork
+Timoleague, Cork: __NEXT_DATA__ = 1
+Timoleague, Cork: Total pages: 1
+Timoleague, Cork Page 1: Found 8 listings
+💾 断点已保存（363/386 个区域，1779 条）
+========== Tivoli, Cork ==========
+https://www.daft.ie/property-for-sale/tivoli-cork
+Property for Sale in Tivoli, Cork | Daft.ie
+Tivoli, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tivoli-cork
+Tivoli, Cork: __NEXT_DATA__ = 1
+Tivoli, Cork: Total pages: 1
+Tivoli, Cork Page 1: Found 19 listings
+💾 断点已保存（364/386 个区域，1779 条）
+========== Toames, Cork ==========
+https://www.daft.ie/property-for-sale/toames-cork
+Property for Sale in Toames, Cork | Daft.ie
+Toames, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/toames-cork
+Toames, Cork: __NEXT_DATA__ = 1
+Toames, Cork: Total pages: 1
+Toames, Cork Page 1: Found 5 listings
+💾 断点已保存（365/386 个区域，1783 条）
+========== Togher (Cork City), Cork ==========
+https://www.daft.ie/property-for-sale/togher-cork-city-cork
+Property for Sale in Togher (Cork City), Cork | Daft.ie
+Togher (Cork City), Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/togher-cork-city-cork
+Togher (Cork City), Cork: __NEXT_DATA__ = 1
+Togher (Cork City), Cork: Total pages: 1
+Togher (Cork City), Cork Page 1: Found 13 listings
+💾 断点已保存（366/386 个区域，1783 条）
+========== Togher, Cork ==========
+https://www.daft.ie/property-for-sale/togher-cork
+Property for Sale in Togher, Cork | Daft.ie
+Togher, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/togher-cork
+Togher, Cork: __NEXT_DATA__ = 1
+Togher, Cork: Total pages: 3
+Togher, Cork Page 1: Found 20 listings
+Page 2/3
+Togher, Cork Page 2: Found 20 listings
+Page 3/3
+Togher, Cork Page 3: Found 1 listings
+💾 断点已保存（367/386 个区域，1795 条）
+========== Toormore, Cork ==========
+https://www.daft.ie/property-for-sale/toormore-cork
+Property for Sale in Toormore, Cork | Daft.ie
+Toormore, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/toormore-cork
+Toormore, Cork: __NEXT_DATA__ = 1
+Toormore, Cork: Total pages: 1
+Toormore, Cork Page 1: Found 10 listings
+💾 断点已保存（368/386 个区域，1795 条）
+========== Tower, Cork ==========
+https://www.daft.ie/property-for-sale/tower-cork
+Property for Sale in Tower, Cork | Daft.ie
+Tower, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tower-cork
+Tower, Cork: __NEXT_DATA__ = 1
+Tower, Cork: Total pages: 1
+Tower, Cork Page 1: Found 7 listings
+💾 断点已保存（369/386 个区域，1795 条）
+========== Tracton, Cork ==========
+https://www.daft.ie/property-for-sale/tracton-cork
+Property for Sale in Tracton, Cork | Daft.ie
+Tracton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tracton-cork
+Tracton, Cork: __NEXT_DATA__ = 1
+Tracton, Cork: Total pages: 1
+Tracton, Cork Page 1: Found 2 listings
+💾 断点已保存（370/386 个区域，1795 条）
+========== Trafrask, Cork ==========
+https://www.daft.ie/property-for-sale/trafrask-cork
+Property for Sale in Trafrask, Cork | Daft.ie
+Trafrask, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/trafrask-cork
+Trafrask, Cork: __NEXT_DATA__ = 1
+Trafrask, Cork: Total pages: 1
+Trafrask, Cork Page 1: Found 5 listings
+💾 断点已保存（371/386 个区域，1795 条）
+========== Tragumna, Cork ==========
+https://www.daft.ie/property-for-sale/tragumna-cork
+Property for Sale in Tragumna, Cork | Daft.ie
+Tragumna, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tragumna-cork
+Tragumna, Cork: __NEXT_DATA__ = 1
+Tragumna, Cork: Total pages: 1
+Tragumna, Cork Page 1: Found 1 listings
+💾 断点已保存（372/386 个区域，1795 条）
+========== Tullylease, Cork ==========
+https://www.daft.ie/property-for-sale/tullylease-cork
+Property for Sale in Tullylease, Cork | Daft.ie
+Tullylease, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/tullylease-cork
+Tullylease, Cork: __NEXT_DATA__ = 1
+Tullylease, Cork: Total pages: 1
+Tullylease, Cork Page 1: Found 1 listings
+💾 断点已保存（373/386 个区域，1795 条）
+========== Turners Cross, Cork ==========
+https://www.daft.ie/property-for-sale/turners-cross-cork
+Property for Sale in Turners Cross, Cork | Daft.ie
+Turners Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/turners-cross-cork
+Turners Cross, Cork: __NEXT_DATA__ = 1
+Turners Cross, Cork: Total pages: 1
+Turners Cross, Cork Page 1: Found 19 listings
+💾 断点已保存（374/386 个区域，1802 条）
+========== Union Hall, Cork ==========
+https://www.daft.ie/property-for-sale/union-hall-cork
+Property for Sale in Union Hall, Cork | Daft.ie
+Union Hall, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/union-hall-cork
+Union Hall, Cork: __NEXT_DATA__ = 1
+Union Hall, Cork: Total pages: 1
+Union Hall, Cork Page 1: Found 13 listings
+💾 断点已保存（375/386 个区域，1805 条）
+========== Vicarstown, Cork ==========
+https://www.daft.ie/property-for-sale/vicarstown-cork
+Property for Sale in Vicarstown, Cork | Daft.ie
+Vicarstown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/vicarstown-cork
+Vicarstown, Cork: __NEXT_DATA__ = 1
+Vicarstown, Cork: Total pages: 1
+Vicarstown, Cork Page 1: Found 3 listings
+💾 断点已保存（376/386 个区域，1805 条）
+========== Victoria Cross, Cork ==========
+https://www.daft.ie/property-for-sale/victoria-cross-cork
+Property for Sale in Victoria Cross, Cork | Daft.ie
+Victoria Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/victoria-cross-cork
+Victoria Cross, Cork: __NEXT_DATA__ = 1
+Victoria Cross, Cork: Total pages: 1
+Victoria Cross, Cork Page 1: Found 6 listings
+💾 断点已保存（377/386 个区域，1805 条）
+========== Walshtown, Cork ==========
+https://www.daft.ie/property-for-sale/walshtown-cork
+Property for Sale in Walshtown, Cork | Daft.ie
+Walshtown, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/walshtown-cork
+Walshtown, Cork: __NEXT_DATA__ = 1
+Walshtown, Cork: Total pages: 1
+Walshtown, Cork Page 1: Found 1 listings
+💾 断点已保存（378/386 个区域，1805 条）
+========== Waterfall, Cork ==========
+https://www.daft.ie/property-for-sale/waterfall-cork
+Property for Sale in Waterfall, Cork | Daft.ie
+Waterfall, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/waterfall-cork
+Waterfall, Cork: __NEXT_DATA__ = 1
+Waterfall, Cork: Total pages: 1
+Waterfall, Cork Page 1: Found 19 listings
+💾 断点已保存（379/386 个区域，1806 条）
+========== Watergrasshill, Cork ==========
+https://www.daft.ie/property-for-sale/watergrasshill-cork
+Property for Sale in Watergrasshill, Cork | Daft.ie
+Watergrasshill, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/watergrasshill-cork
+Watergrasshill, Cork: __NEXT_DATA__ = 1
+Watergrasshill, Cork: Total pages: 2
+Watergrasshill, Cork Page 1: Found 20 listings
+Page 2/2
+Watergrasshill, Cork Page 2: Found 3 listings
+💾 断点已保存（380/386 个区域，1810 条）
+========== Western Road, Cork ==========
+https://www.daft.ie/property-for-sale/western-road-cork
+Property for Sale in Western Road, Cork | Daft.ie
+Western Road, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/western-road-cork
+Western Road, Cork: __NEXT_DATA__ = 1
+Western Road, Cork: Total pages: 1
+Western Road, Cork Page 1: Found 8 listings
+💾 断点已保存（381/386 个区域，1814 条）
+========== White's Cross, Cork ==========
+https://www.daft.ie/property-for-sale/white-s-cross-cork
+Property for Sale in White's Cross, Cork | Daft.ie
+White's Cross, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/white-s-cross-cork
+White's Cross, Cork: __NEXT_DATA__ = 1
+White's Cross, Cork: Total pages: 1
+White's Cross, Cork Page 1: Found 5 listings
+💾 断点已保存（382/386 个区域，1814 条）
+========== Whitechurch, Cork ==========
+https://www.daft.ie/property-for-sale/whitechurch-cork
+Property for Sale in Whitechurch, Cork | Daft.ie
+Whitechurch, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/whitechurch-cork
+Whitechurch, Cork: __NEXT_DATA__ = 1
+Whitechurch, Cork: Total pages: 1
+Whitechurch, Cork Page 1: Found 8 listings
+💾 断点已保存（383/386 个区域，1816 条）
+========== Whitegate, Cork ==========
+https://www.daft.ie/property-for-sale/whitegate-cork
+Property for Sale in Whitegate, Cork | Daft.ie
+Whitegate, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/whitegate-cork
+Whitegate, Cork: __NEXT_DATA__ = 1
+Whitegate, Cork: Total pages: 1
+Whitegate, Cork Page 1: Found 18 listings
+💾 断点已保存（384/386 个区域，1818 条）
+========== Wilton, Cork ==========
+https://www.daft.ie/property-for-sale/wilton-cork
+Property for Sale in Wilton, Cork | Daft.ie
+Wilton, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/wilton-cork
+Wilton, Cork: __NEXT_DATA__ = 1
+Wilton, Cork: Total pages: 2
+Wilton, Cork Page 1: Found 20 listings
+Page 2/2
+Wilton, Cork Page 2: Found 15 listings
+💾 断点已保存（385/386 个区域，1818 条）
+========== Youghal, Cork ==========
+https://www.daft.ie/property-for-sale/youghal-cork
+Property for Sale in Youghal, Cork | Daft.ie
+Youghal, Cork loaded.
+Current URL: https://www.daft.ie/property-for-sale/youghal-cork
+Youghal, Cork: __NEXT_DATA__ = 1
+Youghal, Cork: Total pages: 3
+Youghal, Cork Page 1: Found 20 listings
+Page 2/3
+Youghal, Cork Page 2: Found 20 listings
+Page 3/3
+Page 3 retry 1/3
+Youghal, Cork Page 3: Found 16 listings
+💾 断点已保存（386/386 个区域，1874 条）
+✔ 结果检查通过：有数据区域 386/386，房源 1874 条
+✔ daft-sale-cork.json: 本轮覆盖 386/386 个区域（完整），写入 1874 条，保留未覆盖区域旧数据 0 条
 Area Statistics:
-Dublin 11, Dublin: 131
-Dublin 12, Dublin: 202
-Dublin 13, Dublin: 207
-Dublin 14, Dublin: 145
-Dublin 15, Dublin: 321
-Dublin 16, Dublin: 113
-Dublin 17, Dublin: 41
-Dublin 18, Dublin: 268
-Dublin 20, Dublin: 36
-Dublin 22, Dublin: 117
-Dublin 24, Dublin: 216
-Dublin 6W, Dublin: 86
+Adrigole, Cork: 12
+Aghabullogue, Cork: 4
+Aghada, Cork: 10
+Aghaville, Cork: 1
+Ahakista, Cork: 12
+Aherla, Cork: 4
+Allihies, Cork: 7
+Araglin, Cork: 1
+Ardfield, Cork: 2
+Ardgehane, Cork: 1
+Ardglass, Cork: 0
+Ardgroom, Cork: 3
+Ashton, Cork: 4
+Ballinadee, Cork: 2
+Ballinascarty, Cork: 0
+Ballinclashet, Cork: 3
+Ballincollig, Cork: 73
+Ballincrokig, Cork: 1
+Ballincurrig, Cork: 1
+Ballineen, Cork: 13
+Ballingeary, Cork: 2
+Ballingurteen, Cork: 3
+Ballinhassig, Cork: 19
+Ballinlough, Cork: 34
+Ballinluska, Cork: 7
+Ballinora, Cork: 0
+Ballinrea, Cork: 8
+Ballinspittle, Cork: 10
+Ballintemple, Cork: 21
+Ballinure, Cork: 1
+Ballinveiltig, Cork: 7
+Ballinvoultig, Cork: 1
+Ballinvrinsig, Cork: 1
+Ballinvuskig, Cork: 1
+Ballyburden, Cork: 1
+Ballyclough, Cork: 1
+Ballycotton, Cork: 8
+Ballydehob, Cork: 13
+Ballydesmond, Cork: 7
+Ballydonegan, Cork: 2
+Ballyfeard, Cork: 11
+Ballygarvan, Cork: 8
+Ballyhooly, Cork: 7
+Ballylickey, Cork: 4
+Ballymacoda, Cork: 10
+Ballymadog, Cork: 1
+Ballymakeagh, Cork: 3
+Ballymakeera, Cork: 4
+Ballymartle, Cork: 3
+Ballynacallagh, Cork: 3
+Ballynacarriga, Cork: 2
+Ballynacorra, Cork: 10
+Ballynagree, Cork: 3
+Ballynamona, Cork: 0
+Ballynoe, Cork: 5
+Ballyphehane, Cork: 8
+Ballyroon, Cork: 3
+Ballyvoge, Cork: 1
+Ballyvolane, Cork: 54
+Ballyvourney, Cork: 6
+Baltimore, Cork: 21
+Bandon, Cork: 58
+Banduff, Cork: 0
+Banteer, Cork: 15
+Bantry, Cork: 21
+Barley Cove, Cork: 7
+Barnavara, Cork: 2
+Bartlemy, Cork: 3
+Bealad Cross Roads, Cork: 4
+Bealnablath, Cork: 1
+Beara, Cork: 68
+Beennaskehy, Cork: 1
+Belgooly, Cork: 11
+Belvelly, Cork: 2
+Bere Island, Cork: 3
+Berrings, Cork: 4
+Bishopstown, Cork: 40
+Blackpool, Cork: 27
+Blackrock, Cork: 65
+Blarney, Cork: 25
+Blueford, Cork: 1
+Boherbue, Cork: 8
+Bridebridge, Cork: 1
+Britway, Cork: 1
+Burnfort, Cork: 3
+Butlerstown, Cork: 3
+Buttevant, Cork: 4
+Bweeng, Cork: 8
+Caheragh, Cork: 4
+Caherbarnagh, Cork: 0
+Cahermore, Cork: 4
+Cape Clear, Cork: 0
+Cappeen, Cork: 5
+Carrig, Cork: 1
+Carrigadrohid, Cork: 0
+Carrigagulla, Cork: 3
+Carrigaline, Cork: 48
+Carrignavar, Cork: 7
+Carrigrohane, Cork: 50
+Carrigtwohill, Cork: 14
+Castlecor, Cork: 2
+Castlefreke, Cork: 1
+Castlelyons, Cork: 9
+Castlemagner, Cork: 1
+Castlemartyr, Cork: 14
+Castletown, Cork: 16
+Castletownbere, Cork: 17
+Castletownroche, Cork: 11
+Castletownshend, Cork: 11
+Cecilstown, Cork: 3
+Charleville, Cork: 15
+Church Cross, Cork: 6
+Churchfield, Cork: 2
+Churchtown, Cork: 2
+Clash, Cork: 10
+Clogheen, Cork: 5
+Clogheenmilcon, Cork: 0
+Cloghroe, Cork: 6
+Clonakilty, Cork: 15
+Clondrohid, Cork: 5
+Clondulane, Cork: 0
+Clonmult, Cork: 0
+Cloughduv, Cork: 3
+Cloyne, Cork: 25
+Coachford, Cork: 10
+Cobh, Cork: 47
+Conna, Cork: 5
+Connonagh, Cork: 8
+Coole Abbey, Cork: 1
+Coolkelure, Cork: 0
+Coolyduff, Cork: 0
+Coolymurraghue, Cork: 3
+Coomhola, Cork: 1
+Corbally, Cork: 0
+Courtmacsherry, Cork: 7
+Crookhaven, Cork: 11
+Crookstown, Cork: 6
+Crossbarry, Cork: 5
+Crosshaven, Cork: 27
+Cullen, Cork: 7
+Currabinny, Cork: 3
+Curraglass, Cork: 0
+Curraheen, Cork: 7
+Curryglass, Cork: 1
+Cusduff, Cork: 3
+Dangan, Cork: 2
+Deelish, Cork: 5
+Dernagree, Cork: 2
+Derreeny, Cork: 1
+Dillons Cross, Cork: 19
+Doneraile, Cork: 5
+Donnybrook, Cork: 6
+Donoughmore, Cork: 6
+Dough, Cork: 7
+Doughcloyne, Cork: 7
+Douglas, Cork: 121
+Drimoleague, Cork: 15
+Drinagh, Cork: 5
+Dripsey, Cork: 8
+Dromahane, Cork: 8
+Dromasmole, Cork: 4
+Dromin, Cork: 2
+Dromina, Cork: 5
+Dublin Pike, Cork: 2
+Dunderrow, Cork: 2
+Dungourney, Cork: 6
+Dunmanus, Cork: 2
+Dunmanway, Cork: 19
+Dunworly, Cork: 1
+Durrus, Cork: 20
+East Ferry, Cork: 2
+Enniskeane, Cork: 17
+Eyeries, Cork: 9
+Fairhill, Cork: 10
+Farahy, Cork: 0
+Farmers Cross, Cork: 17
+Farnanes, Cork: 6
+Farran, Cork: 10
+Farranree, Cork: 8
+Fermoy, Cork: 22
+Firkeel, Cork: 3
+Fivemilebridge, Cork: 7
+Fota, Cork: 1
+Fountainstown, Cork: 2
+Frankfield, Cork: 12
+Freemount, Cork: 1
+Garrane, Cork: 3
+Garravagh, Cork: 0
+Garrettstown, Cork: 8
+Garryvoe, Cork: 8
+Gawsworth, Cork: 2
+Gerahies, Cork: 9
+Glandore, Cork: 12
+Glanmire, Cork: 18
+Glantane, Cork: 0
+Glanworth, Cork: 1
+Glasheen, Cork: 36
+Glenbrook, Cork: 6
+Glengarriff, Cork: 22
+Glenville, Cork: 4
+Glounthaune, Cork: 18
+Goleen, Cork: 25
+Gortaroo, Cork: 6
+Gortgarriff, Cork: 0
+Gouladoo, Cork: 11
+Grange, Cork: 9
+Greenfield, Cork: 18
+Grenagh, Cork: 10
+Gurranabraher, Cork: 11
+Gyleen, Cork: 2
+Halfway, Cork: 1
+Heir Island, Cork: 2
+Hollyhill, Cork: 6
+Inch, Cork: 2
+Inchigeelagh, Cork: 2
+Inishcarra, Cork: 3
+Inniscarra, Cork: 13
+Innishannon, Cork: 16
+Kanturk, Cork: 21
+Kealkill, Cork: 6
+Kerry Pike, Cork: 12
+Kilbarry, Cork: 3
+Kilbrin, Cork: 1
+Kilbrittain, Cork: 14
+Kilcolman, Cork: 0
+Kilcredan, Cork: 5
+Kilcrohane, Cork: 15
+Kilcully, Cork: 0
+Kildinan, Cork: 5
+Kildorrery, Cork: 1
+Killaclug, Cork: 1
+Killavullen, Cork: 7
+Killeagh, Cork: 13
+Killeens, Cork: 2
+Killumney, Cork: 10
+Kilmichael, Cork: 2
+Kilmona, Cork: 1
+Kilmoon, Cork: 2
+Kilmurry, Cork: 1
+Kilnap, Cork: 0
+Kilpatrick, Cork: 2
+Kilworth Camp, Cork: 5
+Kilworth, Cork: 7
+Kinsale, Cork: 64
+Kishkeam, Cork: 4
+Knockanevin, Cork: 2
+Knockaunalour, Cork: 0
+Knockburden, Cork: 1
+Knockmourne, Cork: 1
+Knocknagree, Cork: 8
+Knocknaheeny, Cork: 1
+Knocknahilan, Cork: 0
+Knockraha, Cork: 9
+Knocks, Cork: 0
+Knockskagh, Cork: 0
+Knuttery, Cork: 2
+Lackareagh, Cork: 3
+Lackenshoneen, Cork: 2
+Ladysbridge, Cork: 6
+Leamlara, Cork: 3
+Leap, Cork: 13
+Lehenaghbeg, Cork: 13
+Lehenaghmore, Cork: 9
+Liscarrol, Cork: 3
+Lisgoold, Cork: 2
+Lispatrick, Cork: 3
+Lissamona, Cork: 0
+Lissarda, Cork: 5
+Lissavaird, Cork: 1
+Little Island, Cork: 12
+Lombardstown, Cork: 2
+Lota, Cork: 2
+Lowertown, Cork: 6
+Lyre, Cork: 2
+Macroom, Cork: 14
+Maglin, Cork: 2
+Mahon, Cork: 2
+Mallow, Cork: 43
+Matehy, Cork: 3
+Mayfield, Cork: 27
+Meelin, Cork: 2
+Midleton, Cork: 63
+Milford, Cork: 6
+Milleen, Cork: 1
+Millstreet, Cork: 21
+Minane Bridge, Cork: 18
+Mitchelstown, Cork: 10
+Model Farm Road, Cork: 26
+Model Village, Cork: 2
+Mogeely, Cork: 4
+Monard, Cork: 0
+Moneyflugh, Cork: 0
+Monkstown, Cork: 9
+Montenotte, Cork: 16
+Mount Uniacke, Cork: 5
+Mourn Abbey, Cork: 0
+Mourneabbey, Cork: 4
+Myrtleville, Cork: 15
+Nad, Cork: 5
+Newcestown, Cork: 4
+Newmarket, Cork: 21
+Newtown, Cork: 2
+Newtownshandrum, Cork: 4
+Newtwopothouse, Cork: 0
+Nohoval, Cork: 9
+North Ring, Cork: 2
+Old Court, Cork: 5
+Old Head, Cork: 3
+Old Twopoldouse, Cork: 3
+Ovens, Cork: 42
+Ownahincha, Cork: 5
+Oysterhaven, Cork: 3
+Passage West, Cork: 26
+Peake, Cork: 0
+Pouladuff, Cork: 13
+Raheen, Cork: 6
+Rath Luirc, Cork: 6
+Rathcool, Cork: 5
+Rathcormac, Cork: 8
+Rathduff, Cork: 3
+Rathmacullig, Cork: 1
+Rathpeacon, Cork: 0
+Reananeree, Cork: 1
+Reanascreena, Cork: 1
+Rerrin, Cork: 2
+Ringaskiddy, Cork: 7
+Rinneen, Cork: 0
+Riverstick, Cork: 4
+Riverstown, Cork: 14
+Rochestown, Cork: 42
+Rockchapel, Cork: 3
+Rockmills, Cork: 0
+Rossbrin, Cork: 3
+Rosscarbery, Cork: 21
+Rossmore, Cork: 5
+Rostellan, Cork: 3
+Rylane Cross, Cork: 3
+Rylane, Cork: 8
+Saleen, Cork: 3
+Sallybrook, Cork: 2
+Schull, Cork: 38
+Shanagarry, Cork: 4
+Shanakiel, Cork: 24
+Shanbally, Cork: 14
+Shanballymore, Cork: 2
+Shanlaragh, Cork: 0
+Sherkin Island, Cork: 2
+Silversprings, Cork: 10
+Skibbereen, Cork: 26
+Snave, Cork: 2
+Springmount, Cork: 0
+St. Lukes, Cork: 36
+Starch Hill, Cork: 10
+Stickstown, Cork: 3
+Summercove, Cork: 2
+Sunday's Well, Cork: 36
+Tarvara, Cork: 2
+Taur, Cork: 2
+Teerelton, Cork: 0
+Templehill, Cork: 2
+Templemartin, Cork: 11
+The Lough, Cork: 15
+Timoleague, Cork: 8
+Tivoli, Cork: 19
+Toames, Cork: 5
+Togher (Cork City), Cork: 13
+Togher, Cork: 41
+Toormore, Cork: 10
+Tower, Cork: 7
+Tracton, Cork: 2
+Trafrask, Cork: 5
+Tragumna, Cork: 1
+Tullylease, Cork: 1
+Turners Cross, Cork: 19
+Union Hall, Cork: 13
+Vicarstown, Cork: 3
+Victoria Cross, Cork: 6
+Walshtown, Cork: 1
+Waterfall, Cork: 19
+Watergrasshill, Cork: 23
+Western Road, Cork: 8
+White's Cross, Cork: 5
+Whitechurch, Cork: 8
+Whitegate, Cork: 18
+Wilton, Cork: 35
+Youghal, Cork: 56
 ========== Summary ==========
 
-Elapsed: 23m 2s
-Average: 13.68 sec/page
+Elapsed: 57m 17s
+Average: 8.26 sec/page
 
-Areas: 12
-Pages crawled: 101
-Empty areas: 0
-Total listings: 1883
-Duplicates removed: 31
-Unique properties: 1852
-✔ Saved 1852 properties
-📄 data/daft/sale/daft-sale-dublin2.json
-📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-dublin2.json
-✔ crawl-summary-sale-dublin2.json updated
+Areas: 386
+Pages crawled: 416
+Empty areas: 38
+Total listings: 3485
+Duplicates removed: 1611
+Unique properties: 1874
+✔ Saved 1874 properties
+📄 data/daft/sale/daft-sale-cork.json
+📄 /home/runner/work/tools/tools/data/daft/sale/crawl-summary-sale-cork.json
+✔ crawl-summary-sale-cork.json updated
 ✔ 断点已清除
 ✔ 整组完成：已写完成标记（后面几轮会自动跳过）
 All pages completed successfully.
