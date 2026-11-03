@@ -16,21 +16,21 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 ----- 换 WARP 身份（重新注册，换出口 IP）-----
 [Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8c79:9f8:278:5ca3:90b3/128
+Address = 172.16.0.2/32, 2606:4700:110:8d95:666:bddb:619e:c9ce/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
 Endpoint = engage.cloudflareclient.com:2408
 新身份配置就绪
------ 尝试 2（已用 10s，身份=新）-----
+----- 尝试 2（已用 9s，身份=新）-----
 Warning: `/tmp/warpcfg.conf' is world accessible
 /usr/bin/wg-quick: line 40: /tmp/warpcfg.conf: Permission denied
 wg-quick 失败 → 手工配置
@@ -38,8 +38,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -51,8 +51,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -64,16 +64,16 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
 --- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.157 metric 100 
+default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.92 metric 100 
 --- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.157 uid 1001 
+162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.92 uid 1001 
 --- daft 解析 ---
 172.66.160.92   STREAM www.daft.ie
 172.66.160.92   DGRAM  
@@ -95,21 +95,21 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 ----- 换 WARP 身份（重新注册，换出口 IP）-----
 [Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8b2b:3dd5:ddf5:1f43:23d5/128
+Address = 172.16.0.2/32, 2606:4700:110:83b4:fa09:2ea2:d0de:60d5/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 AllowedIPs = 173.245.48.0/20,103.21.244.0/22,103.22.200.0/22,103.31.4.0/22,141.101.64.0/18,108.162.192.0/18,190.93.240.0/20,188.114.96.0/20,197.234.240.0/22,198.41.128.0/17,162.158.0.0/15,104.16.0.0/13,104.24.0.0/14,172.64.0.0/13,131.0.72.0/22
 Endpoint = engage.cloudflareclient.com:2408
 新身份配置就绪
------ 尝试 2（已用 10s，身份=新）-----
+----- 尝试 2（已用 9s，身份=新）-----
 Warning: `/tmp/warpcfg.conf' is world accessible
 /usr/bin/wg-quick: line 40: /tmp/warpcfg.conf: Permission denied
 wg-quick 失败 → 手工配置
@@ -117,8 +117,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -130,12 +130,12 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
------ 尝试 4（已用 21s，身份=新）-----
+----- 尝试 4（已用 20s，身份=新）-----
 Warning: `/tmp/warpcfg.conf' is world accessible
 /usr/bin/wg-quick: line 40: /tmp/warpcfg.conf: Permission denied
 wg-quick 失败 → 手工配置
@@ -143,16 +143,16 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=68.154.115.178
-trace: warp=off ip=68.154.115.178
+trace: warp=off ip=172.169.253.230
+trace: warp=off ip=172.169.253.230
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
 --- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.157 metric 100 
+default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.92 metric 100 
 --- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.157 uid 1001 
+162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.92 uid 1001 
 --- daft 解析 ---
 172.66.160.92   STREAM www.daft.ie
 172.66.160.92   DGRAM  
