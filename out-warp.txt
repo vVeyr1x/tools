@@ -16,14 +16,14 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 ----- 换 WARP 身份（重新注册，换出口 IP）-----
 [Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8104:1731:d8d:dbf:ea7a/128
+Address = 172.16.0.2/32, 2606:4700:110:891f:b951:6bda:1860:7621/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
@@ -38,8 +38,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -51,8 +51,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -64,16 +64,16 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
 --- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.0.184 metric 100 
+default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.129 metric 100 
 --- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.184 uid 1001 
+162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.129 uid 1001 
 --- daft 解析 ---
 172.66.160.92   STREAM www.daft.ie
 172.66.160.92   DGRAM  
@@ -95,14 +95,14 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 ----- 换 WARP 身份（重新注册，换出口 IP）-----
 [Interface]
-Address = 172.16.0.2/32, 2606:4700:110:8cbe:8a4e:28a8:175b:6ac0/128
+Address = 172.16.0.2/32, 2606:4700:110:875f:f43f:b15a:738e:aee3/128
 MTU = 1280
 [Peer]
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
@@ -117,8 +117,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -130,8 +130,8 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
@@ -143,16 +143,16 @@ wg-quick 失败 → 手工配置
 fopen: Permission denied
 手工配置失败
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
-trace: warp=off ip=4.249.18.246
-trace: warp=off ip=4.249.18.246
+trace: warp=off ip=20.102.95.56
+trace: warp=off ip=20.102.95.56
 （trace 未报 warp=on，仍以 daft 为准）
 daft 拿到的是挑战页/空页 ✗（116798 字节，出口被 Cloudflare 挡了）
 出口被挡 → 换新身份重来
 FATAL: WARP 出口取不到 daft 真页面（尝试 4 次）
 --- 默认路由 ---
-default via 10.1.0.1 dev eth0 proto dhcp src 10.1.0.184 metric 100 
+default via 10.1.0.1 dev eth0 proto dhcp src 10.1.1.129 metric 100 
 --- 端点走哪条路由 ---
-162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.0.184 uid 1001 
+162.159.192.1 via 10.1.0.1 dev eth0 src 10.1.1.129 uid 1001 
 --- daft 解析 ---
 172.66.160.92   STREAM www.daft.ie
 172.66.160.92   DGRAM  
