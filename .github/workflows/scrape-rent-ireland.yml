@@ -114,8 +114,9 @@ jobs:
 
           git commit -m "Progress checkpoint Rent - Ireland"
           for i in 1 2 3; do
+            case $i in 1) s=5 ;; 2) s=15 ;; *) s=30 ;; esac
             if git pull --rebase --autostash origin main && git push; then echo "断点已提交"; exit 0; fi
-            echo "断点推送第 ${i} 次失败，5 秒后重试"; sleep 5
+            echo "断点推送第 ${i} 次失败，${s} 秒后重试"; sleep $s
           done
           echo "::warning::断点提交失败（不影响本次抓取结果）"
 
@@ -142,10 +143,22 @@ jobs:
 
           ok=0
           for i in 1 2 3; do
+            case $i in 1) s=5 ;; 2) s=15 ;; *) s=30 ;; esac
             if git pull --rebase --autostash origin main && git push; then ok=1; break; fi
-            echo "推送第 ${i} 次失败，5 秒后重试"; sleep 5
+            echo "推送第 ${i} 次失败，${s} 秒后重试"; sleep $s
           done
-          [ "$ok" = "1" ] || { echo "::error::推送失败"; exit 1; }
+
+          # 主分支推送失败 → 把本轮数据推到救援分支，避免整轮抓取白跑
+          if [ "$ok" != "1" ]; then
+            ts=$(date -u +%Y%m%dT%H%M%SZ)
+            rescue="data-rescue/rent-ireland-$ts"
+            if git push --force origin "HEAD:refs/heads/$rescue"; then
+              echo "::error::main 推送失败，本轮数据已备份到分支 ${rescue}（补推：git fetch origin ${rescue}，再 cherry-pick 到 main）"
+            else
+              echo "::error::main 与救援分支 ${rescue} 均推送失败"
+            fi
+            exit 1
+          fi
 
       - name: 收尾（日志推到 logs 分支，便于排查）
         if: always()
