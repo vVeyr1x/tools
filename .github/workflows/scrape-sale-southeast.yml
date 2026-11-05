@@ -36,8 +36,14 @@ jobs:
         run: timeout -k 10 300 npm install --no-audit --no-fund
 
       - name: Install Playwright (chromium + 系统依赖)
-        timeout-minutes: 10
-        run: timeout -k 10 480 npx playwright install --with-deps chromium
+        timeout-minutes: 18
+        run: |
+          # apt 镜像加固：azure 镜像夜间常掉速（21.9MB 字体包能拖 8 分钟以上 → exit 124）
+          # 换回官方源 + 自动重试，并把外层 timeout 从 480s 放宽到 900s
+          sudo sed -i 's#http://azure.archive.ubuntu.com/ubuntu#http://archive.ubuntu.com/ubuntu#g' /etc/apt/apt-mirrors.txt 2>/dev/null || true
+          echo 'Acquire::Retries "5";' | sudo tee /etc/apt/apt.conf.d/99ci-retries >/dev/null
+          echo 'Acquire::http::Timeout "30";' | sudo tee -a /etc/apt/apt.conf.d/99ci-retries >/dev/null
+          timeout -k 10 900 npx playwright install --with-deps chromium
 
       - name: 建立 WARP 出口（绕过 daft 对云端 ASN 的 Cloudflare 拦截）
         timeout-minutes: 10
