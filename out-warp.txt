@@ -53,7 +53,7 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 wg-quick up 成功
 端点直连路由：1 条（engage.cloudflareclient.com → 10.1.0.1）
 trace: warp=on ip=104.28.210.137
-daft 真页面 ✓（3281319 字节）
+daft 真页面 ✓（3232155 字节）
 runner 自身连通性：200
 warmup 1 -> 200
 warmup 2 -> 200
